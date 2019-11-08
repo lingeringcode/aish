@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>As it So Happens: Recent Articles</title>
+  <meta name="viewport" content="initial-scale=1.0" />
+  <meta name="author" content="Chris Lindgren" />
+
+  <link rel="stylesheet" href="https://use.typekit.net/hqg0trp.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="./js/jstoc.js"></script>
+</head>
+<body onload="generateTOC(document.getElementById('toc'));">
+  <main class="container articles-page">
+    <header>
+      <h1>As It So Happens</h1>
+      <p>Feeding the world new articles in Rhetoric & Writing, Composition Studies, Technical Communication, and adjacent disciplines.</p>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="index.htm">Journals</a>
+        </li>
+        <li>
+          <a href="about.htm">About</a>
+        </li>
+      </ul>
+    </nav>
+    <article id="journals">
+      <aside>
+        <div id="toc"></div>
+      </aside>
+      <div>
+        <section id="wc">
+          <h2>Written Communication</h2>
+          <div id="articles-wc"></div>
+        </section>
+        <section id="tcq">
+          <h2>Technical Communication Quarterly</h2>
+          <div id="articles-tcq"></div>
+        </section>
+        <section id="jbtc">
+          <h2>Journal of Business and Technical Communication</h2>
+          <div id="articles-jbtc"></div>
+        </section>
+        <section id="jtwc">
+          <h2>Journal of Technical Writing and Communication</h2>
+          <div id="articles-jtwc"></div>
+        </section>
+        <section id="rsq">
+          <h2>Rhetoric Society Quarterly</h2>
+          <div id="articles-rsq"></div>
+        </section>
+        <section id="rr">
+          <h2>Rhetoric Review</h2>
+          <div id="articles-rr"></div>
+        </section>
+        <section id="nms">
+          <h2>New Media &amp; Society</h2>
+          <div id="articles-nms"></div>
+        </section>
+      </div>
+    </article>
+  </main>
+  <script type="text/javascript" src="js/parser.js"></script>
+  <script type="text/javascript" src="js/writer.js"></script>
+</body>
+</html>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>SAGE Publications Inc: Journal of Technical Writing and Communication: Table of Contents</title>
+      <description>Table of Contents for Journal of Technical Writing and Communication. List of articles from both the latest and ahead of print issues.</description>
+      <dc:title>SAGE Publications Inc: Journal of Technical Writing and Communication: Table of Contents</dc:title>
+      <dc:publisher>SAGE Publications Inc</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>Journal of Technical Writing and Communication</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619871213?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619871212?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619871218?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619871211?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619873139?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619865154?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619853266?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2019/jtwa_49_4/jtwa_49_4/20190906-01/jtwa_49_4.cover.png">
+      <title>Journal of Technical Writing and Communication</title>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2019/jtwa_49_4/jtwa_49_4/20190906-01/jtwa_49_4.cover.png</url>
+      <link>https://journals.sagepub.com/loi/jtwa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+   </image>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619871213?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The Cultural Context for Communicating Care</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619871213?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, Page 367-382, October 2019. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 49, Issue 4, Page 367-382, October 2019. &lt;br/&gt;</description>
+      <dc:title>The Cultural Context for Communicating Care</dc:title>
+      <dc:identifier>doi:10.1177/0047281619871213</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-09-06T04:40:55Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Kirk St.Amant</dc:creator>
+      <prism:publicationName>The Cultural Context for Communicating Care</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>367</prism:startingPage>
+      <prism:endingPage>382</prism:endingPage>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281619871213</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619871213?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619871212?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Rethinking Person-Centeredness: Contestations of Disability, Care, and Culture at the Social Service Application Interface</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619871212?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, Page 383-410, October 2019. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 49, Issue 4, Page 383-410, October 2019. &lt;br/&gt;</description>
+      <dc:title>Rethinking Person-Centeredness: Contestations of Disability, Care, and Culture at the Social Service Application Interface</dc:title>
+      <dc:identifier>doi:10.1177/0047281619871212</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-09-06T04:40:54Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Kari Campeau</dc:creator>
+      <prism:publicationName>Rethinking Person-Centeredness: Contestations of Disability, Care, and Culture at the Social Service Application Interface</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>383</prism:startingPage>
+      <prism:endingPage>410</prism:endingPage>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281619871212</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619871212?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619871218?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Constructing a Cultural Logic From a Swedish Context</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619871218?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, Page 411-432, October 2019. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 49, Issue 4, Page 411-432, October 2019. &lt;br/&gt;</description>
+      <dc:title>Constructing a Cultural Logic From a Swedish Context</dc:title>
+      <dc:identifier>doi:10.1177/0047281619871218</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-09-06T04:40:54Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Kristin Marie Bivens</dc:creator>
+      <prism:publicationName>Constructing a Cultural Logic From a Swedish Context</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>411</prism:startingPage>
+      <prism:endingPage>432</prism:endingPage>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281619871218</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619871218?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619871211?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Always Already Geopolitical: Trans Health Care and Global Tactical Technical Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619871211?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, Page 433-457, October 2019. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 49, Issue 4, Page 433-457, October 2019. &lt;br/&gt;</description>
+      <dc:title>Always Already Geopolitical: Trans Health Care and Global Tactical Technical Communication</dc:title>
+      <dc:identifier>doi:10.1177/0047281619871211</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-09-06T04:40:52Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Avery C. Edenfield</dc:creator>
+      <dc:creator>Jared S. Colton</dc:creator>
+      <dc:creator>Steve Holmes</dc:creator>
+      <prism:publicationName>Always Already Geopolitical: Trans Health Care and Global Tactical Technical Communication</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>433</prism:startingPage>
+      <prism:endingPage>457</prism:endingPage>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281619871211</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619871211?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</dc:title>
+      <dc:identifier>doi:10.1177/0047281619880286</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-11-06T09:32:43Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Gustav Verhulsdonck</dc:creator>
+      <dc:creator>Nadya Shalamova</dc:creator>
+      <prism:publicationName>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</prism:publicationName>
+      <prism:doi>10.1177/0047281619880286</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>What Happens When We Fail? Building Resilient Community-Based Research</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>What Happens When We Fail? Building Resilient Community-Based Research</dc:title>
+      <dc:identifier>doi:10.1177/0047281619876292</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-10-15T07:08:03Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Allen Brizee</dc:creator>
+      <prism:publicationName>What Happens When We Fail? Building Resilient Community-Based Research</prism:publicationName>
+      <prism:doi>10.1177/0047281619876292</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>A Day in the Life: Personas of Professional Communicators at Work</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>A Day in the Life: Personas of Professional Communicators at Work</dc:title>
+      <dc:identifier>doi:10.1177/0047281619868723</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-09-27T04:45:23Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Eva Brumberger</dc:creator>
+      <dc:creator>Claire Lauer</dc:creator>
+      <prism:publicationName>A Day in the Life: Personas of Professional Communicators at Work</prism:publicationName>
+      <prism:doi>10.1177/0047281619868723</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619873139?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Beginning With Ganesha: The Founding and Early History of the Society for Technical Communication in India</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619873139?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Beginning With Ganesha: The Founding and Early History of the Society for Technical Communication in India</dc:title>
+      <dc:identifier>doi:10.1177/0047281619873139</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-08-30T01:09:04Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Breeanne Matheson</dc:creator>
+      <prism:publicationName>Beginning With Ganesha: The Founding and Early History of the Society for Technical Communication in India</prism:publicationName>
+      <prism:doi>10.1177/0047281619873139</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619873139?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619865154?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Writing, in English, for Publication in Science and Technology, and Policy: The Example of Nuclear Security</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619865154?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Writing, in English, for Publication in Science and Technology, and Policy: The Example of Nuclear Security</dc:title>
+      <dc:identifier>doi:10.1177/0047281619865154</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-07-25T09:14:14Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Russel Hirst</dc:creator>
+      <prism:publicationName>Writing, in English, for Publication in Science and Technology, and Policy: The Example of Nuclear Security</prism:publicationName>
+      <prism:doi>10.1177/0047281619865154</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619865154?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619853266?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>High-Impact Civic Engagement: Outcomes of Community-Based Research in Technical Writing Courses</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619853266?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>High-Impact Civic Engagement: Outcomes of Community-Based Research in Technical Writing Courses</dc:title>
+      <dc:identifier>doi:10.1177/0047281619853266</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-06-12T04:24:42Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Allen Brizee</dc:creator>
+      <dc:creator>Paola Pascual-Ferrá</dc:creator>
+      <dc:creator>Giuliana Caranante</dc:creator>
+      <prism:publicationName>High-Impact Civic Engagement: Outcomes of Community-Based Research in Technical Writing Courses</prism:publicationName>
+      <prism:doi>10.1177/0047281619853266</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619853266?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>A Field-Wide Metasynthesis of Pedagogical Research in Technical and Professional Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>A Field-Wide Metasynthesis of Pedagogical Research in Technical and Professional Communication</dc:title>
+      <dc:identifier>doi:10.1177/0047281619853258</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-06-04T04:40:17Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Lisa Melonçon</dc:creator>
+      <dc:creator>Jeremy Rosselot-Merritt</dc:creator>
+      <dc:creator>Kirk St.Amant</dc:creator>
+      <prism:publicationName>A Field-Wide Metasynthesis of Pedagogical Research in Technical and Professional Communication</prism:publicationName>
+      <prism:doi>10.1177/0047281619853258</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Smart Home Technology Diffusion in a Living Laboratory</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Smart Home Technology Diffusion in a Living Laboratory</dc:title>
+      <dc:identifier>doi:10.1177/0047281619847205</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-05-10T01:27:16Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>David Wright</dc:creator>
+      <dc:creator>Daniel B. Shank</dc:creator>
+      <prism:publicationName>Smart Home Technology Diffusion in a Living Laboratory</prism:publicationName>
+      <prism:doi>10.1177/0047281619847205</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Recreating the Scene: An Investigation of Police Report Writing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Recreating the Scene: An Investigation of Police Report Writing</dc:title>
+      <dc:identifier>doi:10.1177/0047281618812441</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2018-11-19T04:44:39Z</dc:date>
+      <dc:rights>© The Author(s) 2018</dc:rights>
+      <dc:creator>Han Yu</dc:creator>
+      <dc:creator>Natalie Monas</dc:creator>
+      <prism:publicationName>Recreating the Scene: An Investigation of Police Report Writing</prism:publicationName>
+      <prism:doi>10.1177/0047281618812441</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2018</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>An Examination of the Book of Common Prayer as Technical Writing for an Oral–Aural Culture</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>An Examination of the Book of Common Prayer as Technical Writing for an Oral–Aural Culture</dc:title>
+      <dc:identifier>doi:10.1177/0047281618799103</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2018-09-25T04:14:17Z</dc:date>
+      <dc:rights>© The Author(s) 2018</dc:rights>
+      <dc:creator>Drew Nathaniel Keane</dc:creator>
+      <prism:publicationName>An Examination of the Book of Common Prayer as Technical Writing for an Oral–Aural Culture</prism:publicationName>
+      <prism:doi>10.1177/0047281618799103</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2018</prism:copyright>
+   </item>
+</rdf:RDF>
+<!-- cached:  1573164877-->

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>tandf: Rhetoric Society Quarterly: Table of Contents</title>
+      <description>Table of Contents for Rhetoric Society Quarterly. List of articles from both the latest and ahead of print issues.</description>
+      <dc:title>tandf: Rhetoric Society Quarterly: Table of Contents</dc:title>
+      <dc:publisher>tandf</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>Rhetoric Society Quarterly</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1648977?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1634831?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1634830?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1645347?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1627401?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1648852?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647750?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1595617?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1601977?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1658213?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647747?af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2019/rrsq20.v049.i04/rrsq20.v049.i04/20190910-01/rrsq20.v049.i04.cover.jpg">
+      <title>Rhetoric Society Quarterly</title>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2019/rrsq20.v049.i04/rrsq20.v049.i04/20190910-01/rrsq20.v049.i04.cover.jpg</url>
+      <link>https://www.tandfonline.com/loi/rrsq20?af=R</link>
+   </image>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1648977?af=R">
+      <title>Editor’s Message</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1648977?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, 2019, Page 317-319&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 49, Issue 4, 2019, Page 317-319&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Editor’s Message</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1648977</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-09-10T02:55:17Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <prism:publicationName>Editor’s Message</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>317</prism:startingPage>
+      <prism:endingPage>319</prism:endingPage>
+      <prism:coverDate>2019-08-08T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-08-08T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1648977</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1648977?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1634831?af=R">
+      <title>The Rhetoric of Energy Darwinism: Neoliberal Piety and Market Autonomy in Economic Discourse</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1634831?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, 2019, Page 320-341&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 49, Issue 4, 2019, Page 320-341&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The Rhetoric of Energy Darwinism: Neoliberal Piety and Market Autonomy in Economic Discourse</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1634831</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-08-05T01:49:24Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Emma Frances Bloomfield</dc:creator>
+      <prism:publicationName>The Rhetoric of Energy Darwinism: Neoliberal Piety and Market Autonomy in Economic Discourse</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>320</prism:startingPage>
+      <prism:endingPage>341</prism:endingPage>
+      <prism:coverDate>2019-08-08T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-08-08T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1634831</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1634831?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1634830?af=R">
+      <title>W. E. B. Du Bois and the Conservation of Races: A Piece of Ecological Ancestry</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1634830?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, 2019, Page 342-364&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 49, Issue 4, 2019, Page 342-364&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>W. E. B. Du Bois and the Conservation of Races: A Piece of Ecological Ancestry</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1634830</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-08-05T01:45:03Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Justine Wells</dc:creator>
+      <prism:publicationName>W. E. B. Du Bois and the Conservation of Races: A Piece of Ecological Ancestry</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>342</prism:startingPage>
+      <prism:endingPage>364</prism:endingPage>
+      <prism:coverDate>2019-08-08T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-08-08T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1634830</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1634830?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1645347?af=R">
+      <title>Grinding against Genocide: Rhetorics of Shame, Sex, and Memory at the Memorial to the Murdered Jews of Europe</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1645347?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, 2019, Page 365-386&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 49, Issue 4, 2019, Page 365-386&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Grinding against Genocide: Rhetorics of Shame, Sex, and Memory at the Memorial to the Murdered Jews of Europe</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1645347</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-08-26T01:59:10Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Thomas R. Dunn</dc:creator>
+      <prism:publicationName>Grinding against Genocide: Rhetorics of Shame, Sex, and Memory at the Memorial to the Murdered Jews of Europe</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>365</prism:startingPage>
+      <prism:endingPage>386</prism:endingPage>
+      <prism:coverDate>2019-08-08T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-08-08T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1645347</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1645347?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1627401?af=R">
+      <title>Welcome to Decision Points Theater: Rhetoric, Museology, and Game Studies</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1627401?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, 2019, Page 387-408&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 49, Issue 4, 2019, Page 387-408&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Welcome to Decision Points Theater: Rhetoric, Museology, and Game Studies</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1627401</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-08-05T01:33:18Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Joshua Daniel-Wariya</dc:creator>
+      <prism:publicationName>Welcome to Decision Points Theater: Rhetoric, Museology, and Game Studies</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>387</prism:startingPage>
+      <prism:endingPage>408</prism:endingPage>
+      <prism:coverDate>2019-08-08T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-08-08T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1627401</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1627401?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1648852?af=R">
+      <title>Praise Bee!: Allegory and Interpretation in the Aberdeen Bestiary</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1648852?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, 2019, Page 409-427&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 49, Issue 4, 2019, Page 409-427&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Praise Bee!: Allegory and Interpretation in the Aberdeen Bestiary</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1648852</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-08-23T02:37:32Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Jordan Loveridge</dc:creator>
+      <prism:publicationName>Praise Bee!: Allegory and Interpretation in the Aberdeen Bestiary</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>409</prism:startingPage>
+      <prism:endingPage>427</prism:endingPage>
+      <prism:coverDate>2019-08-08T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-08-08T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1648852</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1648852?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647750?af=R">
+      <title>Words about Words: Or, the Agency of Agencies</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647750?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, 2019, Page 428-435&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 49, Issue 4, 2019, Page 428-435&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Words about Words: Or, the Agency of Agencies</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1647750</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-08-26T01:49:09Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Steven Mailloux</dc:creator>
+      <prism:publicationName>Words about Words: Or, the Agency of Agencies</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>428</prism:startingPage>
+      <prism:endingPage>435</prism:endingPage>
+      <prism:coverDate>2019-08-08T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-08-08T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1647750</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647750?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1595617?af=R">
+      <title>Rhetorical Feminism and This Thing Called Hope, by Cheryl Glenn</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1595617?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, 2019, Page 436-439&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 49, Issue 4, 2019, Page 436-439&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Rhetorical Feminism and This Thing Called Hope, by Cheryl Glenn</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1595617</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-04-18T08:31:59Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Margaret Goss</dc:creator>
+      <dc:creator>Stephanie R. Larson</dc:creator>
+      <prism:publicationName>Rhetorical Feminism and This Thing Called Hope, by Cheryl Glenn</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>436</prism:startingPage>
+      <prism:endingPage>439</prism:endingPage>
+      <prism:coverDate>2019-08-08T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-08-08T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1595617</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1595617?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1601977?af=R">
+      <title>Down Girl: The Logic of Misogyny, by Kate Manne</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1601977?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, 2019, Page 439-443&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 49, Issue 4, 2019, Page 439-443&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Down Girl: The Logic of Misogyny, by Kate Manne</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1601977</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-04-29T06:27:31Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Caddie Alford</dc:creator>
+      <prism:publicationName>Down Girl: The Logic of Misogyny, by Kate Manne</prism:publicationName>
+      <prism:volume>49</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>439</prism:startingPage>
+      <prism:endingPage>443</prism:endingPage>
+      <prism:coverDate>2019-08-08T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-08-08T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1601977</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1601977?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1658213?af=R">
+      <title>The Rhetorical Resistance of Tiny Homes: Downsizing Neoliberal Capitalism</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1658213?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The Rhetorical Resistance of Tiny Homes: Downsizing Neoliberal Capitalism</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1658213</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-10-30T05:59:57Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Crystal Colombini</dc:creator>
+      <prism:publicationName>The Rhetorical Resistance of Tiny Homes: Downsizing Neoliberal Capitalism</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>23</prism:endingPage>
+      <prism:doi>10.1080/02773945.2019.1658213</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1658213?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647747?af=R">
+      <title>Assigning Blame: The Rhetoric of Education Reform, by Mark Hlavacik</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647747?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Assigning Blame: The Rhetoric of Education Reform, by Mark Hlavacik</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1647747</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-08-16T01:49:05Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Scott Wible</dc:creator>
+      <prism:publicationName>Assigning Blame: The Rhetoric of Education Reform, by Mark Hlavacik</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>4</prism:endingPage>
+      <prism:doi>10.1080/02773945.2019.1647747</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647747?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
+</rdf:RDF>
+<!-- cached:  1573164878-->

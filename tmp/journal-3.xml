@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>SAGE Publications Inc: Written Communication: Table of Contents</title>
+      <description>Table of Contents for Written Communication. List of articles from both the latest and ahead of print issues.</description>
+      <dc:title>SAGE Publications Inc: Written Communication: Table of Contents</dc:title>
+      <dc:publisher>SAGE Publications Inc</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>Written Communication</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319864897?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319862512?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319861648?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319862779?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319882313?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319880509?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2019/wcxa_36_4/wcxa_36_4/20190910/wcxa_36_4.cover.png">
+      <title>Written Communication</title>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2019/wcxa_36_4/wcxa_36_4/20190910/wcxa_36_4.cover.png</url>
+      <link>https://journals.sagepub.com/loi/wcxa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+   </image>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319864897?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Disciplinarity and Literate Activity in Civil and Environmental Engineering: A Lifeworld Perspective</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319864897?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/36/4"&gt;Volume 36, Issue 4&lt;/a&gt;, Page 471-502, October 2019. &lt;br/&gt;Too frequently, representations of disciplinary writing foreground static notions of knowledge creation and literate practice in science and engineering. Rooted in discourse community theory, such representations present normative tropes of scientific practice that background notions of disciplinarity and obscure people’s lived experience and practice. Drawing on a case study of one woman, a civil and environmental engineer, this article argues for a lifeworld perspective of disciplinary becoming: a perspective that foregrounds notions of disciplinarity, lived experience, and literate practices as constantly mobile and in flux. The study suggests, specifically, that the woman’s work as an engineer cannot be separated from the people with whom she works, or has worked, and that her development as a writer extends beyond typical accounts of disciplinary enculturation. The author concludes by offering implications of this research for studies of disciplinarity and school science.</content:encoded>
+      <description>Written Communication, Volume 36, Issue 4, Page 471-502, October 2019. &lt;br/&gt;Too frequently, representations of disciplinary writing foreground static notions of knowledge creation and literate practice in science and engineering. Rooted in discourse community theory, such representations present normative tropes of scientific practice that background notions of disciplinarity and obscure people’s lived experience and practice. Drawing on a case study of one woman, a civil and environmental engineer, this article argues for a lifeworld perspective of disciplinary becoming: a perspective that foregrounds notions of disciplinarity, lived experience, and literate practices as constantly mobile and in flux. The study suggests, specifically, that the woman’s work as an engineer cannot be separated from the people with whom she works, or has worked, and that her development as a writer extends beyond typical accounts of disciplinary enculturation. The author concludes by offering implications of this research for studies of disciplinarity and school science.</description>
+      <dc:title>Disciplinarity and Literate Activity in Civil and Environmental Engineering: A Lifeworld Perspective</dc:title>
+      <dc:identifier>doi:10.1177/0741088319864897</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2019-09-10T12:32:02Z</dc:date>
+      <dc:rights>© 2019 SAGE Publications</dc:rights>
+      <dc:creator>Sarah Durst</dc:creator>
+      <prism:publicationName>Disciplinarity and Literate Activity in Civil and Environmental Engineering: A Lifeworld Perspective</prism:publicationName>
+      <prism:volume>36</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>471</prism:startingPage>
+      <prism:endingPage>502</prism:endingPage>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0741088319864897</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319864897?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2019 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319862512?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Discourses in Teachers’ Talk about Writing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319862512?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/36/4"&gt;Volume 36, Issue 4&lt;/a&gt;, Page 503-537, October 2019. &lt;br/&gt;Views about what writing is and how it should be taught have varied over the years as well as across contexts. Studies of curricula, teaching materials, and teaching practices have shown a strong focus on skills, genres, and processes, but few have asked teachers about their perspectives on writing. In this article we explore what views, or discourses, of writing are currently active among teachers in Swedish compulsory education, covering ages from 7 to 15. Sixty teachers answered a questionnaire with open and closed questions. Using Ivanič’s framework for discourses of writing, the answers were analyzed holistically in order to define what main discourse, or discourses, each teacher represented. Results show that most teachers represent one main discourse, but that a combination of discourses occur, in particular among teachers from the earliest school years (1–3). The most common discourse was the process discourse, followed by genre, creativity, skills, and thinking. None of the teachers represented the social practice or the sociopolitical discourse. The results concur with findings from studies of curricula, teaching materials, and teaching practices both in Sweden and globally and are discussed in relation to what literacy skills may be necessary in the 21st century in order to participate in social and political life.</content:encoded>
+      <description>Written Communication, Volume 36, Issue 4, Page 503-537, October 2019. &lt;br/&gt;Views about what writing is and how it should be taught have varied over the years as well as across contexts. Studies of curricula, teaching materials, and teaching practices have shown a strong focus on skills, genres, and processes, but few have asked teachers about their perspectives on writing. In this article we explore what views, or discourses, of writing are currently active among teachers in Swedish compulsory education, covering ages from 7 to 15. Sixty teachers answered a questionnaire with open and closed questions. Using Ivanič’s framework for discourses of writing, the answers were analyzed holistically in order to define what main discourse, or discourses, each teacher represented. Results show that most teachers represent one main discourse, but that a combination of discourses occur, in particular among teachers from the earliest school years (1–3). The most common discourse was the process discourse, followed by genre, creativity, skills, and thinking. None of the teachers represented the social practice or the sociopolitical discourse. The results concur with findings from studies of curricula, teaching materials, and teaching practices both in Sweden and globally and are discussed in relation to what literacy skills may be necessary in the 21st century in order to participate in social and political life.</description>
+      <dc:title>Discourses in Teachers’ Talk about Writing</dc:title>
+      <dc:identifier>doi:10.1177/0741088319862512</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2019-08-27T12:26:54Z</dc:date>
+      <dc:rights>© 2019 SAGE Publications</dc:rights>
+      <dc:creator>Erika Sturk</dc:creator>
+      <dc:creator>Eva Lindgren</dc:creator>
+      <prism:publicationName>Discourses in Teachers’ Talk about Writing</prism:publicationName>
+      <prism:volume>36</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>503</prism:startingPage>
+      <prism:endingPage>537</prism:endingPage>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0741088319862512</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319862512?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2019 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319861648?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Addressing the “Bias Gap”: A Research-Driven Argument for Critical Support of Plurilingual Scientists’ Research Writing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319861648?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/36/4"&gt;Volume 36, Issue 4&lt;/a&gt;, Page 538-577, October 2019. &lt;br/&gt;This article outlines findings from a case study investigating attitudes toward English as the dominant language of scientific research writing. Survey and interview data were collected from 55 Latin American health and life scientists and 7 North American scientific journal editors connected to an intensive scholarly writing for publication course. Study findings point to competing perceptions (scientists vs. editors) of fairness in the adjudication of Latin American scientists’ research at international scientific journals. Adopting a critical, plurilingual lens, I argue that these findings demand a space for more equity-driven pedagogies, policies, and reflective practices aimed at supporting the robust participation of plurilingual scientists who use English as an additional language (EAL). In particular, if equity is indeed a shared goal, there is a clear need for commitment to ongoing critical self-reflection on the part of scientific journal gatekeepers and research writing support specialists.</content:encoded>
+      <description>Written Communication, Volume 36, Issue 4, Page 538-577, October 2019. &lt;br/&gt;This article outlines findings from a case study investigating attitudes toward English as the dominant language of scientific research writing. Survey and interview data were collected from 55 Latin American health and life scientists and 7 North American scientific journal editors connected to an intensive scholarly writing for publication course. Study findings point to competing perceptions (scientists vs. editors) of fairness in the adjudication of Latin American scientists’ research at international scientific journals. Adopting a critical, plurilingual lens, I argue that these findings demand a space for more equity-driven pedagogies, policies, and reflective practices aimed at supporting the robust participation of plurilingual scientists who use English as an additional language (EAL). In particular, if equity is indeed a shared goal, there is a clear need for commitment to ongoing critical self-reflection on the part of scientific journal gatekeepers and research writing support specialists.</description>
+      <dc:title>Addressing the “Bias Gap”: A Research-Driven Argument for Critical Support of Plurilingual Scientists’ Research Writing</dc:title>
+      <dc:identifier>doi:10.1177/0741088319861648</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2019-09-10T12:32:03Z</dc:date>
+      <dc:rights>© 2019 SAGE Publications</dc:rights>
+      <dc:creator>James Corcoran</dc:creator>
+      <prism:publicationName>Addressing the “Bias Gap”: A Research-Driven Argument for Critical Support of Plurilingual Scientists’ Research Writing</prism:publicationName>
+      <prism:volume>36</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>538</prism:startingPage>
+      <prism:endingPage>577</prism:endingPage>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0741088319861648</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319861648?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2019 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319862779?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>L2 Writing Task Representation in Test-Like and Non-Test-Like Situations</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319862779?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/36/4"&gt;Volume 36, Issue 4&lt;/a&gt;, Page 578-632, October 2019. &lt;br/&gt;This mixed-methods study investigates writers’ task representation and the factors affecting it in test-like and non-test-like conditions. Five advanced-level L2 writers wrote two argumentative essays each, one in test-like conditions and the other in non-test-like conditions where the participants were allowed to use all the time and online materials they needed. The writing was done on computers, and we recorded the writing process and keystrokes using the Screen Capture Video and Inputlog programs. We audio recorded stimulated recall interviews after each writing session, with the writers reporting and commenting on their writing strategies and their reasons for following them. The findings of this study suggest that there are several factors that play a role in task representation, such as previous education, personal beliefs, and task conditions. Although these factors were present in all participants’ responses, the differences in the writers’ approaches to interpret and execute the writing were marked. The results highlight various pedagogical issues and options related to teaching writing in general and to the place of task representation on writing programs in particular.</content:encoded>
+      <description>Written Communication, Volume 36, Issue 4, Page 578-632, October 2019. &lt;br/&gt;This mixed-methods study investigates writers’ task representation and the factors affecting it in test-like and non-test-like conditions. Five advanced-level L2 writers wrote two argumentative essays each, one in test-like conditions and the other in non-test-like conditions where the participants were allowed to use all the time and online materials they needed. The writing was done on computers, and we recorded the writing process and keystrokes using the Screen Capture Video and Inputlog programs. We audio recorded stimulated recall interviews after each writing session, with the writers reporting and commenting on their writing strategies and their reasons for following them. The findings of this study suggest that there are several factors that play a role in task representation, such as previous education, personal beliefs, and task conditions. Although these factors were present in all participants’ responses, the differences in the writers’ approaches to interpret and execute the writing were marked. The results highlight various pedagogical issues and options related to teaching writing in general and to the place of task representation on writing programs in particular.</description>
+      <dc:title>L2 Writing Task Representation in Test-Like and Non-Test-Like Situations</dc:title>
+      <dc:identifier>doi:10.1177/0741088319862779</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2019-08-28T06:21:30Z</dc:date>
+      <dc:rights>© 2019 SAGE Publications</dc:rights>
+      <dc:creator>Baraa Khuder</dc:creator>
+      <dc:creator>Nigel Harwood</dc:creator>
+      <prism:publicationName>L2 Writing Task Representation in Test-Like and Non-Test-Like Situations</prism:publicationName>
+      <prism:volume>36</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>578</prism:startingPage>
+      <prism:endingPage>632</prism:endingPage>
+      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0741088319862779</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319862779?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2019 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319882313?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Genre Knowledge and Writing Development: Results From the Writing Transfer Project</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319882313?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Using a mixed-methods, multi-institutional design of general education writing courses at four institutions, this study examined genre as a key factor for understanding and promoting writing development. It thus aims to provide empirical validation of decades of theoretical work on and qualitative studies of genre and the nature of genre knowledge. While showing that both simplistic and nuanced genre knowledge promote writing development, our findings suggest that nuanced genre knowledge correlates with writing development over the course of a semester. Based on these findings, we propose an expanded view of Tardy’s four genre knowledge components and argue for their explanatory power. We recognize these genre components can be cultivated by using three particular strategies: writing for nonclassroom audiences, using source texts explicitly to join existing disciplinary conversations, and cultivating two types of metacognitive awareness (awareness of the writing strategies used to complete specific tasks and awareness of one’s levels of proficiency in particular types of writing knowledge). Findings can be used to enrich first-year or upper-division writing curricula in the areas of genre knowledge, audience awareness, and source use.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Using a mixed-methods, multi-institutional design of general education writing courses at four institutions, this study examined genre as a key factor for understanding and promoting writing development. It thus aims to provide empirical validation of decades of theoretical work on and qualitative studies of genre and the nature of genre knowledge. While showing that both simplistic and nuanced genre knowledge promote writing development, our findings suggest that nuanced genre knowledge correlates with writing development over the course of a semester. Based on these findings, we propose an expanded view of Tardy’s four genre knowledge components and argue for their explanatory power. We recognize these genre components can be cultivated by using three particular strategies: writing for nonclassroom audiences, using source texts explicitly to join existing disciplinary conversations, and cultivating two types of metacognitive awareness (awareness of the writing strategies used to complete specific tasks and awareness of one’s levels of proficiency in particular types of writing knowledge). Findings can be used to enrich first-year or upper-division writing curricula in the areas of genre knowledge, audience awareness, and source use.</description>
+      <dc:title>Genre Knowledge and Writing Development: Results From the Writing Transfer Project</dc:title>
+      <dc:identifier>doi:10.1177/0741088319882313</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2019-11-06T07:29:42Z</dc:date>
+      <dc:rights>© 2019 SAGE Publications</dc:rights>
+      <dc:creator>Dana Lynn Driscoll</dc:creator>
+      <dc:creator>Joseph Paszek</dc:creator>
+      <dc:creator>Gwen Gorzelsky</dc:creator>
+      <dc:creator>Carol L. Hayes</dc:creator>
+      <dc:creator>Edmund Jones</dc:creator>
+      <prism:publicationName>Genre Knowledge and Writing Development: Results From the Writing Transfer Project</prism:publicationName>
+      <prism:doi>10.1177/0741088319882313</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319882313?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2019 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319880509?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Theorizing the Addressive Audience in Children’s Digital Video Production</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319880509?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;In this article, we examine how children ages 8 to 10 characterized the audiences of digital videos they made in school. Children’s perceptions of their viewers reflected, and in many cases complicated, current theorizing about the vast potential audiences of digital texts. Our analysis of videos and interview data surfaces several findings pertaining to how children characterized their audiences. Children discussed their desire to inform viewers, their deliberate choices about language use vis-à-vis their viewers, ways they predicted and steered audience emotions, and the affective dimensions of sharing one’s video with different audiences. These findings suggest that educators and researchers ought to foreground issues of addressivity when theorizing the question of audience for children’s digital products. They also raise questions concerning authentic audience in an age of increasing concern about children’s safety and security in online worlds.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;In this article, we examine how children ages 8 to 10 characterized the audiences of digital videos they made in school. Children’s perceptions of their viewers reflected, and in many cases complicated, current theorizing about the vast potential audiences of digital texts. Our analysis of videos and interview data surfaces several findings pertaining to how children characterized their audiences. Children discussed their desire to inform viewers, their deliberate choices about language use vis-à-vis their viewers, ways they predicted and steered audience emotions, and the affective dimensions of sharing one’s video with different audiences. These findings suggest that educators and researchers ought to foreground issues of addressivity when theorizing the question of audience for children’s digital products. They also raise questions concerning authentic audience in an age of increasing concern about children’s safety and security in online worlds.</description>
+      <dc:title>Theorizing the Addressive Audience in Children’s Digital Video Production</dc:title>
+      <dc:identifier>doi:10.1177/0741088319880509</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2019-10-14T10:58:37Z</dc:date>
+      <dc:rights>© 2019 SAGE Publications</dc:rights>
+      <dc:creator>Jessica Zacher Pandya</dc:creator>
+      <dc:creator>David E. Low</dc:creator>
+      <prism:publicationName>Theorizing the Addressive Audience in Children’s Digital Video Production</prism:publicationName>
+      <prism:doi>10.1177/0741088319880509</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319880509?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2019 SAGE Publications</prism:copyright>
+   </item>
+</rdf:RDF>
+<!-- cached:  1573164877-->
