@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>As it So Happens: Recent Articles</title>
-  <meta name="viewport" content="initial-scale=1.0" />
+  <!-- <meta name="viewport" content="initial-scale=1.0" /> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="author" content="Chris Lindgren" />
 
   <link rel="stylesheet" href="https://use.typekit.net/hqg0trp.css">
@@ -12,9 +13,11 @@
 </head>
 <body onload="generateTOC(document.getElementById('toc'));">
   <main class="container articles-page">
-    <header>
-      <h1>As It So Happens</h1>
-      <p>Feeding the world new articles in Rhetoric & Writing, Composition Studies, Technical Communication, and adjacent disciplines.</p>
+    <header class="flex-container">
+      <div>
+        <h1>As It So Happens</h1>
+        <p>Feeding the world new articles in Rhetoric & Writing, Composition Studies, Technical Communication, and adjacent disciplines.</p>
+      </div>
     </header>
     <nav>
       <ul>
@@ -28,7 +31,11 @@
     </nav>
     <article id="journals">
       <aside>
-        <div id="toc"></div>
+        <div id="toc-menu">
+          <input type="checkbox" class="hamburger" id="hamburger">
+          <label for="hamburger" class="icon"></label>
+          <div id="toc"></div>
+        </div>
       </aside>
       <div>
         <section id="wc">

@@ -1,11 +1,7 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
 html {
     background: #F1F0E2;
-    font-size: 18px;
+    font-size: 16px;
+    font-size: calc(16px + (18-14)*(100vw - 325px)/(1600 - 150));
 }
 header, nav, section {
     font-family: proxima-nova, sans-serif;
@@ -16,7 +12,7 @@ h1 {
     line-height: 1.0;
     font-weight: 400;
     font-style: normal;
-    font-size: 8em;
+    font-size: 4em;
     color: #068587;
     text-align: center;
     margin: 5% 0 5% 0;
@@ -26,17 +22,21 @@ h2, h3, h4, header p, aside ul {
     font-family: proxima-nova, sans-serif;
     font-weight: 700;
     font-style: normal;
+    padding-inline-start: 0;
 }
 
 h2,h3,header p {
     color: #3E4E59;
 }
 
-h2, header p {
+h2 {
     font-size: 2em;
-    max-width: 700px;
     margin: 0 auto;
     padding-top: 50px;
+}
+header p {
+    margin: 0 auto;
+    max-width: 600px;
 }
 
 h3 {
@@ -60,7 +60,11 @@ nav ul {
     justify-content: space-evenly;
     flex-wrap: wrap;
     list-style-type: none;
-    margin-top: 30px;
+    margin-top: 60px;
+    margin-block-start: 0;
+    padding-inline-start: 0;
+    font-size: 0.8em;
+    margin-top: 50px;
 }
 nav ul li a {
     background-color: #ED553B;
@@ -72,20 +76,27 @@ nav ul li a {
 nav ul li a:hover {
     background-color: #F2B134;
 }
-@media only screen
-and (max-width : 515px)
-{
-  nav ul li {
-    margin-bottom: 35px;
-  }
-}
+
 /* grid */
+header.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+header.flex-container div {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
 #journals {
     display: grid;
     grid-template-columns: 1fr 4fr;
     grid-gap: 2em;
+    font-size: calc(16px + (18-14)*(100vw - 325px)/(1600 - 150));
 }
-#toc {
+/* TOC */
+aside {
+    font-size: 0.6em;
     padding-top: 50px;
     position: sticky;
     top: 0; 
@@ -97,6 +108,111 @@ and (max-width : 515px)
 #toc ul li {
     margin-bottom: 10px;
 }
+div#toc-menu {
+  padding: 10px;
+  position: relative;
+  text-align: left;
+}
+
+.hamburger {
+  display: none;
+}
+
+.icon {
+  background-color: #000;
+  cursor: pointer;
+  display: inline-block;
+  height: 4px;
+  margin-top: 10px;
+  position: relative;
+  width: 24px;
+}
+
+.icon:before,
+.icon:after {
+  content: '';
+  background-color: #000;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  width: 24px;
+  transition: all 0.2s ease-in-out;
+}
+
+.icon:before {
+  top: -8px;
+}
+
+.icon:after {
+  bottom: -8px;
+}
+
+.icon + #toc {
+  margin-top: 10px;
+}
+
+.hamburger ~ #toc {
+  position: absolute;
+  left: -200px;
+  opacity: 0;
+  transition: all 0.2s;
+  width: calc(100% - 20px);
+  box-sizing: border-box;
+}
+
+.hamburger:checked ~ #toc {
+  left: 10px;
+  opacity: 1;
+}
+
+.hamburger:checked + label span {
+  background-color: transparent;
+}
+
+.hamburger:checked + label span:before {
+  transform: rotate(45deg);
+  top: 0;
+}
+
+.hamburger:checked + label span:after {
+  transform: rotate(-45deg);
+  bottom: 0;
+}
+
+@media screen and (max-width: 768px) {
+    aside {
+        height:auto;
+    }
+    #journals {
+        grid-template-columns: 1fr;
+    }
+    aside ul li a {
+        color: rgb(255, 255, 255);
+    }
+    #toc ul {
+        background-color: #048587;
+        padding: 10px;
+    }
+}
+@media screen and (min-width: 768px) {
+    .hamburger ~ #toc {
+        opacity: 1;
+        position: relative;
+        left: auto;
+        width: auto;
+    }
+    .icon {
+        display: none;
+    }
+    .icon + #toc {
+        margin-top: 0;
+    }
+    li {
+        display: inline-block;
+        padding: 5px 20px;
+    }
+}
+
 /* articles page */
 main section h2 {
   margin-bottom:25px;
