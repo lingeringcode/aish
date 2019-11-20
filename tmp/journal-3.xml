@@ -18,6 +18,7 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319862512?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319861648?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319862779?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319882325?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319882313?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319880509?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
@@ -118,6 +119,24 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319862779?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2019 SAGE Publications</prism:copyright>
    </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319882325?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Toward Wayfinding: A Metaphor for Understanding Writing Experiences</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319882325?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;In this essay, we map out four major approaches to the study of writing experiences: (a) worlds apart, (b) literacy in the wild, (c) ecologies and networks, and (d) transfer. We examine how the primary metaphors used in each approach have contributed to our field’s understanding of writing. In focusing on specific dimensions of writing, each framework privileges a different aspect of the writing process, writing development, and/or writers’ context(s). Building on these approaches, we propose the concept of wayfinding to emphasize how writers navigate their own writing development, skills acquisition, and changing knowledge about writing over time. Wayfinding offers a metaphor that resonates with recent work on lifelong learning and meaningful writing. Among other characteristics, wayfinding emphasizes how writers encounter a continuous potentiality in writing and how they navigate unanticipated challenges and opportunities.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;In this essay, we map out four major approaches to the study of writing experiences: (a) worlds apart, (b) literacy in the wild, (c) ecologies and networks, and (d) transfer. We examine how the primary metaphors used in each approach have contributed to our field’s understanding of writing. In focusing on specific dimensions of writing, each framework privileges a different aspect of the writing process, writing development, and/or writers’ context(s). Building on these approaches, we propose the concept of wayfinding to emphasize how writers navigate their own writing development, skills acquisition, and changing knowledge about writing over time. Wayfinding offers a metaphor that resonates with recent work on lifelong learning and meaningful writing. Among other characteristics, wayfinding emphasizes how writers encounter a continuous potentiality in writing and how they navigate unanticipated challenges and opportunities.</description>
+      <dc:title>Toward Wayfinding: A Metaphor for Understanding Writing Experiences</dc:title>
+      <dc:identifier>doi:10.1177/0741088319882325</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2019-11-15T01:35:28Z</dc:date>
+      <dc:rights>© 2019 SAGE Publications</dc:rights>
+      <dc:creator>Jonathan Alexander</dc:creator>
+      <dc:creator>Karen Lunsford</dc:creator>
+      <dc:creator>Carl Whithaus</dc:creator>
+      <prism:publicationName>Toward Wayfinding: A Metaphor for Understanding Writing Experiences</prism:publicationName>
+      <prism:doi>10.1177/0741088319882325</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319882325?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2019 SAGE Publications</prism:copyright>
+   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319882313?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Genre Knowledge and Writing Development: Results From the Writing Transfer Project</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319882313?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
@@ -156,4 +175,4 @@
       <prism:copyright>© 2019 SAGE Publications</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1573164877-->
+<!-- cached:  1574176617-->

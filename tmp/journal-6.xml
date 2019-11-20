@@ -23,6 +23,7 @@
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647750?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1595617?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1601977?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668048?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1658213?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647747?af=R"/>
          </rdf:Seq>
@@ -231,6 +232,24 @@
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1601977?af=R</prism:url>
       <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
    </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668048?af=R">
+      <title>Revisiting Missions: Decolonizing Public Memories in California</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668048?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Revisiting Missions: Decolonizing Public Memories in California</dc:title>
+      <dc:identifier>doi:10.1080/02773945.2019.1668048</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2019-11-12T02:37:00Z</dc:date>
+      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Brenda Helmbrecht</dc:creator>
+      <prism:publicationName>Revisiting Missions: Decolonizing Public Memories in California</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>25</prism:endingPage>
+      <prism:doi>10.1080/02773945.2019.1668048</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668048?af=R</prism:url>
+      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+   </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1658213?af=R">
       <title>The Rhetorical Resistance of Tiny Homes: Downsizing Neoliberal Capitalism</title>
       <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1658213?af=R</link>
@@ -268,4 +287,4 @@
       <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1573164878-->
+<!-- cached:  1574176618-->

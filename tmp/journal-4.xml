@@ -27,6 +27,9 @@
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1613333?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2018.1521639?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1613878?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1690695?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689297?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689089?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689091?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689090?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669961?af=R"/>
@@ -346,6 +349,60 @@
       <prism:doi>10.1080/10572252.2019.1613878</prism:doi>
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1613878?af=R</prism:url>
       <prism:copyright>© 2019 Jessica Ulmer</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1690695?af=R">
+      <title>Visualizing Chinese Immigrants in the U.S. Statistical Atlases: A Case Study in Charting and Mapping the Other(s)</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1690695?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Visualizing Chinese Immigrants in the U.S. Statistical Atlases: A Case Study in Charting and Mapping the Other(s)</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2019.1690695</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2019-11-14T10:48:29Z</dc:date>
+      <dc:rights>© 2019 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Li Li</dc:creator>
+      <prism:publicationName>Visualizing Chinese Immigrants in the U.S. Statistical Atlases: A Case Study in Charting and Mapping the Other(s)</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/10572252.2019.1690695</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1690695?af=R</prism:url>
+      <prism:copyright>© 2019 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689297?af=R">
+      <title>Emotion and the Economy of Genre in a Design Presentation</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689297?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Emotion and the Economy of Genre in a Design Presentation</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2019.1689297</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2019-11-11T07:30:33Z</dc:date>
+      <dc:rights>© 2019 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>J. Scott Weedon</dc:creator>
+      <prism:publicationName>Emotion and the Economy of Genre in a Design Presentation</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/10572252.2019.1689297</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689297?af=R</prism:url>
+      <prism:copyright>© 2019 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689089?af=R">
+      <title>Creating intelligent content with lightweight DITA</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689089?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Creating intelligent content with lightweight DITA</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2019.1689089</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2019-11-07T12:53:22Z</dc:date>
+      <dc:rights>© 2019 Erin Kathleen Bahl</dc:rights>
+      <dc:creator>Erin Kathleen Bahl</dc:creator>
+      <prism:publicationName>Creating intelligent content with lightweight DITA</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>3</prism:endingPage>
+      <prism:doi>10.1080/10572252.2019.1689089</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689089?af=R</prism:url>
+      <prism:copyright>© 2019 Erin Kathleen Bahl</prism:copyright>
    </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689091?af=R">
       <title>Wicked, Incomplete, and Uncertain: User Support in the Wild and the Role of Technical Communication</title>
@@ -698,4 +755,4 @@
       <prism:copyright>© 2019 Hannah L. Stevens</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1573164877-->
+<!-- cached:  1574176617-->
