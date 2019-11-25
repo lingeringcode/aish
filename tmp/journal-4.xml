@@ -27,6 +27,9 @@
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1613333?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2018.1521639?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1613878?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689298?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1692909?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1692910?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1690695?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689297?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689089?af=R"/>
@@ -349,6 +352,61 @@
       <prism:doi>10.1080/10572252.2019.1613878</prism:doi>
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1613878?af=R</prism:url>
       <prism:copyright>© 2019 Jessica Ulmer</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689298?af=R">
+      <title>The News from Mars</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689298?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The News from Mars</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2019.1689298</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2019-11-21T10:33:31Z</dc:date>
+      <dc:rights>© 2019 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Ryan Weber</dc:creator>
+      <prism:publicationName>The News from Mars</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>19</prism:endingPage>
+      <prism:doi>10.1080/10572252.2019.1689298</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689298?af=R</prism:url>
+      <prism:copyright>© 2019 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1692909?af=R">
+      <title>Reconsidering an Essential Premise in Kessler, M. M., &amp; Graham, S. S. (2018). Terminal Node Problems: ANT 2.0 and Prescription Drug Labels. Technical Communication Quarterly, 27(2), 121-136</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1692909?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Reconsidering an Essential Premise in Kessler, M. M., &amp; Graham, S. S. (2018). Terminal Node Problems: ANT 2.0 and Prescription Drug Labels. Technical Communication Quarterly, 27(2), 121-136</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2019.1692909</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2019-11-20T12:11:36Z</dc:date>
+      <dc:rights>© 2019 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Cathleen O’Connell</dc:creator>
+      <prism:publicationName>Reconsidering an Essential Premise in Kessler, M. M., &amp; Graham, S. S. (2018). Terminal Node Problems: ANT 2.0 and Prescription Drug Labels. Technical Communication Quarterly, 27(2), 121-136</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>3</prism:endingPage>
+      <prism:doi>10.1080/10572252.2019.1692909</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1692909?af=R</prism:url>
+      <prism:copyright>© 2019 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1692910?af=R">
+      <title>The Path Intended and the Path Taken: A Rejoinder to Dr. O’Connell</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1692910?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The Path Intended and the Path Taken: A Rejoinder to Dr. O’Connell</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2019.1692910</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2019-11-20T12:15:19Z</dc:date>
+      <dc:rights>© 2019 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Molly Margaret Kessler</dc:creator>
+      <dc:creator>S. Scott Graham</dc:creator>
+      <prism:publicationName>The Path Intended and the Path Taken: A Rejoinder to Dr. O’Connell</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>3</prism:endingPage>
+      <prism:doi>10.1080/10572252.2019.1692910</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1692910?af=R</prism:url>
+      <prism:copyright>© 2019 Association of Teachers of Technical Writing</prism:copyright>
    </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1690695?af=R">
       <title>Visualizing Chinese Immigrants in the U.S. Statistical Atlases: A Case Study in Charting and Mapping the Other(s)</title>
@@ -755,4 +813,4 @@
       <prism:copyright>© 2019 Hannah L. Stevens</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1574176617-->
+<!-- cached:  1574692733-->

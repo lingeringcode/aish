@@ -18,6 +18,7 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319862512?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319861648?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319862779?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319880511?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319882325?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319882313?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319880509?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
@@ -119,6 +120,24 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319862779?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2019 SAGE Publications</prism:copyright>
    </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319880511?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Examining African American Girls’ Literate Intersectional Identities Through Journal Entries and Discussions About STEM</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319880511?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;This article examines how three African American girls, ages 10 to 18, used journaling and interviews to better understand science, technology, engineering, and mathematics (STEM) as part of their literate identities. Drawing on prior work about literate identities, the authors introduce the concept of literate intersectional identities, which describes how participants’ diverse histories, literacies, and identities traverse categories, communities, genres, and modes of meaning within the context of a STEAM workshop. The authors employed open and thematic coding to analyze the girls’ journal entries in an effort to answer a question: In what ways do African American girls’ journal writings and interviews about STEM reflect and influence their literate identities in a digital app coding workshop? Findings reveal how their writings about race, access, and the underrepresentation of women of color in STEM helped them make sense of their self-assurance, self-awareness, and agency as girls of color interested in STEM careers.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;This article examines how three African American girls, ages 10 to 18, used journaling and interviews to better understand science, technology, engineering, and mathematics (STEM) as part of their literate identities. Drawing on prior work about literate identities, the authors introduce the concept of literate intersectional identities, which describes how participants’ diverse histories, literacies, and identities traverse categories, communities, genres, and modes of meaning within the context of a STEAM workshop. The authors employed open and thematic coding to analyze the girls’ journal entries in an effort to answer a question: In what ways do African American girls’ journal writings and interviews about STEM reflect and influence their literate identities in a digital app coding workshop? Findings reveal how their writings about race, access, and the underrepresentation of women of color in STEM helped them make sense of their self-assurance, self-awareness, and agency as girls of color interested in STEM careers.</description>
+      <dc:title>Examining African American Girls’ Literate Intersectional Identities Through Journal Entries and Discussions About STEM</dc:title>
+      <dc:identifier>doi:10.1177/0741088319880511</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2019-11-21T05:17:51Z</dc:date>
+      <dc:rights>© 2019 SAGE Publications</dc:rights>
+      <dc:creator>Tisha Lewis Ellison</dc:creator>
+      <dc:creator>Bradley Robinson</dc:creator>
+      <dc:creator>Tairan Qiu</dc:creator>
+      <prism:publicationName>Examining African American Girls’ Literate Intersectional Identities Through Journal Entries and Discussions About STEM</prism:publicationName>
+      <prism:doi>10.1177/0741088319880511</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319880511?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2019 SAGE Publications</prism:copyright>
+   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319882325?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Toward Wayfinding: A Metaphor for Understanding Writing Experiences</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319882325?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
@@ -175,4 +194,4 @@
       <prism:copyright>© 2019 SAGE Publications</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1574176617-->
+<!-- cached:  1574692733-->
