@@ -14,116 +14,114 @@
       <prism:publicationName>Journal of Technical Writing and Communication</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619871213?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619871212?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619871218?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619871211?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619873139?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619865154?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619853266?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2019/jtwa_49_4/jtwa_49_4/20190906-01/jtwa_49_4.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2020/jtwa_50_1/jtwa_50_1/20191204-01/jtwa_50_1.cover.png">
       <title>Journal of Technical Writing and Communication</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2019/jtwa_49_4/jtwa_49_4/20190906-01/jtwa_49_4.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2020/jtwa_50_1/jtwa_50_1/20191204-01/jtwa_50_1.cover.png</url>
       <link>https://journals.sagepub.com/loi/jtwa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619871213?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>The Cultural Context for Communicating Care</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619871213?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, Page 367-382, October 2019. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 49, Issue 4, Page 367-382, October 2019. &lt;br/&gt;</description>
-      <dc:title>The Cultural Context for Communicating Care</dc:title>
-      <dc:identifier>doi:10.1177/0047281619871213</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>An Examination of the Book of Common Prayer as Technical Writing for an Oral–Aural Culture</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, Page 3-34, January 2020. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 50, Issue 1, Page 3-34, January 2020. &lt;br/&gt;</description>
+      <dc:title>An Examination of the Book of Common Prayer as Technical Writing for an Oral–Aural Culture</dc:title>
+      <dc:identifier>doi:10.1177/0047281618799103</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-09-06T04:40:55Z</dc:date>
+      <dc:date>2018-09-25T04:14:17Z</dc:date>
+      <dc:rights>© The Author(s) 2018</dc:rights>
+      <dc:creator>Drew Nathaniel Keane</dc:creator>
+      <prism:publicationName>An Examination of the Book of Common Prayer as Technical Writing for an Oral–Aural Culture</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>3</prism:startingPage>
+      <prism:endingPage>34</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281618799103</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2018</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Recreating the Scene: An Investigation of Police Report Writing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, Page 35-55, January 2020. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 50, Issue 1, Page 35-55, January 2020. &lt;br/&gt;</description>
+      <dc:title>Recreating the Scene: An Investigation of Police Report Writing</dc:title>
+      <dc:identifier>doi:10.1177/0047281618812441</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2018-11-19T04:44:39Z</dc:date>
+      <dc:rights>© The Author(s) 2018</dc:rights>
+      <dc:creator>Han Yu</dc:creator>
+      <dc:creator>Natalie Monas</dc:creator>
+      <prism:publicationName>Recreating the Scene: An Investigation of Police Report Writing</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>35</prism:startingPage>
+      <prism:endingPage>55</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281618812441</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2018</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Smart Home Technology Diffusion in a Living Laboratory</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, Page 56-90, January 2020. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 50, Issue 1, Page 56-90, January 2020. &lt;br/&gt;</description>
+      <dc:title>Smart Home Technology Diffusion in a Living Laboratory</dc:title>
+      <dc:identifier>doi:10.1177/0047281619847205</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-05-10T01:27:16Z</dc:date>
       <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>David Wright</dc:creator>
+      <dc:creator>Daniel B. Shank</dc:creator>
+      <prism:publicationName>Smart Home Technology Diffusion in a Living Laboratory</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>56</prism:startingPage>
+      <prism:endingPage>90</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281619847205</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>A Field-Wide Metasynthesis of Pedagogical Research in Technical and Professional Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, Page 91-118, January 2020. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 50, Issue 1, Page 91-118, January 2020. &lt;br/&gt;</description>
+      <dc:title>A Field-Wide Metasynthesis of Pedagogical Research in Technical and Professional Communication</dc:title>
+      <dc:identifier>doi:10.1177/0047281619853258</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2019-06-04T04:40:17Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Lisa Melonçon</dc:creator>
+      <dc:creator>Jeremy Rosselot-Merritt</dc:creator>
       <dc:creator>Kirk St.Amant</dc:creator>
-      <prism:publicationName>The Cultural Context for Communicating Care</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>367</prism:startingPage>
-      <prism:endingPage>382</prism:endingPage>
-      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619871213</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619871213?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619871212?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Rethinking Person-Centeredness: Contestations of Disability, Care, and Culture at the Social Service Application Interface</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619871212?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, Page 383-410, October 2019. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 49, Issue 4, Page 383-410, October 2019. &lt;br/&gt;</description>
-      <dc:title>Rethinking Person-Centeredness: Contestations of Disability, Care, and Culture at the Social Service Application Interface</dc:title>
-      <dc:identifier>doi:10.1177/0047281619871212</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-09-06T04:40:54Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Kari Campeau</dc:creator>
-      <prism:publicationName>Rethinking Person-Centeredness: Contestations of Disability, Care, and Culture at the Social Service Application Interface</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>383</prism:startingPage>
-      <prism:endingPage>410</prism:endingPage>
-      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619871212</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619871212?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619871218?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Constructing a Cultural Logic From a Swedish Context</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619871218?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, Page 411-432, October 2019. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 49, Issue 4, Page 411-432, October 2019. &lt;br/&gt;</description>
-      <dc:title>Constructing a Cultural Logic From a Swedish Context</dc:title>
-      <dc:identifier>doi:10.1177/0047281619871218</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-09-06T04:40:54Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Kristin Marie Bivens</dc:creator>
-      <prism:publicationName>Constructing a Cultural Logic From a Swedish Context</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>411</prism:startingPage>
-      <prism:endingPage>432</prism:endingPage>
-      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619871218</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619871218?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619871211?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Always Already Geopolitical: Trans Health Care and Global Tactical Technical Communication</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619871211?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/49/4"&gt;Volume 49, Issue 4&lt;/a&gt;, Page 433-457, October 2019. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 49, Issue 4, Page 433-457, October 2019. &lt;br/&gt;</description>
-      <dc:title>Always Already Geopolitical: Trans Health Care and Global Tactical Technical Communication</dc:title>
-      <dc:identifier>doi:10.1177/0047281619871211</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-09-06T04:40:52Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Avery C. Edenfield</dc:creator>
-      <dc:creator>Jared S. Colton</dc:creator>
-      <dc:creator>Steve Holmes</dc:creator>
-      <prism:publicationName>Always Already Geopolitical: Trans Health Care and Global Tactical Technical Communication</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>433</prism:startingPage>
-      <prism:endingPage>457</prism:endingPage>
-      <prism:coverDate>2019-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619871211</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619871211?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:publicationName>A Field-Wide Metasynthesis of Pedagogical Research in Technical and Professional Communication</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>91</prism:startingPage>
+      <prism:endingPage>118</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281619853258</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R">
@@ -226,73 +224,5 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619853266?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>A Field-Wide Metasynthesis of Pedagogical Research in Technical and Professional Communication</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>A Field-Wide Metasynthesis of Pedagogical Research in Technical and Professional Communication</dc:title>
-      <dc:identifier>doi:10.1177/0047281619853258</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-06-04T04:40:17Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Lisa Melonçon</dc:creator>
-      <dc:creator>Jeremy Rosselot-Merritt</dc:creator>
-      <dc:creator>Kirk St.Amant</dc:creator>
-      <prism:publicationName>A Field-Wide Metasynthesis of Pedagogical Research in Technical and Professional Communication</prism:publicationName>
-      <prism:doi>10.1177/0047281619853258</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Smart Home Technology Diffusion in a Living Laboratory</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Smart Home Technology Diffusion in a Living Laboratory</dc:title>
-      <dc:identifier>doi:10.1177/0047281619847205</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-05-10T01:27:16Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>David Wright</dc:creator>
-      <dc:creator>Daniel B. Shank</dc:creator>
-      <prism:publicationName>Smart Home Technology Diffusion in a Living Laboratory</prism:publicationName>
-      <prism:doi>10.1177/0047281619847205</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Recreating the Scene: An Investigation of Police Report Writing</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Recreating the Scene: An Investigation of Police Report Writing</dc:title>
-      <dc:identifier>doi:10.1177/0047281618812441</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2018-11-19T04:44:39Z</dc:date>
-      <dc:rights>© The Author(s) 2018</dc:rights>
-      <dc:creator>Han Yu</dc:creator>
-      <dc:creator>Natalie Monas</dc:creator>
-      <prism:publicationName>Recreating the Scene: An Investigation of Police Report Writing</prism:publicationName>
-      <prism:doi>10.1177/0047281618812441</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2018</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>An Examination of the Book of Common Prayer as Technical Writing for an Oral–Aural Culture</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>An Examination of the Book of Common Prayer as Technical Writing for an Oral–Aural Culture</dc:title>
-      <dc:identifier>doi:10.1177/0047281618799103</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2018-09-25T04:14:17Z</dc:date>
-      <dc:rights>© The Author(s) 2018</dc:rights>
-      <dc:creator>Drew Nathaniel Keane</dc:creator>
-      <prism:publicationName>An Examination of the Book of Common Prayer as Technical Writing for an Oral–Aural Culture</prism:publicationName>
-      <prism:doi>10.1177/0047281618799103</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281618799103?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2018</prism:copyright>
-   </item>
 </rdf:RDF>
-<!-- cached:  1574692732-->
+<!-- cached:  1575572108-->
