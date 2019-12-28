@@ -18,6 +18,8 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281618812441?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619847205?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
@@ -40,7 +42,7 @@
       <dc:title>An Examination of the Book of Common Prayer as Technical Writing for an Oral–Aural Culture</dc:title>
       <dc:identifier>doi:10.1177/0047281618799103</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2018-09-25T04:14:17Z</dc:date>
+      <dc:date>2020-01-01T08:00:00Z</dc:date>
       <dc:rights>© The Author(s) 2018</dc:rights>
       <dc:creator>Drew Nathaniel Keane</dc:creator>
       <prism:publicationName>An Examination of the Book of Common Prayer as Technical Writing for an Oral–Aural Culture</prism:publicationName>
@@ -62,7 +64,7 @@
       <dc:title>Recreating the Scene: An Investigation of Police Report Writing</dc:title>
       <dc:identifier>doi:10.1177/0047281618812441</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2018-11-19T04:44:39Z</dc:date>
+      <dc:date>2020-01-01T08:00:00Z</dc:date>
       <dc:rights>© The Author(s) 2018</dc:rights>
       <dc:creator>Han Yu</dc:creator>
       <dc:creator>Natalie Monas</dc:creator>
@@ -85,7 +87,7 @@
       <dc:title>Smart Home Technology Diffusion in a Living Laboratory</dc:title>
       <dc:identifier>doi:10.1177/0047281619847205</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-05-10T01:27:16Z</dc:date>
+      <dc:date>2020-01-01T08:00:00Z</dc:date>
       <dc:rights>© The Author(s) 2019</dc:rights>
       <dc:creator>David Wright</dc:creator>
       <dc:creator>Daniel B. Shank</dc:creator>
@@ -108,7 +110,7 @@
       <dc:title>A Field-Wide Metasynthesis of Pedagogical Research in Technical and Professional Communication</dc:title>
       <dc:identifier>doi:10.1177/0047281619853258</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-06-04T04:40:17Z</dc:date>
+      <dc:date>2020-01-01T08:00:00Z</dc:date>
       <dc:rights>© The Author(s) 2019</dc:rights>
       <dc:creator>Lisa Melonçon</dc:creator>
       <dc:creator>Jeremy Rosselot-Merritt</dc:creator>
@@ -124,6 +126,38 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619853258?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Research Video Abstracts in the Making: A Revised Move Analysis</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Research Video Abstracts in the Making: A Revised Move Analysis</dc:title>
+      <dc:identifier>doi:10.1177/0047281619894981</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date/>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Jianxin Liu</dc:creator>
+      <prism:publicationName>Research Video Abstracts in the Making: A Revised Move Analysis</prism:publicationName>
+      <prism:doi>10.1177/0047281619894981</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</dc:title>
+      <dc:identifier>doi:10.1177/0047281619892630</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date/>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Ryan Cheek</dc:creator>
+      <prism:publicationName>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</prism:publicationName>
+      <prism:doi>10.1177/0047281619892630</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
@@ -132,7 +166,7 @@
       <dc:title>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</dc:title>
       <dc:identifier>doi:10.1177/0047281619880286</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-11-06T09:32:43Z</dc:date>
+      <dc:date/>
       <dc:rights>© The Author(s) 2019</dc:rights>
       <dc:creator>Gustav Verhulsdonck</dc:creator>
       <dc:creator>Nadya Shalamova</dc:creator>
@@ -149,7 +183,7 @@
       <dc:title>What Happens When We Fail? Building Resilient Community-Based Research</dc:title>
       <dc:identifier>doi:10.1177/0047281619876292</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-10-15T07:08:03Z</dc:date>
+      <dc:date/>
       <dc:rights>© The Author(s) 2019</dc:rights>
       <dc:creator>Allen Brizee</dc:creator>
       <prism:publicationName>What Happens When We Fail? Building Resilient Community-Based Research</prism:publicationName>
@@ -165,7 +199,7 @@
       <dc:title>A Day in the Life: Personas of Professional Communicators at Work</dc:title>
       <dc:identifier>doi:10.1177/0047281619868723</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-09-27T04:45:23Z</dc:date>
+      <dc:date/>
       <dc:rights>© The Author(s) 2019</dc:rights>
       <dc:creator>Eva Brumberger</dc:creator>
       <dc:creator>Claire Lauer</dc:creator>
@@ -182,7 +216,7 @@
       <dc:title>Beginning With Ganesha: The Founding and Early History of the Society for Technical Communication in India</dc:title>
       <dc:identifier>doi:10.1177/0047281619873139</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-08-30T01:09:04Z</dc:date>
+      <dc:date/>
       <dc:rights>© The Author(s) 2019</dc:rights>
       <dc:creator>Breeanne Matheson</dc:creator>
       <prism:publicationName>Beginning With Ganesha: The Founding and Early History of the Society for Technical Communication in India</prism:publicationName>
@@ -198,7 +232,7 @@
       <dc:title>Writing, in English, for Publication in Science and Technology, and Policy: The Example of Nuclear Security</dc:title>
       <dc:identifier>doi:10.1177/0047281619865154</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-07-25T09:14:14Z</dc:date>
+      <dc:date/>
       <dc:rights>© The Author(s) 2019</dc:rights>
       <dc:creator>Russel Hirst</dc:creator>
       <prism:publicationName>Writing, in English, for Publication in Science and Technology, and Policy: The Example of Nuclear Security</prism:publicationName>
@@ -214,7 +248,7 @@
       <dc:title>High-Impact Civic Engagement: Outcomes of Community-Based Research in Technical Writing Courses</dc:title>
       <dc:identifier>doi:10.1177/0047281619853266</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-06-12T04:24:42Z</dc:date>
+      <dc:date/>
       <dc:rights>© The Author(s) 2019</dc:rights>
       <dc:creator>Allen Brizee</dc:creator>
       <dc:creator>Paola Pascual-Ferrá</dc:creator>
@@ -225,4 +259,4 @@
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1575572108-->
+<!-- cached:  1577535666-->
