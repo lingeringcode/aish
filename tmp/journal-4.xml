@@ -26,6 +26,8 @@
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669961?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1613335?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669967?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713405?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713404?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689298?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689297?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689089?af=R"/>
@@ -314,6 +316,53 @@
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669967?af=R</prism:url>
       <prism:copyright>© 2019 Chenchen Cornblatt</prism:copyright>
    </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713405?af=R">
+      <title>A Collaborative Longitudinal Design for Supporting Writing Pedagogies of STEM Faculty</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713405?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A Collaborative Longitudinal Design for Supporting Writing Pedagogies of STEM Faculty</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2020.1713405</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date/>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>John R. Gallagher</dc:creator>
+      <dc:creator>Nicole Turnipseed</dc:creator>
+      <dc:creator>John Y. Yoritomo</dc:creator>
+      <dc:creator>Celia M. Elliott</dc:creator>
+      <dc:creator>S. Lance Cooper</dc:creator>
+      <dc:creator>John S. Popovics</dc:creator>
+      <dc:creator>Paul Prior</dc:creator>
+      <dc:creator>Julie L. Zilles</dc:creator>
+      <prism:publicationName>A Collaborative Longitudinal Design for Supporting Writing Pedagogies of STEM Faculty</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1713405</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713405?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713404?af=R">
+      <title>Toward a Radical Collaboratory Model for Graduate Research Education: A Collaborative Autoethnography</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713404?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Toward a Radical Collaboratory Model for Graduate Research Education: A Collaborative Autoethnography</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2020.1713404</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date/>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Jason Chew Kit Tham</dc:creator>
+      <dc:creator>Jeremy Rosselot-Merritt</dc:creator>
+      <dc:creator>Saveena (Chakrika) Veeramoothoo</dc:creator>
+      <dc:creator>Nathan William Bollig</dc:creator>
+      <dc:creator>Ann Hill Duin</dc:creator>
+      <prism:publicationName>Toward a Radical Collaboratory Model for Graduate Research Education: A Collaborative Autoethnography</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1713404</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713404?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689298?af=R">
       <title>The News from Mars</title>
       <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689298?af=R</link>
@@ -555,4 +604,4 @@
       <prism:copyright>© 2019 Beau Pihlaja</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1577535667-->
+<!-- cached:  1580580447-->
