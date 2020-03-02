@@ -14,17 +14,41 @@
       <prism:publicationName>New Media &amp; Society</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819856914?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819856922?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819856921?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819856909?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819856917?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819856927?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819856926?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819856912?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819856916?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819856919?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819856928?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819863413?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819863407?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819863408?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819864572?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819864691?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819864903?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819865720?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819867318?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819868678?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819859894?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819873862?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819876115?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819877816?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819878844?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820908256?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820911289?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820908606?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820906553?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820905068?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820907023?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820907025?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820907305?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820907083?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820905531?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820902449?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820907080?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820907092?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820904362?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820905295?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820905045?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820904697?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820904365?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820902682?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820903985?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820903976?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819891699?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820903990?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820902541?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
@@ -78,21 +102,16 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819879423?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819878818?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819879103?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819878844?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819878688?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819876944?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819875990?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819875708?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819867318?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819877816?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819876570?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819876237?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819876115?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819874473?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819874472?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819873644?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819872537?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819873862?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819872678?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819872539?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819873110?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
@@ -102,278 +121,702 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819868686?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819869611?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819870130?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819868678?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819865720?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819863408?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819863407?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819863413?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819864572?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819864903?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819864691?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819859894?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/nmsa/2020/nmsa_22_2/nmsa_22_2/20200120-01/nmsa_22_2.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/nmsa/2020/nmsa_22_3/nmsa_22_3/20200225-01/nmsa_22_3.cover.png">
       <title>New Media &amp; Society</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/nmsa/2020/nmsa_22_2/nmsa_22_2/20200120-01/nmsa_22_2.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/nmsa/2020/nmsa_22_3/nmsa_22_3/20200225-01/nmsa_22_3.cover.png</url>
       <link>https://journals.sagepub.com/loi/nmsa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819856914?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Epistemologies of digital journalism and the study of misinformation</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819856914?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/2"&gt;Volume 22, Issue 2&lt;/a&gt;, Page 205-212, February 2020. &lt;br/&gt;Journalists’ epistemological activities—presumed to provide factual and reliable public information—have made journalism one of the most influential knowledge-producing institutions in society. However, changes—both slow and sudden—related to the digitization of news media and the diffusion of misinformation are challenging the social role and authority of journalism. This special issue advances research in two emerging sub-fields: (1) epistemologies of digital journalism and (2) the study of misinformation. This editorial presents an introduction to the sub-fields and a summary of the nine papers included in the special issue.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 2, Page 205-212, February 2020. &lt;br/&gt;Journalists’ epistemological activities—presumed to provide factual and reliable public information—have made journalism one of the most influential knowledge-producing institutions in society. However, changes—both slow and sudden—related to the digitization of news media and the diffusion of misinformation are challenging the social role and authority of journalism. This special issue advances research in two emerging sub-fields: (1) epistemologies of digital journalism and (2) the study of misinformation. This editorial presents an introduction to the sub-fields and a summary of the nine papers included in the special issue.</description>
-      <dc:title>Epistemologies of digital journalism and the study of misinformation</dc:title>
-      <dc:identifier>10.1177/1461444819856914</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819863413?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Does really no one care? Analyzing the public engagement of communication scientists on Twitter</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819863413?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 387-408, March 2020. &lt;br/&gt;Recent publications question the public visibility of communication science as a discipline and its relevance for the broader society. To address this issue, we analyze the public engagement of communication scientists by using the example of their Twitter activity. We theoretically distinguish eight types of engagement and explore their empirical prevalence. The results show that a large share of communication is between peers, fulfilling social networking functions. Nevertheless, more than a quarter of the tweets are on political and social topics. In this way, communication scientists bring society into their scholarly community and thus act as bridge builders. They also reach diverse publics outside of science, such as followers from the field of economics. Our study thus highlights the diversity of connections between science and society and can offer a starting point to further research other fields of public engagement and the impact of the discipline on the public discourse.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 387-408, March 2020. &lt;br/&gt;Recent publications question the public visibility of communication science as a discipline and its relevance for the broader society. To address this issue, we analyze the public engagement of communication scientists by using the example of their Twitter activity. We theoretically distinguish eight types of engagement and explore their empirical prevalence. The results show that a large share of communication is between peers, fulfilling social networking functions. Nevertheless, more than a quarter of the tweets are on political and social topics. In this way, communication scientists bring society into their scholarly community and thus act as bridge builders. They also reach diverse publics outside of science, such as followers from the field of economics. Our study thus highlights the diversity of connections between science and society and can offer a starting point to further research other fields of public engagement and the impact of the discipline on the public discourse.</description>
+      <dc:title>Does really no one care? Analyzing the public engagement of communication scientists on Twitter</dc:title>
+      <dc:identifier>10.1177/1461444819863413</dc:identifier>
       <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-01-21T05:24:42Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Mats Ekström</dc:creator>
-      <dc:creator>Seth C. Lewis</dc:creator>
-      <dc:creator>Oscar Westlund</dc:creator>
-      <prism:publicationName>Epistemologies of digital journalism and the study of misinformation</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>205</prism:startingPage>
-      <prism:endingPage>212</prism:endingPage>
-      <prism:coverDate>2020-02-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-02-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819856914</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819856914?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819856922?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Social epistemology as a new paradigm for journalism and media studies</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819856922?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/2"&gt;Volume 22, Issue 2&lt;/a&gt;, Page 213-229, February 2020. &lt;br/&gt;Journalism and media studies lack robust theoretical concepts for studying journalistic knowledge generation. More specifically, conceptual challenges attend the emergence of big data and algorithmic sources of journalistic knowledge. A family of frameworks apt to this challenge is provided by “social epistemology”: a young philosophical field which regards society’s participation in knowledge generation as inevitable. Social epistemology offers the best of both worlds for journalists and media scholars: a thorough familiarity with biases and failures of obtaining knowledge, and a strong orientation toward best practices in the realm of knowledge-acquisition and truth-seeking. This article articulates the lessons of social epistemology for two central nodes of knowledge-acquisition in contemporary journalism: human-mediated knowledge and technology-mediated knowledge.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 2, Page 213-229, February 2020. &lt;br/&gt;Journalism and media studies lack robust theoretical concepts for studying journalistic knowledge generation. More specifically, conceptual challenges attend the emergence of big data and algorithmic sources of journalistic knowledge. A family of frameworks apt to this challenge is provided by “social epistemology”: a young philosophical field which regards society’s participation in knowledge generation as inevitable. Social epistemology offers the best of both worlds for journalists and media scholars: a thorough familiarity with biases and failures of obtaining knowledge, and a strong orientation toward best practices in the realm of knowledge-acquisition and truth-seeking. This article articulates the lessons of social epistemology for two central nodes of knowledge-acquisition in contemporary journalism: human-mediated knowledge and technology-mediated knowledge.</description>
-      <dc:title>Social epistemology as a new paradigm for journalism and media studies</dc:title>
-      <dc:identifier>10.1177/1461444819856922</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-01-21T05:24:29Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Yigal Godler</dc:creator>
-      <dc:creator>Zvi Reich</dc:creator>
-      <dc:creator>Boaz Miller</dc:creator>
-      <prism:publicationName>Social epistemology as a new paradigm for journalism and media studies</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>213</prism:startingPage>
-      <prism:endingPage>229</prism:endingPage>
-      <prism:coverDate>2020-02-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-02-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819856922</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819856922?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819856921?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Journalistic epistemology and digital news circulation: Infrastructure, circulation practices, and epistemic contests</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819856921?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/2"&gt;Volume 22, Issue 2&lt;/a&gt;, Page 230-246, February 2020. &lt;br/&gt;The digital media environment provokes many questions about the state of journalism as a knowledge producing practice. As a means to better assess how changing digital news practices connect to journalists’ epistemic authority, this article combines Ekström’s emphasis on journalistic epistemology as a social practice of knowledge production with Bødker’s conceptualization of circulation both as a form of information transmission and as a site for producing shared meanings about journalism. To develop a model for analyzing the epistemic consequences of digital news circulation, three components of circulation are explored: infrastructure, circulation practices, and epistemic contests. These components consider, respectively, the materiality of digital media, various usage patterns that arise, and public struggles over what news as a form of knowledge ought to look like and who should produce it.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 2, Page 230-246, February 2020. &lt;br/&gt;The digital media environment provokes many questions about the state of journalism as a knowledge producing practice. As a means to better assess how changing digital news practices connect to journalists’ epistemic authority, this article combines Ekström’s emphasis on journalistic epistemology as a social practice of knowledge production with Bødker’s conceptualization of circulation both as a form of information transmission and as a site for producing shared meanings about journalism. To develop a model for analyzing the epistemic consequences of digital news circulation, three components of circulation are explored: infrastructure, circulation practices, and epistemic contests. These components consider, respectively, the materiality of digital media, various usage patterns that arise, and public struggles over what news as a form of knowledge ought to look like and who should produce it.</description>
-      <dc:title>Journalistic epistemology and digital news circulation: Infrastructure, circulation practices, and epistemic contests</dc:title>
-      <dc:identifier>10.1177/1461444819856921</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-01-21T05:24:32Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Matt Carlson</dc:creator>
-      <prism:publicationName>Journalistic epistemology and digital news circulation: Infrastructure, circulation practices, and epistemic contests</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>230</prism:startingPage>
-      <prism:endingPage>246</prism:endingPage>
-      <prism:coverDate>2020-02-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-02-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819856921</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819856921?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819856909?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>News cartography and epistemic authority in the era of big data: Journalists as map-makers, map-users, and map-subjects</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819856909?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/2"&gt;Volume 22, Issue 2&lt;/a&gt;, Page 247-263, February 2020. &lt;br/&gt;Although the destabilization of journalism’s epistemic authority has been widely discussed, one critical element has been underexplored—the role of place. For journalists, claiming provenance over “where” has enabled control over a domain of knowledge, and one key means for doing so has been through news cartography, now rendered digitally. However, digital news cartography (digital news maps) exposes journalists’ epistemic authority to new challenges, from reliance on big data collected by others to maps about journalism itself that show journalists’ diminished authority over place. The case of digital news maps offers a chance to interrogate how journalists know what they know and how they know it and, more broadly, begs the question of how place and mapping must be considered in new media research.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 2, Page 247-263, February 2020. &lt;br/&gt;Although the destabilization of journalism’s epistemic authority has been widely discussed, one critical element has been underexplored—the role of place. For journalists, claiming provenance over “where” has enabled control over a domain of knowledge, and one key means for doing so has been through news cartography, now rendered digitally. However, digital news cartography (digital news maps) exposes journalists’ epistemic authority to new challenges, from reliance on big data collected by others to maps about journalism itself that show journalists’ diminished authority over place. The case of digital news maps offers a chance to interrogate how journalists know what they know and how they know it and, more broadly, begs the question of how place and mapping must be considered in new media research.</description>
-      <dc:title>News cartography and epistemic authority in the era of big data: Journalists as map-makers, map-users, and map-subjects</dc:title>
-      <dc:identifier>10.1177/1461444819856909</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-01-21T05:24:27Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Nikki Usher</dc:creator>
-      <prism:publicationName>News cartography and epistemic authority in the era of big data: Journalists as map-makers, map-users, and map-subjects</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>247</prism:startingPage>
-      <prism:endingPage>263</prism:endingPage>
-      <prism:coverDate>2020-02-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-02-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819856909</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819856909?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819856917?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Sustained journalist–audience reciprocity in a meso new-space: The case of a journalistic WhatsApp group</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819856917?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/2"&gt;Volume 22, Issue 2&lt;/a&gt;, Page 264-282, February 2020. &lt;br/&gt;By engaging with journalists in the networked media environment, audiences can play a role in shaping the epistemologies of journalism: how journalists know what they know, and communicate knowledge claims. While audiences have been offered opportunities to engage in news-production processes, ongoing reciprocal relationships between journalists and audiences online are rare. This study shows how sustained reciprocity takes place in a large-scale WhatsApp group opened by an Israeli journalist/blogger for her audience. Based on an analysis of group conversations, blog posts, and interviews, we demonstrate how a continuous conversation between the journalist and her loyal audience members allows the co-construction of journalistic knowledge across the news-production process. The online space that affords ongoing reciprocal exchanges is termed here a meso news-space, occurring between the private and public realms. This study contributes to understanding how sustained reciprocity can be accomplished and how it can promote shared benefits for journalists and community members.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 2, Page 264-282, February 2020. &lt;br/&gt;By engaging with journalists in the networked media environment, audiences can play a role in shaping the epistemologies of journalism: how journalists know what they know, and communicate knowledge claims. While audiences have been offered opportunities to engage in news-production processes, ongoing reciprocal relationships between journalists and audiences online are rare. This study shows how sustained reciprocity takes place in a large-scale WhatsApp group opened by an Israeli journalist/blogger for her audience. Based on an analysis of group conversations, blog posts, and interviews, we demonstrate how a continuous conversation between the journalist and her loyal audience members allows the co-construction of journalistic knowledge across the news-production process. The online space that affords ongoing reciprocal exchanges is termed here a meso news-space, occurring between the private and public realms. This study contributes to understanding how sustained reciprocity can be accomplished and how it can promote shared benefits for journalists and community members.</description>
-      <dc:title>Sustained journalist–audience reciprocity in a meso new-space: The case of a journalistic WhatsApp group</dc:title>
-      <dc:identifier>10.1177/1461444819856917</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-01-21T05:24:38Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Neta Kligler-Vilenchik</dc:creator>
-      <dc:creator>Ori Tenenboim</dc:creator>
-      <prism:publicationName>Sustained journalist–audience reciprocity in a meso new-space: The case of a journalistic WhatsApp group</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>264</prism:startingPage>
-      <prism:endingPage>282</prism:endingPage>
-      <prism:coverDate>2020-02-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-02-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819856917</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819856917?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819856927?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>‘We see more because we are not there’: Sourcing norms and routines in covering Iran and North Korea</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819856927?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/2"&gt;Volume 22, Issue 2&lt;/a&gt;, Page 283-299, February 2020. &lt;br/&gt;Based on interviews and newsroom visits, this study explores an epistemological hierarchy of sources and sourcing channels that differs substantially from the norms of more traditional forms of journalism. Two niche outlets covering North Korea and Iran are chosen for analysis. Because these countries are notoriously hostile to foreign correspondents, trustworthy news is often difficult to come by. Journalists working for these new outlets prefer digital platforms to firsthand observation, arguing the former are more capable of fending off misinformation prevalent “on the ground.” Also, there is extensive global collaboration that takes advantage of distance and time differences in order to produce more credible news about Iran and North Korea. Without having to worry about getting their access revoked, journalists can focus on issues that they consider important. Findings are consistent with what journalists have long known: It can be advantageous to see things with the added perspective of distance.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 2, Page 283-299, February 2020. &lt;br/&gt;Based on interviews and newsroom visits, this study explores an epistemological hierarchy of sources and sourcing channels that differs substantially from the norms of more traditional forms of journalism. Two niche outlets covering North Korea and Iran are chosen for analysis. Because these countries are notoriously hostile to foreign correspondents, trustworthy news is often difficult to come by. Journalists working for these new outlets prefer digital platforms to firsthand observation, arguing the former are more capable of fending off misinformation prevalent “on the ground.” Also, there is extensive global collaboration that takes advantage of distance and time differences in order to produce more credible news about Iran and North Korea. Without having to worry about getting their access revoked, journalists can focus on issues that they consider important. Findings are consistent with what journalists have long known: It can be advantageous to see things with the added perspective of distance.</description>
-      <dc:title>‘We see more because we are not there’: Sourcing norms and routines in covering Iran and North Korea</dc:title>
-      <dc:identifier>10.1177/1461444819856927</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-01-21T05:24:34Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Soomin Seo</dc:creator>
-      <prism:publicationName>‘We see more because we are not there’: Sourcing norms and routines in covering Iran and North Korea</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>283</prism:startingPage>
-      <prism:endingPage>299</prism:endingPage>
-      <prism:coverDate>2020-02-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-02-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819856927</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819856927?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819856926?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>The epistemology of live blogging</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819856926?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/2"&gt;Volume 22, Issue 2&lt;/a&gt;, Page 300-316, February 2020. &lt;br/&gt;This article proposes a typology of the epistemology of live blogging through an analysis of two live news blogs: Radio New Zealand (RNZ) News’ live blog of a significant earthquake in Aotearoa New Zealand in November 2016 and BBC News’ live blog of the Brexit referendum result in June 2016. We use these cases to draw out five features of the genre that we suggest may characterise other live news blogs. We demonstrate that these blogs tend to (1) produce a fragmentary narrative that (2) reflects particular moments in time, (3) curate an array of textual objects from a range of information sources to produce ‘networked balance’, (4) gain coherence from an often informal authorial voice or voices and (5) generate claims to knowledge of events which are simultaneously dynamic and fragile. This typology contributes to understanding journalism’s position within networked information spaces.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 2, Page 300-316, February 2020. &lt;br/&gt;This article proposes a typology of the epistemology of live blogging through an analysis of two live news blogs: Radio New Zealand (RNZ) News’ live blog of a significant earthquake in Aotearoa New Zealand in November 2016 and BBC News’ live blog of the Brexit referendum result in June 2016. We use these cases to draw out five features of the genre that we suggest may characterise other live news blogs. We demonstrate that these blogs tend to (1) produce a fragmentary narrative that (2) reflects particular moments in time, (3) curate an array of textual objects from a range of information sources to produce ‘networked balance’, (4) gain coherence from an often informal authorial voice or voices and (5) generate claims to knowledge of events which are simultaneously dynamic and fragile. This typology contributes to understanding journalism’s position within networked information spaces.</description>
-      <dc:title>The epistemology of live blogging</dc:title>
-      <dc:identifier>10.1177/1461444819856926</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-01-21T05:24:36Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Donald Matheson</dc:creator>
-      <dc:creator>Karin Wahl-Jorgensen</dc:creator>
-      <prism:publicationName>The epistemology of live blogging</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>300</prism:startingPage>
-      <prism:endingPage>316</prism:endingPage>
-      <prism:coverDate>2020-02-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-02-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819856926</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819856926?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819856912?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>‘Fake news’ as infrastructural uncanny</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819856912?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/2"&gt;Volume 22, Issue 2&lt;/a&gt;, Page 317-341, February 2020. &lt;br/&gt;In this article, we examine how the social disturbance precipitated by ‘fake news’ can be viewed as a kind of infrastructural uncanny. We suggest that the threat of problematic and viral junk news can raise existential questions about the routine circulation, engagement and monetisation of content through the Web and social media. Prompted by the unsettling effects associated with the ‘fake news’ scandal, we propose methodological tactics for exploring (1) the link economy and the ranking of content, (2) the like economy and the metrification of engagement and (3) the tracker economy and the commodification of attention. Rather than focusing on the misleading content of junk news, such tactics surface the infrastructural conditions of their circulation, enabling public interventions and experiments to interrogate, challenge and change their role in reconfiguring relations between different aspects of social, cultural, economic and political life.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 2, Page 317-341, February 2020. &lt;br/&gt;In this article, we examine how the social disturbance precipitated by ‘fake news’ can be viewed as a kind of infrastructural uncanny. We suggest that the threat of problematic and viral junk news can raise existential questions about the routine circulation, engagement and monetisation of content through the Web and social media. Prompted by the unsettling effects associated with the ‘fake news’ scandal, we propose methodological tactics for exploring (1) the link economy and the ranking of content, (2) the like economy and the metrification of engagement and (3) the tracker economy and the commodification of attention. Rather than focusing on the misleading content of junk news, such tactics surface the infrastructural conditions of their circulation, enabling public interventions and experiments to interrogate, challenge and change their role in reconfiguring relations between different aspects of social, cultural, economic and political life.</description>
-      <dc:title>‘Fake news’ as infrastructural uncanny</dc:title>
-      <dc:identifier>10.1177/1461444819856912</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-01-21T05:24:40Z</dc:date>
+      <dc:date>2019-07-27T09:15:41Z</dc:date>
       <dc:rights>© The Author(s) 2019</dc:rights>
       <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
-      <dc:creator>Jonathan Gray</dc:creator>
-      <dc:creator>Liliana Bounegru</dc:creator>
-      <dc:creator>Tommaso Venturini</dc:creator>
-      <prism:publicationName>‘Fake news’ as infrastructural uncanny</prism:publicationName>
+      <dc:creator>Jakob Jünger</dc:creator>
+      <dc:creator>Birte Fähnrich</dc:creator>
+      <prism:publicationName>Does really no one care? Analyzing the public engagement of communication scientists on Twitter</prism:publicationName>
       <prism:volume>22</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>317</prism:startingPage>
-      <prism:endingPage>341</prism:endingPage>
-      <prism:coverDate>2020-02-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-02-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819856912</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819856912?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:number>3</prism:number>
+      <prism:startingPage>387</prism:startingPage>
+      <prism:endingPage>408</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819863413</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819863413?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819856916?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Discipline and promote: Building infrastructure and managing algorithms in a “structured journalism” project by professional fact-checking groups</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819856916?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/2"&gt;Volume 22, Issue 2&lt;/a&gt;, Page 342-360, February 2020. &lt;br/&gt;News organizations have adapted in various ways to a digital media environment dominated by algorithmic gatekeepers such as search engines and social networks. This article dissects a campaign to actively shape that environment led by professional fact-checking organizations. We trace the development of the Share the Facts “widget,” a device designed to give fact-checks greater purchase in algorithmically governed media networks by driving adoption of a new data standard called ClaimReview. We show how “structured journalism” gave journalists a language for the social and technical challenges involved, and how this infrastructural technology mediates between fact-checkers, audiences, and platform companies. We argue that this standard-setting initiative exhibits both promotional and disciplining facets, offering greater distribution and impact to journalists while also defining their work in specific ways. Crucially, in this case, this disciplining influence reflects internal professional-institutional agendas in an emerging subfield of journalism as much as the demands of platform companies.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 2, Page 342-360, February 2020. &lt;br/&gt;News organizations have adapted in various ways to a digital media environment dominated by algorithmic gatekeepers such as search engines and social networks. This article dissects a campaign to actively shape that environment led by professional fact-checking organizations. We trace the development of the Share the Facts “widget,” a device designed to give fact-checks greater purchase in algorithmically governed media networks by driving adoption of a new data standard called ClaimReview. We show how “structured journalism” gave journalists a language for the social and technical challenges involved, and how this infrastructural technology mediates between fact-checkers, audiences, and platform companies. We argue that this standard-setting initiative exhibits both promotional and disciplining facets, offering greater distribution and impact to journalists while also defining their work in specific ways. Crucially, in this case, this disciplining influence reflects internal professional-institutional agendas in an emerging subfield of journalism as much as the demands of platform companies.</description>
-      <dc:title>Discipline and promote: Building infrastructure and managing algorithms in a “structured journalism” project by professional fact-checking groups</dc:title>
-      <dc:identifier>10.1177/1461444819856916</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819863407?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The audiobook circuit in digital publishing: Voicing the silent revolution</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819863407?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 409-428, March 2020. &lt;br/&gt;Digital Internet-distributed audiobooks are a surprising game changer in digital publishing. In recent years, audiobooks have moved from being a peripheral by-product of the printed book into the centre of digital publishing and reading, but are typically still ignored in publishing studies. This article raises the voice of the audiobook by giving it a privileged status in the current transformations of book publishing caused by digitization. We present an original model of the digital audiobook circuit, which is based on interviews and knowledge from the Danish market as part of a global industry, which makes it possible to reflect and adjust according to national variations. The model is framed by theoretical discussions of values and dynamics within the digital audiobook circuit in general.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 409-428, March 2020. &lt;br/&gt;Digital Internet-distributed audiobooks are a surprising game changer in digital publishing. In recent years, audiobooks have moved from being a peripheral by-product of the printed book into the centre of digital publishing and reading, but are typically still ignored in publishing studies. This article raises the voice of the audiobook by giving it a privileged status in the current transformations of book publishing caused by digitization. We present an original model of the digital audiobook circuit, which is based on interviews and knowledge from the Danish market as part of a global industry, which makes it possible to reflect and adjust according to national variations. The model is framed by theoretical discussions of values and dynamics within the digital audiobook circuit in general.</description>
+      <dc:title>The audiobook circuit in digital publishing: Voicing the silent revolution</dc:title>
+      <dc:identifier>10.1177/1461444819863407</dc:identifier>
       <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-01-21T05:24:41Z</dc:date>
+      <dc:date>2019-08-02T10:29:25Z</dc:date>
       <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Lucas Graves</dc:creator>
-      <dc:creator>CW Anderson</dc:creator>
-      <prism:publicationName>Discipline and promote: Building infrastructure and managing algorithms in a “structured journalism” project by professional fact-checking groups</prism:publicationName>
+      <dc:creator>Iben Have</dc:creator>
+      <dc:creator>Birgitte Stougaard Pedersen</dc:creator>
+      <prism:publicationName>The audiobook circuit in digital publishing: Voicing the silent revolution</prism:publicationName>
       <prism:volume>22</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>342</prism:startingPage>
-      <prism:endingPage>360</prism:endingPage>
-      <prism:coverDate>2020-02-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-02-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819856916</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819856916?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:number>3</prism:number>
+      <prism:startingPage>409</prism:startingPage>
+      <prism:endingPage>428</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819863407</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819863407?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819856919?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Personal epistemologies of the media: Selective criticality, pragmatic trust, and competence–confidence in navigating media repertoires in the digital age</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819856919?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/2"&gt;Volume 22, Issue 2&lt;/a&gt;, Page 361-377, February 2020. &lt;br/&gt;While the perils of social media, fake news, and an alleged distrust in legacy media have attained considerable public attention, the implications of these public narratives for their audiences have remained understudied. The aim of this article is to identify consequences of an emerged “fake news and post truth-era-narrative” for media users’ personal epistemologies, media beliefs, and news navigation practices from a media repertoire perspective. Forty-nine in-depth media-biographical interviews with people from three different age groups and with different media repertoires were conducted. Based on the study, the three interrelated dimensions (1) selective criticality, (2) pragmatic trust, and (3) competence–confidence were developed to analyze users’ media and news navigation. These three dimensions can be applied to other scenarios to investigate how people navigate their media repertoires and interact with the news in general.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 2, Page 361-377, February 2020. &lt;br/&gt;While the perils of social media, fake news, and an alleged distrust in legacy media have attained considerable public attention, the implications of these public narratives for their audiences have remained understudied. The aim of this article is to identify consequences of an emerged “fake news and post truth-era-narrative” for media users’ personal epistemologies, media beliefs, and news navigation practices from a media repertoire perspective. Forty-nine in-depth media-biographical interviews with people from three different age groups and with different media repertoires were conducted. Based on the study, the three interrelated dimensions (1) selective criticality, (2) pragmatic trust, and (3) competence–confidence were developed to analyze users’ media and news navigation. These three dimensions can be applied to other scenarios to investigate how people navigate their media repertoires and interact with the news in general.</description>
-      <dc:title>Personal epistemologies of the media: Selective criticality, pragmatic trust, and competence–confidence in navigating media repertoires in the digital age</dc:title>
-      <dc:identifier>10.1177/1461444819856919</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819863408?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The curiosity effect: Information seeking in the contemporary news environment</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819863408?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 429-448, March 2020. &lt;br/&gt;This research investigates how digital news headlines influence contemporary news information seeking. In two studies (a lab experiment and a field test), we examine how the presentation of news information—traditional, summary news headlines or clickbait, curiosity news headlines—influences the attitudinal and behavioral components of news seeking. Study 1 models the news-seeking process, finding that summary headlines heighten perceptions of headline information adequacy, which increase expectations that an article will provide clear information, which in turn increase anticipated audience engagement with news compared to some curiosity headlines. Study 2 determines that individuals’ selection behavior on nine local newspaper websites also favors summary headlines. The findings encourage researchers to employ information-seeking mechanisms in understanding news selection decisions.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 429-448, March 2020. &lt;br/&gt;This research investigates how digital news headlines influence contemporary news information seeking. In two studies (a lab experiment and a field test), we examine how the presentation of news information—traditional, summary news headlines or clickbait, curiosity news headlines—influences the attitudinal and behavioral components of news seeking. Study 1 models the news-seeking process, finding that summary headlines heighten perceptions of headline information adequacy, which increase expectations that an article will provide clear information, which in turn increase anticipated audience engagement with news compared to some curiosity headlines. Study 2 determines that individuals’ selection behavior on nine local newspaper websites also favors summary headlines. The findings encourage researchers to employ information-seeking mechanisms in understanding news selection decisions.</description>
+      <dc:title>The curiosity effect: Information seeking in the contemporary news environment</dc:title>
+      <dc:identifier>10.1177/1461444819863408</dc:identifier>
       <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-01-21T05:24:38Z</dc:date>
+      <dc:date>2019-08-06T09:33:20Z</dc:date>
       <dc:rights>© The Author(s) 2019</dc:rights>
-      <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/"/>
-      <dc:creator>Christian Schwarzenegger</dc:creator>
-      <prism:publicationName>Personal epistemologies of the media: Selective criticality, pragmatic trust, and competence–confidence in navigating media repertoires in the digital age</prism:publicationName>
+      <dc:creator>Joshua M Scacco</dc:creator>
+      <dc:creator>Ashley Muddiman</dc:creator>
+      <prism:publicationName>The curiosity effect: Information seeking in the contemporary news environment</prism:publicationName>
       <prism:volume>22</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>361</prism:startingPage>
-      <prism:endingPage>377</prism:endingPage>
-      <prism:coverDate>2020-02-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-02-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819856919</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819856919?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:number>3</prism:number>
+      <prism:startingPage>429</prism:startingPage>
+      <prism:endingPage>448</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819863408</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819863408?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819856928?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Commentary: Digitization, climate change, and the potential for online workshops</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819856928?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/2"&gt;Volume 22, Issue 2&lt;/a&gt;, Page 378-383, February 2020. &lt;br/&gt;A key activity in the formation of this Special Issue of New Media &amp;amp; Society was the organizing of an online workshop: “Truth, facts, and fake: The shifting epistemologies of news in a digital age.” The event was an experiment in exploring the possibilities of organizing conferences in ways that are more sustainable in terms of climate, time, and money, and in seeing whether the exchange of ideas could be improved by moving beyond conventional in-person approaches. Such conferences are rare despite advancements in digitization and despite the many problems surrounding climate change that call into question the sustainability of frequent international air travel. This commentary presents the platform used (which is now available and free for others to use), our experiences from the conference, and our reflections on the importance of taking the scientific conclusions on climate change seriously also in the organization of our own research activities.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 2, Page 378-383, February 2020. &lt;br/&gt;A key activity in the formation of this Special Issue of New Media &amp; Society was the organizing of an online workshop: “Truth, facts, and fake: The shifting epistemologies of news in a digital age.” The event was an experiment in exploring the possibilities of organizing conferences in ways that are more sustainable in terms of climate, time, and money, and in seeing whether the exchange of ideas could be improved by moving beyond conventional in-person approaches. Such conferences are rare despite advancements in digitization and despite the many problems surrounding climate change that call into question the sustainability of frequent international air travel. This commentary presents the platform used (which is now available and free for others to use), our experiences from the conference, and our reflections on the importance of taking the scientific conclusions on climate change seriously also in the organization of our own research activities.</description>
-      <dc:title>Commentary: Digitization, climate change, and the potential for online workshops</dc:title>
-      <dc:identifier>10.1177/1461444819856928</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819864572?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Tweeting Grenfell: Discourse and networks in critical constructions of British Muslim social boundaries on social media</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819864572?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 449-469, March 2020. &lt;br/&gt;The Grenfell fire has yet to be analysed to understand the event’s implications in relation to construction of social boundaries for British Muslims. In this current research, two methodological approaches are applied to gain understandings of social boundary construction on twitter: thematic analysis of the content of tweets and social network analysis (SNA) of how messages are diffused and contested. Twitter is shown to be an important platform in spreading positive narratives about Muslims during the fire, enabling individuals to spontaneously contest fake news and hate narratives. Social media acts counter to established knowledge, demonstrating that it is not, per se, a conduit for fake news and hate speech. Furthermore, it demonstrates how twitter offers Muslims an international space to voice and articulate themselves where they can be influential in debates that effect Muslim diasporas in other national contexts.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 449-469, March 2020. &lt;br/&gt;The Grenfell fire has yet to be analysed to understand the event’s implications in relation to construction of social boundaries for British Muslims. In this current research, two methodological approaches are applied to gain understandings of social boundary construction on twitter: thematic analysis of the content of tweets and social network analysis (SNA) of how messages are diffused and contested. Twitter is shown to be an important platform in spreading positive narratives about Muslims during the fire, enabling individuals to spontaneously contest fake news and hate narratives. Social media acts counter to established knowledge, demonstrating that it is not, per se, a conduit for fake news and hate speech. Furthermore, it demonstrates how twitter offers Muslims an international space to voice and articulate themselves where they can be influential in debates that effect Muslim diasporas in other national contexts.</description>
+      <dc:title>Tweeting Grenfell: Discourse and networks in critical constructions of British Muslim social boundaries on social media</dc:title>
+      <dc:identifier>10.1177/1461444819864572</dc:identifier>
       <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-01-21T05:24:29Z</dc:date>
+      <dc:date>2019-07-26T09:16:05Z</dc:date>
       <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Mats Ekstrom</dc:creator>
-      <dc:creator>Seth C. Lewis</dc:creator>
-      <dc:creator>Amanda Waldenström</dc:creator>
-      <dc:creator>Oscar Westlund</dc:creator>
-      <prism:publicationName>Commentary: Digitization, climate change, and the potential for online workshops</prism:publicationName>
+      <dc:creator>Joseph Downing</dc:creator>
+      <dc:creator>Richard Dron</dc:creator>
+      <prism:publicationName>Tweeting Grenfell: Discourse and networks in critical constructions of British Muslim social boundaries on social media</prism:publicationName>
       <prism:volume>22</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>378</prism:startingPage>
-      <prism:endingPage>383</prism:endingPage>
-      <prism:coverDate>2020-02-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-02-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819856928</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819856928?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:number>3</prism:number>
+      <prism:startingPage>449</prism:startingPage>
+      <prism:endingPage>469</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819864572</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819864572?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819864691?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Time to read: Exploring the timespaces of subscription-based audiobooks</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819864691?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 470-488, March 2020. &lt;br/&gt;With remediation of the printed book into audiobook subscription services, reading by listening is becoming a popular alternative to reading by seeing. This article explores when people read by listening and whether there may be a shift regarding the places and times people read by listening rather than by seeing. Based on a considerable dataset from a Swedish subscription service for digital books, this article reveals that audiobook reading takes place at somewhat different times than expected and that subscribers read significant amounts each day. The findings indicate that the remediation into reading by listening using digital audiobooks may close the gender gap common in reading, as the reading practices of men and women are very similar, with men even reading slightly more than women. The reading practices of young adults are also similar to the larger population. Furthermore, the concepts stationary reading, mobile reading and stationary/mobile reading are introduced.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 470-488, March 2020. &lt;br/&gt;With remediation of the printed book into audiobook subscription services, reading by listening is becoming a popular alternative to reading by seeing. This article explores when people read by listening and whether there may be a shift regarding the places and times people read by listening rather than by seeing. Based on a considerable dataset from a Swedish subscription service for digital books, this article reveals that audiobook reading takes place at somewhat different times than expected and that subscribers read significant amounts each day. The findings indicate that the remediation into reading by listening using digital audiobooks may close the gender gap common in reading, as the reading practices of men and women are very similar, with men even reading slightly more than women. The reading practices of young adults are also similar to the larger population. Furthermore, the concepts stationary reading, mobile reading and stationary/mobile reading are introduced.</description>
+      <dc:title>Time to read: Exploring the timespaces of subscription-based audiobooks</dc:title>
+      <dc:identifier>10.1177/1461444819864691</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-07-18T06:24:11Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Elisa Tattersall Wallin</dc:creator>
+      <dc:creator>Jan Nolin</dc:creator>
+      <prism:publicationName>Time to read: Exploring the timespaces of subscription-based audiobooks</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>470</prism:startingPage>
+      <prism:endingPage>488</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819864691</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819864691?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819864903?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Tinder’s lesbian digital imaginary: Investigating (im)permeable boundaries of sexual identity on a popular dating app</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819864903?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 489-506, March 2020. &lt;br/&gt;Dating apps have received rapid uptake, with Tinder as one of the most popular apps in the heterosexual market. However, little research has investigated the experiences of women seeking women (WSW) on this app. This article combines two interview studies of WSW in Australia, Canada, and the United Kingdom to investigate their self-presentations of sexual identity on Tinder. By configuring settings to “seeking women,” participants perceived they were entering a space conducive to finding WSW. However, men, couples, and heterosexual women permeated this space, heightening the need for participants to signal non-heterosexual identity. Their signals fused references to lesbian and queer culture with Tinder’s infrastructure to evoke a digital imaginary, as a routinized set of practices imagined to resonate with a shared community. Although signals within this digital imaginary were sometimes playful and ambiguous, their default toward a recognizable lesbian identity often rendered other sexual or gender identities invisible.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 489-506, March 2020. &lt;br/&gt;Dating apps have received rapid uptake, with Tinder as one of the most popular apps in the heterosexual market. However, little research has investigated the experiences of women seeking women (WSW) on this app. This article combines two interview studies of WSW in Australia, Canada, and the United Kingdom to investigate their self-presentations of sexual identity on Tinder. By configuring settings to “seeking women,” participants perceived they were entering a space conducive to finding WSW. However, men, couples, and heterosexual women permeated this space, heightening the need for participants to signal non-heterosexual identity. Their signals fused references to lesbian and queer culture with Tinder’s infrastructure to evoke a digital imaginary, as a routinized set of practices imagined to resonate with a shared community. Although signals within this digital imaginary were sometimes playful and ambiguous, their default toward a recognizable lesbian identity often rendered other sexual or gender identities invisible.</description>
+      <dc:title>Tinder’s lesbian digital imaginary: Investigating (im)permeable boundaries of sexual identity on a popular dating app</dc:title>
+      <dc:identifier>10.1177/1461444819864903</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-07-24T03:35:04Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Lindsay Ferris</dc:creator>
+      <dc:creator>Stefanie Duguay</dc:creator>
+      <prism:publicationName>Tinder’s lesbian digital imaginary: Investigating (im)permeable boundaries of sexual identity on a popular dating app</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>489</prism:startingPage>
+      <prism:endingPage>506</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819864903</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819864903?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819865720?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Self-transcendent emotions and social media: Exploring the content and consumers of inspirational Facebook posts</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819865720?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 507-527, March 2020. &lt;br/&gt;Although a great deal of research has examined the potential negative effects of Facebook, studies also show that Facebook use can lead to various positive effects. This study builds on this positive effects scholarship: together, the two studies presented herein aim to provide an understanding of the inspirational content available on Facebook and the way social media users in the United States encounter, recall, and interact with this content. Results from the quantitative content analysis in Study 1 show that inspirational Facebook posts contain similar frequencies of hope and appreciation of beauty and excellent elicitors when compared with other forms of media and social media. Results from the national survey conducted in Study 2 show that social media users are most often inspired by portrayals of kindness and overcoming obstacles and that Facebook users did not report different sharing behavior as compared with users of other social media sites.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 507-527, March 2020. &lt;br/&gt;Although a great deal of research has examined the potential negative effects of Facebook, studies also show that Facebook use can lead to various positive effects. This study builds on this positive effects scholarship: together, the two studies presented herein aim to provide an understanding of the inspirational content available on Facebook and the way social media users in the United States encounter, recall, and interact with this content. Results from the quantitative content analysis in Study 1 show that inspirational Facebook posts contain similar frequencies of hope and appreciation of beauty and excellent elicitors when compared with other forms of media and social media. Results from the national survey conducted in Study 2 show that social media users are most often inspired by portrayals of kindness and overcoming obstacles and that Facebook users did not report different sharing behavior as compared with users of other social media sites.</description>
+      <dc:title>Self-transcendent emotions and social media: Exploring the content and consumers of inspirational Facebook posts</dc:title>
+      <dc:identifier>10.1177/1461444819865720</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-08-12T09:23:07Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Katherine R Dale</dc:creator>
+      <dc:creator>Arthur A Raney</dc:creator>
+      <dc:creator>Qihao Ji</dc:creator>
+      <dc:creator>Sophie H Janicke-Bowles</dc:creator>
+      <dc:creator>Joshua Baldwin</dc:creator>
+      <dc:creator>Jerrica T Rowlett</dc:creator>
+      <dc:creator>Cen Wang</dc:creator>
+      <dc:creator>Mary Beth Oliver</dc:creator>
+      <prism:publicationName>Self-transcendent emotions and social media: Exploring the content and consumers of inspirational Facebook posts</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>507</prism:startingPage>
+      <prism:endingPage>527</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819865720</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819865720?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819867318?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Visualizing teens and technology: A social semiotic analysis of stock photography and news media imagery</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819867318?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 528-549, March 2020. &lt;br/&gt;Previous research on verbal representations shows how the news media consistently depicts young people’s uses of digital media in a narrow, negative light. In this article, we present an innovative methodology for demonstrating how young people and their digital practices are visually depicted. We focus on stock photography produced by the commercial image banks which source the news media with much of its imagery. Following an indicative analysis of news media images, we present a social semiotic analysis (grounded also in a descriptive content analysis) of a dataset of 600 stock photos top-sliced from three major image banks. By pinpointing dominant representational, compositional and interpersonal meanings, we show how image banks and, in turn, the news media produce a rather pessimistic metadiscursive framing of ‘teens and technology’. These influential visualizations are often reductionistic – consistently centering technologies over relationships; they are also problematic in, for example, their inexplicably gendered and classist assumptions.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 528-549, March 2020. &lt;br/&gt;Previous research on verbal representations shows how the news media consistently depicts young people’s uses of digital media in a narrow, negative light. In this article, we present an innovative methodology for demonstrating how young people and their digital practices are visually depicted. We focus on stock photography produced by the commercial image banks which source the news media with much of its imagery. Following an indicative analysis of news media images, we present a social semiotic analysis (grounded also in a descriptive content analysis) of a dataset of 600 stock photos top-sliced from three major image banks. By pinpointing dominant representational, compositional and interpersonal meanings, we show how image banks and, in turn, the news media produce a rather pessimistic metadiscursive framing of ‘teens and technology’. These influential visualizations are often reductionistic – consistently centering technologies over relationships; they are also problematic in, for example, their inexplicably gendered and classist assumptions.</description>
+      <dc:title>Visualizing teens and technology: A social semiotic analysis of stock photography and news media imagery</dc:title>
+      <dc:identifier>10.1177/1461444819867318</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-09-19T09:47:09Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Crispin Thurlow</dc:creator>
+      <dc:creator>Giorgia Aiello</dc:creator>
+      <dc:creator>Lara Portmann</dc:creator>
+      <prism:publicationName>Visualizing teens and technology: A social semiotic analysis of stock photography and news media imagery</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>528</prism:startingPage>
+      <prism:endingPage>549</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819867318</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819867318?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819868678?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Perceiving education from Facebook profile pictures</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819868678?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 550-570, March 2020. &lt;br/&gt;Our upbringing and education influence not only how we present and distinguish ourselves in the social world but also how we perceive others. We apply this central sociological idea to the social media context. We conduct a large-scale online study to investigate whether observers can correctly guess the education of others from their Facebook profile pictures. Using the binomial test and cross-classified mixed-effects models, we show that observers can assess the education of depicted persons better than chance, especially when they share the same educational background and have experience with the social media. We also find that posting pictures of outdoor activities is a strong signal of having higher education, while professional photographs can obscure education signals. The findings expand our knowledge of social interaction and self-expression online and offer new insights for understanding social influence on social media.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 550-570, March 2020. &lt;br/&gt;Our upbringing and education influence not only how we present and distinguish ourselves in the social world but also how we perceive others. We apply this central sociological idea to the social media context. We conduct a large-scale online study to investigate whether observers can correctly guess the education of others from their Facebook profile pictures. Using the binomial test and cross-classified mixed-effects models, we show that observers can assess the education of depicted persons better than chance, especially when they share the same educational background and have experience with the social media. We also find that posting pictures of outdoor activities is a strong signal of having higher education, while professional photographs can obscure education signals. The findings expand our knowledge of social interaction and self-expression online and offer new insights for understanding social influence on social media.</description>
+      <dc:title>Perceiving education from Facebook profile pictures</dc:title>
+      <dc:identifier>10.1177/1461444819868678</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-08-16T05:59:06Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Michael V. Reiss</dc:creator>
+      <dc:creator>Milena Tsvetkova</dc:creator>
+      <prism:publicationName>Perceiving education from Facebook profile pictures</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>550</prism:startingPage>
+      <prism:endingPage>570</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819868678</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819868678?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819859894?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Online trolling and its perpetrators: Under the cyberbridge</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819859894?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 571-573, March 2020. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 571-573, March 2020. &lt;br/&gt;</description>
+      <dc:title>Online trolling and its perpetrators: Under the cyberbridge</dc:title>
+      <dc:identifier>10.1177/1461444819859894</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-07-08T08:30:47Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Elizabeth Rodwell</dc:creator>
+      <prism:publicationName>Online trolling and its perpetrators: Under the cyberbridge</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>571</prism:startingPage>
+      <prism:endingPage>573</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819859894</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819859894?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819873862?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Networked Press Freedom: Creating Infrastructures for a Public Right to Hear</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819873862?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 573-575, March 2020. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 573-575, March 2020. &lt;br/&gt;</description>
+      <dc:title>Networked Press Freedom: Creating Infrastructures for a Public Right to Hear</dc:title>
+      <dc:identifier>10.1177/1461444819873862</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-09-06T09:04:52Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Jeanna Sybert</dc:creator>
+      <prism:publicationName>Networked Press Freedom: Creating Infrastructures for a Public Right to Hear</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>573</prism:startingPage>
+      <prism:endingPage>575</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819873862</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819873862?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819876115?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Algorithms of oppression: How search engines reinforce racism</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819876115?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 575-577, March 2020. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 575-577, March 2020. &lt;br/&gt;</description>
+      <dc:title>Algorithms of oppression: How search engines reinforce racism</dc:title>
+      <dc:identifier>10.1177/1461444819876115</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-09-11T01:44:08Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Anis Rahman</dc:creator>
+      <prism:publicationName>Algorithms of oppression: How search engines reinforce racism</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>575</prism:startingPage>
+      <prism:endingPage>577</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819876115</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819876115?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819877816?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Social Media Entertainment: The New Intersection of Hollywood and Silicon Valley</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819877816?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 577-579, March 2020. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 577-579, March 2020. &lt;br/&gt;</description>
+      <dc:title>Social Media Entertainment: The New Intersection of Hollywood and Silicon Valley</dc:title>
+      <dc:identifier>10.1177/1461444819877816</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-09-18T02:01:17Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Zoë Glatt</dc:creator>
+      <prism:publicationName>Social Media Entertainment: The New Intersection of Hollywood and Silicon Valley</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>577</prism:startingPage>
+      <prism:endingPage>579</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819877816</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819877816?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819878844?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Behind the Screen: Content Moderation in the Shadows of Social Media</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819878844?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/3"&gt;Volume 22, Issue 3&lt;/a&gt;, Page 579-582, March 2020. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 3, Page 579-582, March 2020. &lt;br/&gt;</description>
+      <dc:title>Behind the Screen: Content Moderation in the Shadows of Social Media</dc:title>
+      <dc:identifier>10.1177/1461444819878844</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-09-23T12:47:39Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Ysabel Gerrard</dc:creator>
+      <prism:publicationName>Behind the Screen: Content Moderation in the Shadows of Social Media</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>579</prism:startingPage>
+      <prism:endingPage>582</prism:endingPage>
+      <prism:coverDate>2020-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819878844</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819878844?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820908256?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Punching up or turning away? Palestinians unfriending Jewish Israelis on Facebook</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820908256?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This article explores the Facebook unfriending of users from a majority group by members of a minority group, focusing on Palestinian and Jewish citizens of Israel. Indeed, this is the first study to focus on power differentials among Facebook users in the context of unfriending. The article thus adds depth to our understanding of unfriending, while also shedding light on the experience of social media use from the perspective of an oppressed minority. Based on semi-structured in-depth interviews with twenty ’48 Palestinians (Palestinian citizens of Israel), we present various triggers for unfriending (mainly, encounters with racism and surveillance), and show that Palestinians’ stories of unfriending Jewish Israelis are sometimes about punching up and sometimes about stepping away. However, while unfriending is broadly considered an apt response to abuse, it also distances Palestinians from centers of power in Israel. This suggests an important way in which social media reproduce inequality.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This article explores the Facebook unfriending of users from a majority group by members of a minority group, focusing on Palestinian and Jewish citizens of Israel. Indeed, this is the first study to focus on power differentials among Facebook users in the context of unfriending. The article thus adds depth to our understanding of unfriending, while also shedding light on the experience of social media use from the perspective of an oppressed minority. Based on semi-structured in-depth interviews with twenty ’48 Palestinians (Palestinian citizens of Israel), we present various triggers for unfriending (mainly, encounters with racism and surveillance), and show that Palestinians’ stories of unfriending Jewish Israelis are sometimes about punching up and sometimes about stepping away. However, while unfriending is broadly considered an apt response to abuse, it also distances Palestinians from centers of power in Israel. This suggests an important way in which social media reproduce inequality.</description>
+      <dc:title>Punching up or turning away? Palestinians unfriending Jewish Israelis on Facebook</dc:title>
+      <dc:identifier>10.1177/1461444820908256</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-29T10:24:32Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Nicholas John</dc:creator>
+      <dc:creator>Aysha Agbarya</dc:creator>
+      <prism:publicationName>Punching up or turning away? Palestinians unfriending Jewish Israelis on Facebook</prism:publicationName>
+      <prism:doi>10.1177/1461444820908256</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820908256?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820911289?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Erratum to “Sustained journalist–audience reciprocity in a meso new-space: The case of a journalistic WhatsApp group”</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820911289?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Erratum to “Sustained journalist–audience reciprocity in a meso new-space: The case of a journalistic WhatsApp group”</dc:title>
+      <dc:identifier>10.1177/1461444820911289</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-26T11:02:58Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <prism:publicationName>Erratum to “Sustained journalist–audience reciprocity in a meso new-space: The case of a journalistic WhatsApp group”</prism:publicationName>
+      <prism:doi>10.1177/1461444820911289</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820911289?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820908606?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Parenting in the digital age: Between socio-biological and socio-technological development</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820908606?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Parents have long been encouraged to treat their child’s development as a capability, with the imperative being to maximize this capability. At the same time, however, children’s ‘natural’ process of development must be allowed to take its course. Digital media technologies promise to not only enhance children’s developmental capacity, but also threaten to disrupt their normal development. Drawing on qualitative research involving 40 Australian parents, this article examines parents’ concerns about their teenage children’s use of digital media. It examines how parents negotiate the tension between technological development and the benefits it affords their child, and the perceived risks that technological development poses to their child’s normal development, through mediating what they construct as positive and negative exposure to digital media. Parents distinguished between media use that was considered to enhance their child’s development and use that had the potential to disrupt it, by categorizing various activities as appropriate and inappropriate.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Parents have long been encouraged to treat their child’s development as a capability, with the imperative being to maximize this capability. At the same time, however, children’s ‘natural’ process of development must be allowed to take its course. Digital media technologies promise to not only enhance children’s developmental capacity, but also threaten to disrupt their normal development. Drawing on qualitative research involving 40 Australian parents, this article examines parents’ concerns about their teenage children’s use of digital media. It examines how parents negotiate the tension between technological development and the benefits it affords their child, and the perceived risks that technological development poses to their child’s normal development, through mediating what they construct as positive and negative exposure to digital media. Parents distinguished between media use that was considered to enhance their child’s development and use that had the potential to disrupt it, by categorizing various activities as appropriate and inappropriate.</description>
+      <dc:title>Parenting in the digital age: Between socio-biological and socio-technological development</dc:title>
+      <dc:identifier>10.1177/1461444820908606</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-21T01:12:17Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Catherine Page Jeffery</dc:creator>
+      <prism:publicationName>Parenting in the digital age: Between socio-biological and socio-technological development</prism:publicationName>
+      <prism:doi>10.1177/1461444820908606</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820908606?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820906553?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Electoral system influence on social network usage patterns of parliamentary assistants as their legislators’ stand-in: The United States, Germany, and Israel</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820906553?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Social networks are generally regarded as channels through which parliamentarians establish direct contact with the public. However, do they engage in these activities personally or rather delegate them to their parliamentary assistants? This study examines the intermediary relationship between parliamentarians and the public (henceforth PAs)—seeking to understand their role in contemporary, political communications. While numerous studies have looked at types of parliamentarian contact with the public, PAs have received little scholarly attention. Adopting a comparative perspective, this study will suggest a theoretical model of the MP/PA social media work relationship, creating a new questionnaire for PAs in the US House of Representatives, German Bundestag, and Israeli Knesset, exploring whether level of parliamentarians’ involvement in social networking is influenced by working within different electoral systems: representatives elected directly (the United States), mixed (Germany), and indirectly (Israel). The study investigates the level of parliamentarians’ engagement with social media communication according to a four-category model.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Social networks are generally regarded as channels through which parliamentarians establish direct contact with the public. However, do they engage in these activities personally or rather delegate them to their parliamentary assistants? This study examines the intermediary relationship between parliamentarians and the public (henceforth PAs)—seeking to understand their role in contemporary, political communications. While numerous studies have looked at types of parliamentarian contact with the public, PAs have received little scholarly attention. Adopting a comparative perspective, this study will suggest a theoretical model of the MP/PA social media work relationship, creating a new questionnaire for PAs in the US House of Representatives, German Bundestag, and Israeli Knesset, exploring whether level of parliamentarians’ involvement in social networking is influenced by working within different electoral systems: representatives elected directly (the United States), mixed (Germany), and indirectly (Israel). The study investigates the level of parliamentarians’ engagement with social media communication according to a four-category model.</description>
+      <dc:title>Electoral system influence on social network usage patterns of parliamentary assistants as their legislators’ stand-in: The United States, Germany, and Israel</dc:title>
+      <dc:identifier>10.1177/1461444820906553</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-21T01:11:39Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Chen Sabag Ben-Porat</dc:creator>
+      <dc:creator>Sam Lehman-Wilzig</dc:creator>
+      <prism:publicationName>Electoral system influence on social network usage patterns of parliamentary assistants as their legislators’ stand-in: The United States, Germany, and Israel</prism:publicationName>
+      <prism:doi>10.1177/1461444820906553</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820906553?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820905068?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Curbing profanity online: A network-based diffusion analysis of profane speech on Chinese social media</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820905068?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Profanity, also known as swearing, refers to the use of foul language that is often linked to incivility. In Chinese digital space, the state government actively censors profanity under the rationale of protecting online civility. This study examines the diffusion of profanity in Sina Weibo, one of the largest Chinese social media platforms. The study applied computational methods to reconstruct the cascade networks of swearing and non-swearing posts and analyzed the network diffusion processes based on a set of structural metrics including reposting depth, width, and interlayer width ratios. Findings suggest profanity may influence the process of message diffusion, but this effect was ephemeral. Based on the understanding of diffusion processes of profanity online, this study contends the viral potential of profanity may not be as severe as the regulators claim. The discussion analyzes the extent to which content moderation efforts are necessary for the nurturing of civility online.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Profanity, also known as swearing, refers to the use of foul language that is often linked to incivility. In Chinese digital space, the state government actively censors profanity under the rationale of protecting online civility. This study examines the diffusion of profanity in Sina Weibo, one of the largest Chinese social media platforms. The study applied computational methods to reconstruct the cascade networks of swearing and non-swearing posts and analyzed the network diffusion processes based on a set of structural metrics including reposting depth, width, and interlayer width ratios. Findings suggest profanity may influence the process of message diffusion, but this effect was ephemeral. Based on the understanding of diffusion processes of profanity online, this study contends the viral potential of profanity may not be as severe as the regulators claim. The discussion analyzes the extent to which content moderation efforts are necessary for the nurturing of civility online.</description>
+      <dc:title>Curbing profanity online: A network-based diffusion analysis of profane speech on Chinese social media</dc:title>
+      <dc:identifier>10.1177/1461444820905068</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-19T10:45:28Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Yunya Song</dc:creator>
+      <dc:creator>K Hazel Kwon</dc:creator>
+      <dc:creator>Jianliang Xu</dc:creator>
+      <dc:creator>Xin Huang</dc:creator>
+      <dc:creator>Shiying Li</dc:creator>
+      <prism:publicationName>Curbing profanity online: A network-based diffusion analysis of profane speech on Chinese social media</prism:publicationName>
+      <prism:doi>10.1177/1461444820905068</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820905068?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820907023?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Digital visibility and the role of mutual interaction expectations: Reframing the journalist–audience relationship through the lens of interpersonal communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820907023?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;In the light of a new level of reciprocal visibility in the digital age, the journalist–audience relationship has fundamentally changed. Mutual expectations become visible or evolve anew. The question arises as to how these expectations and their (non-)fulfillment influence the journalist–audience relationship. Taking an interpersonal communication perspective by following expectancy violations theory, we focus on the level of interactions and propose a theoretical framework explaining how the interplay of journalists’ and audience’s mutual expectations affects their relationship. Our aim is to contribute to a better understanding of the journalist–audience relationship in digital media environments—and to provide indications for its functioning or failure.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;In the light of a new level of reciprocal visibility in the digital age, the journalist–audience relationship has fundamentally changed. Mutual expectations become visible or evolve anew. The question arises as to how these expectations and their (non-)fulfillment influence the journalist–audience relationship. Taking an interpersonal communication perspective by following expectancy violations theory, we focus on the level of interactions and propose a theoretical framework explaining how the interplay of journalists’ and audience’s mutual expectations affects their relationship. Our aim is to contribute to a better understanding of the journalist–audience relationship in digital media environments—and to provide indications for its functioning or failure.</description>
+      <dc:title>Digital visibility and the role of mutual interaction expectations: Reframing the journalist–audience relationship through the lens of interpersonal communication</dc:title>
+      <dc:identifier>10.1177/1461444820907023</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-19T10:45:26Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Claudia Wilhelm</dc:creator>
+      <dc:creator>Helena Stehle</dc:creator>
+      <dc:creator>Hanne Detel</dc:creator>
+      <prism:publicationName>Digital visibility and the role of mutual interaction expectations: Reframing the journalist–audience relationship through the lens of interpersonal communication</prism:publicationName>
+      <prism:doi>10.1177/1461444820907023</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820907023?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820907025?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>‘A male dominance kind of vibe’: Approaching unsolicited dick pics as sexism</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820907025?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This article explores women’s accounts of receiving unsolicited dick pics from men. Drawing on material derived from in-depth interviews with adult British women, its focus is on how these interviewees relied on a postfeminist discursive framework in order to make sense of such experiences, and on how this rendered them more likely to recognise unsolicited dick pic practices as acts of sexism. As such, these women also felt encouraged to respond to their receiving of unsolicited dick pics by engaging in humorous practices of anti-sexist resistance. Still, the article also shows how the interviewees’ drawing on a postfeminist discursive framework rendered them more prone to approach unsolicited dick pic practices and sexism in individualised and decontextualised manners, meaning that they failed to recognise and critically address the broader social structures that enable dick pics to circulate online as acts of sexism in the first place.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This article explores women’s accounts of receiving unsolicited dick pics from men. Drawing on material derived from in-depth interviews with adult British women, its focus is on how these interviewees relied on a postfeminist discursive framework in order to make sense of such experiences, and on how this rendered them more likely to recognise unsolicited dick pic practices as acts of sexism. As such, these women also felt encouraged to respond to their receiving of unsolicited dick pics by engaging in humorous practices of anti-sexist resistance. Still, the article also shows how the interviewees’ drawing on a postfeminist discursive framework rendered them more prone to approach unsolicited dick pic practices and sexism in individualised and decontextualised manners, meaning that they failed to recognise and critically address the broader social structures that enable dick pics to circulate online as acts of sexism in the first place.</description>
+      <dc:title>‘A male dominance kind of vibe’: Approaching unsolicited dick pics as sexism</dc:title>
+      <dc:identifier>10.1177/1461444820907025</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-17T09:15:55Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Rikke Amundsen</dc:creator>
+      <prism:publicationName>‘A male dominance kind of vibe’: Approaching unsolicited dick pics as sexism</prism:publicationName>
+      <prism:doi>10.1177/1461444820907025</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820907025?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820907305?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: Podcasting: The Audio Media Revolution</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820907305?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Book Review: Podcasting: The Audio Media Revolution</dc:title>
+      <dc:identifier>10.1177/1461444820907305</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-17T09:14:49Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Stephen MacGregor</dc:creator>
+      <prism:publicationName>Book Review: Podcasting: The Audio Media Revolution</prism:publicationName>
+      <prism:doi>10.1177/1461444820907305</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820907305?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820907083?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: Futurability: The Age of Impotence and the Horizon of Possibility</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820907083?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Book Review: Futurability: The Age of Impotence and the Horizon of Possibility</dc:title>
+      <dc:identifier>10.1177/1461444820907083</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-17T09:13:33Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Janna Frenzel</dc:creator>
+      <prism:publicationName>Book Review: Futurability: The Age of Impotence and the Horizon of Possibility</prism:publicationName>
+      <prism:doi>10.1177/1461444820907083</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820907083?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820905531?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Online verbal aggression, social relationships, and self-efficacy beliefs</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820905531?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This study aims to understand whether the relationships adolescent bystanders of cyberbullying have with the victim and other bystanders and their self-efficacy beliefs may affect their use of aggressive language online. Students (676, Mage = 14.10, SD = 2.74, 55.5% male) answered questions about social media use, self-efficacy to solve cyberbullying situations, interpersonal relationships, and their use of verbal aggression to communicate online. Through structural equation modeling, results demonstrated that having a relationship with the victim or other bystanders mediated the relationship between observing cyberbullying behavior and bystanders’ use of aggressive language online. The effect of observing cyberbullying behavior through having a relationship with the victim or other bystanders was lower than its direct effect on adolescent bystanders’ use of aggressive language. Self-efficacy beliefs mediated the relationship between having a relationship with the victim and other bystanders and adolescents’ use of aggressive language online. Implications for intervention in interpersonal communication online are proposed.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This study aims to understand whether the relationships adolescent bystanders of cyberbullying have with the victim and other bystanders and their self-efficacy beliefs may affect their use of aggressive language online. Students (676, Mage = 14.10, SD = 2.74, 55.5% male) answered questions about social media use, self-efficacy to solve cyberbullying situations, interpersonal relationships, and their use of verbal aggression to communicate online. Through structural equation modeling, results demonstrated that having a relationship with the victim or other bystanders mediated the relationship between observing cyberbullying behavior and bystanders’ use of aggressive language online. The effect of observing cyberbullying behavior through having a relationship with the victim or other bystanders was lower than its direct effect on adolescent bystanders’ use of aggressive language. Self-efficacy beliefs mediated the relationship between having a relationship with the victim and other bystanders and adolescents’ use of aggressive language online. Implications for intervention in interpersonal communication online are proposed.</description>
+      <dc:title>Online verbal aggression, social relationships, and self-efficacy beliefs</dc:title>
+      <dc:identifier>10.1177/1461444820905531</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-17T09:11:39Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Paula da Costa Ferreira</dc:creator>
+      <dc:creator>Ana Margarida Veiga Simão</dc:creator>
+      <dc:creator>Nadia Salgado Pereira</dc:creator>
+      <dc:creator>Paula Paulino</dc:creator>
+      <dc:creator>Sofia Oliveira</dc:creator>
+      <prism:publicationName>Online verbal aggression, social relationships, and self-efficacy beliefs</prism:publicationName>
+      <prism:doi>10.1177/1461444820905531</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820905531?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820902449?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Being/becoming professional online: Wayfinding through networked practices and digital experiences</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820902449?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Social media platforms and digital networks have enabled professionals to communicate with colleagues, disseminate information, and co-create knowledge. As the Internet has grown up and social networks have scaled, there is an increased awareness of the occupational impact of being online. Prior research in postsecondary education has examined the structure of social networks, imagined audiences online, openness of practice, and informational/communication patterns of academics. We conducted 92 semi-structured interviews with higher educational professionals beyond the faculty/academic role to understand motivations and challenges online. Participants shared how they navigate digital identity and contribute to networked practices in professional online communities. Multiple factors influence and impact the use of social media over time, specifically as professionals reflect on their digital presence, network affiliations, and informal learning opportunities. We identify seven networked practices: kinship in community, self-directed learning, digital norms, navigating context collapse, career advancement, reputation management, and risk versus reward assessment.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Social media platforms and digital networks have enabled professionals to communicate with colleagues, disseminate information, and co-create knowledge. As the Internet has grown up and social networks have scaled, there is an increased awareness of the occupational impact of being online. Prior research in postsecondary education has examined the structure of social networks, imagined audiences online, openness of practice, and informational/communication patterns of academics. We conducted 92 semi-structured interviews with higher educational professionals beyond the faculty/academic role to understand motivations and challenges online. Participants shared how they navigate digital identity and contribute to networked practices in professional online communities. Multiple factors influence and impact the use of social media over time, specifically as professionals reflect on their digital presence, network affiliations, and informal learning opportunities. We identify seven networked practices: kinship in community, self-directed learning, digital norms, navigating context collapse, career advancement, reputation management, and risk versus reward assessment.</description>
+      <dc:title>Being/becoming professional online: Wayfinding through networked practices and digital experiences</dc:title>
+      <dc:identifier>10.1177/1461444820902449</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-14T11:47:17Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Laura A. Pasquini</dc:creator>
+      <dc:creator>Paul William Eaton</dc:creator>
+      <prism:publicationName>Being/becoming professional online: Wayfinding through networked practices and digital experiences</prism:publicationName>
+      <prism:doi>10.1177/1461444820902449</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820902449?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820907080?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The emoji revolution: How technology is shaping the future of communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820907080?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>The emoji revolution: How technology is shaping the future of communication</dc:title>
+      <dc:identifier>10.1177/1461444820907080</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-14T11:45:26Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Miriam E Sweeney</dc:creator>
+      <prism:publicationName>The emoji revolution: How technology is shaping the future of communication</prism:publicationName>
+      <prism:doi>10.1177/1461444820907080</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820907080?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820907092?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Emotions, Media and Politics</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820907092?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Emotions, Media and Politics</dc:title>
+      <dc:identifier>10.1177/1461444820907092</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-14T11:45:21Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Brian E. Weeks</dc:creator>
+      <prism:publicationName>Emotions, Media and Politics</prism:publicationName>
+      <prism:doi>10.1177/1461444820907092</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820907092?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820904362?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Restricted modes: Social media, content classification and LGBTQ sexual citizenship</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820904362?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;In the context of recent controversies surrounding the censorship of lesbian, gay, bisexual, transgender and queer online content, specifically on YouTube and Tumblr, we interrogate the relationship between normative understandings of sexual citizenship and the content classification regimes. We argue that these content classification systems and the platforms’ responses to public criticism both operate as norm-producing technologies, in which the complexities of sexuality and desire are obscured in order to cultivate notions of a ‘good’ lesbian, gay, bisexual, transgender or queer sexual citizen. However, despite normative work of classification seeking to distinguish between sexuality and sex, we argue that the high-profile failures of these classification systems create the conditions for users to draw attention to, rather than firm, these messy boundaries.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;In the context of recent controversies surrounding the censorship of lesbian, gay, bisexual, transgender and queer online content, specifically on YouTube and Tumblr, we interrogate the relationship between normative understandings of sexual citizenship and the content classification regimes. We argue that these content classification systems and the platforms’ responses to public criticism both operate as norm-producing technologies, in which the complexities of sexuality and desire are obscured in order to cultivate notions of a ‘good’ lesbian, gay, bisexual, transgender or queer sexual citizen. However, despite normative work of classification seeking to distinguish between sexuality and sex, we argue that the high-profile failures of these classification systems create the conditions for users to draw attention to, rather than firm, these messy boundaries.</description>
+      <dc:title>Restricted modes: Social media, content classification and LGBTQ sexual citizenship</dc:title>
+      <dc:identifier>10.1177/1461444820904362</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-13T01:36:16Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Clare Southerton</dc:creator>
+      <dc:creator>Daniel Marshall</dc:creator>
+      <dc:creator>Peter Aggleton</dc:creator>
+      <dc:creator>Mary Lou Rasmussen</dc:creator>
+      <dc:creator>Rob Cover</dc:creator>
+      <prism:publicationName>Restricted modes: Social media, content classification and LGBTQ sexual citizenship</prism:publicationName>
+      <prism:doi>10.1177/1461444820904362</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820904362?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820905295?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Beyond the gender (dis)empowerment dichotomy: The mobile phone as social catalyst for gender transformation in the Global South</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820905295?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Over the past two decades, increasing attention has been drawn to gender impacts arising from adoption and usage of information and communication technologies (ICTs), the mobile phone especially, by marginalized women in the Global South. Grounded in the theory of structuration, our study challenges techno-determinism and structural functionalism embodied in a prevailing gender (dis)empowerment dichotomy, and instead reveals the contextually situated and dynamically negotiated techno-socio relationships. It allows for examination of the mobile phone in the interactions between agency of women to get empowered and their situated gendered social power structures. While the phone reinforces structural constraints via facilitating access, surveillance, and intervention from those of higher patriarchal statuses, it simultaneously enables women’s strategic responses involving avoidance, accommodation, and collaboration. The constraining yet empowering processes conceptually make the functioning of the mobile phone as socially catalyzing the development of self-consciousness by women, and furthermore, the clustering of awakening individuals toward emergent female collective power.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Over the past two decades, increasing attention has been drawn to gender impacts arising from adoption and usage of information and communication technologies (ICTs), the mobile phone especially, by marginalized women in the Global South. Grounded in the theory of structuration, our study challenges techno-determinism and structural functionalism embodied in a prevailing gender (dis)empowerment dichotomy, and instead reveals the contextually situated and dynamically negotiated techno-socio relationships. It allows for examination of the mobile phone in the interactions between agency of women to get empowered and their situated gendered social power structures. While the phone reinforces structural constraints via facilitating access, surveillance, and intervention from those of higher patriarchal statuses, it simultaneously enables women’s strategic responses involving avoidance, accommodation, and collaboration. The constraining yet empowering processes conceptually make the functioning of the mobile phone as socially catalyzing the development of self-consciousness by women, and furthermore, the clustering of awakening individuals toward emergent female collective power.</description>
+      <dc:title>Beyond the gender (dis)empowerment dichotomy: The mobile phone as social catalyst for gender transformation in the Global South</dc:title>
+      <dc:identifier>10.1177/1461444820905295</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-12T10:15:01Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Xin Pei</dc:creator>
+      <dc:creator>Arul Chib</dc:creator>
+      <prism:publicationName>Beyond the gender (dis)empowerment dichotomy: The mobile phone as social catalyst for gender transformation in the Global South</prism:publicationName>
+      <prism:doi>10.1177/1461444820905295</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820905295?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820905045?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Linking loose ends: An interdisciplinary privacy and communication model</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820905045?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;In the recent decades, privacy scholarship has made significant progress. Most of it was achieved in monodisciplinary works. However, privacy has a deeply interdisciplinary nature. Most importantly, societies as well as individuals experience privacy as being influenced by legal, technical, and social norms and structures. In this article, we hence attempt to connect insights of different academic disciplines into a joint model, an Interdisciplinary Privacy and Communication Model. The model differentiates four different elements: communication context, protection needs, threat and risk analysis, as well as protection enforcement. On the one hand, with this model, we aim to describe how privacy unfolds. On the other hand, the model also prescribes how privacy can be furnished and regulated. As such, the model contributes to a general understanding of privacy as a theoretical guide and offers a practical basis to address new challenges of the digital age.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;In the recent decades, privacy scholarship has made significant progress. Most of it was achieved in monodisciplinary works. However, privacy has a deeply interdisciplinary nature. Most importantly, societies as well as individuals experience privacy as being influenced by legal, technical, and social norms and structures. In this article, we hence attempt to connect insights of different academic disciplines into a joint model, an Interdisciplinary Privacy and Communication Model. The model differentiates four different elements: communication context, protection needs, threat and risk analysis, as well as protection enforcement. On the one hand, with this model, we aim to describe how privacy unfolds. On the other hand, the model also prescribes how privacy can be furnished and regulated. As such, the model contributes to a general understanding of privacy as a theoretical guide and offers a practical basis to address new challenges of the digital age.</description>
+      <dc:title>Linking loose ends: An interdisciplinary privacy and communication model</dc:title>
+      <dc:identifier>10.1177/1461444820905045</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-12T10:14:01Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Katharina Bräunlich</dc:creator>
+      <dc:creator>Tobias Dienlin</dc:creator>
+      <dc:creator>Johannes Eichenhofer</dc:creator>
+      <dc:creator>Paula Helm</dc:creator>
+      <dc:creator>Sabine Trepte</dc:creator>
+      <dc:creator>Rüdiger Grimm</dc:creator>
+      <dc:creator>Sandra Seubert</dc:creator>
+      <dc:creator>Christoph Gusy</dc:creator>
+      <prism:publicationName>Linking loose ends: An interdisciplinary privacy and communication model</prism:publicationName>
+      <prism:doi>10.1177/1461444820905045</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820905045?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820904697?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Skin deep: Callout strategies, influencers, and racism in the online beauty community</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820904697?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;In recent years, the Western online beauty community has been embroiled in multiple racist scandals that have resulted in callout campaigns against various influencers and cosmetic companies. Through a multiplatform discourse analysis of two such scandals, this project explores how influencers, brands, and audiences utilize the affordances and norms of social media platforms to manage their roles and relationships throughout these callout campaigns. Four key strategies emerge: curation, critique, reframing, and silence. Despite the efforts of some audiences and influencers, these four strategies elided the broader social implications of brand and influencer racism as members of the community responded to the drama more than they critiqued the marginalization of people of color. Overall, this project provides insight into the dynamics at work in callout campaigns, theorizing the ways in which actors work to balance visibility, risk, labor, and control.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;In recent years, the Western online beauty community has been embroiled in multiple racist scandals that have resulted in callout campaigns against various influencers and cosmetic companies. Through a multiplatform discourse analysis of two such scandals, this project explores how influencers, brands, and audiences utilize the affordances and norms of social media platforms to manage their roles and relationships throughout these callout campaigns. Four key strategies emerge: curation, critique, reframing, and silence. Despite the efforts of some audiences and influencers, these four strategies elided the broader social implications of brand and influencer racism as members of the community responded to the drama more than they critiqued the marginalization of people of color. Overall, this project provides insight into the dynamics at work in callout campaigns, theorizing the ways in which actors work to balance visibility, risk, labor, and control.</description>
+      <dc:title>Skin deep: Callout strategies, influencers, and racism in the online beauty community</dc:title>
+      <dc:identifier>10.1177/1461444820904697</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-12T10:12:27Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Caitlin E Lawson</dc:creator>
+      <prism:publicationName>Skin deep: Callout strategies, influencers, and racism in the online beauty community</prism:publicationName>
+      <prism:doi>10.1177/1461444820904697</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820904697?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820904365?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Political and personality predispositions and topical contexts matter: Effects of uncivil comments on science news engagement intentions</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820904365?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Building on existing theoretical frameworks for the study of incivility, interactivity, and negativity bias, this study contributes to the growing body of literature on the impact of incivility in online comments. Specifically, it tests incivility’s impact on news engagement intentions; investigates political and personality predispositions’ roles as perceptual filters; and extends this scholarship to the context of multiple scientific news topics. It found that, when dealing with news about two of the more politically divisive technologies—fracking and synthetic biology—ideology moderated the effects of incivility, with uncivil comments encouraging engagement among conservatives but not among liberals. However, in the less politically divisive context of nanotechnology, self-monitoring played a significant role in moderating incivility’s effects: with high self-monitors being more motivated, and low self-monitors less motivated, to share nanotech news after exposure to uncivil comments. These results imply that individual predispositions and topic-specific factors both underlie the impact of incivility on news engagement intentions.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Building on existing theoretical frameworks for the study of incivility, interactivity, and negativity bias, this study contributes to the growing body of literature on the impact of incivility in online comments. Specifically, it tests incivility’s impact on news engagement intentions; investigates political and personality predispositions’ roles as perceptual filters; and extends this scholarship to the context of multiple scientific news topics. It found that, when dealing with news about two of the more politically divisive technologies—fracking and synthetic biology—ideology moderated the effects of incivility, with uncivil comments encouraging engagement among conservatives but not among liberals. However, in the less politically divisive context of nanotechnology, self-monitoring played a significant role in moderating incivility’s effects: with high self-monitors being more motivated, and low self-monitors less motivated, to share nanotech news after exposure to uncivil comments. These results imply that individual predispositions and topic-specific factors both underlie the impact of incivility on news engagement intentions.</description>
+      <dc:title>Political and personality predispositions and topical contexts matter: Effects of uncivil comments on science news engagement intentions</dc:title>
+      <dc:identifier>10.1177/1461444820904365</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-08T08:51:02Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Leona Yi-Fan Su</dc:creator>
+      <dc:creator>Dietram A Scheufele</dc:creator>
+      <dc:creator>Dominique Brossard</dc:creator>
+      <dc:creator>Michael A Xenos</dc:creator>
+      <prism:publicationName>Political and personality predispositions and topical contexts matter: Effects of uncivil comments on science news engagement intentions</prism:publicationName>
+      <prism:doi>10.1177/1461444820904365</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820904365?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820902682?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Smart mobility, age and data justice</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820902682?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This article examines converging trends in ageing, digitalisation and datafication in the context of mobility and transport. While mobility data are increasingly captured by (public) transport and mobility as a service (MaaS) providers, Internet of Things (IoT) vehicles, apps and so on, the increasing entanglement of mobility and datafication happens unevenly, for example, in relation to age. This is particularly significant in the light of the rise of data-driven policy-making, and its potential impacts on mobility provision for older people. The article highlights new questions for public policy around data gaps and social inclusion and examines them through a UK case study. The results show that old age and mobility is an area with significant gaps in the data available to policy makers. A key recommendation is for commissioning bodies to develop a strategic approach to structured data gathering and analysis that addresses issues of exclusion from smart public service infrastructure.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This article examines converging trends in ageing, digitalisation and datafication in the context of mobility and transport. While mobility data are increasingly captured by (public) transport and mobility as a service (MaaS) providers, Internet of Things (IoT) vehicles, apps and so on, the increasing entanglement of mobility and datafication happens unevenly, for example, in relation to age. This is particularly significant in the light of the rise of data-driven policy-making, and its potential impacts on mobility provision for older people. The article highlights new questions for public policy around data gaps and social inclusion and examines them through a UK case study. The results show that old age and mobility is an area with significant gaps in the data available to policy makers. A key recommendation is for commissioning bodies to develop a strategic approach to structured data gathering and analysis that addresses issues of exclusion from smart public service infrastructure.</description>
+      <dc:title>Smart mobility, age and data justice</dc:title>
+      <dc:identifier>10.1177/1461444820902682</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-04T10:49:57Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Maria Sourbati</dc:creator>
+      <dc:creator>Frauke Behrendt</dc:creator>
+      <prism:publicationName>Smart mobility, age and data justice</prism:publicationName>
+      <prism:doi>10.1177/1461444820902682</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820902682?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820903985?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: Power button: A history of pleasure, panic, and the politics of pushing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820903985?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Book Review: Power button: A history of pleasure, panic, and the politics of pushing</dc:title>
+      <dc:identifier>10.1177/1461444820903985</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-03T01:09:35Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Benjamin Peters</dc:creator>
+      <prism:publicationName>Book Review: Power button: A history of pleasure, panic, and the politics of pushing</prism:publicationName>
+      <prism:doi>10.1177/1461444820903985</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820903985?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820903976?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: Video Games Have Always Been Queer</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820903976?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Book Review: Video Games Have Always Been Queer</dc:title>
+      <dc:identifier>10.1177/1461444820903976</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-02-03T01:09:15Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Christopher J. Persaud</dc:creator>
+      <prism:publicationName>Book Review: Video Games Have Always Been Queer</prism:publicationName>
+      <prism:doi>10.1177/1461444820903976</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820903976?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819891699?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Keeping it raw on the ‘gram: Authenticity, relatability and digital intimacy in fitness cultures on Instagram</title>
@@ -635,6 +1078,7 @@
       <dc:source>New Media &amp; Society</dc:source>
       <dc:date>2020-01-13T10:12:52Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
+      <cc:license rdf:resource="https://creativecommons.org/licenses/by-nc/4.0/"/>
       <dc:creator>Lena Frischlich</dc:creator>
       <prism:publicationName>#Dark inspiration: Eudaimonic entertainment in extremist Instagram posts</prism:publicationName>
       <prism:doi>10.1177/1461444819899625</prism:doi>
@@ -1274,22 +1718,6 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819879103?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819878844?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Behind the Screen: Content Moderation in the Shadows of Social Media</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819878844?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Behind the Screen: Content Moderation in the Shadows of Social Media</dc:title>
-      <dc:identifier>10.1177/1461444819878844</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-09-23T12:47:39Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Ysabel Gerrard</dc:creator>
-      <prism:publicationName>Behind the Screen: Content Moderation in the Shadows of Social Media</prism:publicationName>
-      <prism:doi>10.1177/1461444819878844</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819878844?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819878688?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists Who Created Cryptocurrency</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819878688?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
@@ -1360,40 +1788,6 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819875708?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819867318?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Visualizing teens and technology: A social semiotic analysis of stock photography and news media imagery</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819867318?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Previous research on verbal representations shows how the news media consistently depicts young people’s uses of digital media in a narrow, negative light. In this article, we present an innovative methodology for demonstrating how young people and their digital practices are visually depicted. We focus on stock photography produced by the commercial image banks which source the news media with much of its imagery. Following an indicative analysis of news media images, we present a social semiotic analysis (grounded also in a descriptive content analysis) of a dataset of 600 stock photos top-sliced from three major image banks. By pinpointing dominant representational, compositional and interpersonal meanings, we show how image banks and, in turn, the news media produce a rather pessimistic metadiscursive framing of ‘teens and technology’. These influential visualizations are often reductionistic – consistently centering technologies over relationships; they are also problematic in, for example, their inexplicably gendered and classist assumptions.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Previous research on verbal representations shows how the news media consistently depicts young people’s uses of digital media in a narrow, negative light. In this article, we present an innovative methodology for demonstrating how young people and their digital practices are visually depicted. We focus on stock photography produced by the commercial image banks which source the news media with much of its imagery. Following an indicative analysis of news media images, we present a social semiotic analysis (grounded also in a descriptive content analysis) of a dataset of 600 stock photos top-sliced from three major image banks. By pinpointing dominant representational, compositional and interpersonal meanings, we show how image banks and, in turn, the news media produce a rather pessimistic metadiscursive framing of ‘teens and technology’. These influential visualizations are often reductionistic – consistently centering technologies over relationships; they are also problematic in, for example, their inexplicably gendered and classist assumptions.</description>
-      <dc:title>Visualizing teens and technology: A social semiotic analysis of stock photography and news media imagery</dc:title>
-      <dc:identifier>10.1177/1461444819867318</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-09-19T09:47:09Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Crispin Thurlow</dc:creator>
-      <dc:creator>Giorgia Aiello</dc:creator>
-      <dc:creator>Lara Portmann</dc:creator>
-      <prism:publicationName>Visualizing teens and technology: A social semiotic analysis of stock photography and news media imagery</prism:publicationName>
-      <prism:doi>10.1177/1461444819867318</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819867318?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819877816?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Social Media Entertainment: The New Intersection of Hollywood and Silicon Valley</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819877816?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Social Media Entertainment: The New Intersection of Hollywood and Silicon Valley</dc:title>
-      <dc:identifier>10.1177/1461444819877816</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-09-18T02:01:17Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Zoë Glatt</dc:creator>
-      <prism:publicationName>Social Media Entertainment: The New Intersection of Hollywood and Silicon Valley</prism:publicationName>
-      <prism:doi>10.1177/1461444819877816</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819877816?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819876570?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Contextualizing how teens manage personal and interpersonal privacy on social media</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819876570?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
@@ -1425,22 +1819,6 @@
       <prism:publicationName>Visual communion: The photographic image as phatic communication</prism:publicationName>
       <prism:doi>10.1177/1461444819876237</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819876237?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819876115?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Algorithms of oppression: How search engines reinforce racism</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819876115?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Algorithms of oppression: How search engines reinforce racism</dc:title>
-      <dc:identifier>10.1177/1461444819876115</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-09-11T01:44:08Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Anis Rahman</dc:creator>
-      <prism:publicationName>Algorithms of oppression: How search engines reinforce racism</prism:publicationName>
-      <prism:doi>10.1177/1461444819876115</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819876115?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819874473?ai=2b4&amp;mi=ehikzz&amp;af=R">
@@ -1509,22 +1887,6 @@
       <prism:publicationName>Electronic identity services as sociotechnical and political-economic constructs</prism:publicationName>
       <prism:doi>10.1177/1461444819872537</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819872537?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819873862?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Networked Press Freedom: Creating Infrastructures for a Public Right to Hear</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819873862?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Networked Press Freedom: Creating Infrastructures for a Public Right to Hear</dc:title>
-      <dc:identifier>10.1177/1461444819873862</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-09-06T09:04:52Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Jeanna Sybert</dc:creator>
-      <prism:publicationName>Networked Press Freedom: Creating Infrastructures for a Public Right to Hear</prism:publicationName>
-      <prism:doi>10.1177/1461444819873862</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819873862?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819872678?ai=2b4&amp;mi=ehikzz&amp;af=R">
@@ -1690,164 +2052,5 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819870130?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819868678?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Perceiving education from Facebook profile pictures</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819868678?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Our upbringing and education influence not only how we present and distinguish ourselves in the social world but also how we perceive others. We apply this central sociological idea to the social media context. We conduct a large-scale online study to investigate whether observers can correctly guess the education of others from their Facebook profile pictures. Using the binomial test and cross-classified mixed-effects models, we show that observers can assess the education of depicted persons better than chance, especially when they share the same educational background and have experience with the social media. We also find that posting pictures of outdoor activities is a strong signal of having higher education, while professional photographs can obscure education signals. The findings expand our knowledge of social interaction and self-expression online and offer new insights for understanding social influence on social media.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Our upbringing and education influence not only how we present and distinguish ourselves in the social world but also how we perceive others. We apply this central sociological idea to the social media context. We conduct a large-scale online study to investigate whether observers can correctly guess the education of others from their Facebook profile pictures. Using the binomial test and cross-classified mixed-effects models, we show that observers can assess the education of depicted persons better than chance, especially when they share the same educational background and have experience with the social media. We also find that posting pictures of outdoor activities is a strong signal of having higher education, while professional photographs can obscure education signals. The findings expand our knowledge of social interaction and self-expression online and offer new insights for understanding social influence on social media.</description>
-      <dc:title>Perceiving education from Facebook profile pictures</dc:title>
-      <dc:identifier>10.1177/1461444819868678</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-08-16T05:59:06Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Michael V. Reiss</dc:creator>
-      <dc:creator>Milena Tsvetkova</dc:creator>
-      <prism:publicationName>Perceiving education from Facebook profile pictures</prism:publicationName>
-      <prism:doi>10.1177/1461444819868678</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819868678?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819865720?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Self-transcendent emotions and social media: Exploring the content and consumers of inspirational Facebook posts</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819865720?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Although a great deal of research has examined the potential negative effects of Facebook, studies also show that Facebook use can lead to various positive effects. This study builds on this positive effects scholarship: together, the two studies presented herein aim to provide an understanding of the inspirational content available on Facebook and the way social media users in the United States encounter, recall, and interact with this content. Results from the quantitative content analysis in Study 1 show that inspirational Facebook posts contain similar frequencies of hope and appreciation of beauty and excellent elicitors when compared with other forms of media and social media. Results from the national survey conducted in Study 2 show that social media users are most often inspired by portrayals of kindness and overcoming obstacles and that Facebook users did not report different sharing behavior as compared with users of other social media sites.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Although a great deal of research has examined the potential negative effects of Facebook, studies also show that Facebook use can lead to various positive effects. This study builds on this positive effects scholarship: together, the two studies presented herein aim to provide an understanding of the inspirational content available on Facebook and the way social media users in the United States encounter, recall, and interact with this content. Results from the quantitative content analysis in Study 1 show that inspirational Facebook posts contain similar frequencies of hope and appreciation of beauty and excellent elicitors when compared with other forms of media and social media. Results from the national survey conducted in Study 2 show that social media users are most often inspired by portrayals of kindness and overcoming obstacles and that Facebook users did not report different sharing behavior as compared with users of other social media sites.</description>
-      <dc:title>Self-transcendent emotions and social media: Exploring the content and consumers of inspirational Facebook posts</dc:title>
-      <dc:identifier>10.1177/1461444819865720</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-08-12T09:23:07Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Katherine R Dale</dc:creator>
-      <dc:creator>Arthur A Raney</dc:creator>
-      <dc:creator>Qihao Ji</dc:creator>
-      <dc:creator>Sophie H Janicke-Bowles</dc:creator>
-      <dc:creator>Joshua Baldwin</dc:creator>
-      <dc:creator>Jerrica T Rowlett</dc:creator>
-      <dc:creator>Cen Wang</dc:creator>
-      <dc:creator>Mary Beth Oliver</dc:creator>
-      <prism:publicationName>Self-transcendent emotions and social media: Exploring the content and consumers of inspirational Facebook posts</prism:publicationName>
-      <prism:doi>10.1177/1461444819865720</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819865720?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819863408?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>The curiosity effect: Information seeking in the contemporary news environment</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819863408?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This research investigates how digital news headlines influence contemporary news information seeking. In two studies (a lab experiment and a field test), we examine how the presentation of news information—traditional, summary news headlines or clickbait, curiosity news headlines—influences the attitudinal and behavioral components of news seeking. Study 1 models the news-seeking process, finding that summary headlines heighten perceptions of headline information adequacy, which increase expectations that an article will provide clear information, which in turn increase anticipated audience engagement with news compared to some curiosity headlines. Study 2 determines that individuals’ selection behavior on nine local newspaper websites also favors summary headlines. The findings encourage researchers to employ information-seeking mechanisms in understanding news selection decisions.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This research investigates how digital news headlines influence contemporary news information seeking. In two studies (a lab experiment and a field test), we examine how the presentation of news information—traditional, summary news headlines or clickbait, curiosity news headlines—influences the attitudinal and behavioral components of news seeking. Study 1 models the news-seeking process, finding that summary headlines heighten perceptions of headline information adequacy, which increase expectations that an article will provide clear information, which in turn increase anticipated audience engagement with news compared to some curiosity headlines. Study 2 determines that individuals’ selection behavior on nine local newspaper websites also favors summary headlines. The findings encourage researchers to employ information-seeking mechanisms in understanding news selection decisions.</description>
-      <dc:title>The curiosity effect: Information seeking in the contemporary news environment</dc:title>
-      <dc:identifier>10.1177/1461444819863408</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-08-06T09:33:20Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Joshua M Scacco</dc:creator>
-      <dc:creator>Ashley Muddiman</dc:creator>
-      <prism:publicationName>The curiosity effect: Information seeking in the contemporary news environment</prism:publicationName>
-      <prism:doi>10.1177/1461444819863408</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819863408?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819863407?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>The audiobook circuit in digital publishing: Voicing the silent revolution</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819863407?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Digital Internet-distributed audiobooks are a surprising game changer in digital publishing. In recent years, audiobooks have moved from being a peripheral by-product of the printed book into the centre of digital publishing and reading, but are typically still ignored in publishing studies. This article raises the voice of the audiobook by giving it a privileged status in the current transformations of book publishing caused by digitization. We present an original model of the digital audiobook circuit, which is based on interviews and knowledge from the Danish market as part of a global industry, which makes it possible to reflect and adjust according to national variations. The model is framed by theoretical discussions of values and dynamics within the digital audiobook circuit in general.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Digital Internet-distributed audiobooks are a surprising game changer in digital publishing. In recent years, audiobooks have moved from being a peripheral by-product of the printed book into the centre of digital publishing and reading, but are typically still ignored in publishing studies. This article raises the voice of the audiobook by giving it a privileged status in the current transformations of book publishing caused by digitization. We present an original model of the digital audiobook circuit, which is based on interviews and knowledge from the Danish market as part of a global industry, which makes it possible to reflect and adjust according to national variations. The model is framed by theoretical discussions of values and dynamics within the digital audiobook circuit in general.</description>
-      <dc:title>The audiobook circuit in digital publishing: Voicing the silent revolution</dc:title>
-      <dc:identifier>10.1177/1461444819863407</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-08-02T10:29:25Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Iben Have</dc:creator>
-      <dc:creator>Birgitte Stougaard Pedersen</dc:creator>
-      <prism:publicationName>The audiobook circuit in digital publishing: Voicing the silent revolution</prism:publicationName>
-      <prism:doi>10.1177/1461444819863407</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819863407?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819863413?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Does really no one care? Analyzing the public engagement of communication scientists on Twitter</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819863413?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Recent publications question the public visibility of communication science as a discipline and its relevance for the broader society. To address this issue, we analyze the public engagement of communication scientists by using the example of their Twitter activity. We theoretically distinguish eight types of engagement and explore their empirical prevalence. The results show that a large share of communication is between peers, fulfilling social networking functions. Nevertheless, more than a quarter of the tweets are on political and social topics. In this way, communication scientists bring society into their scholarly community and thus act as bridge builders. They also reach diverse publics outside of science, such as followers from the field of economics. Our study thus highlights the diversity of connections between science and society and can offer a starting point to further research other fields of public engagement and the impact of the discipline on the public discourse.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Recent publications question the public visibility of communication science as a discipline and its relevance for the broader society. To address this issue, we analyze the public engagement of communication scientists by using the example of their Twitter activity. We theoretically distinguish eight types of engagement and explore their empirical prevalence. The results show that a large share of communication is between peers, fulfilling social networking functions. Nevertheless, more than a quarter of the tweets are on political and social topics. In this way, communication scientists bring society into their scholarly community and thus act as bridge builders. They also reach diverse publics outside of science, such as followers from the field of economics. Our study thus highlights the diversity of connections between science and society and can offer a starting point to further research other fields of public engagement and the impact of the discipline on the public discourse.</description>
-      <dc:title>Does really no one care? Analyzing the public engagement of communication scientists on Twitter</dc:title>
-      <dc:identifier>10.1177/1461444819863413</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-07-27T09:15:41Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
-      <dc:creator>Jakob Jünger</dc:creator>
-      <dc:creator>Birte Fähnrich</dc:creator>
-      <prism:publicationName>Does really no one care? Analyzing the public engagement of communication scientists on Twitter</prism:publicationName>
-      <prism:doi>10.1177/1461444819863413</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819863413?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819864572?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Tweeting Grenfell: Discourse and networks in critical constructions of British Muslim social boundaries on social media</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819864572?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;The Grenfell fire has yet to be analysed to understand the event’s implications in relation to construction of social boundaries for British Muslims. In this current research, two methodological approaches are applied to gain understandings of social boundary construction on twitter: thematic analysis of the content of tweets and social network analysis (SNA) of how messages are diffused and contested. Twitter is shown to be an important platform in spreading positive narratives about Muslims during the fire, enabling individuals to spontaneously contest fake news and hate narratives. Social media acts counter to established knowledge, demonstrating that it is not, per se, a conduit for fake news and hate speech. Furthermore, it demonstrates how twitter offers Muslims an international space to voice and articulate themselves where they can be influential in debates that effect Muslim diasporas in other national contexts.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;The Grenfell fire has yet to be analysed to understand the event’s implications in relation to construction of social boundaries for British Muslims. In this current research, two methodological approaches are applied to gain understandings of social boundary construction on twitter: thematic analysis of the content of tweets and social network analysis (SNA) of how messages are diffused and contested. Twitter is shown to be an important platform in spreading positive narratives about Muslims during the fire, enabling individuals to spontaneously contest fake news and hate narratives. Social media acts counter to established knowledge, demonstrating that it is not, per se, a conduit for fake news and hate speech. Furthermore, it demonstrates how twitter offers Muslims an international space to voice and articulate themselves where they can be influential in debates that effect Muslim diasporas in other national contexts.</description>
-      <dc:title>Tweeting Grenfell: Discourse and networks in critical constructions of British Muslim social boundaries on social media</dc:title>
-      <dc:identifier>10.1177/1461444819864572</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-07-26T09:16:05Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Joseph Downing</dc:creator>
-      <dc:creator>Richard Dron</dc:creator>
-      <prism:publicationName>Tweeting Grenfell: Discourse and networks in critical constructions of British Muslim social boundaries on social media</prism:publicationName>
-      <prism:doi>10.1177/1461444819864572</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819864572?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819864903?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Tinder’s lesbian digital imaginary: Investigating (im)permeable boundaries of sexual identity on a popular dating app</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819864903?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Dating apps have received rapid uptake, with Tinder as one of the most popular apps in the heterosexual market. However, little research has investigated the experiences of women seeking women (WSW) on this app. This article combines two interview studies of WSW in Australia, Canada, and the United Kingdom to investigate their self-presentations of sexual identity on Tinder. By configuring settings to “seeking women,” participants perceived they were entering a space conducive to finding WSW. However, men, couples, and heterosexual women permeated this space, heightening the need for participants to signal non-heterosexual identity. Their signals fused references to lesbian and queer culture with Tinder’s infrastructure to evoke a digital imaginary, as a routinized set of practices imagined to resonate with a shared community. Although signals within this digital imaginary were sometimes playful and ambiguous, their default toward a recognizable lesbian identity often rendered other sexual or gender identities invisible.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Dating apps have received rapid uptake, with Tinder as one of the most popular apps in the heterosexual market. However, little research has investigated the experiences of women seeking women (WSW) on this app. This article combines two interview studies of WSW in Australia, Canada, and the United Kingdom to investigate their self-presentations of sexual identity on Tinder. By configuring settings to “seeking women,” participants perceived they were entering a space conducive to finding WSW. However, men, couples, and heterosexual women permeated this space, heightening the need for participants to signal non-heterosexual identity. Their signals fused references to lesbian and queer culture with Tinder’s infrastructure to evoke a digital imaginary, as a routinized set of practices imagined to resonate with a shared community. Although signals within this digital imaginary were sometimes playful and ambiguous, their default toward a recognizable lesbian identity often rendered other sexual or gender identities invisible.</description>
-      <dc:title>Tinder’s lesbian digital imaginary: Investigating (im)permeable boundaries of sexual identity on a popular dating app</dc:title>
-      <dc:identifier>10.1177/1461444819864903</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-07-24T03:35:04Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Lindsay Ferris</dc:creator>
-      <dc:creator>Stefanie Duguay</dc:creator>
-      <prism:publicationName>Tinder’s lesbian digital imaginary: Investigating (im)permeable boundaries of sexual identity on a popular dating app</prism:publicationName>
-      <prism:doi>10.1177/1461444819864903</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819864903?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819864691?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Time to read: Exploring the timespaces of subscription-based audiobooks</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819864691?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;With remediation of the printed book into audiobook subscription services, reading by listening is becoming a popular alternative to reading by seeing. This article explores when people read by listening and whether there may be a shift regarding the places and times people read by listening rather than by seeing. Based on a considerable dataset from a Swedish subscription service for digital books, this article reveals that audiobook reading takes place at somewhat different times than expected and that subscribers read significant amounts each day. The findings indicate that the remediation into reading by listening using digital audiobooks may close the gender gap common in reading, as the reading practices of men and women are very similar, with men even reading slightly more than women. The reading practices of young adults are also similar to the larger population. Furthermore, the concepts stationary reading, mobile reading and stationary/mobile reading are introduced.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;With remediation of the printed book into audiobook subscription services, reading by listening is becoming a popular alternative to reading by seeing. This article explores when people read by listening and whether there may be a shift regarding the places and times people read by listening rather than by seeing. Based on a considerable dataset from a Swedish subscription service for digital books, this article reveals that audiobook reading takes place at somewhat different times than expected and that subscribers read significant amounts each day. The findings indicate that the remediation into reading by listening using digital audiobooks may close the gender gap common in reading, as the reading practices of men and women are very similar, with men even reading slightly more than women. The reading practices of young adults are also similar to the larger population. Furthermore, the concepts stationary reading, mobile reading and stationary/mobile reading are introduced.</description>
-      <dc:title>Time to read: Exploring the timespaces of subscription-based audiobooks</dc:title>
-      <dc:identifier>10.1177/1461444819864691</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-07-18T06:24:11Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Elisa Tattersall Wallin</dc:creator>
-      <dc:creator>Jan Nolin</dc:creator>
-      <prism:publicationName>Time to read: Exploring the timespaces of subscription-based audiobooks</prism:publicationName>
-      <prism:doi>10.1177/1461444819864691</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819864691?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819859894?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Online trolling and its perpetrators: Under the cyberbridge</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819859894?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Online trolling and its perpetrators: Under the cyberbridge</dc:title>
-      <dc:identifier>10.1177/1461444819859894</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-07-08T08:30:47Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Elizabeth Rodwell</dc:creator>
-      <prism:publicationName>Online trolling and its perpetrators: Under the cyberbridge</prism:publicationName>
-      <prism:doi>10.1177/1461444819859894</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819859894?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
 </rdf:RDF>
-<!-- cached:  1580580449-->
+<!-- cached:  1583176349-->

@@ -14,220 +14,260 @@
       <prism:publicationName>Rhetoric Society Quarterly</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1684124?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1658213?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668048?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671985?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671986?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671606?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668954?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647747?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1684125?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689085?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1686533?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1682182?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1679869?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685125?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689083?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685276?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685282?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689084?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2019/rrsq20.v049.i05/rrsq20.v049.i05/20191219-01/rrsq20.v049.i05.cover.jpg">
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i01/rrsq20.v050.i01/20200211-01/rrsq20.v050.i01.cover.jpg">
       <title>Rhetoric Society Quarterly</title>
-      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2019/rrsq20.v049.i05/rrsq20.v049.i05/20191219-01/rrsq20.v049.i05.cover.jpg</url>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i01/rrsq20.v050.i01/20200211-01/rrsq20.v050.i01.cover.jpg</url>
       <link>https://www.tandfonline.com/loi/rrsq20?af=R</link>
    </image>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1684124?af=R">
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689085?af=R">
       <title>Editor’s Message</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1684124?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/49/5"&gt;Volume 49, Issue 5&lt;/a&gt;, 2019, Page 445-446&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 49, Issue 5, 2019, Page 445-446&lt;br/&gt;. &lt;br/&gt;</description>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689085?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 1-2&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 1, 2020, Page 1-2&lt;br/&gt;. &lt;br/&gt;</description>
       <dc:title>Editor’s Message</dc:title>
-      <dc:identifier>doi:10.1080/02773945.2019.1684124</dc:identifier>
+      <dc:identifier>10.1080/02773945.2019.1689085</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2019-10-20T07:00:00Z</dc:date>
-      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
+      <dc:date>2020-02-11T06:55:24Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Jacqueline Rhodes</dc:creator>
       <prism:publicationName>Editor’s Message</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>445</prism:startingPage>
-      <prism:endingPage>446</prism:endingPage>
-      <prism:coverDate>2019-10-20T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-20T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1684124</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1684124?af=R</prism:url>
-      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>2</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1689085</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689085?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1658213?af=R">
-      <title>The Rhetorical Resistance of Tiny Homes: Downsizing Neoliberal Capitalism</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1658213?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/49/5"&gt;Volume 49, Issue 5&lt;/a&gt;, 2019, Page 447-469&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 49, Issue 5, 2019, Page 447-469&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>The Rhetorical Resistance of Tiny Homes: Downsizing Neoliberal Capitalism</dc:title>
-      <dc:identifier>doi:10.1080/02773945.2019.1658213</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1686533?af=R">
+      <title>A Violent Peace and America’s Copperhead Legacy</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1686533?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 3-18&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 1, 2020, Page 3-18&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>A Violent Peace and America’s Copperhead Legacy</dc:title>
+      <dc:identifier>10.1080/02773945.2019.1686533</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2019-10-20T07:00:00Z</dc:date>
-      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Crystal Colombini</dc:creator>
-      <prism:publicationName>The Rhetorical Resistance of Tiny Homes: Downsizing Neoliberal Capitalism</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>447</prism:startingPage>
-      <prism:endingPage>469</prism:endingPage>
-      <prism:coverDate>2019-10-20T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-20T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1658213</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1658213?af=R</prism:url>
-      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2020-02-11T06:55:27Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Dominic Manthey</dc:creator>
+      <prism:publicationName>A Violent Peace and America’s Copperhead Legacy</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>3</prism:startingPage>
+      <prism:endingPage>18</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1686533</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1686533?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668048?af=R">
-      <title>Revisiting Missions: Decolonizing Public Memories in California</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668048?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/49/5"&gt;Volume 49, Issue 5&lt;/a&gt;, 2019, Page 470-494&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 49, Issue 5, 2019, Page 470-494&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Revisiting Missions: Decolonizing Public Memories in California</dc:title>
-      <dc:identifier>doi:10.1080/02773945.2019.1668048</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1682182?af=R">
+      <title>Visualizing Birth Stories from the Margin: Toward a Reproductive Justice Model of Rhetorical Analysis</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1682182?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 19-34&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 1, 2020, Page 19-34&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Visualizing Birth Stories from the Margin: Toward a Reproductive Justice Model of Rhetorical Analysis</dc:title>
+      <dc:identifier>10.1080/02773945.2019.1682182</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2019-10-20T07:00:00Z</dc:date>
-      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Brenda Helmbrecht</dc:creator>
-      <prism:publicationName>Revisiting Missions: Decolonizing Public Memories in California</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>470</prism:startingPage>
-      <prism:endingPage>494</prism:endingPage>
-      <prism:coverDate>2019-10-20T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-20T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1668048</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668048?af=R</prism:url>
-      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2020-02-11T06:55:25Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Shui-yin Sharon Yam</dc:creator>
+      <prism:publicationName>Visualizing Birth Stories from the Margin: Toward a Reproductive Justice Model of Rhetorical Analysis</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>19</prism:startingPage>
+      <prism:endingPage>34</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1682182</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1682182?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671985?af=R">
-      <title>Deliberative Topoi and the Pull of the Future: Bridging Disparate Visions of Dresden Elbe Valley</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671985?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/49/5"&gt;Volume 49, Issue 5&lt;/a&gt;, 2019, Page 495-516&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 49, Issue 5, 2019, Page 495-516&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Deliberative Topoi and the Pull of the Future: Bridging Disparate Visions of Dresden Elbe Valley</dc:title>
-      <dc:identifier>doi:10.1080/02773945.2019.1671985</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1679869?af=R">
+      <title>The Scale of Our Memory: Spectacle in the Commemoration of Gallipoli</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1679869?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 35-52&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 1, 2020, Page 35-52&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The Scale of Our Memory: Spectacle in the Commemoration of Gallipoli</dc:title>
+      <dc:identifier>10.1080/02773945.2019.1679869</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2019-10-20T07:00:00Z</dc:date>
-      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Haley Schneider</dc:creator>
-      <prism:publicationName>Deliberative Topoi and the Pull of the Future: Bridging Disparate Visions of Dresden Elbe Valley</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>495</prism:startingPage>
-      <prism:endingPage>516</prism:endingPage>
-      <prism:coverDate>2019-10-20T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-20T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1671985</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671985?af=R</prism:url>
-      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2020-02-11T06:55:26Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Kendall R. Phillips</dc:creator>
+      <dc:creator>Connah Podmore</dc:creator>
+      <prism:publicationName>The Scale of Our Memory: Spectacle in the Commemoration of Gallipoli</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>35</prism:startingPage>
+      <prism:endingPage>52</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1679869</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1679869?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671986?af=R">
-      <title>Parasitic Publics</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671986?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/49/5"&gt;Volume 49, Issue 5&lt;/a&gt;, 2019, Page 517-541&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 49, Issue 5, 2019, Page 517-541&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Parasitic Publics</dc:title>
-      <dc:identifier>doi:10.1080/02773945.2019.1671986</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685125?af=R">
+      <title>“A Social Movement in Fact”: La Raza and El Plan de Delano</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685125?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 53-68&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 1, 2020, Page 53-68&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>“A Social Movement in Fact”: La Raza and El Plan de Delano</dc:title>
+      <dc:identifier>10.1080/02773945.2019.1685125</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2019-10-20T07:00:00Z</dc:date>
-      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Kyle R. Larson</dc:creator>
-      <dc:creator>George F. (Guy) McHendry</dc:creator>
-      <prism:publicationName>Parasitic Publics</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>517</prism:startingPage>
-      <prism:endingPage>541</prism:endingPage>
-      <prism:coverDate>2019-10-20T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-20T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1671986</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671986?af=R</prism:url>
-      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2020-02-11T06:55:34Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>José G. Izaguirre</dc:creator>
+      <prism:publicationName>“A Social Movement in Fact”: La Raza and El Plan de Delano</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>53</prism:startingPage>
+      <prism:endingPage>68</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1685125</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685125?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671606?af=R">
-      <title>Transindividuating Nodes: Rhetoric as the Architechnical Organizer of Networks</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671606?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/49/5"&gt;Volume 49, Issue 5&lt;/a&gt;, 2019, Page 542-565&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 49, Issue 5, 2019, Page 542-565&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Transindividuating Nodes: Rhetoric as the Architechnical Organizer of Networks</dc:title>
-      <dc:identifier>doi:10.1080/02773945.2019.1671606</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689083?af=R">
+      <title>Lynching: Violence, Rhetoric, and American Identity, by Ersula J. Ore</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689083?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 69-71&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 1, 2020, Page 69-71&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Lynching: Violence, Rhetoric, and American Identity, by Ersula J. Ore</dc:title>
+      <dc:identifier>10.1080/02773945.2019.1689083</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2019-10-20T07:00:00Z</dc:date>
-      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Jonathan S. Carter</dc:creator>
-      <prism:publicationName>Transindividuating Nodes: Rhetoric as the Architechnical Organizer of Networks</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>542</prism:startingPage>
-      <prism:endingPage>565</prism:endingPage>
-      <prism:coverDate>2019-10-20T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-20T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1671606</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1671606?af=R</prism:url>
-      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2020-02-11T06:55:25Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Morgan K. Johnson</dc:creator>
+      <prism:publicationName>Lynching: Violence, Rhetoric, and American Identity, by Ersula J. Ore</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>69</prism:startingPage>
+      <prism:endingPage>71</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1689083</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689083?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668954?af=R">
-      <title>A Living Rhetorical Enterprise: The RSA Oral History Initiative</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668954?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/49/5"&gt;Volume 49, Issue 5&lt;/a&gt;, 2019, Page 566-582&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 49, Issue 5, 2019, Page 566-582&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>A Living Rhetorical Enterprise: The RSA Oral History Initiative</dc:title>
-      <dc:identifier>doi:10.1080/02773945.2019.1668954</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685276?af=R">
+      <title>Editorial Bodies: Perfection and Rejection in Ancient Rhetoric and Poetics, by Michele Kennerly</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685276?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 71-73&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 1, 2020, Page 71-73&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Editorial Bodies: Perfection and Rejection in Ancient Rhetoric and Poetics, by Michele Kennerly</dc:title>
+      <dc:identifier>10.1080/02773945.2019.1685276</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2019-10-20T07:00:00Z</dc:date>
-      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Eric Detweiler</dc:creator>
-      <dc:creator>Elizabeth McGhee Williams</dc:creator>
-      <prism:publicationName>A Living Rhetorical Enterprise: The RSA Oral History Initiative</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>566</prism:startingPage>
-      <prism:endingPage>582</prism:endingPage>
-      <prism:coverDate>2019-10-20T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-20T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1668954</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1668954?af=R</prism:url>
-      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2020-02-11T06:55:25Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Jordan Loveridge</dc:creator>
+      <prism:publicationName>Editorial Bodies: Perfection and Rejection in Ancient Rhetoric and Poetics, by Michele Kennerly</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>71</prism:startingPage>
+      <prism:endingPage>73</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1685276</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685276?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647747?af=R">
-      <title>Assigning Blame: The Rhetoric of Education Reform, by Mark Hlavacik</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647747?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/49/5"&gt;Volume 49, Issue 5&lt;/a&gt;, 2019, Page 583-586&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 49, Issue 5, 2019, Page 583-586&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Assigning Blame: The Rhetoric of Education Reform, by Mark Hlavacik</dc:title>
-      <dc:identifier>doi:10.1080/02773945.2019.1647747</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685282?af=R">
+      <title>Reforming Women: The Rhetorical Tactics of the American Female Moral Reform Society, 1834–1854, by Lisa J. Shaver</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685282?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 73-75&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 1, 2020, Page 73-75&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Reforming Women: The Rhetorical Tactics of the American Female Moral Reform Society, 1834–1854, by Lisa J. Shaver</dc:title>
+      <dc:identifier>10.1080/02773945.2019.1685282</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2019-10-20T07:00:00Z</dc:date>
-      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Scott Wible</dc:creator>
-      <prism:publicationName>Assigning Blame: The Rhetoric of Education Reform, by Mark Hlavacik</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>583</prism:startingPage>
-      <prism:endingPage>586</prism:endingPage>
-      <prism:coverDate>2019-10-20T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-20T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1647747</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1647747?af=R</prism:url>
-      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2020-02-11T06:55:24Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Meridith Styer</dc:creator>
+      <prism:publicationName>Reforming Women: The Rhetorical Tactics of the American Female Moral Reform Society, 1834–1854, by Lisa J. Shaver</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>73</prism:startingPage>
+      <prism:endingPage>75</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1685282</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685282?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1684125?af=R">
-      <title>Manuscript Reviewers</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1684125?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/49/5"&gt;Volume 49, Issue 5&lt;/a&gt;, 2019, Page i-i&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 49, Issue 5, 2019, Page i-i&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Manuscript Reviewers</dc:title>
-      <dc:identifier>doi:10.1080/02773945.2019.1684125</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689084?af=R">
+      <title>Visualizing Posthuman Conservation in the Age of the Anthropocene, by Amy D. Propen</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689084?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 75-78&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 1, 2020, Page 75-78&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Visualizing Posthuman Conservation in the Age of the Anthropocene, by Amy D. Propen</dc:title>
+      <dc:identifier>10.1080/02773945.2019.1689084</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2019-10-20T07:00:00Z</dc:date>
-      <dc:rights>© 2019 The Rhetoric Society of America</dc:rights>
-      <prism:publicationName>Manuscript Reviewers</prism:publicationName>
-      <prism:volume>49</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>i</prism:startingPage>
-      <prism:endingPage>i</prism:endingPage>
-      <prism:coverDate>2019-10-20T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2019-10-20T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1684125</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1684125?af=R</prism:url>
-      <prism:copyright>© 2019 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2020-02-11T06:55:25Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Katherine D. Lind</dc:creator>
+      <prism:publicationName>Visualizing Posthuman Conservation in the Age of the Anthropocene, by Amy D. Propen</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>75</prism:startingPage>
+      <prism:endingPage>78</prism:endingPage>
+      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2019.1689084</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689084?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R">
+      <title>The Trace of a Mark That Scatters: The Anthropoi and the Rhetoric of Decoloniality</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The Trace of a Mark That Scatters: The Anthropoi and the Rhetoric of Decoloniality</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1714703</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-02-27T02:44:25Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Romeo García</dc:creator>
+      <dc:creator>José M. Cortez</dc:creator>
+      <prism:publicationName>The Trace of a Mark That Scatters: The Anthropoi and the Rhetoric of Decoloniality</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1714703</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R">
+      <title>“More Resilient than Concrete and Steel”: Consciousness-Raising, Self-Discipline, and Bodily Resistance in Solitary Confinement</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>“More Resilient than Concrete and Steel”: Consciousness-Raising, Self-Discipline, and Bodily Resistance in Solitary Confinement</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1714704</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-02-26T07:08:33Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Chris S. Earle</dc:creator>
+      <prism:publicationName>“More Resilient than Concrete and Steel”: Consciousness-Raising, Self-Discipline, and Bodily Resistance in Solitary Confinement</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1714704</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1580580449-->
+<!-- cached:  1583176349-->
