@@ -23,6 +23,7 @@
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685276?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685282?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689084?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R"/>
          </rdf:Seq>
@@ -232,6 +233,24 @@
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689084?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R">
+      <title>On the Rhetorical Grotesque: A Mode for Strange Times</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>On the Rhetorical Grotesque: A Mode for Strange Times</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1723680</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-03-02T03:25:58Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Richard Benjamin Crosby</dc:creator>
+      <prism:publicationName>On the Rhetorical Grotesque: A Mode for Strange Times</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1723680</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R">
       <title>The Trace of a Mark That Scatters: The Anthropoi and the Rhetoric of Decoloniality</title>
       <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R</link>
@@ -270,4 +289,4 @@
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1583176349-->
+<!-- cached:  1583841683-->
