@@ -14,248 +14,49 @@
       <prism:publicationName>Rhetoric Society Quarterly</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689085?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1686533?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1682182?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1679869?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685125?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689083?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685276?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685282?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689084?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725614?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725615?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726129?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726130?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726131?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i01/rrsq20.v050.i01/20200211-01/rrsq20.v050.i01.cover.jpg">
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i02/rrsq20.v050.i02/20200327-01/rrsq20.v050.i02.cover.jpg">
       <title>Rhetoric Society Quarterly</title>
-      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i01/rrsq20.v050.i01/20200211-01/rrsq20.v050.i01.cover.jpg</url>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i02/rrsq20.v050.i02/20200327-01/rrsq20.v050.i02.cover.jpg</url>
       <link>https://www.tandfonline.com/loi/rrsq20?af=R</link>
    </image>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689085?af=R">
-      <title>Editor’s Message</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689085?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 1-2&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 1, 2020, Page 1-2&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Editor’s Message</dc:title>
-      <dc:identifier>10.1080/02773945.2019.1689085</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725614?af=R">
+      <title>A View from the Hill: “One Shot” Harris and the Pittsburgh Courier</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725614?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 79-92&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 2, March 2020, Page 79-92&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>A View from the Hill: “One Shot” Harris and the Pittsburgh Courier</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1725614</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-02-11T06:55:24Z</dc:date>
+      <dc:date>2020-03-27T05:10:15Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Jacqueline Rhodes</dc:creator>
-      <prism:publicationName>Editor’s Message</prism:publicationName>
+      <dc:creator>Emily N. Smith</dc:creator>
+      <prism:publicationName>A View from the Hill: “One Shot” Harris and the Pittsburgh Courier</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>2</prism:endingPage>
-      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1689085</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689085?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1686533?af=R">
-      <title>A Violent Peace and America’s Copperhead Legacy</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1686533?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 3-18&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 1, 2020, Page 3-18&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>A Violent Peace and America’s Copperhead Legacy</dc:title>
-      <dc:identifier>10.1080/02773945.2019.1686533</dc:identifier>
-      <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-02-11T06:55:27Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Dominic Manthey</dc:creator>
-      <prism:publicationName>A Violent Peace and America’s Copperhead Legacy</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>3</prism:startingPage>
-      <prism:endingPage>18</prism:endingPage>
-      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1686533</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1686533?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1682182?af=R">
-      <title>Visualizing Birth Stories from the Margin: Toward a Reproductive Justice Model of Rhetorical Analysis</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1682182?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 19-34&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 1, 2020, Page 19-34&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Visualizing Birth Stories from the Margin: Toward a Reproductive Justice Model of Rhetorical Analysis</dc:title>
-      <dc:identifier>10.1080/02773945.2019.1682182</dc:identifier>
-      <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-02-11T06:55:25Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Shui-yin Sharon Yam</dc:creator>
-      <prism:publicationName>Visualizing Birth Stories from the Margin: Toward a Reproductive Justice Model of Rhetorical Analysis</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>19</prism:startingPage>
-      <prism:endingPage>34</prism:endingPage>
-      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1682182</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1682182?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1679869?af=R">
-      <title>The Scale of Our Memory: Spectacle in the Commemoration of Gallipoli</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1679869?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 35-52&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 1, 2020, Page 35-52&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>The Scale of Our Memory: Spectacle in the Commemoration of Gallipoli</dc:title>
-      <dc:identifier>10.1080/02773945.2019.1679869</dc:identifier>
-      <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-02-11T06:55:26Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Kendall R. Phillips</dc:creator>
-      <dc:creator>Connah Podmore</dc:creator>
-      <prism:publicationName>The Scale of Our Memory: Spectacle in the Commemoration of Gallipoli</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>35</prism:startingPage>
-      <prism:endingPage>52</prism:endingPage>
-      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1679869</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1679869?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685125?af=R">
-      <title>“A Social Movement in Fact”: La Raza and El Plan de Delano</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685125?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 53-68&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 1, 2020, Page 53-68&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>“A Social Movement in Fact”: La Raza and El Plan de Delano</dc:title>
-      <dc:identifier>10.1080/02773945.2019.1685125</dc:identifier>
-      <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-02-11T06:55:34Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>José G. Izaguirre</dc:creator>
-      <prism:publicationName>“A Social Movement in Fact”: La Raza and El Plan de Delano</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>53</prism:startingPage>
-      <prism:endingPage>68</prism:endingPage>
-      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1685125</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685125?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689083?af=R">
-      <title>Lynching: Violence, Rhetoric, and American Identity, by Ersula J. Ore</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689083?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 69-71&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 1, 2020, Page 69-71&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Lynching: Violence, Rhetoric, and American Identity, by Ersula J. Ore</dc:title>
-      <dc:identifier>10.1080/02773945.2019.1689083</dc:identifier>
-      <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-02-11T06:55:25Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Morgan K. Johnson</dc:creator>
-      <prism:publicationName>Lynching: Violence, Rhetoric, and American Identity, by Ersula J. Ore</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>69</prism:startingPage>
-      <prism:endingPage>71</prism:endingPage>
-      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1689083</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689083?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685276?af=R">
-      <title>Editorial Bodies: Perfection and Rejection in Ancient Rhetoric and Poetics, by Michele Kennerly</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685276?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 71-73&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 1, 2020, Page 71-73&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Editorial Bodies: Perfection and Rejection in Ancient Rhetoric and Poetics, by Michele Kennerly</dc:title>
-      <dc:identifier>10.1080/02773945.2019.1685276</dc:identifier>
-      <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-02-11T06:55:25Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Jordan Loveridge</dc:creator>
-      <prism:publicationName>Editorial Bodies: Perfection and Rejection in Ancient Rhetoric and Poetics, by Michele Kennerly</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>71</prism:startingPage>
-      <prism:endingPage>73</prism:endingPage>
-      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1685276</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685276?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685282?af=R">
-      <title>Reforming Women: The Rhetorical Tactics of the American Female Moral Reform Society, 1834–1854, by Lisa J. Shaver</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685282?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 73-75&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 1, 2020, Page 73-75&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Reforming Women: The Rhetorical Tactics of the American Female Moral Reform Society, 1834–1854, by Lisa J. Shaver</dc:title>
-      <dc:identifier>10.1080/02773945.2019.1685282</dc:identifier>
-      <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-02-11T06:55:24Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Meridith Styer</dc:creator>
-      <prism:publicationName>Reforming Women: The Rhetorical Tactics of the American Female Moral Reform Society, 1834–1854, by Lisa J. Shaver</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>73</prism:startingPage>
-      <prism:endingPage>75</prism:endingPage>
-      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1685282</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1685282?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689084?af=R">
-      <title>Visualizing Posthuman Conservation in the Age of the Anthropocene, by Amy D. Propen</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689084?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/1"&gt;Volume 50, Issue 1&lt;/a&gt;, 2020, Page 75-78&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 1, 2020, Page 75-78&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Visualizing Posthuman Conservation in the Age of the Anthropocene, by Amy D. Propen</dc:title>
-      <dc:identifier>10.1080/02773945.2019.1689084</dc:identifier>
-      <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-02-11T06:55:25Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Katherine D. Lind</dc:creator>
-      <prism:publicationName>Visualizing Posthuman Conservation in the Age of the Anthropocene, by Amy D. Propen</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>75</prism:startingPage>
-      <prism:endingPage>78</prism:endingPage>
-      <prism:coverDate>2020-01-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2019.1689084</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2019.1689084?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R">
-      <title>On the Rhetorical Grotesque: A Mode for Strange Times</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>On the Rhetorical Grotesque: A Mode for Strange Times</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1723680</dc:identifier>
-      <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-03-02T03:25:58Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Richard Benjamin Crosby</dc:creator>
-      <prism:publicationName>On the Rhetorical Grotesque: A Mode for Strange Times</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>15</prism:endingPage>
-      <prism:doi>10.1080/02773945.2020.1723680</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>79</prism:startingPage>
+      <prism:endingPage>92</prism:endingPage>
+      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1725614</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725614?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R">
       <title>The Trace of a Mark That Scatters: The Anthropoi and the Rhetoric of Decoloniality</title>
       <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 93-108&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 2, March 2020, Page 93-108&lt;br/&gt;. &lt;br/&gt;</description>
       <dc:title>The Trace of a Mark That Scatters: The Anthropoi and the Rhetoric of Decoloniality</dc:title>
       <dc:identifier>10.1080/02773945.2020.1714703</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
@@ -264,17 +65,43 @@
       <dc:creator>Romeo García</dc:creator>
       <dc:creator>José M. Cortez</dc:creator>
       <prism:publicationName>The Trace of a Mark That Scatters: The Anthropoi and the Rhetoric of Decoloniality</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>16</prism:endingPage>
+      <prism:volume>50</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>93</prism:startingPage>
+      <prism:endingPage>108</prism:endingPage>
+      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1080/02773945.2020.1714703</prism:doi>
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R">
+      <title>On the Rhetorical Grotesque: A Mode for Strange Times</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 109-123&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 2, March 2020, Page 109-123&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>On the Rhetorical Grotesque: A Mode for Strange Times</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1723680</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-03-02T03:25:58Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Richard Benjamin Crosby</dc:creator>
+      <prism:publicationName>On the Rhetorical Grotesque: A Mode for Strange Times</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>109</prism:startingPage>
+      <prism:endingPage>123</prism:endingPage>
+      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1723680</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R">
       <title>“More Resilient than Concrete and Steel”: Consciousness-Raising, Self-Discipline, and Bodily Resistance in Solitary Confinement</title>
       <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 124-138&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 2, March 2020, Page 124-138&lt;br/&gt;. &lt;br/&gt;</description>
       <dc:title>“More Resilient than Concrete and Steel”: Consciousness-Raising, Self-Discipline, and Bodily Resistance in Solitary Confinement</dc:title>
       <dc:identifier>10.1080/02773945.2020.1714704</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
@@ -282,11 +109,103 @@
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
       <dc:creator>Chris S. Earle</dc:creator>
       <prism:publicationName>“More Resilient than Concrete and Steel”: Consciousness-Raising, Self-Discipline, and Bodily Resistance in Solitary Confinement</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>15</prism:endingPage>
+      <prism:volume>50</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>124</prism:startingPage>
+      <prism:endingPage>138</prism:endingPage>
+      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1080/02773945.2020.1714704</prism:doi>
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725615?af=R">
+      <title>Winking at Excess: Racist Kinesiologies in Childish Gambino’s “This Is America”</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725615?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 139-151&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 2, March 2020, Page 139-151&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Winking at Excess: Racist Kinesiologies in Childish Gambino’s “This Is America”</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1725615</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-03-27T05:10:14Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Jennifer Lin LeMesurier</dc:creator>
+      <prism:publicationName>Winking at Excess: Racist Kinesiologies in Childish Gambino’s “This Is America”</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>139</prism:startingPage>
+      <prism:endingPage>151</prism:endingPage>
+      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1725615</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725615?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726129?af=R">
+      <title>Rhetoric as a Posthuman Practice, by Casey Boyle</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726129?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 152-154&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 2, March 2020, Page 152-154&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Rhetoric as a Posthuman Practice, by Casey Boyle</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1726129</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-03-27T05:10:15Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Nathan Stormer</dc:creator>
+      <prism:publicationName>Rhetoric as a Posthuman Practice, by Casey Boyle</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>152</prism:startingPage>
+      <prism:endingPage>154</prism:endingPage>
+      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1726129</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726129?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726130?af=R">
+      <title>Reality Bites: Rhetoric and the Circulation of Truth Claims in U.S. Political Culture, by Dana L. Cloud</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726130?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 154-156&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 2, March 2020, Page 154-156&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Reality Bites: Rhetoric and the Circulation of Truth Claims in U.S. Political Culture, by Dana L. Cloud</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1726130</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-03-27T05:10:14Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Margaret Franz</dc:creator>
+      <prism:publicationName>Reality Bites: Rhetoric and the Circulation of Truth Claims in U.S. Political Culture, by Dana L. Cloud</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>154</prism:startingPage>
+      <prism:endingPage>156</prism:endingPage>
+      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1726130</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726130?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726131?af=R">
+      <title>Rhetoric’s Pragmatism: Essays in Rhetorical Hermeneutics, by Steven Mailloux</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726131?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 156-159&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 2, March 2020, Page 156-159&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Rhetoric’s Pragmatism: Essays in Rhetorical Hermeneutics, by Steven Mailloux</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1726131</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-03-27T05:10:14Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Ira Allen</dc:creator>
+      <prism:publicationName>Rhetoric’s Pragmatism: Essays in Rhetorical Hermeneutics, by Steven Mailloux</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>156</prism:startingPage>
+      <prism:endingPage>159</prism:endingPage>
+      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1726131</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726131?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
 </rdf:RDF>
-<!-- cached:  1584886652-->
+<!-- cached:  1586619641-->
