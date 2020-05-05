@@ -24,6 +24,7 @@
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669963?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689091?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669964?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1754466?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1738555?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713405?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713404?af=R"/>
@@ -263,6 +264,24 @@
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669964?af=R</prism:url>
       <prism:copyright>© 2019 Travis Holt</prism:copyright>
    </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1754466?af=R">
+      <title>The Benefits of Improvisational Games in the TC Classroom</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1754466?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The Benefits of Improvisational Games in the TC Classroom</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1754466</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-04-14T04:36:47Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Tammy Rice-Bailey</dc:creator>
+      <prism:publicationName>The Benefits of Improvisational Games in the TC Classroom</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1754466</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1754466?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1738555?af=R">
       <title>Gaming Design Thinking: Wicked Problems, Sufficient Solutions, and the Possibility Space of Games</title>
       <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1738555?af=R</link>
@@ -386,4 +405,4 @@
       <prism:copyright>© 2019 Association of Teachers of Technical Writing</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1586619641-->
+<!-- cached:  1588700927-->
