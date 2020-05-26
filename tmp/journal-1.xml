@@ -14,159 +14,24 @@
       <prism:publicationName>Journal of Business and Technical Communication</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651919892039?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651919892312?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651919892306?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651919892760?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651919892761?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920910152?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920910219?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920910142?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920910205?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920910226?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920910142?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920910152?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2020/jbtb_34_2/jbtb_34_2/20200219/jbtb_34_2.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2020/jbtb_34_3/jbtb_34_3/20200515/jbtb_34_3.cover.png">
       <title>Journal of Business and Technical Communication</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2020/jbtb_34_2/jbtb_34_2/20200219/jbtb_34_2.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2020/jbtb_34_3/jbtb_34_3/20200515/jbtb_34_3.cover.png</url>
       <link>https://journals.sagepub.com/loi/jbtb?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651919892039?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Formal Communications’ Role in Knowledge Work: Evidence From Projects</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651919892039?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/2"&gt;Volume 34, Issue 2&lt;/a&gt;, Page 115-156, April 2020. &lt;br/&gt;To investigate the contribution of formal communications (FCs) to problem-solving knowledge work, this study examines survey, interview, and observational data from 212 teams who produced contracting documents, reports, and PowerPoint presentations while working on projects for diverse organizations worldwide. The study found that these FCs engaged teams in a contextual–conceptual dynamic involving interactive pairs of integral work activities. The findings validate, integrate, and extend prior scholarship on organizational genres, writing to learn, and the role of material texts in the work process, leading to a comprehensive framework that pinpoints opportunities for managing FCs to achieve their fullest potential.</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 34, Issue 2, Page 115-156, April 2020. &lt;br/&gt;To investigate the contribution of formal communications (FCs) to problem-solving knowledge work, this study examines survey, interview, and observational data from 212 teams who produced contracting documents, reports, and PowerPoint presentations while working on projects for diverse organizations worldwide. The study found that these FCs engaged teams in a contextual–conceptual dynamic involving interactive pairs of integral work activities. The findings validate, integrate, and extend prior scholarship on organizational genres, writing to learn, and the role of material texts in the work process, leading to a comprehensive framework that pinpoints opportunities for managing FCs to achieve their fullest potential.</description>
-      <dc:title>Formal Communications’ Role in Knowledge Work: Evidence From Projects</dc:title>
-      <dc:identifier>10.1177/1050651919892039</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-01-14T01:27:17Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Priscilla S. Rogers</dc:creator>
-      <dc:creator>Lisa A. Pawlik</dc:creator>
-      <dc:creator>Barbara L. Shwom</dc:creator>
-      <prism:publicationName>Formal Communications’ Role in Knowledge Work: Evidence From Projects</prism:publicationName>
-      <prism:volume>34</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>115</prism:startingPage>
-      <prism:endingPage>156</prism:endingPage>
-      <prism:coverDate>2020-04-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-04-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1050651919892039</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651919892039?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651919892312?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Is Bad News Difficult to Read? A Readability Analysis of Differently Connoted Passages in the Annual Reports of the 30 DAX Companies</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651919892312?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/2"&gt;Volume 34, Issue 2&lt;/a&gt;, Page 157-187, April 2020. &lt;br/&gt;This study examines the strategic use of readability to obfuscate negative news in a German financial communication context. Combining a manual and an automated content analysis, the authors assess the tone and readability of three parts (chairman’s address, share-price development, and development in the fiscal year) of the 2014 annual reports of the 30 companies listed in the German stock index DAX. The results indicate that positively connoted passages in annual reports are not necessarily easier to read than negatively connoted passages. Furthermore, the readability of the annual report varies depending on the part and its function within the report.</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 34, Issue 2, Page 157-187, April 2020. &lt;br/&gt;This study examines the strategic use of readability to obfuscate negative news in a German financial communication context. Combining a manual and an automated content analysis, the authors assess the tone and readability of three parts (chairman’s address, share-price development, and development in the fiscal year) of the 2014 annual reports of the 30 companies listed in the German stock index DAX. The results indicate that positively connoted passages in annual reports are not necessarily easier to read than negatively connoted passages. Furthermore, the readability of the annual report varies depending on the part and its function within the report.</description>
-      <dc:title>Is Bad News Difficult to Read? A Readability Analysis of Differently Connoted Passages in the Annual Reports of the 30 DAX Companies</dc:title>
-      <dc:identifier>10.1177/1050651919892312</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2019-12-23T10:12:44Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Claudia Thoms</dc:creator>
-      <dc:creator>Anke Degenhart</dc:creator>
-      <dc:creator>Katharina Wohlgemuth</dc:creator>
-      <prism:publicationName>Is Bad News Difficult to Read? A Readability Analysis of Differently Connoted Passages in the Annual Reports of the 30 DAX Companies</prism:publicationName>
-      <prism:volume>34</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>157</prism:startingPage>
-      <prism:endingPage>187</prism:endingPage>
-      <prism:coverDate>2020-04-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-04-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1050651919892312</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651919892312?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651919892306?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Scaffolding Feedback Between Cowriters With Different Levels of English-Language Proficiency</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651919892306?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/2"&gt;Volume 34, Issue 2&lt;/a&gt;, Page 188-213, April 2020. &lt;br/&gt;When students cowrite with others who have different levels of proficiency with the English language, they can experience unproductive conflict related to feedback avoidance. The author interviewed 20 professionals with experience cowriting across such different English proficiencies and found three strategies that can facilitate feedback and collaboration: calibrate genre and reader expectations, establish protocols for reviewing texts, and frame feedback as a learning opportunity. She suggests that these strategies can be a step toward helping students mitigate their anxieties about feedback and feel more empowered to engage with linguistically diverse peers.</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 34, Issue 2, Page 188-213, April 2020. &lt;br/&gt;When students cowrite with others who have different levels of proficiency with the English language, they can experience unproductive conflict related to feedback avoidance. The author interviewed 20 professionals with experience cowriting across such different English proficiencies and found three strategies that can facilitate feedback and collaboration: calibrate genre and reader expectations, establish protocols for reviewing texts, and frame feedback as a learning opportunity. She suggests that these strategies can be a step toward helping students mitigate their anxieties about feedback and feel more empowered to engage with linguistically diverse peers.</description>
-      <dc:title>Scaffolding Feedback Between Cowriters With Different Levels of English-Language Proficiency</dc:title>
-      <dc:identifier>10.1177/1050651919892306</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2019-12-20T10:38:34Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Maria Poznahovska Feuer</dc:creator>
-      <prism:publicationName>Scaffolding Feedback Between Cowriters With Different Levels of English-Language Proficiency</prism:publicationName>
-      <prism:volume>34</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>188</prism:startingPage>
-      <prism:endingPage>213</prism:endingPage>
-      <prism:coverDate>2020-04-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-04-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1050651919892306</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651919892306?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651919892760?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Book Review: Involving the Audience: A Rhetorical Perspective on Using Social Media to Improve Websites</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651919892760?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/2"&gt;Volume 34, Issue 2&lt;/a&gt;, Page 214-217, April 2020. &lt;br/&gt;</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 34, Issue 2, Page 214-217, April 2020. &lt;br/&gt;</description>
-      <dc:title>Book Review: Involving the Audience: A Rhetorical Perspective on Using Social Media to Improve Websites</dc:title>
-      <dc:identifier>10.1177/1050651919892760</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2019-12-14T02:37:32Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Jason Chew Kit Tham</dc:creator>
-      <prism:publicationName>Book Review: Involving the Audience: A Rhetorical Perspective on Using Social Media to Improve Websites</prism:publicationName>
-      <prism:volume>34</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>214</prism:startingPage>
-      <prism:endingPage>217</prism:endingPage>
-      <prism:coverDate>2020-04-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-04-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1050651919892760</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651919892760?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651919892761?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Book Review: The Invention of Science: A New History of the Scientific Revolution</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651919892761?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/2"&gt;Volume 34, Issue 2&lt;/a&gt;, Page 218-220, April 2020. &lt;br/&gt;</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 34, Issue 2, Page 218-220, April 2020. &lt;br/&gt;</description>
-      <dc:title>Book Review: The Invention of Science: A New History of the Scientific Revolution</dc:title>
-      <dc:identifier>10.1177/1050651919892761</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2019-12-19T10:07:43Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Timothy D. Giles</dc:creator>
-      <prism:publicationName>Book Review: The Invention of Science: A New History of the Scientific Revolution</prism:publicationName>
-      <prism:volume>34</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>218</prism:startingPage>
-      <prism:endingPage>220</prism:endingPage>
-      <prism:coverDate>2020-04-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-04-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1050651919892761</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651919892761?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920910152?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Book Review: The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920910152?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Book Review: The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity</dc:title>
-      <dc:identifier>10.1177/1050651920910152</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-03-24T10:17:36Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Alexandra Catá</dc:creator>
-      <prism:publicationName>Book Review: The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity</prism:publicationName>
-      <prism:doi>10.1177/1050651920910152</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920910152?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920910219?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Stasis in the Shark Tank: Persuading an Audience of Funders to Act on Behalf of Entrepreneurs</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920910219?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study investigates the role of stasis, an ancient rhetorical tool with both heuristic and analytic capabilities, in entrepreneurial rhetoric, specifically in pitching and question-and-answer sessions. Drawing from a multiyear sample of Shark Tank pitches, the author found that funders expect entrepreneurs to account for stases of being, quality, quantity, and place. The findings suggest a series of associated questions within each stasis. When these questions are answered unsuccessfully, standstills occur within the funding argument; when they are successfully addressed, the stasis passes, and ventures are more likely to receive funding. The author discusses the implications of this study for entrepreneurship and professional communication.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study investigates the role of stasis, an ancient rhetorical tool with both heuristic and analytic capabilities, in entrepreneurial rhetoric, specifically in pitching and question-and-answer sessions. Drawing from a multiyear sample of Shark Tank pitches, the author found that funders expect entrepreneurs to account for stases of being, quality, quantity, and place. The findings suggest a series of associated questions within each stasis. When these questions are answered unsuccessfully, standstills occur within the funding argument; when they are successfully addressed, the stasis passes, and ventures are more likely to receive funding. The author discusses the implications of this study for entrepreneurship and professional communication.</description>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/3"&gt;Volume 34, Issue 3&lt;/a&gt;, Page 221-249, July 2020. &lt;br/&gt;This study investigates the role of stasis, an ancient rhetorical tool with both heuristic and analytic capabilities, in entrepreneurial rhetoric, specifically in pitching and question-and-answer sessions. Drawing from a multiyear sample of Shark Tank pitches, the author found that funders expect entrepreneurs to account for stases of being, quality, quantity, and place. The findings suggest a series of associated questions within each stasis. When these questions are answered unsuccessfully, standstills occur within the funding argument; when they are successfully addressed, the stasis passes, and ventures are more likely to receive funding. The author discusses the implications of this study for entrepreneurship and professional communication.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 34, Issue 3, Page 221-249, July 2020. &lt;br/&gt;This study investigates the role of stasis, an ancient rhetorical tool with both heuristic and analytic capabilities, in entrepreneurial rhetoric, specifically in pitching and question-and-answer sessions. Drawing from a multiyear sample of Shark Tank pitches, the author found that funders expect entrepreneurs to account for stases of being, quality, quantity, and place. The findings suggest a series of associated questions within each stasis. When these questions are answered unsuccessfully, standstills occur within the funding argument; when they are successfully addressed, the stasis passes, and ventures are more likely to receive funding. The author discusses the implications of this study for entrepreneurship and professional communication.</description>
       <dc:title>Stasis in the Shark Tank: Persuading an Audience of Funders to Act on Behalf of Entrepreneurs</dc:title>
       <dc:identifier>10.1177/1050651920910219</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
@@ -174,31 +39,21 @@
       <dc:rights>© The Author(s) 2020</dc:rights>
       <dc:creator>Elizabeth C. Tomlinson</dc:creator>
       <prism:publicationName>Stasis in the Shark Tank: Persuading an Audience of Funders to Act on Behalf of Entrepreneurs</prism:publicationName>
+      <prism:volume>34</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>221</prism:startingPage>
+      <prism:endingPage>249</prism:endingPage>
+      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1177/1050651920910219</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920910219?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920910142?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Book Review: A Billion Little Pieces: RFID and Infrastructures of Identification</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920910142?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Book Review: A Billion Little Pieces: RFID and Infrastructures of Identification</dc:title>
-      <dc:identifier>10.1177/1050651920910142</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-03-19T01:35:54Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Sarah Read</dc:creator>
-      <prism:publicationName>Book Review: A Billion Little Pieces: RFID and Infrastructures of Identification</prism:publicationName>
-      <prism:doi>10.1177/1050651920910142</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920910142?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920910205?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Do Writing Errors Bother Professionals? An Analysis of the Most Bothersome Errors and How the Writer’s Ethos is Affected</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920910205?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study asks whether grammatical and mechanical errors bother business professionals, which of these types of errors are most bothersome, and whether such errors affect perceptions of the writer and their ethos. We administered a 17-question survey to roughly 100 business professionals whose roles are not primarily writing and communication within organizations. The findings show that business professionals are bothered by these errors and that the level of bothersomeness has increased from previous studies. Additionally, the findings show that participants have clear views of writers who make errors and that the context of the error matters. The authors conclude by offering implications for technical and professional communication.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study asks whether grammatical and mechanical errors bother business professionals, which of these types of errors are most bothersome, and whether such errors affect perceptions of the writer and their ethos. We administered a 17-question survey to roughly 100 business professionals whose roles are not primarily writing and communication within organizations. The findings show that business professionals are bothered by these errors and that the level of bothersomeness has increased from previous studies. Additionally, the findings show that participants have clear views of writers who make errors and that the context of the error matters. The authors conclude by offering implications for technical and professional communication.</description>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/3"&gt;Volume 34, Issue 3&lt;/a&gt;, Page 250-286, July 2020. &lt;br/&gt;This study asks whether grammatical and mechanical errors bother business professionals, which of these types of errors are most bothersome, and whether such errors affect perceptions of the writer and their ethos. We administered a 17-question survey to roughly 100 business professionals whose roles are not primarily writing and communication within organizations. The findings show that business professionals are bothered by these errors and that the level of bothersomeness has increased from previous studies. Additionally, the findings show that participants have clear views of writers who make errors and that the context of the error matters. The authors conclude by offering implications for technical and professional communication.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 34, Issue 3, Page 250-286, July 2020. &lt;br/&gt;This study asks whether grammatical and mechanical errors bother business professionals, which of these types of errors are most bothersome, and whether such errors affect perceptions of the writer and their ethos. We administered a 17-question survey to roughly 100 business professionals whose roles are not primarily writing and communication within organizations. The findings show that business professionals are bothered by these errors and that the level of bothersomeness has increased from previous studies. Additionally, the findings show that participants have clear views of writers who make errors and that the context of the error matters. The authors conclude by offering implications for technical and professional communication.</description>
       <dc:title>Do Writing Errors Bother Professionals? An Analysis of the Most Bothersome Errors and How the Writer’s Ethos is Affected</dc:title>
       <dc:identifier>10.1177/1050651920910205</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
@@ -208,6 +63,12 @@
       <dc:creator>Kara Larson</dc:creator>
       <dc:creator>Lisa Melonçon</dc:creator>
       <prism:publicationName>Do Writing Errors Bother Professionals? An Analysis of the Most Bothersome Errors and How the Writer’s Ethos is Affected</prism:publicationName>
+      <prism:volume>34</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>250</prism:startingPage>
+      <prism:endingPage>286</prism:endingPage>
+      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1177/1050651920910205</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920910205?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
@@ -215,8 +76,8 @@
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920910226?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Contextual Information in Social How-To Questions That Initiate Documentation</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920910226?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study introduces social question-and-answer (SQA) documentation to technical and professional communication scholarship. It conceptualizes SQA as interactive, user-generated documentation and describes contextual information types within social how-to questions that initiate documentation. It also explores whether contextual information associates with answers that complete the interactive documentation. Results reliably describe 15 information types based on content analysis of 3,529 contextual information types from 500 questions. Exploratory statistical analysis suggests that askers may increase answerability by including less speculative thought, more error messages, and less general situation information. To facilitate complete SQA documentation, the study calls for additional research into question content and answerability.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study introduces social question-and-answer (SQA) documentation to technical and professional communication scholarship. It conceptualizes SQA as interactive, user-generated documentation and describes contextual information types within social how-to questions that initiate documentation. It also explores whether contextual information associates with answers that complete the interactive documentation. Results reliably describe 15 information types based on content analysis of 3,529 contextual information types from 500 questions. Exploratory statistical analysis suggests that askers may increase answerability by including less speculative thought, more error messages, and less general situation information. To facilitate complete SQA documentation, the study calls for additional research into question content and answerability.</description>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/3"&gt;Volume 34, Issue 3&lt;/a&gt;, Page 287-326, July 2020. &lt;br/&gt;This study introduces social question-and-answer (SQA) documentation to technical and professional communication scholarship. It conceptualizes SQA as interactive, user-generated documentation and describes contextual information types within social how-to questions that initiate documentation. It also explores whether contextual information associates with answers that complete the interactive documentation. Results reliably describe 15 information types based on content analysis of 3,529 contextual information types from 500 questions. Exploratory statistical analysis suggests that askers may increase answerability by including less speculative thought, more error messages, and less general situation information. To facilitate complete SQA documentation, the study calls for additional research into question content and answerability.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 34, Issue 3, Page 287-326, July 2020. &lt;br/&gt;This study introduces social question-and-answer (SQA) documentation to technical and professional communication scholarship. It conceptualizes SQA as interactive, user-generated documentation and describes contextual information types within social how-to questions that initiate documentation. It also explores whether contextual information associates with answers that complete the interactive documentation. Results reliably describe 15 information types based on content analysis of 3,529 contextual information types from 500 questions. Exploratory statistical analysis suggests that askers may increase answerability by including less speculative thought, more error messages, and less general situation information. To facilitate complete SQA documentation, the study calls for additional research into question content and answerability.</description>
       <dc:title>Contextual Information in Social How-To Questions That Initiate Documentation</dc:title>
       <dc:identifier>10.1177/1050651920910226</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
@@ -224,9 +85,59 @@
       <dc:rights>© The Author(s) 2020</dc:rights>
       <dc:creator>Matthew J. Baker</dc:creator>
       <prism:publicationName>Contextual Information in Social How-To Questions That Initiate Documentation</prism:publicationName>
+      <prism:volume>34</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>287</prism:startingPage>
+      <prism:endingPage>326</prism:endingPage>
+      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1177/1050651920910226</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920910226?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920910142?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: A Billion Little Pieces: RFID and Infrastructures of Identification</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920910142?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/3"&gt;Volume 34, Issue 3&lt;/a&gt;, Page 327-330, July 2020. &lt;br/&gt;</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 34, Issue 3, Page 327-330, July 2020. &lt;br/&gt;</description>
+      <dc:title>Book Review: A Billion Little Pieces: RFID and Infrastructures of Identification</dc:title>
+      <dc:identifier>10.1177/1050651920910142</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-03-19T01:35:54Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Sarah Read</dc:creator>
+      <prism:publicationName>Book Review: A Billion Little Pieces: RFID and Infrastructures of Identification</prism:publicationName>
+      <prism:volume>34</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>327</prism:startingPage>
+      <prism:endingPage>330</prism:endingPage>
+      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920910142</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920910142?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920910152?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920910152?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/3"&gt;Volume 34, Issue 3&lt;/a&gt;, Page 331-334, July 2020. &lt;br/&gt;</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 34, Issue 3, Page 331-334, July 2020. &lt;br/&gt;</description>
+      <dc:title>Book Review: The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity</dc:title>
+      <dc:identifier>10.1177/1050651920910152</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-03-24T10:17:36Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Alexandra Catá</dc:creator>
+      <prism:publicationName>Book Review: The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity</prism:publicationName>
+      <prism:volume>34</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>331</prism:startingPage>
+      <prism:endingPage>334</prism:endingPage>
+      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920910152</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920910152?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
 </rdf:RDF>
-<!-- cached:  1588700925-->
+<!-- cached:  1590505179-->

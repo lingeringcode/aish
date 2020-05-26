@@ -14,289 +14,291 @@
       <prism:publicationName>Rhetoric Review</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690373?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686595?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690374?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690371?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690372?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690376?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690375?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690377?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686596?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686597?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686598?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686599?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735687?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727103?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727102?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727101?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727079?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727096?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727605?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1728833?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735697?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735707?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735708?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735709?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hrhr20/2020/hrhr20.v039.i01/hrhr20.v039.i01/20200127-01/hrhr20.v039.i01.cover.jpg">
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hrhr20/2020/hrhr20.v039.i02/hrhr20.v039.i02/20200512-01/hrhr20.v039.i02.cover.jpg">
       <title>Rhetoric Review</title>
-      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hrhr20/2020/hrhr20.v039.i01/hrhr20.v039.i01/20200127-01/hrhr20.v039.i01.cover.jpg</url>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hrhr20/2020/hrhr20.v039.i02/hrhr20.v039.i02/20200512-01/hrhr20.v039.i02.cover.jpg</url>
       <link>https://www.tandfonline.com/loi/hrhr20?af=R</link>
    </image>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690373?af=R">
-      <title>“The Artful Woman”: Mrs. Ellis and the Domestication of Elocution</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690373?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 1-15&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 1-15&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>“The Artful Woman”: Mrs. Ellis and the Domestication of Elocution</dc:title>
-      <dc:identifier>10.1080/07350198.2019.1690373</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735687?af=R">
+      <title>“Their Voice Should Be Allowed to Be Heard:” The Rhetorical Power of the University of New Mexico’s Bilingual Student Newspaper</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735687?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 127-141&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 127-141&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>“Their Voice Should Be Allowed to Be Heard:” The Rhetorical Power of the University of New Mexico’s Bilingual Student Newspaper</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1735687</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:02Z</dc:date>
+      <dc:date>2020-05-12T10:08:31Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Don Paul Abbott</dc:creator>
-      <prism:publicationName>“The Artful Woman”: Mrs. Ellis and the Domestication of Elocution</prism:publicationName>
+      <dc:creator>Elizabeth Leahy</dc:creator>
+      <prism:publicationName>“Their Voice Should Be Allowed to Be Heard:” The Rhetorical Power of the University of New Mexico’s Bilingual Student Newspaper</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>15</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2019.1690373</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690373?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>127</prism:startingPage>
+      <prism:endingPage>141</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1735687</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735687?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686595?af=R">
-      <title>Rhetoric and the Rise of Foster Care</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686595?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 16-30&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 16-30&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Rhetoric and the Rise of Foster Care</dc:title>
-      <dc:identifier>10.1080/07350198.2020.1686595</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727103?af=R">
+      <title>Performative Educational Rhetorics At a Korean Women’s College During Japanese Occupation, 1930–1943</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727103?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 142-158&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 142-158&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Performative Educational Rhetorics At a Korean Women’s College During Japanese Occupation, 1930–1943</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1727103</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:00Z</dc:date>
+      <dc:date>2020-05-12T10:08:32Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Matthew M. Heard</dc:creator>
-      <prism:publicationName>Rhetoric and the Rise of Foster Care</prism:publicationName>
+      <dc:creator>Nathan Tillman</dc:creator>
+      <prism:publicationName>Performative Educational Rhetorics At a Korean Women’s College During Japanese Occupation, 1930–1943</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>16</prism:startingPage>
-      <prism:endingPage>30</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2020.1686595</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686595?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>142</prism:startingPage>
+      <prism:endingPage>158</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1727103</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727103?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690374?af=R">
-      <title>Situating Agency in the Memoirs of Mass Incarceration</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690374?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 31-44&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 31-44&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Situating Agency in the Memoirs of Mass Incarceration</dc:title>
-      <dc:identifier>10.1080/07350198.2019.1690374</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727102?af=R">
+      <title>News that Isn’t New: March for Our Lives and Media Mobilization of Historical Precedent</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727102?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 159-173&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 159-173&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>News that Isn’t New: March for Our Lives and Media Mobilization of Historical Precedent</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1727102</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:04Z</dc:date>
+      <dc:date>2020-05-12T10:08:32Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>David Coogan</dc:creator>
-      <prism:publicationName>Situating Agency in the Memoirs of Mass Incarceration</prism:publicationName>
+      <dc:creator>Risa Applegarth</dc:creator>
+      <prism:publicationName>News that Isn’t New: March for Our Lives and Media Mobilization of Historical Precedent</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>31</prism:startingPage>
-      <prism:endingPage>44</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2019.1690374</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690374?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>159</prism:startingPage>
+      <prism:endingPage>173</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1727102</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727102?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690371?af=R">
-      <title>On Radical Friendliness: Productive Citizenship in an Age of Division</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690371?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 45-58&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 45-58&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>On Radical Friendliness: Productive Citizenship in an Age of Division</dc:title>
-      <dc:identifier>10.1080/07350198.2019.1690371</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727101?af=R">
+      <title>Disidentification and Documentation: LGBTQ Records as Emergent, Entangled Rhetoric</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727101?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 174-187&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 174-187&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Disidentification and Documentation: LGBTQ Records as Emergent, Entangled Rhetoric</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1727101</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:02Z</dc:date>
+      <dc:date>2020-05-12T10:08:32Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Jeffrey St. Onge</dc:creator>
-      <prism:publicationName>On Radical Friendliness: Productive Citizenship in an Age of Division</prism:publicationName>
+      <dc:creator>Rick Wysocki</dc:creator>
+      <prism:publicationName>Disidentification and Documentation: LGBTQ Records as Emergent, Entangled Rhetoric</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>45</prism:startingPage>
-      <prism:endingPage>58</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2019.1690371</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690371?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>174</prism:startingPage>
+      <prism:endingPage>187</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1727101</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727101?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690372?af=R">
-      <title>Digital Rhetoric on a Damaged Planet: Storying Digital Damage as Inventive Response to the Anthropocene</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690372?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 59-72&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 59-72&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Digital Rhetoric on a Damaged Planet: Storying Digital Damage as Inventive Response to the Anthropocene</dc:title>
-      <dc:identifier>10.1080/07350198.2019.1690372</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727079?af=R">
+      <title>Who Cares if Johnny Writes with a Pencil? Or, a Hauntological Historiography of Materiality in Composition-Rhetoric</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727079?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 188-201&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 188-201&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Who Cares if Johnny Writes with a Pencil? Or, a Hauntological Historiography of Materiality in Composition-Rhetoric</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1727079</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:02Z</dc:date>
+      <dc:date>2020-05-12T10:08:35Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Dustin W. Edwards</dc:creator>
-      <prism:publicationName>Digital Rhetoric on a Damaged Planet: Storying Digital Damage as Inventive Response to the Anthropocene</prism:publicationName>
+      <dc:creator>Manuel Piña</dc:creator>
+      <prism:publicationName>Who Cares if Johnny Writes with a Pencil? Or, a Hauntological Historiography of Materiality in Composition-Rhetoric</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>59</prism:startingPage>
-      <prism:endingPage>72</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2019.1690372</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690372?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>188</prism:startingPage>
+      <prism:endingPage>201</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1727079</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727079?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690376?af=R">
-      <title>Vaccines Going Viral: Peripheral Public Discussion of Scientifically Justified Policies</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690376?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 73-87&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 73-87&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Vaccines Going Viral: Peripheral Public Discussion of Scientifically Justified Policies</dc:title>
-      <dc:identifier>10.1080/07350198.2019.1690376</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727096?af=R">
+      <title>Fully Human, Fully Machine: Rhetorics of Digital Disembodiment in Programming</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727096?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 202-215&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 202-215&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Fully Human, Fully Machine: Rhetorics of Digital Disembodiment in Programming</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1727096</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:03Z</dc:date>
+      <dc:date>2020-05-12T10:08:33Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Devon Moriarty</dc:creator>
-      <prism:publicationName>Vaccines Going Viral: Peripheral Public Discussion of Scientifically Justified Policies</prism:publicationName>
+      <dc:creator>Brandee Easter</dc:creator>
+      <prism:publicationName>Fully Human, Fully Machine: Rhetorics of Digital Disembodiment in Programming</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>73</prism:startingPage>
-      <prism:endingPage>87</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2019.1690376</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690376?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>202</prism:startingPage>
+      <prism:endingPage>215</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1727096</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727096?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690375?af=R">
-      <title>The “My Online Friends” Religious Enclave: Expanding the Definition and Possibilities of Enclaved Discourses</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690375?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 88-100&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 88-100&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>The “My Online Friends” Religious Enclave: Expanding the Definition and Possibilities of Enclaved Discourses</dc:title>
-      <dc:identifier>10.1080/07350198.2019.1690375</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727605?af=R">
+      <title>Algorithmic Dwelling: Ethos as Deformance in Online Spaces</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727605?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 216-229&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 216-229&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Algorithmic Dwelling: Ethos as Deformance in Online Spaces</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1727605</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:03Z</dc:date>
+      <dc:date>2020-05-12T10:08:32Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Catherine Matthews Pavia</dc:creator>
-      <prism:publicationName>The “My Online Friends” Religious Enclave: Expanding the Definition and Possibilities of Enclaved Discourses</prism:publicationName>
+      <dc:creator>Noah Wilson</dc:creator>
+      <prism:publicationName>Algorithmic Dwelling: Ethos as Deformance in Online Spaces</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>88</prism:startingPage>
-      <prism:endingPage>100</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2019.1690375</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690375?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>216</prism:startingPage>
+      <prism:endingPage>229</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1727605</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1727605?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690377?af=R">
-      <title>In Search of Viking Literacy Practices</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690377?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 101-117&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 101-117&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>In Search of Viking Literacy Practices</dc:title>
-      <dc:identifier>10.1080/07350198.2019.1690377</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1728833?af=R">
+      <title>The Disappearing Accused: Rhetoric, Narrative, and Campus Sexual Assault</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1728833?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 230-245&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 230-245&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The Disappearing Accused: Rhetoric, Narrative, and Campus Sexual Assault</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1728833</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:03Z</dc:date>
+      <dc:date>2020-05-12T10:08:33Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Robert L. Lively</dc:creator>
-      <prism:publicationName>In Search of Viking Literacy Practices</prism:publicationName>
+      <dc:creator>Lourdes Fernandez</dc:creator>
+      <dc:creator>Heidi Y. Lawrence</dc:creator>
+      <dc:creator>Bonnie Stabile</dc:creator>
+      <prism:publicationName>The Disappearing Accused: Rhetoric, Narrative, and Campus Sexual Assault</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>101</prism:startingPage>
-      <prism:endingPage>117</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2019.1690377</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2019.1690377?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>230</prism:startingPage>
+      <prism:endingPage>245</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1728833</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1728833?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686596?af=R">
-      <title>Rhetorics of Whiteness: Postracial Hauntings in Popular Culture, Social Media, and Education</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686596?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 118-119&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 118-119&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Rhetorics of Whiteness: Postracial Hauntings in Popular Culture, Social Media, and Education</dc:title>
-      <dc:identifier>10.1080/07350198.2020.1686596</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735697?af=R">
+      <title>Precarious Rhetorics</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735697?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 246-248&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 246-248&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Precarious Rhetorics</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1735697</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:00Z</dc:date>
+      <dc:date>2020-05-12T10:08:33Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Erin Carmer</dc:creator>
-      <prism:publicationName>Rhetorics of Whiteness: Postracial Hauntings in Popular Culture, Social Media, and Education</prism:publicationName>
+      <dc:creator>Sarah Idzik</dc:creator>
+      <prism:publicationName>Precarious Rhetorics</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>118</prism:startingPage>
-      <prism:endingPage>119</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2020.1686596</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686596?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>246</prism:startingPage>
+      <prism:endingPage>248</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1735697</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735697?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686597?af=R">
-      <title>Remembering Emmett Till</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686597?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 119-122&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 119-122&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Remembering Emmett Till</dc:title>
-      <dc:identifier>10.1080/07350198.2020.1686597</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735707?af=R">
+      <title>Remembering Women Differently: Refiguring Rhetorical Work</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735707?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 248-250&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 248-250&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Remembering Women Differently: Refiguring Rhetorical Work</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1735707</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:01Z</dc:date>
+      <dc:date>2020-05-12T10:08:35Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Brandon M. Erby</dc:creator>
-      <prism:publicationName>Remembering Emmett Till</prism:publicationName>
+      <dc:creator>Emily Kimbell</dc:creator>
+      <prism:publicationName>Remembering Women Differently: Refiguring Rhetorical Work</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>119</prism:startingPage>
-      <prism:endingPage>122</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2020.1686597</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686597?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>248</prism:startingPage>
+      <prism:endingPage>250</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1735707</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735707?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686598?af=R">
-      <title>Homeless Advocacy and the Rhetorical Construction of the Civic Home</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686598?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 122-124&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 122-124&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Homeless Advocacy and the Rhetorical Construction of the Civic Home</dc:title>
-      <dc:identifier>10.1080/07350198.2020.1686598</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735708?af=R">
+      <title>Speaking Being: Werner Erhard, Martin Heidegger, and a New Possibility of Being Human</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735708?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 250-253&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 250-253&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Speaking Being: Werner Erhard, Martin Heidegger, and a New Possibility of Being Human</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1735708</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:01Z</dc:date>
+      <dc:date>2020-05-12T10:08:35Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Inbal Leibovits</dc:creator>
-      <prism:publicationName>Homeless Advocacy and the Rhetorical Construction of the Civic Home</prism:publicationName>
+      <dc:creator>Jason Tham</dc:creator>
+      <prism:publicationName>Speaking Being: Werner Erhard, Martin Heidegger, and a New Possibility of Being Human</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>122</prism:startingPage>
-      <prism:endingPage>124</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2020.1686598</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686598?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>250</prism:startingPage>
+      <prism:endingPage>253</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1735708</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735708?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686599?af=R">
-      <title>Economic Injustice and the Rhetoric of the American Dream</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686599?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/39/1"&gt;Volume 39, Issue 1&lt;/a&gt;, January-March 2020, Page 124-126&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 39, Issue 1, January-March 2020, Page 124-126&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Economic Injustice and the Rhetoric of the American Dream</dc:title>
-      <dc:identifier>10.1080/07350198.2020.1686599</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735709?af=R">
+      <title>Provocations of Virtue: Rhetoric, Ethics, and the Teaching of Writing</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735709?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/39/2"&gt;Volume 39, Issue 2&lt;/a&gt;, April-June 2020, Page 253-255&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 39, Issue 2, April-June 2020, Page 253-255&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Provocations of Virtue: Rhetoric, Ethics, and the Teaching of Writing</dc:title>
+      <dc:identifier>10.1080/07350198.2020.1735709</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2020-01-27T06:12:02Z</dc:date>
+      <dc:date>2020-05-12T10:08:35Z</dc:date>
       <dc:rights>© 2020 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Clayton L. Terry</dc:creator>
-      <prism:publicationName>Economic Injustice and the Rhetoric of the American Dream</prism:publicationName>
+      <dc:creator>Megan Von Bergen</dc:creator>
+      <prism:publicationName>Provocations of Virtue: Rhetoric, Ethics, and the Teaching of Writing</prism:publicationName>
       <prism:volume>39</prism:volume>
-      <prism:number>1</prism:number>
-      <prism:startingPage>124</prism:startingPage>
-      <prism:endingPage>126</prism:endingPage>
-      <prism:coverDate>2020-01-02T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-01-02T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2020.1686599</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1686599?af=R</prism:url>
+      <prism:number>2</prism:number>
+      <prism:startingPage>253</prism:startingPage>
+      <prism:endingPage>255</prism:endingPage>
+      <prism:coverDate>2020-04-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-04-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2020.1735709</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2020.1735709?af=R</prism:url>
       <prism:copyright>© 2020 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1588700928-->
+<!-- cached:  1590505182-->
