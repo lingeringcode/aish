@@ -24,6 +24,18 @@
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669963?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689091?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669964?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768290?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768291?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768296?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768293?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774660?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774661?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774659?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768295?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774658?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768029?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768030?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768289?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1754466?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1738555?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713405?af=R"/>
@@ -264,6 +276,226 @@
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669964?af=R</prism:url>
       <prism:copyright>© 2019 Travis Holt</prism:copyright>
    </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768290?af=R">
+      <title>“Speaking so that We are Heard:” A Zulu Comic Book as Women’s Social Action in 1990s South Africa</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768290?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>“Speaking so that We are Heard:” A Zulu Comic Book as Women’s Social Action in 1990s South Africa</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1768290</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-21T11:41:16Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Emily January Petersen</dc:creator>
+      <dc:creator>Breeanne Matheson</dc:creator>
+      <prism:publicationName>“Speaking so that We are Heard:” A Zulu Comic Book as Women’s Social Action in 1990s South Africa</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1768290</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768290?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768291?af=R">
+      <title>Conceptual Art or Readable Contract: The Use of Comics in Technical Communication</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768291?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Conceptual Art or Readable Contract: The Use of Comics in Technical Communication</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1768291</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-20T12:31:26Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Han Yu</dc:creator>
+      <prism:publicationName>Conceptual Art or Readable Contract: The Use of Comics in Technical Communication</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>18</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1768291</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768291?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768296?af=R">
+      <title>Tires, Cigarettes, Tampons, and the Gendering of Instructional Comics</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768296?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Tires, Cigarettes, Tampons, and the Gendering of Instructional Comics</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1768296</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-20T12:51:30Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Lawrence Abbott</dc:creator>
+      <prism:publicationName>Tires, Cigarettes, Tampons, and the Gendering of Instructional Comics</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1768296</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768296?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768293?af=R">
+      <title>“Figure 4, Peyote”: Comics and Graphic Narrative in Anarchist Cookbooks, 1971-Present</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768293?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>“Figure 4, Peyote”: Comics and Graphic Narrative in Anarchist Cookbooks, 1971-Present</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1768293</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-16T03:10:04Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Hilary A. Sarat-St. Peter</dc:creator>
+      <dc:creator>Austin L. St. Peter</dc:creator>
+      <prism:publicationName>“Figure 4, Peyote”: Comics and Graphic Narrative in Anarchist Cookbooks, 1971-Present</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1768293</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768293?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774660?af=R">
+      <title>Student Recruitment in Technical and Professional Communication Programs</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774660?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Student Recruitment in Technical and Professional Communication Programs</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1774660</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-16T03:10:24Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Felicia Chong</dc:creator>
+      <dc:creator>Aimee Kendall Roundtree</dc:creator>
+      <prism:publicationName>Student Recruitment in Technical and Professional Communication Programs</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>18</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1774660</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774660?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774661?af=R">
+      <title>Getting the Story Straight: How Conflicting Narratives about Communication Impact Women in Engineering</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774661?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Getting the Story Straight: How Conflicting Narratives about Communication Impact Women in Engineering</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1774661</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-16T03:10:21Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Mary McCall</dc:creator>
+      <prism:publicationName>Getting the Story Straight: How Conflicting Narratives about Communication Impact Women in Engineering</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1774661</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774661?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774659?af=R">
+      <title>Technical Communication is a Social Medium</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774659?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Technical Communication is a Social Medium</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1774659</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-12T05:42:50Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Jason Swarts</dc:creator>
+      <prism:publicationName>Technical Communication is a Social Medium</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1774659</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774659?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768295?af=R">
+      <title>Lapses in Literacy: Cultural Accessibility in Graphic Health Communication</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768295?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Lapses in Literacy: Cultural Accessibility in Graphic Health Communication</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1768295</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-09T12:39:48Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Veronica Garrison-Joyner</dc:creator>
+      <dc:creator>Elizabeth Caravella</dc:creator>
+      <prism:publicationName>Lapses in Literacy: Cultural Accessibility in Graphic Health Communication</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1768295</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768295?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774658?af=R">
+      <title>Ultrasound, Gender, and Consent: An Apparent Feminist Analysis of Medical Imaging Rhetorics</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774658?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Ultrasound, Gender, and Consent: An Apparent Feminist Analysis of Medical Imaging Rhetorics</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1774658</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-05T12:08:16Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Erin A. Frost</dc:creator>
+      <prism:publicationName>Ultrasound, Gender, and Consent: An Apparent Feminist Analysis of Medical Imaging Rhetorics</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1774658</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774658?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768029?af=R">
+      <title>The Good, the Bad, and the Data: Shane the Lone Ethnographer’s Basic Guide to Qualitative Data Analysis</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768029?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The Good, the Bad, and the Data: Shane the Lone Ethnographer’s Basic Guide to Qualitative Data Analysis</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1768029</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-04T07:50:35Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Elizabeth Losh</dc:creator>
+      <prism:publicationName>The Good, the Bad, and the Data: Shane the Lone Ethnographer’s Basic Guide to Qualitative Data Analysis</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>3</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1768029</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768029?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768030?af=R">
+      <title>Rhizcomics: Rhetoric, Technology, and New Media Composition</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768030?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Rhizcomics: Rhetoric, Technology, and New Media Composition</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1768030</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-04T07:50:26Z</dc:date>
+      <dc:rights>© 2020 Anastasia Salter</dc:rights>
+      <dc:creator>Anastasia Salter</dc:creator>
+      <prism:publicationName>Rhizcomics: Rhetoric, Technology, and New Media Composition</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>4</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1768030</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768030?af=R</prism:url>
+      <prism:copyright>© 2020 Anastasia Salter</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768289?af=R">
+      <title>Examining Methectic Technical Communication in an Urban Planning Comic Book</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768289?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Examining Methectic Technical Communication in an Urban Planning Comic Book</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1768289</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-04T07:54:36Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Fernando Sánchez</dc:creator>
+      <prism:publicationName>Examining Methectic Technical Communication in an Urban Planning Comic Book</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1768289</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768289?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1754466?af=R">
       <title>The Benefits of Improvisational Games in the TC Classroom</title>
       <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1754466?af=R</link>
@@ -405,4 +637,4 @@
       <prism:copyright>© 2019 Association of Teachers of Technical Writing</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1590505181-->
+<!-- cached:  1592947734-->

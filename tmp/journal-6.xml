@@ -14,198 +14,251 @@
       <prism:publicationName>Rhetoric Society Quarterly</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725614?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725615?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726129?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726130?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726131?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752126?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752127?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752128?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752129?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752130?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752131?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752132?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748218?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748217?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748216?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748219?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i02/rrsq20.v050.i02/20200327-01/rrsq20.v050.i02.cover.jpg">
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i03/rrsq20.v050.i03/20200616-01/rrsq20.v050.i03.cover.jpg">
       <title>Rhetoric Society Quarterly</title>
-      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i02/rrsq20.v050.i02/20200327-01/rrsq20.v050.i02.cover.jpg</url>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i03/rrsq20.v050.i03/20200616-01/rrsq20.v050.i03.cover.jpg</url>
       <link>https://www.tandfonline.com/loi/rrsq20?af=R</link>
    </image>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725614?af=R">
-      <title>A View from the Hill: “One Shot” Harris and the Pittsburgh Courier</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725614?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 79-92&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 2, March 2020, Page 79-92&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>A View from the Hill: “One Shot” Harris and the Pittsburgh Courier</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1725614</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752126?af=R">
+      <title>Introduction: Disability, In/Visibility, and Risk</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752126?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, May 2020, Page 161-165&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 3, May 2020, Page 161-165&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Introduction: Disability, In/Visibility, and Risk</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1752126</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-03-27T05:10:15Z</dc:date>
+      <dc:date>2020-06-16T03:45:55Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Emily N. Smith</dc:creator>
-      <prism:publicationName>A View from the Hill: “One Shot” Harris and the Pittsburgh Courier</prism:publicationName>
+      <dc:creator>Jenell Johnson</dc:creator>
+      <dc:creator>Krista Kennedy</dc:creator>
+      <prism:publicationName>Introduction: Disability, In/Visibility, and Risk</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>79</prism:startingPage>
-      <prism:endingPage>92</prism:endingPage>
-      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1725614</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725614?af=R</prism:url>
+      <prism:number>3</prism:number>
+      <prism:startingPage>161</prism:startingPage>
+      <prism:endingPage>165</prism:endingPage>
+      <prism:coverDate>2020-05-26T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-05-26T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1752126</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752126?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R">
-      <title>The Trace of a Mark That Scatters: The Anthropoi and the Rhetoric of Decoloniality</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 93-108&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 2, March 2020, Page 93-108&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>The Trace of a Mark That Scatters: The Anthropoi and the Rhetoric of Decoloniality</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1714703</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752127?af=R">
+      <title>The Trouble with Marching: Ableism, Visibility, and Exclusion of People with Disabilities</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752127?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, May 2020, Page 166-174&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 3, May 2020, Page 166-174&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The Trouble with Marching: Ableism, Visibility, and Exclusion of People with Disabilities</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1752127</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-02-27T02:44:25Z</dc:date>
+      <dc:date>2020-06-16T03:45:55Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Romeo García</dc:creator>
-      <dc:creator>José M. Cortez</dc:creator>
-      <prism:publicationName>The Trace of a Mark That Scatters: The Anthropoi and the Rhetoric of Decoloniality</prism:publicationName>
+      <dc:creator>Vanessa B. Beasley</dc:creator>
+      <prism:publicationName>The Trouble with Marching: Ableism, Visibility, and Exclusion of People with Disabilities</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>93</prism:startingPage>
-      <prism:endingPage>108</prism:endingPage>
-      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1714703</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714703?af=R</prism:url>
+      <prism:number>3</prism:number>
+      <prism:startingPage>166</prism:startingPage>
+      <prism:endingPage>174</prism:endingPage>
+      <prism:coverDate>2020-05-26T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-05-26T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1752127</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752127?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R">
-      <title>On the Rhetorical Grotesque: A Mode for Strange Times</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 109-123&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 2, March 2020, Page 109-123&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>On the Rhetorical Grotesque: A Mode for Strange Times</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1723680</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752128?af=R">
+      <title>Breaking Down: On Publicity as Capacity</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752128?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, May 2020, Page 175-183&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 3, May 2020, Page 175-183&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Breaking Down: On Publicity as Capacity</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1752128</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-03-02T03:25:58Z</dc:date>
+      <dc:date>2020-06-16T03:45:56Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Richard Benjamin Crosby</dc:creator>
-      <prism:publicationName>On the Rhetorical Grotesque: A Mode for Strange Times</prism:publicationName>
+      <dc:creator>Jenell Johnson</dc:creator>
+      <prism:publicationName>Breaking Down: On Publicity as Capacity</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>109</prism:startingPage>
-      <prism:endingPage>123</prism:endingPage>
-      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1723680</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1723680?af=R</prism:url>
+      <prism:number>3</prism:number>
+      <prism:startingPage>175</prism:startingPage>
+      <prism:endingPage>183</prism:endingPage>
+      <prism:coverDate>2020-05-26T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-05-26T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1752128</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752128?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R">
-      <title>“More Resilient than Concrete and Steel”: Consciousness-Raising, Self-Discipline, and Bodily Resistance in Solitary Confinement</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 124-138&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 2, March 2020, Page 124-138&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>“More Resilient than Concrete and Steel”: Consciousness-Raising, Self-Discipline, and Bodily Resistance in Solitary Confinement</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1714704</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752129?af=R">
+      <title>“I Forgot I’m Deaf!”: Passing, Kairotic Space, and the Midcentury Cyborg Woman</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752129?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, May 2020, Page 184-193&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 3, May 2020, Page 184-193&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>“I Forgot I’m Deaf!”: Passing, Kairotic Space, and the Midcentury Cyborg Woman</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1752129</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-02-26T07:08:33Z</dc:date>
+      <dc:date>2020-06-16T03:45:56Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Chris S. Earle</dc:creator>
-      <prism:publicationName>“More Resilient than Concrete and Steel”: Consciousness-Raising, Self-Discipline, and Bodily Resistance in Solitary Confinement</prism:publicationName>
+      <dc:creator>Krista Kennedy</dc:creator>
+      <prism:publicationName>“I Forgot I’m Deaf!”: Passing, Kairotic Space, and the Midcentury Cyborg Woman</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>124</prism:startingPage>
-      <prism:endingPage>138</prism:endingPage>
-      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1714704</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1714704?af=R</prism:url>
+      <prism:number>3</prism:number>
+      <prism:startingPage>184</prism:startingPage>
+      <prism:endingPage>193</prism:endingPage>
+      <prism:coverDate>2020-05-26T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-05-26T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1752129</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752129?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725615?af=R">
-      <title>Winking at Excess: Racist Kinesiologies in Childish Gambino’s “This Is America”</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725615?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 139-151&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 2, March 2020, Page 139-151&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Winking at Excess: Racist Kinesiologies in Childish Gambino’s “This Is America”</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1725615</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752130?af=R">
+      <title>Managing Visibility: Emotion, Mascots, and the Birth of US Cancer Rhetorics</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752130?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, May 2020, Page 194-202&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 3, May 2020, Page 194-202&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Managing Visibility: Emotion, Mascots, and the Birth of US Cancer Rhetorics</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1752130</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-03-27T05:10:14Z</dc:date>
+      <dc:date>2020-06-16T03:45:54Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Jennifer Lin LeMesurier</dc:creator>
-      <prism:publicationName>Winking at Excess: Racist Kinesiologies in Childish Gambino’s “This Is America”</prism:publicationName>
+      <dc:creator>Lois Agnew</dc:creator>
+      <prism:publicationName>Managing Visibility: Emotion, Mascots, and the Birth of US Cancer Rhetorics</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>139</prism:startingPage>
-      <prism:endingPage>151</prism:endingPage>
-      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1725615</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1725615?af=R</prism:url>
+      <prism:number>3</prism:number>
+      <prism:startingPage>194</prism:startingPage>
+      <prism:endingPage>202</prism:endingPage>
+      <prism:coverDate>2020-05-26T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-05-26T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1752130</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752130?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726129?af=R">
-      <title>Rhetoric as a Posthuman Practice, by Casey Boyle</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726129?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 152-154&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 2, March 2020, Page 152-154&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Rhetoric as a Posthuman Practice, by Casey Boyle</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1726129</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752131?af=R">
+      <title>Disabled and Undocumented: In/Visibility at the Borders of Presence, Disclosure, and Nation</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752131?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, May 2020, Page 203-211&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 3, May 2020, Page 203-211&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Disabled and Undocumented: In/Visibility at the Borders of Presence, Disclosure, and Nation</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1752131</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-03-27T05:10:15Z</dc:date>
+      <dc:date>2020-06-16T03:45:54Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Nathan Stormer</dc:creator>
-      <prism:publicationName>Rhetoric as a Posthuman Practice, by Casey Boyle</prism:publicationName>
+      <dc:creator>Christina V. Cedillo</dc:creator>
+      <prism:publicationName>Disabled and Undocumented: In/Visibility at the Borders of Presence, Disclosure, and Nation</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>152</prism:startingPage>
-      <prism:endingPage>154</prism:endingPage>
-      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1726129</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726129?af=R</prism:url>
+      <prism:number>3</prism:number>
+      <prism:startingPage>203</prism:startingPage>
+      <prism:endingPage>211</prism:endingPage>
+      <prism:coverDate>2020-05-26T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-05-26T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1752131</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752131?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726130?af=R">
-      <title>Reality Bites: Rhetoric and the Circulation of Truth Claims in U.S. Political Culture, by Dana L. Cloud</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726130?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 154-156&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 2, March 2020, Page 154-156&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Reality Bites: Rhetoric and the Circulation of Truth Claims in U.S. Political Culture, by Dana L. Cloud</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1726130</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752132?af=R">
+      <title>Cassandra Isn’t Doing the Robot: On Risky Rhetorics and Contagious Autism</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752132?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, May 2020, Page 212-221&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 3, May 2020, Page 212-221&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Cassandra Isn’t Doing the Robot: On Risky Rhetorics and Contagious Autism</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1752132</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-03-27T05:10:14Z</dc:date>
+      <dc:date>2020-06-16T03:45:54Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Margaret Franz</dc:creator>
-      <prism:publicationName>Reality Bites: Rhetoric and the Circulation of Truth Claims in U.S. Political Culture, by Dana L. Cloud</prism:publicationName>
+      <dc:creator>Melanie Yergeau</dc:creator>
+      <prism:publicationName>Cassandra Isn’t Doing the Robot: On Risky Rhetorics and Contagious Autism</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>154</prism:startingPage>
-      <prism:endingPage>156</prism:endingPage>
-      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1726130</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726130?af=R</prism:url>
+      <prism:number>3</prism:number>
+      <prism:startingPage>212</prism:startingPage>
+      <prism:endingPage>221</prism:endingPage>
+      <prism:coverDate>2020-05-26T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-05-26T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1752132</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752132?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726131?af=R">
-      <title>Rhetoric’s Pragmatism: Essays in Rhetorical Hermeneutics, by Steven Mailloux</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726131?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/2"&gt;Volume 50, Issue 2&lt;/a&gt;, March 2020, Page 156-159&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 2, March 2020, Page 156-159&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Rhetoric’s Pragmatism: Essays in Rhetorical Hermeneutics, by Steven Mailloux</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1726131</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748218?af=R">
+      <title>Activist Rhetoric in Transnational Cyber-Public Spaces: Toward a Comparative Materialist Approach</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748218?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Activist Rhetoric in Transnational Cyber-Public Spaces: Toward a Comparative Materialist Approach</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1748218</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-03-27T05:10:14Z</dc:date>
+      <dc:date>2020-06-22T06:20:09Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Ira Allen</dc:creator>
-      <prism:publicationName>Rhetoric’s Pragmatism: Essays in Rhetorical Hermeneutics, by Steven Mailloux</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>156</prism:startingPage>
-      <prism:endingPage>159</prism:endingPage>
-      <prism:coverDate>2020-03-14T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-03-14T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1726131</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1726131?af=R</prism:url>
+      <dc:creator>Zhaozhe Wang</dc:creator>
+      <prism:publicationName>Activist Rhetoric in Transnational Cyber-Public Spaces: Toward a Comparative Materialist Approach</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1748218</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748218?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748217?af=R">
+      <title>Divergence and Diplomacy as a Pluriversal Rhetorical Praxis of Coalitional Politics</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748217?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Divergence and Diplomacy as a Pluriversal Rhetorical Praxis of Coalitional Politics</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1748217</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-06-18T07:20:45Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Kenneth Walker</dc:creator>
+      <prism:publicationName>Divergence and Diplomacy as a Pluriversal Rhetorical Praxis of Coalitional Politics</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1748217</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748217?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748216?af=R">
+      <title>A Rhetoric of Walking and Reading: Immersion in Environmental Ambient Literature</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748216?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A Rhetoric of Walking and Reading: Immersion in Environmental Ambient Literature</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1748216</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-06-12T08:34:57Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Lili Pâquet</dc:creator>
+      <prism:publicationName>A Rhetoric of Walking and Reading: Immersion in Environmental Ambient Literature</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1748216</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748216?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748219?af=R">
+      <title>The Good Man Shooting Well: Authoritarian Submission and Aggression in the “Gun-Citizen”</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748219?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The Good Man Shooting Well: Authoritarian Submission and Aggression in the “Gun-Citizen”</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1748219</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-06-12T08:38:06Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Daniel A. Cryer</dc:creator>
+      <prism:publicationName>The Good Man Shooting Well: Authoritarian Submission and Aggression in the “Gun-Citizen”</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1748219</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748219?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1590505182-->
+<!-- cached:  1592947735-->

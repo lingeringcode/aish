@@ -19,6 +19,10 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920910226?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920910142?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920910152?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932191?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932182?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932180?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932171?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
@@ -139,5 +143,71 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920910152?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920932191?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>How Large Information Technology Companies Use Twitter: Arrangement of Corporate Accounts and Characteristics of Tweets</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920932191?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Twitter is widely used by companies to reach various stakeholders, but how they use this social media platform is still unclear. To investigate how companies use Twitter, this study analyzes the content of the Twitter accounts of four large information technology companies, focusing on the arrangement of different Twitter accounts and on message characteristics (content, message elements, and communication strategies). The results show that companies used architectures of different Twitter accounts to serve various stakeholder groups. The companies’ tweets covered diverse topics within the corporate, marketing, and technical communication domains. The tweets focused more on providing information and promoting action than on facilitating dialogue.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Twitter is widely used by companies to reach various stakeholders, but how they use this social media platform is still unclear. To investigate how companies use Twitter, this study analyzes the content of the Twitter accounts of four large information technology companies, focusing on the arrangement of different Twitter accounts and on message characteristics (content, message elements, and communication strategies). The results show that companies used architectures of different Twitter accounts to serve various stakeholder groups. The companies’ tweets covered diverse topics within the corporate, marketing, and technical communication domains. The tweets focused more on providing information and promoting action than on facilitating dialogue.</description>
+      <dc:title>How Large Information Technology Companies Use Twitter: Arrangement of Corporate Accounts and Characteristics of Tweets</dc:title>
+      <dc:identifier>10.1177/1050651920932191</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-06-22T10:09:48Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Shu Zhang</dc:creator>
+      <dc:creator>Jordy F. Gosselt</dc:creator>
+      <dc:creator>Menno D. T. de Jong</dc:creator>
+      <prism:publicationName>How Large Information Technology Companies Use Twitter: Arrangement of Corporate Accounts and Characteristics of Tweets</prism:publicationName>
+      <prism:doi>10.1177/1050651920932191</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920932191?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920932182?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: Teaching Professional and Technical Communication: A Practicum in a Book</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920932182?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Book Review: Teaching Professional and Technical Communication: A Practicum in a Book</dc:title>
+      <dc:identifier>10.1177/1050651920932182</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-06-09T10:05:37Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>John Misak</dc:creator>
+      <prism:publicationName>Book Review: Teaching Professional and Technical Communication: A Practicum in a Book</prism:publicationName>
+      <prism:doi>10.1177/1050651920932182</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920932182?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920932180?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: Conversational Design. A Book Apart</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920932180?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Book Review: Conversational Design. A Book Apart</dc:title>
+      <dc:identifier>10.1177/1050651920932180</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-06-09T10:04:37Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Amy Cicchino</dc:creator>
+      <prism:publicationName>Book Review: Conversational Design. A Book Apart</prism:publicationName>
+      <prism:doi>10.1177/1050651920932180</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920932180?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920932171?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: Citizenship and Advocacy in Technical Communication: Scholarly and Pedagogical Perspectives</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920932171?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Book Review: Citizenship and Advocacy in Technical Communication: Scholarly and Pedagogical Perspectives</dc:title>
+      <dc:identifier>10.1177/1050651920932171</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-06-05T10:20:56Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Jacob D. Richter</dc:creator>
+      <prism:publicationName>Book Review: Citizenship and Advocacy in Technical Communication: Scholarly and Pedagogical Perspectives</prism:publicationName>
+      <prism:doi>10.1177/1050651920932171</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920932171?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
 </rdf:RDF>
-<!-- cached:  1590505179-->
+<!-- cached:  1592947733-->

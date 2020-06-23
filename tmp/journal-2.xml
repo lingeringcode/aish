@@ -19,6 +19,7 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619865154?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619873139?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620915434?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620913860?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620906128?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
@@ -151,6 +152,24 @@
       <prism:doi>10.1177/0047281619868723</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Student Social Media Self-Evaluation: Addressing the Posting Paradox in the Age of Cybervetting</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Cybervetting, or the review of job applicants’ social media accounts, is a common practice. This study investigates the use of a typology to increase students’ self-awareness by asking them to assess their social media presence. The majority of Facebook users concluded they post content that is appropriate for potential employers, while most Twitter users concluded they post questionable content. Yet most Facebook users restricted access to their accounts, while most Twitter users left them public. When subsequently asked about the prospect of changing posting behavior, students with questionable content were more open to change, supporting the potential viability of the typology.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Cybervetting, or the review of job applicants’ social media accounts, is a common practice. This study investigates the use of a typology to increase students’ self-awareness by asking them to assess their social media presence. The majority of Facebook users concluded they post content that is appropriate for potential employers, while most Twitter users concluded they post questionable content. Yet most Facebook users restricted access to their accounts, while most Twitter users left them public. When subsequently asked about the prospect of changing posting behavior, students with questionable content were more open to change, supporting the potential viability of the typology.</description>
+      <dc:title>Student Social Media Self-Evaluation: Addressing the Posting Paradox in the Age of Cybervetting</dc:title>
+      <dc:identifier>10.1177/0047281620927014</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2020-05-28T03:48:23Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>James Melton</dc:creator>
+      <dc:creator>Robert Miller</dc:creator>
+      <dc:creator>Paul Dunn</dc:creator>
+      <prism:publicationName>Student Social Media Self-Evaluation: Addressing the Posting Paradox in the Age of Cybervetting</prism:publicationName>
+      <prism:doi>10.1177/0047281620927014</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620915434?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Text Recycling in STEM Research: An Exploratory Investigation of Expert and Novice Beliefs and Attitudes</title>
@@ -350,4 +369,4 @@
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1590505180-->
+<!-- cached:  1592947734-->
