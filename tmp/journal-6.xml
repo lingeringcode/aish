@@ -21,6 +21,9 @@
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752130?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752131?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752132?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785819?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785820?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748215?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748218?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748217?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748216?af=R"/>
@@ -188,6 +191,60 @@
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1752132?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785819?af=R">
+      <title>Not One More! Feminicidio on the Border, by Nina Maria Lozano</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785819?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Not One More! Feminicidio on the Border, by Nina Maria Lozano</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1785819</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-07-22T04:03:11Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Diana Isabel Martínez</dc:creator>
+      <prism:publicationName>Not One More! Feminicidio on the Border, by Nina Maria Lozano</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>3</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1785819</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785819?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785820?af=R">
+      <title>Rhetorics Elsewhere and Otherwise: Contested Modernities, Decolonial Visions, edited by Romeo García and Damián Baca</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785820?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Rhetorics Elsewhere and Otherwise: Contested Modernities, Decolonial Visions, edited by Romeo García and Damián Baca</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1785820</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-07-22T04:04:44Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Jason Edward Black</dc:creator>
+      <prism:publicationName>Rhetorics Elsewhere and Otherwise: Contested Modernities, Decolonial Visions, edited by Romeo García and Damián Baca</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>3</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1785820</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785820?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748215?af=R">
+      <title>Engendering Progress, Contesting Narratives: Women’s Labor Rhetorics at the 1907 Chicago Industrial Exhibit</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748215?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Engendering Progress, Contesting Narratives: Women’s Labor Rhetorics at the 1907 Chicago Industrial Exhibit</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1748215</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-07-01T02:34:31Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Liane Malinowski</dc:creator>
+      <prism:publicationName>Engendering Progress, Contesting Narratives: Women’s Labor Rhetorics at the 1907 Chicago Industrial Exhibit</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1748215</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748215?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748218?af=R">
       <title>Activist Rhetoric in Transnational Cyber-Public Spaces: Toward a Comparative Materialist Approach</title>
       <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748218?af=R</link>
@@ -261,4 +318,4 @@
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1592947735-->
+<!-- cached:  1596123221-->

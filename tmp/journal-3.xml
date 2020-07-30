@@ -14,158 +14,28 @@
       <prism:publicationName>Written Communication</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319897978?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319898864?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319898672?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088319899908?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320908680?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320917921?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320916554?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320916508?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320917921?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320916553?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320944918?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320938804?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320939541?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320939542?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320938794?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2020/wcxa_37_2/wcxa_37_2/20200217-01/wcxa_37_2.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2020/wcxa_37_3/wcxa_37_3/20200707/wcxa_37_3.cover.png">
       <title>Written Communication</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2020/wcxa_37_2/wcxa_37_2/20200217-01/wcxa_37_2.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2020/wcxa_37_3/wcxa_37_3/20200707/wcxa_37_3.cover.png</url>
       <link>https://journals.sagepub.com/loi/wcxa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319897978?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Multimodal Language of Attitude in Digital Composition</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319897978?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/37/2"&gt;Volume 37, Issue 2&lt;/a&gt;, Page 135-166, April 2020. &lt;br/&gt;Communication using popular digital media involves understanding multimodal systems of appraisal for expressing attitude, which traditionally deals with emotions, ethics, and aesthetics in language. The formulation and teaching of multimodal grammars for attitudinal meanings in popular texts and culture is currently underresearched. This article reports findings from multisite qualitative research that developed students’ ability to use semiotic resources for communicating attitude multimodally. The research participants were 68 students (ages 9–11 years) from two elementary schools. Students learned how to use attitudinal language—affect, judgment, and appreciation—and applied this knowledge to multimodal design. The findings advance a leading system of appraisal for discourse by adapting the system to the multimodal communication of attitude in digital comic making in schooling. The research is significant because it demonstrates the potentials for augmenting students’ linguistic and visual semiotic resources to convey multimodal attitudinal meanings in contemporary communication.</content:encoded>
-      <description>Written Communication, Volume 37, Issue 2, Page 135-166, April 2020. &lt;br/&gt;Communication using popular digital media involves understanding multimodal systems of appraisal for expressing attitude, which traditionally deals with emotions, ethics, and aesthetics in language. The formulation and teaching of multimodal grammars for attitudinal meanings in popular texts and culture is currently underresearched. This article reports findings from multisite qualitative research that developed students’ ability to use semiotic resources for communicating attitude multimodally. The research participants were 68 students (ages 9–11 years) from two elementary schools. Students learned how to use attitudinal language—affect, judgment, and appreciation—and applied this knowledge to multimodal design. The findings advance a leading system of appraisal for discourse by adapting the system to the multimodal communication of attitude in digital comic making in schooling. The research is significant because it demonstrates the potentials for augmenting students’ linguistic and visual semiotic resources to convey multimodal attitudinal meanings in contemporary communication.</description>
-      <dc:title>Multimodal Language of Attitude in Digital Composition</dc:title>
-      <dc:identifier>10.1177/0741088319897978</dc:identifier>
-      <dc:source>Written Communication</dc:source>
-      <dc:date>2020-01-06T12:35:46Z</dc:date>
-      <dc:rights>© 2020 SAGE Publications</dc:rights>
-      <dc:creator>Kathy A. Mills</dc:creator>
-      <dc:creator>Bessie G. Stone</dc:creator>
-      <dc:creator>Len Unsworth</dc:creator>
-      <dc:creator>Lesley Friend</dc:creator>
-      <prism:publicationName>Multimodal Language of Attitude in Digital Composition</prism:publicationName>
-      <prism:volume>37</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>135</prism:startingPage>
-      <prism:endingPage>166</prism:endingPage>
-      <prism:coverDate>2020-04-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-04-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0741088319897978</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319897978?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319898864?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Visual Embodied Actions in Interview-Based Writing Research: A Methodological Argument for Video</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319898864?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/37/2"&gt;Volume 37, Issue 2&lt;/a&gt;, Page 167-207, April 2020. &lt;br/&gt;People communicate through language as well as visual embodied actions like gestures, yet audio remains the default recording technology in interview-based writing research. Given that texts and writing processes are understood to involve semiotic resources beyond language, interview talk should receive similar treatment. In this article, I synthesize research that examines how visual embodied actions reveal and construct embodied knowledge and stance, and I apply these lenses to my own study, showing how visual embodied actions are essential to understanding three writers’ experiences with particular writing styles. I conclude by discussing the benefits of videorecording for writing research, offering guidance on how video can help researchers explore the interview as a social practice, and suggesting ways to design the consent process with transparency and democratic practice in mind. Ultimately, this article serves as a guide for writing researchers who wish to challenge the audio default when conducting interviews.</content:encoded>
-      <description>Written Communication, Volume 37, Issue 2, Page 167-207, April 2020. &lt;br/&gt;People communicate through language as well as visual embodied actions like gestures, yet audio remains the default recording technology in interview-based writing research. Given that texts and writing processes are understood to involve semiotic resources beyond language, interview talk should receive similar treatment. In this article, I synthesize research that examines how visual embodied actions reveal and construct embodied knowledge and stance, and I apply these lenses to my own study, showing how visual embodied actions are essential to understanding three writers’ experiences with particular writing styles. I conclude by discussing the benefits of videorecording for writing research, offering guidance on how video can help researchers explore the interview as a social practice, and suggesting ways to design the consent process with transparency and democratic practice in mind. Ultimately, this article serves as a guide for writing researchers who wish to challenge the audio default when conducting interviews.</description>
-      <dc:title>Visual Embodied Actions in Interview-Based Writing Research: A Methodological Argument for Video</dc:title>
-      <dc:identifier>10.1177/0741088319898864</dc:identifier>
-      <dc:source>Written Communication</dc:source>
-      <dc:date>2020-02-06T07:16:11Z</dc:date>
-      <dc:rights>© 2020 SAGE Publications</dc:rights>
-      <dc:creator>Andrea R. Olinger</dc:creator>
-      <prism:publicationName>Visual Embodied Actions in Interview-Based Writing Research: A Methodological Argument for Video</prism:publicationName>
-      <prism:volume>37</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>167</prism:startingPage>
-      <prism:endingPage>207</prism:endingPage>
-      <prism:coverDate>2020-04-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-04-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0741088319898864</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319898864?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319898672?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Quantifying Disciplinary Voices: An Automated Approach to Interactional Metadiscourse in Successful Student Writing</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319898672?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/37/2"&gt;Volume 37, Issue 2&lt;/a&gt;, Page 208-244, April 2020. &lt;br/&gt;This article reports on a study that explored cross-disciplinary variation in the use of metadiscourse markers in advanced-level student writing, put forward as a realistic target for novice writers. Starting from the stance and engagement categories included in Hyland’s model, we first conducted a comprehensive quantitative analysis of interactional metadiscourse across disciplines. For this analysis, we used an automated processing tool that generates quantity scores for each metadiscourse category. We then carried out a detailed qualitative analysis of selected items that contributed significantly to these category scores. The data for our analyses come from a corpus of 829 student papers from 16 different disciplines. The results showed notable differences in students’ use of metadiscourse features across academic divisions and disciplines. We suggest that this offers evidence of advanced students’ ability to express interactional strategies that are in line with disciplinary expectations. We also found, however, that disciplines that fall into the same academic division were not necessarily similar in their use of interactional metadiscourse, which calls into question the usefulness of existing disciplinary groupings. The findings of this study offer insights into how to build an appropriate writerly stance in different academic communities.</content:encoded>
-      <description>Written Communication, Volume 37, Issue 2, Page 208-244, April 2020. &lt;br/&gt;This article reports on a study that explored cross-disciplinary variation in the use of metadiscourse markers in advanced-level student writing, put forward as a realistic target for novice writers. Starting from the stance and engagement categories included in Hyland’s model, we first conducted a comprehensive quantitative analysis of interactional metadiscourse across disciplines. For this analysis, we used an automated processing tool that generates quantity scores for each metadiscourse category. We then carried out a detailed qualitative analysis of selected items that contributed significantly to these category scores. The data for our analyses come from a corpus of 829 student papers from 16 different disciplines. The results showed notable differences in students’ use of metadiscourse features across academic divisions and disciplines. We suggest that this offers evidence of advanced students’ ability to express interactional strategies that are in line with disciplinary expectations. We also found, however, that disciplines that fall into the same academic division were not necessarily similar in their use of interactional metadiscourse, which calls into question the usefulness of existing disciplinary groupings. The findings of this study offer insights into how to build an appropriate writerly stance in different academic communities.</description>
-      <dc:title>Quantifying Disciplinary Voices: An Automated Approach to Interactional Metadiscourse in Successful Student Writing</dc:title>
-      <dc:identifier>10.1177/0741088319898672</dc:identifier>
-      <dc:source>Written Communication</dc:source>
-      <dc:date>2020-01-28T11:50:05Z</dc:date>
-      <dc:rights>© 2020 SAGE Publications</dc:rights>
-      <dc:creator>Hyung-Jo Yoon</dc:creator>
-      <dc:creator>Ute Römer</dc:creator>
-      <prism:publicationName>Quantifying Disciplinary Voices: An Automated Approach to Interactional Metadiscourse in Successful Student Writing</prism:publicationName>
-      <prism:volume>37</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>208</prism:startingPage>
-      <prism:endingPage>244</prism:endingPage>
-      <prism:coverDate>2020-04-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-04-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0741088319898672</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319898672?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088319899908?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Inventing Others in Digital Written Communication: Intercultural Encounters on the U.S.-Mexico Border</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088319899908?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/37/2"&gt;Volume 37, Issue 2&lt;/a&gt;, Page 245-280, April 2020. &lt;br/&gt;At a multinational company, daily written communication between staff, supervisors, customers, and suppliers is frequently conducted using digital tools (e.g., emails, smartphones, and texting applications) often across multiple nationally, linguistically, and conceptually defined borders. Determining digital tools’ impact on intercultural encounters in professional environments like these is difficult but important given the sheer volume of digital contact in technical and professional environments and the ongoing global struggle to broker peace and productivity amid communities’ many perceived differences. Using examples drawn from a case study of binational manufacturing sister companies, I build on recent work in professional, networked written communication to analyze two WhatsApp exchanges, one between a central study participant and his customer, another between the participant and an employee. This study shows how asynchronous digital communication tools created complex “silences” in writing between participants. In these silences (e.g., a lack of or delayed response to a text) individuals try to explain others’ actions for themselves. Drawing on a combination of third-generation activity theory and Latourian actor-network theory, I show that while explaining others’ actions in writing with whatever cultural shorthand is available may remain a common part of everyday life and research, it can be a poor guide for explaining others’ actions, especially in digital writing. My study shows how research of, and instruction in, digital tool use in intercultural writing contexts requires attention to the material conditions and objectives potentially shaping one’s own as well as others’ composition choices.</content:encoded>
-      <description>Written Communication, Volume 37, Issue 2, Page 245-280, April 2020. &lt;br/&gt;At a multinational company, daily written communication between staff, supervisors, customers, and suppliers is frequently conducted using digital tools (e.g., emails, smartphones, and texting applications) often across multiple nationally, linguistically, and conceptually defined borders. Determining digital tools’ impact on intercultural encounters in professional environments like these is difficult but important given the sheer volume of digital contact in technical and professional environments and the ongoing global struggle to broker peace and productivity amid communities’ many perceived differences. Using examples drawn from a case study of binational manufacturing sister companies, I build on recent work in professional, networked written communication to analyze two WhatsApp exchanges, one between a central study participant and his customer, another between the participant and an employee. This study shows how asynchronous digital communication tools created complex “silences” in writing between participants. In these silences (e.g., a lack of or delayed response to a text) individuals try to explain others’ actions for themselves. Drawing on a combination of third-generation activity theory and Latourian actor-network theory, I show that while explaining others’ actions in writing with whatever cultural shorthand is available may remain a common part of everyday life and research, it can be a poor guide for explaining others’ actions, especially in digital writing. My study shows how research of, and instruction in, digital tool use in intercultural writing contexts requires attention to the material conditions and objectives potentially shaping one’s own as well as others’ composition choices.</description>
-      <dc:title>Inventing Others in Digital Written Communication: Intercultural Encounters on the U.S.-Mexico Border</dc:title>
-      <dc:identifier>10.1177/0741088319899908</dc:identifier>
-      <dc:source>Written Communication</dc:source>
-      <dc:date>2020-01-24T11:38:17Z</dc:date>
-      <dc:rights>© 2020 SAGE Publications</dc:rights>
-      <dc:creator>Beau Pihlaja</dc:creator>
-      <prism:publicationName>Inventing Others in Digital Written Communication: Intercultural Encounters on the U.S.-Mexico Border</prism:publicationName>
-      <prism:volume>37</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>245</prism:startingPage>
-      <prism:endingPage>280</prism:endingPage>
-      <prism:coverDate>2020-04-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-04-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0741088319899908</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088319899908?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320908680?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Acknowledgements</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320908680?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/37/2"&gt;Volume 37, Issue 2&lt;/a&gt;, Page 281-282, April 2020. &lt;br/&gt;</content:encoded>
-      <description>Written Communication, Volume 37, Issue 2, Page 281-282, April 2020. &lt;br/&gt;</description>
-      <dc:title>Acknowledgements</dc:title>
-      <dc:identifier>10.1177/0741088320908680</dc:identifier>
-      <dc:source>Written Communication</dc:source>
-      <dc:date>2020-02-18T05:28:59Z</dc:date>
-      <dc:rights>© 2020 SAGE Publications</dc:rights>
-      <prism:publicationName>Acknowledgements</prism:publicationName>
-      <prism:volume>37</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>281</prism:startingPage>
-      <prism:endingPage>282</prism:endingPage>
-      <prism:coverDate>2020-04-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-04-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0741088320908680</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320908680?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320917921?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Lexical Patterns in Adolescents’ Online Writing: The Impact of Age, Gender, and Education</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320917921?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;This article examines the impact of the sociodemographic profile (including age, gender, and educational track) of Flemish adolescents (aged 13–20) on lexical aspects of their informal online discourse. The focus on lexical and more “traditional,” print-based aspects of literacy is meant to complement previous research on sociolinguistic variation with respect to the use of prototypical features of social media writing. Drawing on a corpus of 434,537 social media posts written by 1,384 teenagers, a variety of lexical features and related parameters is examined, including lexical richness, top favorite words, and word length. The analyses reveal a strong common ground among the adolescents with respect to some features but divergent writing practices by different groups of teenagers with regard to other parameters. Furthermore, this study analyzes both standardized versions of social media messages and the original utterances (including nonstandard markers of online writing). Strikingly, different results emerge with respect to adolescents’ exploitation of more traditional versus digital literacy skills in relation to their sociodemographic profile, especially with respect to sentiment expression (verbal versus typographic/pictorial). The study suggests that the inclusion of nonverbal communicative strategies, for instance in language teaching, might be a pedagogical asset, since these strategies are eagerly adopted by teenagers who show proof of less developed traditional writing skills.</content:encoded>
-      <description>Written Communication, Ahead of Print. &lt;br/&gt;This article examines the impact of the sociodemographic profile (including age, gender, and educational track) of Flemish adolescents (aged 13–20) on lexical aspects of their informal online discourse. The focus on lexical and more “traditional,” print-based aspects of literacy is meant to complement previous research on sociolinguistic variation with respect to the use of prototypical features of social media writing. Drawing on a corpus of 434,537 social media posts written by 1,384 teenagers, a variety of lexical features and related parameters is examined, including lexical richness, top favorite words, and word length. The analyses reveal a strong common ground among the adolescents with respect to some features but divergent writing practices by different groups of teenagers with regard to other parameters. Furthermore, this study analyzes both standardized versions of social media messages and the original utterances (including nonstandard markers of online writing). Strikingly, different results emerge with respect to adolescents’ exploitation of more traditional versus digital literacy skills in relation to their sociodemographic profile, especially with respect to sentiment expression (verbal versus typographic/pictorial). The study suggests that the inclusion of nonverbal communicative strategies, for instance in language teaching, might be a pedagogical asset, since these strategies are eagerly adopted by teenagers who show proof of less developed traditional writing skills.</description>
-      <dc:title>Lexical Patterns in Adolescents’ Online Writing: The Impact of Age, Gender, and Education</dc:title>
-      <dc:identifier>10.1177/0741088320917921</dc:identifier>
-      <dc:source>Written Communication</dc:source>
-      <dc:date>2020-05-26T05:29:43Z</dc:date>
-      <dc:rights>© 2020 SAGE Publications</dc:rights>
-      <dc:creator>Lisa Hilte</dc:creator>
-      <dc:creator>Walter Daelemans</dc:creator>
-      <dc:creator>Reinhild Vandekerckhove</dc:creator>
-      <prism:publicationName>Lexical Patterns in Adolescents’ Online Writing: The Impact of Age, Gender, and Education</prism:publicationName>
-      <prism:doi>10.1177/0741088320917921</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320917921?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
-   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320916554?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Teaching and Researching Genre Knowledge: Toward an Enhanced Theoretical Framework</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320916554?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Increased attention to genre in writing studies has brought a proliferation of new terms and concepts for capturing the complexity of writers’ knowledge about genres, including genre knowledge, genre awareness, recontextualization, conditional knowledge, and metacognition. Definitions of these concepts have at times conflicted, and their interrelationships are often unclear. Furthermore, scholarship has tended to overlook the role of multiple languages in writers’ genre knowledge. In this article, we first trace the use of related terminology and demonstrate the need for theoretical clarity. We then propose a theoretical framework that articulates key layers of genre knowledge and their interrelations, presuming a multilingual writer. Finally, we share examples of how this proposed framework may be used in teaching and researching genre knowledge. Ultimately, we aim to contribute to ongoing theoretical, empirical, and pedagogical explorations and applications of knowing and learning genres.</content:encoded>
-      <description>Written Communication, Ahead of Print. &lt;br/&gt;Increased attention to genre in writing studies has brought a proliferation of new terms and concepts for capturing the complexity of writers’ knowledge about genres, including genre knowledge, genre awareness, recontextualization, conditional knowledge, and metacognition. Definitions of these concepts have at times conflicted, and their interrelationships are often unclear. Furthermore, scholarship has tended to overlook the role of multiple languages in writers’ genre knowledge. In this article, we first trace the use of related terminology and demonstrate the need for theoretical clarity. We then propose a theoretical framework that articulates key layers of genre knowledge and their interrelations, presuming a multilingual writer. Finally, we share examples of how this proposed framework may be used in teaching and researching genre knowledge. Ultimately, we aim to contribute to ongoing theoretical, empirical, and pedagogical explorations and applications of knowing and learning genres.</description>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/37/3"&gt;Volume 37, Issue 3&lt;/a&gt;, Page 287-321, July 2020. &lt;br/&gt;Increased attention to genre in writing studies has brought a proliferation of new terms and concepts for capturing the complexity of writers’ knowledge about genres, including genre knowledge, genre awareness, recontextualization, conditional knowledge, and metacognition. Definitions of these concepts have at times conflicted, and their interrelationships are often unclear. Furthermore, scholarship has tended to overlook the role of multiple languages in writers’ genre knowledge. In this article, we first trace the use of related terminology and demonstrate the need for theoretical clarity. We then propose a theoretical framework that articulates key layers of genre knowledge and their interrelations, presuming a multilingual writer. Finally, we share examples of how this proposed framework may be used in teaching and researching genre knowledge. Ultimately, we aim to contribute to ongoing theoretical, empirical, and pedagogical explorations and applications of knowing and learning genres.</content:encoded>
+      <description>Written Communication, Volume 37, Issue 3, Page 287-321, July 2020. &lt;br/&gt;Increased attention to genre in writing studies has brought a proliferation of new terms and concepts for capturing the complexity of writers’ knowledge about genres, including genre knowledge, genre awareness, recontextualization, conditional knowledge, and metacognition. Definitions of these concepts have at times conflicted, and their interrelationships are often unclear. Furthermore, scholarship has tended to overlook the role of multiple languages in writers’ genre knowledge. In this article, we first trace the use of related terminology and demonstrate the need for theoretical clarity. We then propose a theoretical framework that articulates key layers of genre knowledge and their interrelations, presuming a multilingual writer. Finally, we share examples of how this proposed framework may be used in teaching and researching genre knowledge. Ultimately, we aim to contribute to ongoing theoretical, empirical, and pedagogical explorations and applications of knowing and learning genres.</description>
       <dc:title>Teaching and Researching Genre Knowledge: Toward an Enhanced Theoretical Framework</dc:title>
       <dc:identifier>10.1177/0741088320916554</dc:identifier>
       <dc:source>Written Communication</dc:source>
@@ -175,15 +45,68 @@
       <dc:creator>Bruna Sommer-Farias</dc:creator>
       <dc:creator>Jeroen Gevers</dc:creator>
       <prism:publicationName>Teaching and Researching Genre Knowledge: Toward an Enhanced Theoretical Framework</prism:publicationName>
+      <prism:volume>37</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>287</prism:startingPage>
+      <prism:endingPage>321</prism:endingPage>
+      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1177/0741088320916554</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320916554?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320916508?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Exploring Revisions in Academic Text: Closing the Gap Between Process and Product Approaches in Digital Writing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320916508?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/37/3"&gt;Volume 37, Issue 3&lt;/a&gt;, Page 322-364, July 2020. &lt;br/&gt;To date, research into dynamic descriptions of text has focused mainly on the spoken mode; and while writing process research has examined language structures, it has largely ignored the functionality (meaning) inherent in them. Therefore, drawing on systemic functional linguistics (SFL) and keystroke logging software, this article takes a further step toward an interdisciplinary dialogue by outlining a new schematic for coding and analyzing revisions. More specifically, we show how revision activity can be tracked within functional components, across functional components, and across clauses in terms of forward and backward movements. By exploring three digitally constructed texts, which were produced and observed unobtrusively in a natural setting, we have attempted to illustrate how one writer’s revising process can be operationalized in terms of (a) chronological movement (sequence) and (b) spatial movement (location). Findings showed how activity was relatively consistent across datasets with regard to session management, revision frequency, and distribution of revision types. Moreover, results also showed how most revision activity occurred at, or ahead of, the point of inscription, particularly with regard to revising the end of clauses. However, findings also indicated that revising the start of clauses was equally important when considering the size of functional components.</content:encoded>
+      <description>Written Communication, Volume 37, Issue 3, Page 322-364, July 2020. &lt;br/&gt;To date, research into dynamic descriptions of text has focused mainly on the spoken mode; and while writing process research has examined language structures, it has largely ignored the functionality (meaning) inherent in them. Therefore, drawing on systemic functional linguistics (SFL) and keystroke logging software, this article takes a further step toward an interdisciplinary dialogue by outlining a new schematic for coding and analyzing revisions. More specifically, we show how revision activity can be tracked within functional components, across functional components, and across clauses in terms of forward and backward movements. By exploring three digitally constructed texts, which were produced and observed unobtrusively in a natural setting, we have attempted to illustrate how one writer’s revising process can be operationalized in terms of (a) chronological movement (sequence) and (b) spatial movement (location). Findings showed how activity was relatively consistent across datasets with regard to session management, revision frequency, and distribution of revision types. Moreover, results also showed how most revision activity occurred at, or ahead of, the point of inscription, particularly with regard to revising the end of clauses. However, findings also indicated that revising the start of clauses was equally important when considering the size of functional components.</description>
+      <dc:title>Exploring Revisions in Academic Text: Closing the Gap Between Process and Product Approaches in Digital Writing</dc:title>
+      <dc:identifier>10.1177/0741088320916508</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2020-07-07T02:01:24Z</dc:date>
+      <dc:rights>© 2020 SAGE Publications</dc:rights>
+      <dc:creator>Neil Bowen</dc:creator>
+      <dc:creator>Luuk Van Waes</dc:creator>
+      <prism:publicationName>Exploring Revisions in Academic Text: Closing the Gap Between Process and Product Approaches in Digital Writing</prism:publicationName>
+      <prism:volume>37</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>322</prism:startingPage>
+      <prism:endingPage>364</prism:endingPage>
+      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0741088320916508</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320916508?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320917921?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Lexical Patterns in Adolescents’ Online Writing: The Impact of Age, Gender, and Education</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320917921?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/37/3"&gt;Volume 37, Issue 3&lt;/a&gt;, Page 365-400, July 2020. &lt;br/&gt;This article examines the impact of the sociodemographic profile (including age, gender, and educational track) of Flemish adolescents (aged 13–20) on lexical aspects of their informal online discourse. The focus on lexical and more “traditional,” print-based aspects of literacy is meant to complement previous research on sociolinguistic variation with respect to the use of prototypical features of social media writing. Drawing on a corpus of 434,537 social media posts written by 1,384 teenagers, a variety of lexical features and related parameters is examined, including lexical richness, top favorite words, and word length. The analyses reveal a strong common ground among the adolescents with respect to some features but divergent writing practices by different groups of teenagers with regard to other parameters. Furthermore, this study analyzes both standardized versions of social media messages and the original utterances (including nonstandard markers of online writing). Strikingly, different results emerge with respect to adolescents’ exploitation of more traditional versus digital literacy skills in relation to their sociodemographic profile, especially with respect to sentiment expression (verbal versus typographic/pictorial). The study suggests that the inclusion of nonverbal communicative strategies, for instance in language teaching, might be a pedagogical asset, since these strategies are eagerly adopted by teenagers who show proof of less developed traditional writing skills.</content:encoded>
+      <description>Written Communication, Volume 37, Issue 3, Page 365-400, July 2020. &lt;br/&gt;This article examines the impact of the sociodemographic profile (including age, gender, and educational track) of Flemish adolescents (aged 13–20) on lexical aspects of their informal online discourse. The focus on lexical and more “traditional,” print-based aspects of literacy is meant to complement previous research on sociolinguistic variation with respect to the use of prototypical features of social media writing. Drawing on a corpus of 434,537 social media posts written by 1,384 teenagers, a variety of lexical features and related parameters is examined, including lexical richness, top favorite words, and word length. The analyses reveal a strong common ground among the adolescents with respect to some features but divergent writing practices by different groups of teenagers with regard to other parameters. Furthermore, this study analyzes both standardized versions of social media messages and the original utterances (including nonstandard markers of online writing). Strikingly, different results emerge with respect to adolescents’ exploitation of more traditional versus digital literacy skills in relation to their sociodemographic profile, especially with respect to sentiment expression (verbal versus typographic/pictorial). The study suggests that the inclusion of nonverbal communicative strategies, for instance in language teaching, might be a pedagogical asset, since these strategies are eagerly adopted by teenagers who show proof of less developed traditional writing skills.</description>
+      <dc:title>Lexical Patterns in Adolescents’ Online Writing: The Impact of Age, Gender, and Education</dc:title>
+      <dc:identifier>10.1177/0741088320917921</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2020-05-26T05:29:43Z</dc:date>
+      <dc:rights>© 2020 SAGE Publications</dc:rights>
+      <dc:creator>Lisa Hilte</dc:creator>
+      <dc:creator>Walter Daelemans</dc:creator>
+      <dc:creator>Reinhild Vandekerckhove</dc:creator>
+      <prism:publicationName>Lexical Patterns in Adolescents’ Online Writing: The Impact of Age, Gender, and Education</prism:publicationName>
+      <prism:volume>37</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>365</prism:startingPage>
+      <prism:endingPage>400</prism:endingPage>
+      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0741088320917921</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320917921?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2020 SAGE Publications</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320916553?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Technical Standards and a Theory of Writing as Infrastructure</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320916553?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Infrastructures support and shape our social world, but they do so in often invisible ways. In few cases is that truer than with various documents that serve infrastructural functions. This article takes one type of those documents—technical standards—and uses analysis of one specific standard to develop theory related to the infrastructural function of writing. The author specifically analyzes one of the major infrastructures of the Internet of Things—the 126-page Tag Data Standard (TDS)—to show how rethinking writing as infrastructure can be valuable for multiple conversations occurring with writing studies, including research on material rhetoric, research that expands the scope of what should be studied as writing, and research in writing studies that links with emerging fields. The author concludes by developing a model for future research on the infrastructural functions of writing.</content:encoded>
-      <description>Written Communication, Ahead of Print. &lt;br/&gt;Infrastructures support and shape our social world, but they do so in often invisible ways. In few cases is that truer than with various documents that serve infrastructural functions. This article takes one type of those documents—technical standards—and uses analysis of one specific standard to develop theory related to the infrastructural function of writing. The author specifically analyzes one of the major infrastructures of the Internet of Things—the 126-page Tag Data Standard (TDS)—to show how rethinking writing as infrastructure can be valuable for multiple conversations occurring with writing studies, including research on material rhetoric, research that expands the scope of what should be studied as writing, and research in writing studies that links with emerging fields. The author concludes by developing a model for future research on the infrastructural functions of writing.</description>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/37/3"&gt;Volume 37, Issue 3&lt;/a&gt;, Page 401-427, July 2020. &lt;br/&gt;Infrastructures support and shape our social world, but they do so in often invisible ways. In few cases is that truer than with various documents that serve infrastructural functions. This article takes one type of those documents—technical standards—and uses analysis of one specific standard to develop theory related to the infrastructural function of writing. The author specifically analyzes one of the major infrastructures of the Internet of Things—the 126-page Tag Data Standard (TDS)—to show how rethinking writing as infrastructure can be valuable for multiple conversations occurring with writing studies, including research on material rhetoric, research that expands the scope of what should be studied as writing, and research in writing studies that links with emerging fields. The author concludes by developing a model for future research on the infrastructural functions of writing.</content:encoded>
+      <description>Written Communication, Volume 37, Issue 3, Page 401-427, July 2020. &lt;br/&gt;Infrastructures support and shape our social world, but they do so in often invisible ways. In few cases is that truer than with various documents that serve infrastructural functions. This article takes one type of those documents—technical standards—and uses analysis of one specific standard to develop theory related to the infrastructural function of writing. The author specifically analyzes one of the major infrastructures of the Internet of Things—the 126-page Tag Data Standard (TDS)—to show how rethinking writing as infrastructure can be valuable for multiple conversations occurring with writing studies, including research on material rhetoric, research that expands the scope of what should be studied as writing, and research in writing studies that links with emerging fields. The author concludes by developing a model for future research on the infrastructural functions of writing.</description>
       <dc:title>Technical Standards and a Theory of Writing as Infrastructure</dc:title>
       <dc:identifier>10.1177/0741088320916553</dc:identifier>
       <dc:source>Written Communication</dc:source>
@@ -191,9 +114,98 @@
       <dc:rights>© 2020 SAGE Publications</dc:rights>
       <dc:creator>Jordan Frith</dc:creator>
       <prism:publicationName>Technical Standards and a Theory of Writing as Infrastructure</prism:publicationName>
+      <prism:volume>37</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>401</prism:startingPage>
+      <prism:endingPage>427</prism:endingPage>
+      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1177/0741088320916553</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320916553?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2020 SAGE Publications</prism:copyright>
    </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320944918?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The Opioid Epidemic and the Pursuit of Moral Medicine: A Computational-Rhetorical Analysis</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320944918?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;This article offers a longitudinal computational-rhetorical analysis of biomedical writing on opioids. Using a corpus of 1,467 articles and essays published in the New England Journal of Medicine and the Journal of the American Medical Association between 1959 and May 2019, this study evaluates diachronic shifts in (a) the framing of opioid pharmacology, (b) the relative attention paid to pain management versus opioid dependence risks, and (c) the distribution of statements related to physicians’ primary ethical obligations. The results of these analyses largely disconfirm different current accounts of shifting physician rhetoric around opioids and pain management leading up to the recognition opioid epidemic. Most notably, the results also suggest that biomedical debates surrounding opioids are serving as proxy arguments for shifting primary bioethical obligations from individual patients to public health.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;This article offers a longitudinal computational-rhetorical analysis of biomedical writing on opioids. Using a corpus of 1,467 articles and essays published in the New England Journal of Medicine and the Journal of the American Medical Association between 1959 and May 2019, this study evaluates diachronic shifts in (a) the framing of opioid pharmacology, (b) the relative attention paid to pain management versus opioid dependence risks, and (c) the distribution of statements related to physicians’ primary ethical obligations. The results of these analyses largely disconfirm different current accounts of shifting physician rhetoric around opioids and pain management leading up to the recognition opioid epidemic. Most notably, the results also suggest that biomedical debates surrounding opioids are serving as proxy arguments for shifting primary bioethical obligations from individual patients to public health.</description>
+      <dc:title>The Opioid Epidemic and the Pursuit of Moral Medicine: A Computational-Rhetorical Analysis</dc:title>
+      <dc:identifier>10.1177/0741088320944918</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2020-07-29T01:31:52Z</dc:date>
+      <dc:rights>© 2020 SAGE Publications</dc:rights>
+      <dc:creator>S. Scott Graham</dc:creator>
+      <prism:publicationName>The Opioid Epidemic and the Pursuit of Moral Medicine: A Computational-Rhetorical Analysis</prism:publicationName>
+      <prism:doi>10.1177/0741088320944918</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320944918?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320938804?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Time, the Written Record, and Professional Practice: The Case of Contemporary Social Work</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320938804?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Drawing on a three-year ethnographically oriented study exploring contemporary professional social work writing, this article focuses on a key concern: the amount of time taken up with writing, or “paperwork.” We explore the relationship between time and professional social work writing in three key ways: (a) as a discrete, measurable phenomenon—how much time is spent on writing? (b) as a textual dimension to social work writing—how do institutional documents drive particular entextualizations of time and how do social worker texts entextualize time? (c) as a particular timespace configuration of lived experience—how is time experienced by professional social workers? Findings indicate that a dominant institutional chronotope is governing social work textual practice underpinned by an ideology of writing that is at odds with social workers’ desired practice and professional goals. Methodologically, this article illustrates the value of combining a range of data and analytic tools, using textual and contextual data as well as qualitative and quantitative frames of analysis.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Drawing on a three-year ethnographically oriented study exploring contemporary professional social work writing, this article focuses on a key concern: the amount of time taken up with writing, or “paperwork.” We explore the relationship between time and professional social work writing in three key ways: (a) as a discrete, measurable phenomenon—how much time is spent on writing? (b) as a textual dimension to social work writing—how do institutional documents drive particular entextualizations of time and how do social worker texts entextualize time? (c) as a particular timespace configuration of lived experience—how is time experienced by professional social workers? Findings indicate that a dominant institutional chronotope is governing social work textual practice underpinned by an ideology of writing that is at odds with social workers’ desired practice and professional goals. Methodologically, this article illustrates the value of combining a range of data and analytic tools, using textual and contextual data as well as qualitative and quantitative frames of analysis.</description>
+      <dc:title>Time, the Written Record, and Professional Practice: The Case of Contemporary Social Work</dc:title>
+      <dc:identifier>10.1177/0741088320938804</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2020-07-25T10:57:28Z</dc:date>
+      <dc:rights>© 2020 SAGE Publications</dc:rights>
+      <dc:creator>Theresa Lillis</dc:creator>
+      <dc:creator>Maria Leedham</dc:creator>
+      <dc:creator>Alison Twiner</dc:creator>
+      <prism:publicationName>Time, the Written Record, and Professional Practice: The Case of Contemporary Social Work</prism:publicationName>
+      <prism:doi>10.1177/0741088320938804</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320938804?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320939541?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>How to Build a Supercomputer: U.S. Research Infrastructure and the Documents That Mitigate the Uncertainties of Big Science</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320939541?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;In this article, I argue that technical reporting and documentation processes function to mitigate uncertainty and enable complex systems in the endeavor of big science. The argument draws on two years of field research investigating technical reporting and documentation processes at a federally funded supercomputing center dedicated to scientific research. A central question the study sought to answer was, “How does one build a new supercomputer?” One of the answers that emerged is that supercomputers are built by the genre assemblages of documents that mitigate financial, political, and technological uncertainties, and their attendant risks, that are inherent to technoscientific cutting-edge enterprises. Given their centrality, these genre assemblages function as essential infrastructure for the U.S. national laboratory system and for big science endeavors in general. In conclusion, this article argues that documentation that mitigates uncertainty serves an important infrastructural function for organizational life more generally.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;In this article, I argue that technical reporting and documentation processes function to mitigate uncertainty and enable complex systems in the endeavor of big science. The argument draws on two years of field research investigating technical reporting and documentation processes at a federally funded supercomputing center dedicated to scientific research. A central question the study sought to answer was, “How does one build a new supercomputer?” One of the answers that emerged is that supercomputers are built by the genre assemblages of documents that mitigate financial, political, and technological uncertainties, and their attendant risks, that are inherent to technoscientific cutting-edge enterprises. Given their centrality, these genre assemblages function as essential infrastructure for the U.S. national laboratory system and for big science endeavors in general. In conclusion, this article argues that documentation that mitigates uncertainty serves an important infrastructural function for organizational life more generally.</description>
+      <dc:title>How to Build a Supercomputer: U.S. Research Infrastructure and the Documents That Mitigate the Uncertainties of Big Science</dc:title>
+      <dc:identifier>10.1177/0741088320939541</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2020-07-13T09:16:36Z</dc:date>
+      <dc:rights>© 2020 SAGE Publications</dc:rights>
+      <dc:creator>Sarah Read</dc:creator>
+      <prism:publicationName>How to Build a Supercomputer: U.S. Research Infrastructure and the Documents That Mitigate the Uncertainties of Big Science</prism:publicationName>
+      <prism:doi>10.1177/0741088320939541</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320939541?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320939542?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Are Two Voices Better Than One? Comparing Aspects of Text Quality and Authorial Voice in Paired and Independent L2 Writing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320939542?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Research has shown that collaboratively produced texts are better in quality compared with individually written texts. However, no study has considered the role of collaboration in authorial voice, which is an essential element in current writing curricula. This study analyzes the effects of collaborative task performance in the quality of L2 learners’ argumentative texts and in their authorial voice strength. A total of 306 upper-intermediate L2 learners were selected and divided into independent (N = 130) and paired (N = 176) groups. Each learner/pair was asked to write one argumentative text. The quality of writings was determined by a quantitative analysis that included three measures of complexity, accuracy, and fluency (CAF). Participants’ authorial voice strength was assessed by two raters using an analytic voice rubric. Comparison of means revealed that pairs outperformed independent writers in all CAF measures. However, the results for the role of collaboration in authorial voice were mixed: While pairs were more successful than independent writers in manifesting their ideational voice, independent writers outperformed pairs with regard to affective and presence voice dimensions and holistic voice scores. The article concludes that, despite its positive implications for L2 writing, collaborative writing may pose challenges for learners’ authorial stance taking.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Research has shown that collaboratively produced texts are better in quality compared with individually written texts. However, no study has considered the role of collaboration in authorial voice, which is an essential element in current writing curricula. This study analyzes the effects of collaborative task performance in the quality of L2 learners’ argumentative texts and in their authorial voice strength. A total of 306 upper-intermediate L2 learners were selected and divided into independent (N = 130) and paired (N = 176) groups. Each learner/pair was asked to write one argumentative text. The quality of writings was determined by a quantitative analysis that included three measures of complexity, accuracy, and fluency (CAF). Participants’ authorial voice strength was assessed by two raters using an analytic voice rubric. Comparison of means revealed that pairs outperformed independent writers in all CAF measures. However, the results for the role of collaboration in authorial voice were mixed: While pairs were more successful than independent writers in manifesting their ideational voice, independent writers outperformed pairs with regard to affective and presence voice dimensions and holistic voice scores. The article concludes that, despite its positive implications for L2 writing, collaborative writing may pose challenges for learners’ authorial stance taking.</description>
+      <dc:title>Are Two Voices Better Than One? Comparing Aspects of Text Quality and Authorial Voice in Paired and Independent L2 Writing</dc:title>
+      <dc:identifier>10.1177/0741088320939542</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2020-07-13T09:16:35Z</dc:date>
+      <dc:rights>© 2020 SAGE Publications</dc:rights>
+      <dc:creator>Reza Zabihi</dc:creator>
+      <dc:creator>Maryam Bayan</dc:creator>
+      <prism:publicationName>Are Two Voices Better Than One? Comparing Aspects of Text Quality and Authorial Voice in Paired and Independent L2 Writing</prism:publicationName>
+      <prism:doi>10.1177/0741088320939542</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320939542?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320938794?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Writing Oneself Into the Curriculum: Photovoice Journaling in a Secondary Ethnic Studies Course</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320938794?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;The writing of transnational youth has continued to emerge as a promising area of research in writing and literacy studies, and yet despite the breadth of this work, few studies have examined transnational students’ writing about social and racial justice. Drawing on theoretical contributions of coloniality, this article highlights the experiences of one immigrant adolescent’s participation in a secondary ethnic studies course in California. In this study, photovoice was used as a mutually informing classroom writing pedagogy and research methodology to understand how students in an ethnic studies course problematize the dominance of Whiteness in school. I specifically analyze field notes and a focal student’s writing and interviews to demonstrate (a) her understandings of her participation in this course and (b) the ways in which her writing of self was a form of curricular justice that spanned school and home. These findings help to amplify writing as a tool for social justice and remind us that literacy and students’ histories are inextricably linked.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;The writing of transnational youth has continued to emerge as a promising area of research in writing and literacy studies, and yet despite the breadth of this work, few studies have examined transnational students’ writing about social and racial justice. Drawing on theoretical contributions of coloniality, this article highlights the experiences of one immigrant adolescent’s participation in a secondary ethnic studies course in California. In this study, photovoice was used as a mutually informing classroom writing pedagogy and research methodology to understand how students in an ethnic studies course problematize the dominance of Whiteness in school. I specifically analyze field notes and a focal student’s writing and interviews to demonstrate (a) her understandings of her participation in this course and (b) the ways in which her writing of self was a form of curricular justice that spanned school and home. These findings help to amplify writing as a tool for social justice and remind us that literacy and students’ histories are inextricably linked.</description>
+      <dc:title>Writing Oneself Into the Curriculum: Photovoice Journaling in a Secondary Ethnic Studies Course</dc:title>
+      <dc:identifier>10.1177/0741088320938794</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2020-07-10T06:31:43Z</dc:date>
+      <dc:rights>© 2020 SAGE Publications</dc:rights>
+      <dc:creator>Cati V. de los Ríos</dc:creator>
+      <prism:publicationName>Writing Oneself Into the Curriculum: Photovoice Journaling in a Secondary Ethnic Studies Course</prism:publicationName>
+      <prism:doi>10.1177/0741088320938794</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320938794?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
+   </item>
 </rdf:RDF>
-<!-- cached:  1592947734-->
+<!-- cached:  1596123220-->

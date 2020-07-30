@@ -24,6 +24,13 @@
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669963?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689091?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669964?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1790665?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789745?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1794047?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789744?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768292?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768297?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774662?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768290?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768291?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768296?af=R"/>
@@ -275,6 +282,141 @@
       <prism:doi>10.1080/10572252.2019.1669964</prism:doi>
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1669964?af=R</prism:url>
       <prism:copyright>© 2019 Travis Holt</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1790665?af=R">
+      <title>Navigating Messy Research Methods and Mentoring Practices at a Bilingual Research Site on the Mexico-U.S. Border</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1790665?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Navigating Messy Research Methods and Mentoring Practices at a Bilingual Research Site on the Mexico-U.S. Border</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1790665</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-07-24T06:52:54Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Beau Pihlaja</dc:creator>
+      <dc:creator>Lucía Durá</dc:creator>
+      <prism:publicationName>Navigating Messy Research Methods and Mentoring Practices at a Bilingual Research Site on the Mexico-U.S. Border</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>18</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1790665</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1790665?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789745?af=R">
+      <title>Embracing a Metic Lens for Community-based Participatory Research in Technical Communication</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789745?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Embracing a Metic Lens for Community-based Participatory Research in Technical Communication</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1789745</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-07-20T07:10:32Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Erin Brock Carlson</dc:creator>
+      <prism:publicationName>Embracing a Metic Lens for Community-based Participatory Research in Technical Communication</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>19</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1789745</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789745?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1794047?af=R">
+      <title>Leadership Communication in the STEM Workplace: A Qualitative Study</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1794047?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Leadership Communication in the STEM Workplace: A Qualitative Study</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1794047</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-07-21T04:46:53Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Amy Koerber</dc:creator>
+      <dc:creator>Joseph Provencher</dc:creator>
+      <dc:creator>Jesse Starkey</dc:creator>
+      <prism:publicationName>Leadership Communication in the STEM Workplace: A Qualitative Study</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>20</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1794047</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1794047?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789744?af=R">
+      <title>Digital Humanities in Professional and Technical Communication: Results of a Pedagogical Pilot Study</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789744?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Digital Humanities in Professional and Technical Communication: Results of a Pedagogical Pilot Study</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1789744</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-07-16T11:25:00Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Lisa M. Litterio</dc:creator>
+      <prism:publicationName>Digital Humanities in Professional and Technical Communication: Results of a Pedagogical Pilot Study</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1789744</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789744?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768292?af=R">
+      <title>Sequential Mapping: Using Sequential Rhetoric and Comics Production to Understand UX Design</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768292?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Sequential Mapping: Using Sequential Rhetoric and Comics Production to Understand UX Design</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1768292</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-29T04:39:35Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Robert Watkins</dc:creator>
+      <dc:creator>Tom Lindsley</dc:creator>
+      <prism:publicationName>Sequential Mapping: Using Sequential Rhetoric and Comics Production to Understand UX Design</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1768292</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768292?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768297?af=R">
+      <title>Comics and Graphic Storytelling in Technical Communication</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768297?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Comics and Graphic Storytelling in Technical Communication</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1768297</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-24T02:20:31Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Erin Kathleen Bahl</dc:creator>
+      <dc:creator>Sergio Figueiredo</dc:creator>
+      <dc:creator>Rich Shivener</dc:creator>
+      <prism:publicationName>Comics and Graphic Storytelling in Technical Communication</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>3</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1768297</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768297?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774662?af=R">
+      <title>Programmatic Outcomes in Undergraduate Technical and Professional Communication Programs</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774662?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Programmatic Outcomes in Undergraduate Technical and Professional Communication Programs</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1774662</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-06-24T02:22:35Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Geoffrey Clegg</dc:creator>
+      <dc:creator>Jessica Lauer</dc:creator>
+      <dc:creator>Johanna Phelps</dc:creator>
+      <dc:creator>Lisa Melonçon</dc:creator>
+      <prism:publicationName>Programmatic Outcomes in Undergraduate Technical and Professional Communication Programs</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1774662</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774662?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
    </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1768290?af=R">
       <title>“Speaking so that We are Heard:” A Zulu Comic Book as Women’s Social Action in 1990s South Africa</title>
@@ -637,4 +779,4 @@
       <prism:copyright>© 2019 Association of Teachers of Technical Writing</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1592947734-->
+<!-- cached:  1596123220-->
