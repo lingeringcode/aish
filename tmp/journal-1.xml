@@ -20,6 +20,14 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932171?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932180?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932182?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958504?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958500?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958392?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920957982?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
@@ -164,5 +172,135 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920932182?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“Picturing” Xenophobia: Visual Framing of Masks During COVID-19 and Its Implications for Advocacy in Technical Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article reviews images of people of Asian descent wearing masks in popular press articles discussing mask shortages and argues that visual framing had the potential of fueling racial antagonism during the initial months of COVID-19’s spread across the United States. Technical communicators need to include globalized perspectives in educational materials about masks as an advocacy strategy that can help communities and individuals to navigate the crisis situation and better protect themselves and those around them.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article reviews images of people of Asian descent wearing masks in popular press articles discussing mask shortages and argues that visual framing had the potential of fueling racial antagonism during the initial months of COVID-19’s spread across the United States. Technical communicators need to include globalized perspectives in educational materials about masks as an advocacy strategy that can help communities and individuals to navigate the crisis situation and better protect themselves and those around them.</description>
+      <dc:title>“Picturing” Xenophobia: Visual Framing of Masks During COVID-19 and Its Implications for Advocacy in Technical Communication</dc:title>
+      <dc:identifier>10.1177/1050651920958501</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-15T11:04:40Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Tatiana Batova</dc:creator>
+      <prism:publicationName>“Picturing” Xenophobia: Visual Framing of Masks During COVID-19 and Its Implications for Advocacy in Technical Communication</prism:publicationName>
+      <prism:doi>10.1177/1050651920958501</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Facts Upon Delivery: What Is Rhetorical About Visualized Models?</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;What expectations should professionals and the public place on visuals to communicate the uncertainties of complex phenomena? This article demonstrates how charts during the early months of the COVID-19 pandemic articulated visual arguments yet also required extended communicative support upon their delivery. The author examines one well-circulated chart comparing COVID-19 case trends per country and highlights its rhetoric by contrasting its design decisions with those of other charts and reports created as the pandemic initially unfolded. To help nonexpert audiences, the author suggests that professional communicators and designers incorporate more contextual information about the data and notable design choices.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;What expectations should professionals and the public place on visuals to communicate the uncertainties of complex phenomena? This article demonstrates how charts during the early months of the COVID-19 pandemic articulated visual arguments yet also required extended communicative support upon their delivery. The author examines one well-circulated chart comparing COVID-19 case trends per country and highlights its rhetoric by contrasting its design decisions with those of other charts and reports created as the pandemic initially unfolded. To help nonexpert audiences, the author suggests that professional communicators and designers incorporate more contextual information about the data and notable design choices.</description>
+      <dc:title>Facts Upon Delivery: What Is Rhetorical About Visualized Models?</dc:title>
+      <dc:identifier>10.1177/1050651920958499</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-15T11:03:40Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Chris A. Lindgren</dc:creator>
+      <prism:publicationName>Facts Upon Delivery: What Is Rhetorical About Visualized Models?</prism:publicationName>
+      <prism:doi>10.1177/1050651920958499</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Valuing Expertise During the Pandemic</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article addresses how social media platforms can better highlight expert voices through design choices. Misinformation, after all, has exploded during the Covid-19 pandemic, and platforms have struggled to address the issue. The authors examine this critical gap in validation mechanisms in the current social media platforms and suggest possible solutions for this urgent problem with third-party partnerships.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article addresses how social media platforms can better highlight expert voices through design choices. Misinformation, after all, has exploded during the Covid-19 pandemic, and platforms have struggled to address the issue. The authors examine this critical gap in validation mechanisms in the current social media platforms and suggest possible solutions for this urgent problem with third-party partnerships.</description>
+      <dc:title>Valuing Expertise During the Pandemic</dc:title>
+      <dc:identifier>10.1177/1050651920958503</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-11T09:39:46Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Sweta Baniya</dc:creator>
+      <dc:creator>Liza Potts</dc:creator>
+      <prism:publicationName>Valuing Expertise During the Pandemic</prism:publicationName>
+      <prism:doi>10.1177/1050651920958503</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958504?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Managing Gender Care in Precarity: Trans Communities Respond to COVID-19</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958504?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Transgender (trans) people always already live with health care precarity, particularly concerning gender transition. During a pandemic, this precarity is heightened. Trans people find themselves without access to necessary cross-sex hormones or isolated with unaccepting or hostile family members. As a result, some engage in tactical technical communication, using the Internet to source knowledge and supplies to manage their transition. This article analyzes these do-it-yourself forms of tactical technical communication that support gender transition in the time of COVID-19.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Transgender (trans) people always already live with health care precarity, particularly concerning gender transition. During a pandemic, this precarity is heightened. Trans people find themselves without access to necessary cross-sex hormones or isolated with unaccepting or hostile family members. As a result, some engage in tactical technical communication, using the Internet to source knowledge and supplies to manage their transition. This article analyzes these do-it-yourself forms of tactical technical communication that support gender transition in the time of COVID-19.</description>
+      <dc:title>Managing Gender Care in Precarity: Trans Communities Respond to COVID-19</dc:title>
+      <dc:identifier>10.1177/1050651920958504</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-11T02:52:25Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Avery C. Edenfield</dc:creator>
+      <prism:publicationName>Managing Gender Care in Precarity: Trans Communities Respond to COVID-19</prism:publicationName>
+      <prism:doi>10.1177/1050651920958504</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958504?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958500?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Lean Data Visualization: Considering Actionable Metrics for Technical Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958500?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Analyzing data gathered around COVID-19 can increase our understanding of its spread and the social and economic impacts. Data visualizations can help various stakeholders understand the outbreak. To this end, this article seeks to understand how COVID-19 data dashboards utilized actionable metrics to inform various stakeholders. Used in lean methodology, actionable metrics specifically tie data visualization to actions to improve a specific situation. The authors discuss how actionable metrics were used in COVID-19 data dashboards to inspire actions of various stakeholders by modeling different outcomes through future projections. In turn, the authors explore how actionable metrics in data dashboards can inform new business and technical communication practices for data visualization.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Analyzing data gathered around COVID-19 can increase our understanding of its spread and the social and economic impacts. Data visualizations can help various stakeholders understand the outbreak. To this end, this article seeks to understand how COVID-19 data dashboards utilized actionable metrics to inform various stakeholders. Used in lean methodology, actionable metrics specifically tie data visualization to actions to improve a specific situation. The authors discuss how actionable metrics were used in COVID-19 data dashboards to inspire actions of various stakeholders by modeling different outcomes through future projections. In turn, the authors explore how actionable metrics in data dashboards can inform new business and technical communication practices for data visualization.</description>
+      <dc:title>Lean Data Visualization: Considering Actionable Metrics for Technical Communication</dc:title>
+      <dc:identifier>10.1177/1050651920958500</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-11T02:51:45Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Gustav Verhulsdonck</dc:creator>
+      <dc:creator>Vishal Shah</dc:creator>
+      <prism:publicationName>Lean Data Visualization: Considering Actionable Metrics for Technical Communication</prism:publicationName>
+      <prism:doi>10.1177/1050651920958500</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958500?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Protecting Pandemic Conversations: Tracing Twitter’s Evolving Content Policies During COVID-19</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Throughout the COVID-19 pandemic, Twitter has served as a leading public platform for sharing, receiving, and engaging with virus-related content. To protect users from misinformation, Twitter has enforced stricter content-vetting policies. This article positions Twitter as a politically motivated entity and briefly traces Twitter’s use and applications of the term “harmful content.” The author investigates how the platform’s broadening of its definition of harmful content illustrates Twitter’s strategy for combating misinformation by acting on kairotic moments in a way that is shaped by the diverse authoritative voices already guiding larger public COVID-19 discussions. The article concludes by examining the roles these observations can play in technical and professional communication classrooms.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Throughout the COVID-19 pandemic, Twitter has served as a leading public platform for sharing, receiving, and engaging with virus-related content. To protect users from misinformation, Twitter has enforced stricter content-vetting policies. This article positions Twitter as a politically motivated entity and briefly traces Twitter’s use and applications of the term “harmful content.” The author investigates how the platform’s broadening of its definition of harmful content illustrates Twitter’s strategy for combating misinformation by acting on kairotic moments in a way that is shaped by the diverse authoritative voices already guiding larger public COVID-19 discussions. The article concludes by examining the roles these observations can play in technical and professional communication classrooms.</description>
+      <dc:title>Protecting Pandemic Conversations: Tracing Twitter’s Evolving Content Policies During COVID-19</dc:title>
+      <dc:identifier>10.1177/1050651920958393</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-11T02:51:05Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Lacy Hope</dc:creator>
+      <prism:publicationName>Protecting Pandemic Conversations: Tracing Twitter’s Evolving Content Policies During COVID-19</prism:publicationName>
+      <prism:doi>10.1177/1050651920958393</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958392?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Misrepresenting COVID-19: Lying With Charts During the Second Golden Age of Data Design</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958392?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;In this second golden age of data design, digital affordances enable the news media to share occasionally misleading charts about COVID-19. Examining data visualizations about COVID-19 highlights three ways that charts can mislead viewers: (a) by displaying inadequate data, (b) by manipulating scales and visual distance, and (c) by omitting contextual labels needed to fully understand a chart’s message. This article provides takeaways for technical communicators about including and displaying adequate data, representing numbers consistently, and humanizing COVID-19’s effects.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;In this second golden age of data design, digital affordances enable the news media to share occasionally misleading charts about COVID-19. Examining data visualizations about COVID-19 highlights three ways that charts can mislead viewers: (a) by displaying inadequate data, (b) by manipulating scales and visual distance, and (c) by omitting contextual labels needed to fully understand a chart’s message. This article provides takeaways for technical communicators about including and displaying adequate data, representing numbers consistently, and humanizing COVID-19’s effects.</description>
+      <dc:title>Misrepresenting COVID-19: Lying With Charts During the Second Golden Age of Data Design</dc:title>
+      <dc:identifier>10.1177/1050651920958392</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-11T02:50:45Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Sara Doan</dc:creator>
+      <prism:publicationName>Misrepresenting COVID-19: Lying With Charts During the Second Golden Age of Data Design</prism:publicationName>
+      <prism:doi>10.1177/1050651920958392</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958392?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920957982?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“Missing/Unspecified”: Demographic Data Visualization During the COVID-19 Pandemic</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920957982?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;While data has shown that COVID-19 disproportionately affects Black people, the CDC’s early data listed race as “missing/unspecified” at high rates. Incomplete demographic data obscures the virus’s full impact on marginalized communities. Without more information about who the virus is affecting and how, we cannot protect our most vulnerable. This article demonstrates disconnects between reported datasets and data visualizations in public-facing COVID health and science communication and suggests steps that technical and professional communicators can take in creating or using data visualizations accurately and ethically to describe COVID conditions and impacts.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;While data has shown that COVID-19 disproportionately affects Black people, the CDC’s early data listed race as “missing/unspecified” at high rates. Incomplete demographic data obscures the virus’s full impact on marginalized communities. Without more information about who the virus is affecting and how, we cannot protect our most vulnerable. This article demonstrates disconnects between reported datasets and data visualizations in public-facing COVID health and science communication and suggests steps that technical and professional communicators can take in creating or using data visualizations accurately and ethically to describe COVID conditions and impacts.</description>
+      <dc:title>“Missing/Unspecified”: Demographic Data Visualization During the COVID-19 Pandemic</dc:title>
+      <dc:identifier>10.1177/1050651920957982</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-11T02:49:46Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Rachel Atherton</dc:creator>
+      <prism:publicationName>“Missing/Unspecified”: Demographic Data Visualization During the COVID-19 Pandemic</prism:publicationName>
+      <prism:doi>10.1177/1050651920957982</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920957982?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
 </rdf:RDF>
-<!-- cached:  1596123218-->
+<!-- cached:  1600294044-->

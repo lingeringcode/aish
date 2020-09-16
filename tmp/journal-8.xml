@@ -14,23 +14,38 @@
       <prism:publicationName>New Media &amp; Society</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820910124?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819878818?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819878806?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819879103?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819879426?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819879423?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819880155?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819880520?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820939317?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820939460?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820939442?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820939525?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820939519?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819879509?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819881735?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819882694?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819884377?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819884635?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819885333?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819885334?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819886295?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819887141?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819887705?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820958717?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820957304?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820958123?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820954194?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820954200?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820956341?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820956368?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820957635?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820956345?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820954199?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820952795?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820951609?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820946454?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820948809?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820943854?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820946681?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820945317?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820939458?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820946455?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820912197?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820944851?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820944846?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820945934?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820934034?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820942483?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820943878?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
@@ -144,321 +159,578 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819889959?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819888399?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819888756?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819882694?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819888417?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819888398?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819886295?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819888720?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819887700?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819887141?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819887705?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819885333?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819885334?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819884373?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819879509?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819884377?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819884635?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819881735?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/nmsa/2020/nmsa_22_8/nmsa_22_8/20200727/nmsa_22_8.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/nmsa/2020/nmsa_22_10/nmsa_22_10/20200910/nmsa_22_10.cover.png">
       <title>New Media &amp; Society</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/nmsa/2020/nmsa_22_8/nmsa_22_8/20200727/nmsa_22_8.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/nmsa/2020/nmsa_22_10/nmsa_22_10/20200910/nmsa_22_10.cover.png</url>
       <link>https://journals.sagepub.com/loi/nmsa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820910124?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Depolarization through social media use: Evidence from dual identifiers in Hong Kong</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820910124?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1339-1358, August 2020. &lt;br/&gt;Despite the concern that partisan selectivity in the political use of social media leads to mass polarization, the empirical evidence is mixed at best. Given the possibility that these inconclusive findings are attributable to moderators in the process that have not been adequately studied, this article elaborates the roles played by different forms of social identities. By analyzing three datasets collected in Hong Kong, where Chinese and Hong Kongese identities are constructed in a nonmutually exclusive way, this study demonstrates that (1) partisan selectivity in media use is reliably detected among those with single Hong Kongese identity, but not among those with dual identities of Hong Kongese and Chinese, (2) the political use of social media polarizes the attitudes and affects of single identifiers, whereas it has depolarizing effects on dual identifiers, and (3) these contrasting effects on polarization between single and dual identifiers have downstream consequences for political participation.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1339-1358, August 2020. &lt;br/&gt;Despite the concern that partisan selectivity in the political use of social media leads to mass polarization, the empirical evidence is mixed at best. Given the possibility that these inconclusive findings are attributable to moderators in the process that have not been adequately studied, this article elaborates the roles played by different forms of social identities. By analyzing three datasets collected in Hong Kong, where Chinese and Hong Kongese identities are constructed in a nonmutually exclusive way, this study demonstrates that (1) partisan selectivity in media use is reliably detected among those with single Hong Kongese identity, but not among those with dual identities of Hong Kongese and Chinese, (2) the political use of social media polarizes the attitudes and affects of single identifiers, whereas it has depolarizing effects on dual identifiers, and (3) these contrasting effects on polarization between single and dual identifiers have downstream consequences for political participation.</description>
-      <dc:title>Depolarization through social media use: Evidence from dual identifiers in Hong Kong</dc:title>
-      <dc:identifier>10.1177/1461444820910124</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819879509?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Hybrid mediation opportunity structure? A case study of Hong Kong’s Anti-National Education Movement</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819879509?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/10"&gt;Volume 22, Issue 10&lt;/a&gt;, Page 1741-1762, October 2020. &lt;br/&gt;This article assesses how social movements make use of media, and how their media practices influence movement outcomes using a case study of the Anti-National Education Movement in Hong Kong. It contributes to the literature on this important protest event and to ongoing debates about changes in the relationship between media and protesters. It is argued that activists adapted to what we call a “hybrid mediation opportunity structure.” The concept of a hybrid mediation opportunity structure is built on a critical engagement with Cammaerts’ mediation opportunity structure and is informed by Chadwick’s hybrid media system theory. We find that old (mainstream) and new (social) media tactics were deployed interdependently in a hybrid, symbiotic process. Old and new media logics fed off each other, in turn producing new logics: hybrid mediation opportunities which enabled activists to simultaneously broaden their connective networks and capture the attention of news media to publicize and legitimize their collective protests.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 10, Page 1741-1762, October 2020. &lt;br/&gt;This article assesses how social movements make use of media, and how their media practices influence movement outcomes using a case study of the Anti-National Education Movement in Hong Kong. It contributes to the literature on this important protest event and to ongoing debates about changes in the relationship between media and protesters. It is argued that activists adapted to what we call a “hybrid mediation opportunity structure.” The concept of a hybrid mediation opportunity structure is built on a critical engagement with Cammaerts’ mediation opportunity structure and is informed by Chadwick’s hybrid media system theory. We find that old (mainstream) and new (social) media tactics were deployed interdependently in a hybrid, symbiotic process. Old and new media logics fed off each other, in turn producing new logics: hybrid mediation opportunities which enabled activists to simultaneously broaden their connective networks and capture the attention of news media to publicize and legitimize their collective protests.</description>
+      <dc:title>Hybrid mediation opportunity structure? A case study of Hong Kong’s Anti-National Education Movement</dc:title>
+      <dc:identifier>10.1177/1461444819879509</dc:identifier>
       <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-03-04T09:31:24Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Tetsuro Kobayashi</dc:creator>
-      <prism:publicationName>Depolarization through social media use: Evidence from dual identifiers in Hong Kong</prism:publicationName>
+      <dc:date>2019-11-01T01:52:53Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Shiau Ching Wong</dc:creator>
+      <dc:creator>Scott Wright</dc:creator>
+      <prism:publicationName>Hybrid mediation opportunity structure? A case study of Hong Kong’s Anti-National Education Movement</prism:publicationName>
       <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1339</prism:startingPage>
-      <prism:endingPage>1358</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444820910124</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820910124?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:number>10</prism:number>
+      <prism:startingPage>1741</prism:startingPage>
+      <prism:endingPage>1762</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819879509</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819879509?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819881735?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Constructing audience quantification: Social influences and the development of norms about audience analytics and metrics</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819881735?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/10"&gt;Volume 22, Issue 10&lt;/a&gt;, Page 1763-1784, October 2020. &lt;br/&gt;Audience analytics and metrics are ubiquitous in today’s media environment. However, little is known about how creative media workers come to understand the social norms related to those technologies. Drawing on social influence theory, this study examines formal and informal socialization mechanisms in U.S. newsrooms. It finds that editorial newsworkers express receiving a moderate amount of training on the use of analytics and metrics, which is typically provided by their organization; primarily look to people within the organization, and especially superiors, to understand the social norms; learn about those norms mostly through observation and communication about others’ experiences with the technology rather than their own; and that experiences are influenced by the organizational context and the individual’s position in the editorial hierarchy. This leads to a broader intervention to our understanding of the social structures and individual dispositions that influence how emerging technologies are experienced across organizational and institutional environments.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 10, Page 1763-1784, October 2020. &lt;br/&gt;Audience analytics and metrics are ubiquitous in today’s media environment. However, little is known about how creative media workers come to understand the social norms related to those technologies. Drawing on social influence theory, this study examines formal and informal socialization mechanisms in U.S. newsrooms. It finds that editorial newsworkers express receiving a moderate amount of training on the use of analytics and metrics, which is typically provided by their organization; primarily look to people within the organization, and especially superiors, to understand the social norms; learn about those norms mostly through observation and communication about others’ experiences with the technology rather than their own; and that experiences are influenced by the organizational context and the individual’s position in the editorial hierarchy. This leads to a broader intervention to our understanding of the social structures and individual dispositions that influence how emerging technologies are experienced across organizational and institutional environments.</description>
+      <dc:title>Constructing audience quantification: Social influences and the development of norms about audience analytics and metrics</dc:title>
+      <dc:identifier>10.1177/1461444819881735</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-10-16T01:48:00Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Rodrigo Zamith</dc:creator>
+      <dc:creator>Valerie Belair-Gagnon</dc:creator>
+      <dc:creator>Seth C Lewis</dc:creator>
+      <prism:publicationName>Constructing audience quantification: Social influences and the development of norms about audience analytics and metrics</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>10</prism:number>
+      <prism:startingPage>1763</prism:startingPage>
+      <prism:endingPage>1784</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819881735</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819881735?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819882694?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Women’s March Minnesota on Facebook: Effects of social connection on different types of collective action</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819882694?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/10"&gt;Volume 22, Issue 10&lt;/a&gt;, Page 1785-1807, October 2020. &lt;br/&gt;Scholars have long debated the efficacy of social media in facilitating offline collective action. This research seeks to fill a gap in that literature by examining the role of social ties in determining intention to participate in different types of collective action. Survey findings show that aspects of tie strength—reciprocity, duration, and affect—have different impact on intention to participate in high- and low-cost political actions. Findings from this study have theoretical implication for the field as well as practical implication for social movement organizers seeking to mobilize supporters using social media.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 10, Page 1785-1807, October 2020. &lt;br/&gt;Scholars have long debated the efficacy of social media in facilitating offline collective action. This research seeks to fill a gap in that literature by examining the role of social ties in determining intention to participate in different types of collective action. Survey findings show that aspects of tie strength—reciprocity, duration, and affect—have different impact on intention to participate in high- and low-cost political actions. Findings from this study have theoretical implication for the field as well as practical implication for social movement organizers seeking to mobilize supporters using social media.</description>
+      <dc:title>Women’s March Minnesota on Facebook: Effects of social connection on different types of collective action</dc:title>
+      <dc:identifier>10.1177/1461444819882694</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-11-21T01:43:21Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Simin Michelle Chen</dc:creator>
+      <prism:publicationName>Women’s March Minnesota on Facebook: Effects of social connection on different types of collective action</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>10</prism:number>
+      <prism:startingPage>1785</prism:startingPage>
+      <prism:endingPage>1807</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819882694</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819882694?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819884377?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>A new institution on the block: On platform urbanism and Airbnb citizenship</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819884377?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/10"&gt;Volume 22, Issue 10&lt;/a&gt;, Page 1808-1826, October 2020. &lt;br/&gt;This article argues that Airbnb should be understood as a new urban institution that is transforming relations between market, state, and civil society actors. Taking the Airbnb Citizen advocacy initiative as my case, I examine how this transnational “home sharing” platform achieves such transformations, which in turn requires an investigation into the specific nature of Airbnb as an institutional form. Assuming the agenda-setting role of the urban “regulatory entrepreneur,” Airbnb aims to co-shape the terms of current and future policy debates pertaining not just to home sharing/short-term rental but also to the very fabric of city life. It pursues this mode of “platform urbanism” by mobilizing its user base, which it frames as a community of entrepreneurial middle-class citizens looking to supplement their income in a climate of economic insecurity and tech-enabled opportunity. Yet, who is the “Airbnb Citizen” and what are the opportunities and risks associated with platform-mediated citizenship?</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 10, Page 1808-1826, October 2020. &lt;br/&gt;This article argues that Airbnb should be understood as a new urban institution that is transforming relations between market, state, and civil society actors. Taking the Airbnb Citizen advocacy initiative as my case, I examine how this transnational “home sharing” platform achieves such transformations, which in turn requires an investigation into the specific nature of Airbnb as an institutional form. Assuming the agenda-setting role of the urban “regulatory entrepreneur,” Airbnb aims to co-shape the terms of current and future policy debates pertaining not just to home sharing/short-term rental but also to the very fabric of city life. It pursues this mode of “platform urbanism” by mobilizing its user base, which it frames as a community of entrepreneurial middle-class citizens looking to supplement their income in a climate of economic insecurity and tech-enabled opportunity. Yet, who is the “Airbnb Citizen” and what are the opportunities and risks associated with platform-mediated citizenship?</description>
+      <dc:title>A new institution on the block: On platform urbanism and Airbnb citizenship</dc:title>
+      <dc:identifier>10.1177/1461444819884377</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-10-29T12:31:51Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Niels van Doorn</dc:creator>
+      <prism:publicationName>A new institution on the block: On platform urbanism and Airbnb citizenship</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>10</prism:number>
+      <prism:startingPage>1808</prism:startingPage>
+      <prism:endingPage>1826</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819884377</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819884377?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819884635?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Feminist activism in digital space: Postfeminist contradictions in #WhyIStayed</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819884635?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/10"&gt;Volume 22, Issue 10&lt;/a&gt;, Page 1827-1848, October 2020. &lt;br/&gt;Scholars have argued that digital spaces are key sites for feminist activism, which can be seen in the emergence of “hashtag feminism,” or the use of social media hashtags to address feminist-identified issues through sharing personal experiences of inequality, constructing counter-discourses, and critiquing cultural figures and institutions. However, more empirical research is needed that examines both the possibilities and constraints of hashtag feminism. Through a qualitative analysis of 51,577 archived tweets and semi-structured interviews, we trace the ways #WhyIStayed creates a space for feminist activism in response to victim-blaming related to domestic violence through voice, multivocality, and visibility. More specifically, we critically analyze postfeminist discourses within #WhyIStayed in order to examine contradictions within the hashtag event as well as how these postfeminist contradictions shape possibilities for feminist activism online.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 10, Page 1827-1848, October 2020. &lt;br/&gt;Scholars have argued that digital spaces are key sites for feminist activism, which can be seen in the emergence of “hashtag feminism,” or the use of social media hashtags to address feminist-identified issues through sharing personal experiences of inequality, constructing counter-discourses, and critiquing cultural figures and institutions. However, more empirical research is needed that examines both the possibilities and constraints of hashtag feminism. Through a qualitative analysis of 51,577 archived tweets and semi-structured interviews, we trace the ways #WhyIStayed creates a space for feminist activism in response to victim-blaming related to domestic violence through voice, multivocality, and visibility. More specifically, we critically analyze postfeminist discourses within #WhyIStayed in order to examine contradictions within the hashtag event as well as how these postfeminist contradictions shape possibilities for feminist activism online.</description>
+      <dc:title>Feminist activism in digital space: Postfeminist contradictions in #WhyIStayed</dc:title>
+      <dc:identifier>10.1177/1461444819884635</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-10-25T06:32:57Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Jasmine R Linabary</dc:creator>
+      <dc:creator>Danielle J Corple</dc:creator>
+      <dc:creator>Cheryl Cooky</dc:creator>
+      <prism:publicationName>Feminist activism in digital space: Postfeminist contradictions in #WhyIStayed</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>10</prism:number>
+      <prism:startingPage>1827</prism:startingPage>
+      <prism:endingPage>1848</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819884635</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819884635?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819885333?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Female journalists under attack? Explaining gender differences in reactions to audiences’ attacks</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819885333?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/10"&gt;Volume 22, Issue 10&lt;/a&gt;, Page 1849-1867, October 2020. &lt;br/&gt;The literature on public figures attacked by their audiences is unclear why female and male figures react differently to attacks. This study examines why female journalists are more likely than male journalists to use avoidance strategies as a reaction to online attacks. Avoidance includes limiting audience engagement, adapting reporting behavior, and thinking about quitting journalism. Drawing on social role theory and gender stereotypes, this study contrasts two explanatory hypotheses. The results, based on mediation analyses of online survey data of 637 journalists representative of Switzerland, show that women are more likely than men to use avoidance strategies because women are more stressed by attacks. This heightened stress is argued to result from differences in gender role socialization. In contrast, while women are somewhat more severely attacked than men, this cannot explain their greater probability of avoidance. Results contribute a theoretically and empirically rich explanation of gendered reactions to attacks.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 10, Page 1849-1867, October 2020. &lt;br/&gt;The literature on public figures attacked by their audiences is unclear why female and male figures react differently to attacks. This study examines why female journalists are more likely than male journalists to use avoidance strategies as a reaction to online attacks. Avoidance includes limiting audience engagement, adapting reporting behavior, and thinking about quitting journalism. Drawing on social role theory and gender stereotypes, this study contrasts two explanatory hypotheses. The results, based on mediation analyses of online survey data of 637 journalists representative of Switzerland, show that women are more likely than men to use avoidance strategies because women are more stressed by attacks. This heightened stress is argued to result from differences in gender role socialization. In contrast, while women are somewhat more severely attacked than men, this cannot explain their greater probability of avoidance. Results contribute a theoretically and empirically rich explanation of gendered reactions to attacks.</description>
+      <dc:title>Female journalists under attack? Explaining gender differences in reactions to audiences’ attacks</dc:title>
+      <dc:identifier>10.1177/1461444819885333</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-11-06T12:32:52Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Lea Stahel</dc:creator>
+      <dc:creator>Constantin Schoen</dc:creator>
+      <prism:publicationName>Female journalists under attack? Explaining gender differences in reactions to audiences’ attacks</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>10</prism:number>
+      <prism:startingPage>1849</prism:startingPage>
+      <prism:endingPage>1867</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819885333</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819885333?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819885334?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Human-aided artificial intelligence: Or, how to run large computations in human brains? Toward a media sociology of machine learning</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819885334?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/10"&gt;Volume 22, Issue 10&lt;/a&gt;, Page 1868-1884, October 2020. &lt;br/&gt;Today, artificial intelligence (AI), especially machine learning, is structurally dependent on human participation. Technologies such as deep learning (DL) leverage networked media infrastructures and human-machine interaction designs to harness users to provide training and verification data. The emergence of DL is therefore based on a fundamental socio-technological transformation of the relationship between humans and machines. Rather than simulating human intelligence, DL-based AIs capture human cognitive abilities, so they are hybrid human-machine apparatuses. From a perspective of media philosophy and social-theoretical critique, I differentiate five types of “media technologies of capture” in AI apparatuses and analyze them as forms of power relations between humans and machines. Finally, I argue that the current hype about AI implies a relational and distributed understanding of (human/artificial) intelligence, which I categorize under the term “cybernetic AI.” This form of AI manifests in socio-technological apparatuses that involve new modes of subjectivation, social control, and digital labor.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 10, Page 1868-1884, October 2020. &lt;br/&gt;Today, artificial intelligence (AI), especially machine learning, is structurally dependent on human participation. Technologies such as deep learning (DL) leverage networked media infrastructures and human-machine interaction designs to harness users to provide training and verification data. The emergence of DL is therefore based on a fundamental socio-technological transformation of the relationship between humans and machines. Rather than simulating human intelligence, DL-based AIs capture human cognitive abilities, so they are hybrid human-machine apparatuses. From a perspective of media philosophy and social-theoretical critique, I differentiate five types of “media technologies of capture” in AI apparatuses and analyze them as forms of power relations between humans and machines. Finally, I argue that the current hype about AI implies a relational and distributed understanding of (human/artificial) intelligence, which I categorize under the term “cybernetic AI.” This form of AI manifests in socio-technological apparatuses that involve new modes of subjectivation, social control, and digital labor.</description>
+      <dc:title>Human-aided artificial intelligence: Or, how to run large computations in human brains? Toward a media sociology of machine learning</dc:title>
+      <dc:identifier>10.1177/1461444819885334</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-11-06T12:31:22Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Rainer Mühlhoff</dc:creator>
+      <prism:publicationName>Human-aided artificial intelligence: Or, how to run large computations in human brains? Toward a media sociology of machine learning</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>10</prism:number>
+      <prism:startingPage>1868</prism:startingPage>
+      <prism:endingPage>1884</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819885334</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819885334?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819886295?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Social media prosumption and online political participation: An examination of online communication processes</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819886295?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/10"&gt;Volume 22, Issue 10&lt;/a&gt;, Page 1885-1902, October 2020. &lt;br/&gt;This study examines the extent to which social media prosumption, an integrated act of consumption and production, is associated with online political participation. Data from an online panel survey of American adults reveal that social media prosumption has a positive relationship with online political participation indirectly through online political information seeking. Social media prosumption is also positively related to online political participation through online political information and online discussion heterogeneity in serial. Implications are discussed for the role of prosumptive use of social media in online political participation.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 10, Page 1885-1902, October 2020. &lt;br/&gt;This study examines the extent to which social media prosumption, an integrated act of consumption and production, is associated with online political participation. Data from an online panel survey of American adults reveal that social media prosumption has a positive relationship with online political participation indirectly through online political information seeking. Social media prosumption is also positively related to online political participation through online political information and online discussion heterogeneity in serial. Implications are discussed for the role of prosumptive use of social media in online political participation.</description>
+      <dc:title>Social media prosumption and online political participation: An examination of online communication processes</dc:title>
+      <dc:identifier>10.1177/1461444819886295</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-11-19T07:11:17Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Masahiro Yamamoto</dc:creator>
+      <dc:creator>Seungahn Nah</dc:creator>
+      <dc:creator>Soo Young Bae</dc:creator>
+      <prism:publicationName>Social media prosumption and online political participation: An examination of online communication processes</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>10</prism:number>
+      <prism:startingPage>1885</prism:startingPage>
+      <prism:endingPage>1902</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819886295</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819886295?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819887141?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Sluts and soyboys: MGTOW and the production of misogynistic online harassment</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819887141?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/10"&gt;Volume 22, Issue 10&lt;/a&gt;, Page 1903-1921, October 2020. &lt;br/&gt;Men Going Their Own Way (MGTOW) are a separatist Manosphere group (digital manifestation of the Men’s Liberation Movement) who focus on individualistic, self-empowering actions as opposed to traditional collective actions typical of Men’s Rights Activists and Incels. This study investigates how the ideology and rhetoric of MGTOW propagates and normalises misogynistic beliefs through online harassment, using a multi-phased content and thematic analysis of 10,280 tweets from three of the most active MGTOW users on Twitter. The findings document a link between the MGTOW ideology and toxic masculinity, showing that the online harassment generated is deeply misogynistic and polices the boundaries of a heterosexual, hegemonic masculinity. The analysis demonstrates that while the misogyny and violence produced by MGTOW is not extreme in nature, their appeals to rational thinking make it seem like common sense. The article develops new knowledge about the heterogeneous nature of the Manosphere and its constructions of masculinity.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 10, Page 1903-1921, October 2020. &lt;br/&gt;Men Going Their Own Way (MGTOW) are a separatist Manosphere group (digital manifestation of the Men’s Liberation Movement) who focus on individualistic, self-empowering actions as opposed to traditional collective actions typical of Men’s Rights Activists and Incels. This study investigates how the ideology and rhetoric of MGTOW propagates and normalises misogynistic beliefs through online harassment, using a multi-phased content and thematic analysis of 10,280 tweets from three of the most active MGTOW users on Twitter. The findings document a link between the MGTOW ideology and toxic masculinity, showing that the online harassment generated is deeply misogynistic and polices the boundaries of a heterosexual, hegemonic masculinity. The analysis demonstrates that while the misogyny and violence produced by MGTOW is not extreme in nature, their appeals to rational thinking make it seem like common sense. The article develops new knowledge about the heterogeneous nature of the Manosphere and its constructions of masculinity.</description>
+      <dc:title>Sluts and soyboys: MGTOW and the production of misogynistic online harassment</dc:title>
+      <dc:identifier>10.1177/1461444819887141</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-11-08T02:13:07Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Callum Jones</dc:creator>
+      <dc:creator>Verity Trott</dc:creator>
+      <dc:creator>Scott Wright</dc:creator>
+      <prism:publicationName>Sluts and soyboys: MGTOW and the production of misogynistic online harassment</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>10</prism:number>
+      <prism:startingPage>1903</prism:startingPage>
+      <prism:endingPage>1921</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819887141</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819887141?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819887705?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Understanding the relationship between new media literacy, communication skills, and democratic tendency: Model development and testing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819887705?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/10"&gt;Volume 22, Issue 10&lt;/a&gt;, Page 1922-1941, October 2020. &lt;br/&gt;New media provides new sources of information and communication that are crucial for participatory behaviors. Therefore, scholars conceptualize new media literacy (NML) that citizens should have to function successfully in this digital era. This study proposed and tested a structural model that examines multiple relationships among NML, communication skills (CS), and democratic tendency (DT). Data were collected from 1047 Turkish university students and analyzed through structural equation modeling. Using a comprehensive theoretical framework from the literature, NML was operationalized through four factors: functional consuming (FC), critical consuming (CC), functional prosuming (FP), and critical prosuming (CP). The results showed that FC and FP had a positive effect on CC, CP, and CS; CC had a positive effect on CP and DT; and CS had a positive effect on CC and DT. Findings of indirect effects revealed that CC and CS played mediation roles in the relationship of FC and FP with DT.</content:encoded>
+      <description>New Media &amp; Society, Volume 22, Issue 10, Page 1922-1941, October 2020. &lt;br/&gt;New media provides new sources of information and communication that are crucial for participatory behaviors. Therefore, scholars conceptualize new media literacy (NML) that citizens should have to function successfully in this digital era. This study proposed and tested a structural model that examines multiple relationships among NML, communication skills (CS), and democratic tendency (DT). Data were collected from 1047 Turkish university students and analyzed through structural equation modeling. Using a comprehensive theoretical framework from the literature, NML was operationalized through four factors: functional consuming (FC), critical consuming (CC), functional prosuming (FP), and critical prosuming (CP). The results showed that FC and FP had a positive effect on CC, CP, and CS; CC had a positive effect on CP and DT; and CS had a positive effect on CC and DT. Findings of indirect effects revealed that CC and CS played mediation roles in the relationship of FC and FP with DT.</description>
+      <dc:title>Understanding the relationship between new media literacy, communication skills, and democratic tendency: Model development and testing</dc:title>
+      <dc:identifier>10.1177/1461444819887705</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2019-11-08T02:12:08Z</dc:date>
+      <dc:rights>© The Author(s) 2019</dc:rights>
+      <dc:creator>Esra Barut Tugtekin</dc:creator>
+      <dc:creator>Mustafa Koc</dc:creator>
+      <prism:publicationName>Understanding the relationship between new media literacy, communication skills, and democratic tendency: Model development and testing</prism:publicationName>
+      <prism:volume>22</prism:volume>
+      <prism:number>10</prism:number>
+      <prism:startingPage>1922</prism:startingPage>
+      <prism:endingPage>1941</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1461444819887705</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819887705?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820958717?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Social media, rituals, and long-distance family relationship maintenance: A mixed-methods systematic review</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820958717?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;For families with limited opportunities for face-to-face interaction, social media can be a vital communication medium to help shape the family identity, maintain bonds, and accomplish shared tasks. This mixed-methods systematic review of quantitative, qualitative, and mixed-method empirical studies published between 1997 and 2019 uses a convergent data-based framework to explore how long-distance families engage in family practices using various modes of social media. Fifty-one papers were synthesized into four domains: (1) doing family in a social media environment, (2) performing family through stories and rituals, (3) the nature of online communication practices, and (4) privacy, conflict, and the quality of family relationships. Given the value of patterned routines to families, research into the role of family kinkeepers is suggested. Finally, families use chat (messages) extensively for both assuring behaviour and conflict resolution so further investigation of the impact of this asynchronous mode is recommended.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;For families with limited opportunities for face-to-face interaction, social media can be a vital communication medium to help shape the family identity, maintain bonds, and accomplish shared tasks. This mixed-methods systematic review of quantitative, qualitative, and mixed-method empirical studies published between 1997 and 2019 uses a convergent data-based framework to explore how long-distance families engage in family practices using various modes of social media. Fifty-one papers were synthesized into four domains: (1) doing family in a social media environment, (2) performing family through stories and rituals, (3) the nature of online communication practices, and (4) privacy, conflict, and the quality of family relationships. Given the value of patterned routines to families, research into the role of family kinkeepers is suggested. Finally, families use chat (messages) extensively for both assuring behaviour and conflict resolution so further investigation of the impact of this asynchronous mode is recommended.</description>
+      <dc:title>Social media, rituals, and long-distance family relationship maintenance: A mixed-methods systematic review</dc:title>
+      <dc:identifier>10.1177/1461444820958717</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-09-15T06:58:07Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Susan Abel</dc:creator>
+      <dc:creator>Tanya Machin</dc:creator>
+      <dc:creator>Charlotte Brownlow</dc:creator>
+      <prism:publicationName>Social media, rituals, and long-distance family relationship maintenance: A mixed-methods systematic review</prism:publicationName>
+      <prism:doi>10.1177/1461444820958717</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820958717?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819878818?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Connections to neighborhood storytellers and community-oriented emotional disclosure on Twitter during an emergency event</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819878818?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1359-1377, August 2020. &lt;br/&gt;From a communication infrastructure theory perspective, this study examined local residents’ connections to neighborhood storytellers and its association with community-oriented emotional disclosure, a specific form of neighborhood storytelling, during an emergency event. A sample of 1676 local residents and their Twitter activities were obtained from Twitter’s streaming application programming interface (API) during a 2-hour window after the event. A connection was established when the focal user retweeted, commented on, or replied to another user. The results show that scope of connections to residents, community organizations, and mainstream media positively predicted community-oriented disclosure of negative emotions. Scope of connections to residents positively predicted community-oriented disclosure of positive emotions. Scope of connections to local media did not predict community-oriented emotional disclosure.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1359-1377, August 2020. &lt;br/&gt;From a communication infrastructure theory perspective, this study examined local residents’ connections to neighborhood storytellers and its association with community-oriented emotional disclosure, a specific form of neighborhood storytelling, during an emergency event. A sample of 1676 local residents and their Twitter activities were obtained from Twitter’s streaming application programming interface (API) during a 2-hour window after the event. A connection was established when the focal user retweeted, commented on, or replied to another user. The results show that scope of connections to residents, community organizations, and mainstream media positively predicted community-oriented disclosure of negative emotions. Scope of connections to residents positively predicted community-oriented disclosure of positive emotions. Scope of connections to local media did not predict community-oriented emotional disclosure.</description>
-      <dc:title>Connections to neighborhood storytellers and community-oriented emotional disclosure on Twitter during an emergency event</dc:title>
-      <dc:identifier>10.1177/1461444819878818</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820957304?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Access shrugged: The decline of the copyleft and the rise of utilitarian openness</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820957304?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This article maps patterns of interest in key terms associated with copyright and online culture in the US context. Using exploratory factor analysis of data from Google Trends, authors examined patterns in keyword searches between 2004 and 2019. The data show three distinct periods of interest. The first period consists of utopian, cause-driven search terms; the second marks a rise and eventual decline in creatively motivated, maker-fueled searches; and the third is characterized by rising utilitarian and institutional interest in accessible copyrighted material. These data show empirically that the public curiosity about alternatives to strict copyright have changed during the study period. Earlier, more idealistic movements contrast with later, more practical approaches.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This article maps patterns of interest in key terms associated with copyright and online culture in the US context. Using exploratory factor analysis of data from Google Trends, authors examined patterns in keyword searches between 2004 and 2019. The data show three distinct periods of interest. The first period consists of utopian, cause-driven search terms; the second marks a rise and eventual decline in creatively motivated, maker-fueled searches; and the third is characterized by rising utilitarian and institutional interest in accessible copyrighted material. These data show empirically that the public curiosity about alternatives to strict copyright have changed during the study period. Earlier, more idealistic movements contrast with later, more practical approaches.</description>
+      <dc:title>Access shrugged: The decline of the copyleft and the rise of utilitarian openness</dc:title>
+      <dc:identifier>10.1177/1461444820957304</dc:identifier>
       <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-10-08T11:13:32Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Zheng An</dc:creator>
-      <dc:creator>Luana Mendiola-Smith</dc:creator>
-      <prism:publicationName>Connections to neighborhood storytellers and community-oriented emotional disclosure on Twitter during an emergency event</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1359</prism:startingPage>
-      <prism:endingPage>1377</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819878818</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819878818?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819878806?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>The social life of screenshots: the power of visibility in teen friendship groups</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819878806?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1378-1393, August 2020. &lt;br/&gt;Taking a screenshot, an exact duplication of the content on the screen of a device, is a taken-for-granted practice. Through an analysis of ethnographic data, this article considers the everyday use of screenshots among teenagers. I examine the taking, possession, and circulation of screenshots among teens to ask: What is screenshot? What function do they have? and How are screenshots significant beyond teens? The article draws attention to the ‘social life’ that screenshots have beyond their duplicative function. Screenshots were framed by teens as an everyday aspect of digital communication that are integral to negotiating hierarchies of friendship, power, and for establishing peer trust. This article takes screenshots seriously in their own right, drawing on existing insights from feminist media studies to demonstrate how the visibility afforded by screenshots is gendered in practice. This article explores screenshots as powerful communicative tools and as a socio-cultural phenomenon worthy of further interrogation.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1378-1393, August 2020. &lt;br/&gt;Taking a screenshot, an exact duplication of the content on the screen of a device, is a taken-for-granted practice. Through an analysis of ethnographic data, this article considers the everyday use of screenshots among teenagers. I examine the taking, possession, and circulation of screenshots among teens to ask: What is screenshot? What function do they have? and How are screenshots significant beyond teens? The article draws attention to the ‘social life’ that screenshots have beyond their duplicative function. Screenshots were framed by teens as an everyday aspect of digital communication that are integral to negotiating hierarchies of friendship, power, and for establishing peer trust. This article takes screenshots seriously in their own right, drawing on existing insights from feminist media studies to demonstrate how the visibility afforded by screenshots is gendered in practice. This article explores screenshots as powerful communicative tools and as a socio-cultural phenomenon worthy of further interrogation.</description>
-      <dc:title>The social life of screenshots: the power of visibility in teen friendship groups</dc:title>
-      <dc:identifier>10.1177/1461444819878806</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-10-14T10:26:08Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Victoria Jaynes</dc:creator>
-      <prism:publicationName>The social life of screenshots: the power of visibility in teen friendship groups</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1378</prism:startingPage>
-      <prism:endingPage>1393</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819878806</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819878806?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819879103?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Social media design for youth political expression: Testing the roles of identifiability and geo-boundedness</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819879103?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1394-1413, August 2020. &lt;br/&gt;Previous research has examined how political expression on social media can affect young people’s engagement in political life. Yet a focus on dominant platforms (i.e. Facebook) and a lack of experimental studies have impeded theoretical understanding of how different features and affordances shape youth political expression. This study used a novel experimental paradigm to test how the design of social media sites can influence young people’s political expression. Participants (18–24 years) interacted with a fictional social media app that was manipulated in terms of identifiability and geo-boundedness. Users in anonymous (vs identifiable) environments reported less political self-presentation concern and were more likely to express their political opinions. In addition, unbounded (non-local) environments were perceived as better places to exert political voice and influence than bounded (local) environments. This study offers a promising starting point for studying and designing social media in which youth political expression can flourish.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1394-1413, August 2020. &lt;br/&gt;Previous research has examined how political expression on social media can affect young people’s engagement in political life. Yet a focus on dominant platforms (i.e. Facebook) and a lack of experimental studies have impeded theoretical understanding of how different features and affordances shape youth political expression. This study used a novel experimental paradigm to test how the design of social media sites can influence young people’s political expression. Participants (18–24 years) interacted with a fictional social media app that was manipulated in terms of identifiability and geo-boundedness. Users in anonymous (vs identifiable) environments reported less political self-presentation concern and were more likely to express their political opinions. In addition, unbounded (non-local) environments were perceived as better places to exert political voice and influence than bounded (local) environments. This study offers a promising starting point for studying and designing social media in which youth political expression can flourish.</description>
-      <dc:title>Social media design for youth political expression: Testing the roles of identifiability and geo-boundedness</dc:title>
-      <dc:identifier>10.1177/1461444819879103</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-09-27T02:31:53Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Daniel S. Lane</dc:creator>
-      <prism:publicationName>Social media design for youth political expression: Testing the roles of identifiability and geo-boundedness</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1394</prism:startingPage>
-      <prism:endingPage>1413</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819879103</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819879103?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819879426?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Infrastructural surveillance</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819879426?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1414-1436, August 2020. &lt;br/&gt;This article proposes a new model of privacy: infrastructural surveillance. It departs from Agre’s classic distinction between surveillance and capture by examining the sociotechnical claims of connected and autonomous vehicles (CAVs) as requiring totalising surveillance of passengers and environment in order to operate. By doing so, it contributes to the ongoing debate on the commodification and platformisation of life, paying attention to the under-explored infrastructural requirements of certain digital technologies, rather than its business model. The article addresses four distinct characteristics of infrastructural surveillance: the aggregation of data, initialisation of protocols limiting possible actions, the prioritisation of distributed modes of governance and the enclosure of the driver in a personalised bubble of sovereign power. Ultimately, unlike previous modes of computer privacy in which activities are being constructed in real time from a set of institutionally standardised parts specified by a captured ontology, we observe the creation of new ontologies.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1414-1436, August 2020. &lt;br/&gt;This article proposes a new model of privacy: infrastructural surveillance. It departs from Agre’s classic distinction between surveillance and capture by examining the sociotechnical claims of connected and autonomous vehicles (CAVs) as requiring totalising surveillance of passengers and environment in order to operate. By doing so, it contributes to the ongoing debate on the commodification and platformisation of life, paying attention to the under-explored infrastructural requirements of certain digital technologies, rather than its business model. The article addresses four distinct characteristics of infrastructural surveillance: the aggregation of data, initialisation of protocols limiting possible actions, the prioritisation of distributed modes of governance and the enclosure of the driver in a personalised bubble of sovereign power. Ultimately, unlike previous modes of computer privacy in which activities are being constructed in real time from a set of institutionally standardised parts specified by a captured ontology, we observe the creation of new ontologies.</description>
-      <dc:title>Infrastructural surveillance</dc:title>
-      <dc:identifier>10.1177/1461444819879426</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-10-10T10:12:50Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Alex Gekker</dc:creator>
-      <dc:creator>Sam Hind</dc:creator>
-      <prism:publicationName>Infrastructural surveillance</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1414</prism:startingPage>
-      <prism:endingPage>1436</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819879426</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819879426?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819879423?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Online news media and propaganda influence on radicalized individuals: Findings from interviews with Islamist prisoners and former Islamists</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819879423?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1437-1461, August 2020. &lt;br/&gt;This study is the first to explore the twin influences of online propaganda and news media on Islamists. We conducted 44 in-depth interviews with cognitively and behaviorally radicalized Islamist prisoners in Austria as well as former Islamists in Germany and Austria. We found that online propaganda and news media had interdependent influences on Islamists’ rejections of non-Muslims and Western politics, as well as on their willingness to use violence and commit suicide. Cognitively radicalized individuals were influenced by propaganda that blamed non-Muslims for opposing Islam; this was reinforced by online mainstream news reports of right-wing populism and extremism that propagandists selectively distributed via social media. Among behaviorally radicalized individuals, exposure to propaganda and news reports depicting Muslim war victims contributed to the radicalized individuals’ willingness to use violence. Moreover, propaganda and media reports that extensively personalized perpetrators of violence strengthened radicalized individuals’ motivations to imitate the use of violence.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1437-1461, August 2020. &lt;br/&gt;This study is the first to explore the twin influences of online propaganda and news media on Islamists. We conducted 44 in-depth interviews with cognitively and behaviorally radicalized Islamist prisoners in Austria as well as former Islamists in Germany and Austria. We found that online propaganda and news media had interdependent influences on Islamists’ rejections of non-Muslims and Western politics, as well as on their willingness to use violence and commit suicide. Cognitively radicalized individuals were influenced by propaganda that blamed non-Muslims for opposing Islam; this was reinforced by online mainstream news reports of right-wing populism and extremism that propagandists selectively distributed via social media. Among behaviorally radicalized individuals, exposure to propaganda and news reports depicting Muslim war victims contributed to the radicalized individuals’ willingness to use violence. Moreover, propaganda and media reports that extensively personalized perpetrators of violence strengthened radicalized individuals’ motivations to imitate the use of violence.</description>
-      <dc:title>Online news media and propaganda influence on radicalized individuals: Findings from interviews with Islamist prisoners and former Islamists</dc:title>
-      <dc:identifier>10.1177/1461444819879423</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-10-10T10:10:11Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Philip Baugut</dc:creator>
-      <dc:creator>Katharina Neumann</dc:creator>
-      <prism:publicationName>Online news media and propaganda influence on radicalized individuals: Findings from interviews with Islamist prisoners and former Islamists</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1437</prism:startingPage>
-      <prism:endingPage>1461</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819879423</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819879423?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819880155?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>How do players understand video game hardware: Tactility or tech-speak?</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819880155?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1462-1483, August 2020. &lt;br/&gt;This article explores how video game players talk about the technological hardware they use to play games. The games industry is known for deploying often confusing and unclear ‘tech-speak’ terminology to convey the supposed value of new gaming hardware, drawing on tropes of numerical objectivity, ‘upgrade culture’ and the implicit obsolescence of previous technological iterations. However, we show a divide between supposedly objective tech-speak penned by the industry and the subjective experiences of users. Gamers rarely understand their gaming hardware through these marketing and advertising discourses despite their high visibility, instead framing the technology they engage with in intimately tactile, and more broadly contextual, terms. This highlights a significant disjuncture between the industrial and their perception of their audience, with implications for our understanding of ‘tech-speak’, its limitations, the video games sector and the consumers who purchase its products.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1462-1483, August 2020. &lt;br/&gt;This article explores how video game players talk about the technological hardware they use to play games. The games industry is known for deploying often confusing and unclear ‘tech-speak’ terminology to convey the supposed value of new gaming hardware, drawing on tropes of numerical objectivity, ‘upgrade culture’ and the implicit obsolescence of previous technological iterations. However, we show a divide between supposedly objective tech-speak penned by the industry and the subjective experiences of users. Gamers rarely understand their gaming hardware through these marketing and advertising discourses despite their high visibility, instead framing the technology they engage with in intimately tactile, and more broadly contextual, terms. This highlights a significant disjuncture between the industrial and their perception of their audience, with implications for our understanding of ‘tech-speak’, its limitations, the video games sector and the consumers who purchase its products.</description>
-      <dc:title>How do players understand video game hardware: Tactility or tech-speak?</dc:title>
-      <dc:identifier>10.1177/1461444819880155</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-10-17T09:55:59Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Yinyi Luo</dc:creator>
-      <dc:creator>Mark Richard Johnson</dc:creator>
-      <prism:publicationName>How do players understand video game hardware: Tactility or tech-speak?</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1462</prism:startingPage>
-      <prism:endingPage>1483</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819880155</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819880155?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819880520?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Why do replies appear? A multi-level event history analysis of online policy discussions</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819880520?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1484-1504, August 2020. &lt;br/&gt;Participation takes time in both synchronous and asynchronous communication. To encourage participation, most scholars suggested strategies to change participants’ motivation to adjust the way how they distribute their time resources. We, instead, view time as an evolving environment with specific temporal norms. This study employed a multi-level event history model to explore what factors affect response behaviors in an online policy discussion forum. By proposing four time-constant individual post factors and four time-varying environment factors, and analyzing 1798 posts in the forum, the study found that both individual post and environment factors are significant predictors of online interactions in different time phases. Some interaction effects between individual post and environment factors were also found. Rather than merely focusing on participants’ resource to take part in online discussions, we suggest that future studies should examine how contextual constraints that change over time can influence response behaviors.</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1484-1504, August 2020. &lt;br/&gt;Participation takes time in both synchronous and asynchronous communication. To encourage participation, most scholars suggested strategies to change participants’ motivation to adjust the way how they distribute their time resources. We, instead, view time as an evolving environment with specific temporal norms. This study employed a multi-level event history model to explore what factors affect response behaviors in an online policy discussion forum. By proposing four time-constant individual post factors and four time-varying environment factors, and analyzing 1798 posts in the forum, the study found that both individual post and environment factors are significant predictors of online interactions in different time phases. Some interaction effects between individual post and environment factors were also found. Rather than merely focusing on participants’ resource to take part in online discussions, we suggest that future studies should examine how contextual constraints that change over time can influence response behaviors.</description>
-      <dc:title>Why do replies appear? A multi-level event history analysis of online policy discussions</dc:title>
-      <dc:identifier>10.1177/1461444819880520</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-10-19T10:49:26Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Weiyu Zhang</dc:creator>
-      <dc:creator>Yipeng Xi</dc:creator>
-      <dc:creator>Anfan Chen</dc:creator>
-      <prism:publicationName>Why do replies appear? A multi-level event history analysis of online policy discussions</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1484</prism:startingPage>
-      <prism:endingPage>1504</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444819880520</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819880520?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820939317?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Watch Me Play: Twitch and the Rise of Game Live Streaming</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820939317?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1505-1507, August 2020. &lt;br/&gt;</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1505-1507, August 2020. &lt;br/&gt;</description>
-      <dc:title>Watch Me Play: Twitch and the Rise of Game Live Streaming</dc:title>
-      <dc:identifier>10.1177/1461444820939317</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-06-29T08:22:01Z</dc:date>
+      <dc:date>2020-09-12T07:53:57Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Samuel Poirier-Poulin</dc:creator>
-      <prism:publicationName>Watch Me Play: Twitch and the Rise of Game Live Streaming</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1505</prism:startingPage>
-      <prism:endingPage>1507</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444820939317</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820939317?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Aram Sinnreich</dc:creator>
+      <dc:creator>Patricia Aufderheide</dc:creator>
+      <dc:creator>Maggie Clifford</dc:creator>
+      <dc:creator>Saif Shahin</dc:creator>
+      <prism:publicationName>Access shrugged: The decline of the copyleft and the rise of utilitarian openness</prism:publicationName>
+      <prism:doi>10.1177/1461444820957304</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820957304?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820939460?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>The Discursive Power of Memes in Digital Culture: Ideology, Semiotics, and Intertextuality</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820939460?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1508-1510, August 2020. &lt;br/&gt;</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1508-1510, August 2020. &lt;br/&gt;</description>
-      <dc:title>The Discursive Power of Memes in Digital Culture: Ideology, Semiotics, and Intertextuality</dc:title>
-      <dc:identifier>10.1177/1461444820939460</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820958123?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Upvoting extremism: Collective identity formation and the extreme right on Reddit</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820958123?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Since the advent of the Internet, right-wing extremists and those who subscribe to extreme right views have exploited online platforms to build a collective identity among the like-minded. Research in this area has largely focused on extremists’ use of websites, forums, and mainstream social media sites, but overlooked in this research has been an exploration of the popular social news aggregation site Reddit. The current study explores the role of Reddit’s unique voting algorithm in facilitating “othering” discourse and, by extension, collective identity formation among members of a notoriously hateful subreddit community, r/The_Donald. The results of the thematic analysis indicate that those who post extreme-right content on r/The_Donald use Reddit’s voting algorithm as a tool to mobilize like-minded members by promoting extreme discourses against two prominent out-groups: Muslims and the Left. Overall, r/The_Donald’s “sense of community” facilitates identity work among its members by creating an environment wherein extreme right views are continuously validated.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Since the advent of the Internet, right-wing extremists and those who subscribe to extreme right views have exploited online platforms to build a collective identity among the like-minded. Research in this area has largely focused on extremists’ use of websites, forums, and mainstream social media sites, but overlooked in this research has been an exploration of the popular social news aggregation site Reddit. The current study explores the role of Reddit’s unique voting algorithm in facilitating “othering” discourse and, by extension, collective identity formation among members of a notoriously hateful subreddit community, r/The_Donald. The results of the thematic analysis indicate that those who post extreme-right content on r/The_Donald use Reddit’s voting algorithm as a tool to mobilize like-minded members by promoting extreme discourses against two prominent out-groups: Muslims and the Left. Overall, r/The_Donald’s “sense of community” facilitates identity work among its members by creating an environment wherein extreme right views are continuously validated.</description>
+      <dc:title>Upvoting extremism: Collective identity formation and the extreme right on Reddit</dc:title>
+      <dc:identifier>10.1177/1461444820958123</dc:identifier>
       <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-07-08T08:34:31Z</dc:date>
+      <dc:date>2020-09-12T07:53:46Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Jiayu Wang</dc:creator>
-      <dc:creator>Mingfang Hu</dc:creator>
-      <prism:publicationName>The Discursive Power of Memes in Digital Culture: Ideology, Semiotics, and Intertextuality</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1508</prism:startingPage>
-      <prism:endingPage>1510</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444820939460</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820939460?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Tiana Gaudette</dc:creator>
+      <dc:creator>Ryan Scrivens</dc:creator>
+      <dc:creator>Garth Davies</dc:creator>
+      <dc:creator>Richard Frank</dc:creator>
+      <prism:publicationName>Upvoting extremism: Collective identity formation and the extreme right on Reddit</prism:publicationName>
+      <prism:doi>10.1177/1461444820958123</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820958123?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820939442?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Sad By Design: On Platform Nihilism</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820939442?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1510-1513, August 2020. &lt;br/&gt;</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1510-1513, August 2020. &lt;br/&gt;</description>
-      <dc:title>Sad By Design: On Platform Nihilism</dc:title>
-      <dc:identifier>10.1177/1461444820939442</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820954194?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Does online incivility cancel out the spiral of silence? A moderated mediation model of willingness to speak out</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820954194?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This study tested whether different negatively valenced emotional reactions—feeling angry or depressed—to incivility produce varying intentions to speak out. A related goal was to assess whether these emotional responses led to intentions to speak out regardless of whether one holds a minority or majority viewpoint. Results of an online experiment (N = 1126) showed that intentions to speak out varied based on the intensity of the emotional responses people had after being exposed to incivility. Specifically, when uncivil messages produced lower levels of either emotion—anger or depression—people were less likely to speak out, regardless of opinion climate. However, if emotional responses were more intense for either emotion, people were more likely to speak out, regardless of opinion climate.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This study tested whether different negatively valenced emotional reactions—feeling angry or depressed—to incivility produce varying intentions to speak out. A related goal was to assess whether these emotional responses led to intentions to speak out regardless of whether one holds a minority or majority viewpoint. Results of an online experiment (N = 1126) showed that intentions to speak out varied based on the intensity of the emotional responses people had after being exposed to incivility. Specifically, when uncivil messages produced lower levels of either emotion—anger or depression—people were less likely to speak out, regardless of opinion climate. However, if emotional responses were more intense for either emotion, people were more likely to speak out, regardless of opinion climate.</description>
+      <dc:title>Does online incivility cancel out the spiral of silence? A moderated mediation model of willingness to speak out</dc:title>
+      <dc:identifier>10.1177/1461444820954194</dc:identifier>
       <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-07-01T07:30:30Z</dc:date>
+      <dc:date>2020-09-10T10:45:35Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Jake Pitre</dc:creator>
-      <prism:publicationName>Sad By Design: On Platform Nihilism</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1510</prism:startingPage>
-      <prism:endingPage>1513</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444820939442</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820939442?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Gina M Masullo</dc:creator>
+      <dc:creator>Shuning Lu</dc:creator>
+      <dc:creator>Deepa Fadnis</dc:creator>
+      <prism:publicationName>Does online incivility cancel out the spiral of silence? A moderated mediation model of willingness to speak out</prism:publicationName>
+      <prism:doi>10.1177/1461444820954194</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820954194?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820939525?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Book Review: The digital media age as the age of promiscuous knowledge Promiscuous Knowledge: Information, Image, and Other Truth Games in History</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820939525?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1513-1515, August 2020. &lt;br/&gt;</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1513-1515, August 2020. &lt;br/&gt;</description>
-      <dc:title>Book Review: The digital media age as the age of promiscuous knowledge Promiscuous Knowledge: Information, Image, and Other Truth Games in History</dc:title>
-      <dc:identifier>10.1177/1461444820939525</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820954200?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Networked publics in #NoDAPL protests: Interactions among activist publics and influence of locality and proximity on socially mediated networks</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820954200?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Hashtag “#NoDAPL” was used by environmental activists for a series of protests against the construction of the Dakota Access Pipeline beginning in early 2016. Utilizing 2 million tweets with the main hashtag, as well as the auxiliary hashtags, from around 550,000 unique users between November 2016 and February 2017, the study investigated the interactions among four groups—regular activists, Native American activists, reporters, and organizations identified based on their bio information, and the effects of physical location on network attention. Exponential random graph models (ERGMs) on the retweet network showed that Native American activists occupied the most prominent positions and that different groups assumed different network roles. Location analysis based on Poisson regression showed that physical proximity’s effects on attention depended on group status, and the effects were moderated by users’ authority. Implications of the study results on networked publics and the influence of locality and proximity on socially mediated networks were discussed.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Hashtag “#NoDAPL” was used by environmental activists for a series of protests against the construction of the Dakota Access Pipeline beginning in early 2016. Utilizing 2 million tweets with the main hashtag, as well as the auxiliary hashtags, from around 550,000 unique users between November 2016 and February 2017, the study investigated the interactions among four groups—regular activists, Native American activists, reporters, and organizations identified based on their bio information, and the effects of physical location on network attention. Exponential random graph models (ERGMs) on the retweet network showed that Native American activists occupied the most prominent positions and that different groups assumed different network roles. Location analysis based on Poisson regression showed that physical proximity’s effects on attention depended on group status, and the effects were moderated by users’ authority. Implications of the study results on networked publics and the influence of locality and proximity on socially mediated networks were discussed.</description>
+      <dc:title>Networked publics in #NoDAPL protests: Interactions among activist publics and influence of locality and proximity on socially mediated networks</dc:title>
+      <dc:identifier>10.1177/1461444820954200</dc:identifier>
       <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-07-04T12:53:15Z</dc:date>
+      <dc:date>2020-09-10T10:45:15Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Otávio Daros</dc:creator>
-      <prism:publicationName>Book Review: The digital media age as the age of promiscuous knowledge Promiscuous Knowledge: Information, Image, and Other Truth Games in History</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1513</prism:startingPage>
-      <prism:endingPage>1515</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444820939525</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820939525?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Sifan Xu</dc:creator>
+      <dc:creator>Shelby Luttman</dc:creator>
+      <prism:publicationName>Networked publics in #NoDAPL protests: Interactions among activist publics and influence of locality and proximity on socially mediated networks</prism:publicationName>
+      <prism:doi>10.1177/1461444820954200</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820954200?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820939519?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Intercultural Communication, Identity, and Social Movements in the Digital Age</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820939519?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, &lt;a href="https://journals.sagepub.com/toc/nmsa/22/8"&gt;Volume 22, Issue 8&lt;/a&gt;, Page 1515-1517, August 2020. &lt;br/&gt;</content:encoded>
-      <description>New Media &amp; Society, Volume 22, Issue 8, Page 1515-1517, August 2020. &lt;br/&gt;</description>
-      <dc:title>Intercultural Communication, Identity, and Social Movements in the Digital Age</dc:title>
-      <dc:identifier>10.1177/1461444820939519</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820956341?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>‘Refugees are not welcome’: Digital racism, online place-making and the evolving categorization of Syrians in Turkey</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820956341?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This article argues that digital publics unleash and bolster everyday racism, creating an unregulated space where anonymity and ubiquity enable the dissemination of racist message. By creating broader visibility and wider reach of racist texts and facilitating more participation for racists, social media platforms such as Twitter normalize gendered and place-based racialization of refugees. Recently, hostility and hate became the norm in derogating the refugee identity on social media platforms. To investigate the complexity of digital racism, this article presents a unique case study on Twitter, capturing the widespread user reactions in the aftermath of the mass resettlement of Syrians in Turkey. It examines varying racialization of Syrians on the Turkish Twittersphere, using sentiment and qualitative content analyses of hashtags and mentions on Syrians, when they hit Twitter trends for Turkey for a year, first, for mundane events and, second, during the Turkish state’s occupation in Northern Syria.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This article argues that digital publics unleash and bolster everyday racism, creating an unregulated space where anonymity and ubiquity enable the dissemination of racist message. By creating broader visibility and wider reach of racist texts and facilitating more participation for racists, social media platforms such as Twitter normalize gendered and place-based racialization of refugees. Recently, hostility and hate became the norm in derogating the refugee identity on social media platforms. To investigate the complexity of digital racism, this article presents a unique case study on Twitter, capturing the widespread user reactions in the aftermath of the mass resettlement of Syrians in Turkey. It examines varying racialization of Syrians on the Turkish Twittersphere, using sentiment and qualitative content analyses of hashtags and mentions on Syrians, when they hit Twitter trends for Turkey for a year, first, for mundane events and, second, during the Turkish state’s occupation in Northern Syria.</description>
+      <dc:title>‘Refugees are not welcome’: Digital racism, online place-making and the evolving categorization of Syrians in Turkey</dc:title>
+      <dc:identifier>10.1177/1461444820956341</dc:identifier>
       <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-07-04T12:53:24Z</dc:date>
+      <dc:date>2020-09-10T10:44:34Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Xiaoyi Tang</dc:creator>
-      <dc:creator>Jin Xue</dc:creator>
-      <prism:publicationName>Intercultural Communication, Identity, and Social Movements in the Digital Age</prism:publicationName>
-      <prism:volume>22</prism:volume>
-      <prism:number>8</prism:number>
-      <prism:startingPage>1515</prism:startingPage>
-      <prism:endingPage>1517</prism:endingPage>
-      <prism:coverDate>2020-08-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1461444820939519</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820939519?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Ozge Ozduzen</dc:creator>
+      <dc:creator>Umut Korkut</dc:creator>
+      <dc:creator>Cansu Ozduzen</dc:creator>
+      <prism:publicationName>‘Refugees are not welcome’: Digital racism, online place-making and the evolving categorization of Syrians in Turkey</prism:publicationName>
+      <prism:doi>10.1177/1461444820956341</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820956341?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820956368?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>What do others’ reactions to body posting on Instagram tell us? The effects of social media comments on viewers’ body image perception</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820956368?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Studies have highlighted the influence of social media comments on users’ perceptual consequences, but whether this holds true in the body image context is still largely unknown. This experimental study investigated the effects of social media comments on ideal body perception and how it influences one’s own body satisfaction. Results showed that comments guided the viewers’ perceptions of what is considered as “ideal” body. Viewers of favorable comments to body posting reported greater idealization of the body imagery (i.e. ideal-enhancing effects), whereas viewers of unfavorable comments showed a lower level of idealization (i.e. ideal-derogating effects). Also, the indirect effects of comments on body satisfaction via idealization were moderated by individual self-discrepancy between personal ideal and own body. This study sheds light on potentially inspiring or protective role of comments against perfect-looking bodies on social media while calling attention to the need for reconsidering the media effects theory for body image.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Studies have highlighted the influence of social media comments on users’ perceptual consequences, but whether this holds true in the body image context is still largely unknown. This experimental study investigated the effects of social media comments on ideal body perception and how it influences one’s own body satisfaction. Results showed that comments guided the viewers’ perceptions of what is considered as “ideal” body. Viewers of favorable comments to body posting reported greater idealization of the body imagery (i.e. ideal-enhancing effects), whereas viewers of unfavorable comments showed a lower level of idealization (i.e. ideal-derogating effects). Also, the indirect effects of comments on body satisfaction via idealization were moderated by individual self-discrepancy between personal ideal and own body. This study sheds light on potentially inspiring or protective role of comments against perfect-looking bodies on social media while calling attention to the need for reconsidering the media effects theory for body image.</description>
+      <dc:title>What do others’ reactions to body posting on Instagram tell us? The effects of social media comments on viewers’ body image perception</dc:title>
+      <dc:identifier>10.1177/1461444820956368</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-09-10T10:44:08Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Hye Min Kim</dc:creator>
+      <prism:publicationName>What do others’ reactions to body posting on Instagram tell us? The effects of social media comments on viewers’ body image perception</prism:publicationName>
+      <prism:doi>10.1177/1461444820956368</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820956368?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820957635?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Digital omnivores? How digital media reinforce social inequalities in cultural consumption</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820957635?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;In cultural consumption, higher social status is primarily reflected in the consumption of cultural products from diverse levels of sophistication, denoted as cultural omnivorousness. The article asks whether digital media are capable of attenuating these inequalities. Since digital media potentially make cultural products from all levels available to wider audiences, the distinguishing effect of omnivorousness might shrink. However, based on a model of individual decision-making, the article discusses several reasons why this assessment might be too optimistic. Empirically, the article focuses on omnivorousness and media use in feature film consumption. Differentiating between four types of electronic media (television, DVD, video on demand, Internet) and two types of omnivorousness (“by volume,” “by composition”), results reveal that digital media rather reinforce social inequalities in cultural consumption. Television, in contrast, has the highest levels of omnivorousness and the lowest levels of social structuration. Hence, not digital media are a democratizing force, but television.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;In cultural consumption, higher social status is primarily reflected in the consumption of cultural products from diverse levels of sophistication, denoted as cultural omnivorousness. The article asks whether digital media are capable of attenuating these inequalities. Since digital media potentially make cultural products from all levels available to wider audiences, the distinguishing effect of omnivorousness might shrink. However, based on a model of individual decision-making, the article discusses several reasons why this assessment might be too optimistic. Empirically, the article focuses on omnivorousness and media use in feature film consumption. Differentiating between four types of electronic media (television, DVD, video on demand, Internet) and two types of omnivorousness (“by volume,” “by composition”), results reveal that digital media rather reinforce social inequalities in cultural consumption. Television, in contrast, has the highest levels of omnivorousness and the lowest levels of social structuration. Hence, not digital media are a democratizing force, but television.</description>
+      <dc:title>Digital omnivores? How digital media reinforce social inequalities in cultural consumption</dc:title>
+      <dc:identifier>10.1177/1461444820957635</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-09-10T10:34:21Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Sebastian Weingartner</dc:creator>
+      <prism:publicationName>Digital omnivores? How digital media reinforce social inequalities in cultural consumption</prism:publicationName>
+      <prism:doi>10.1177/1461444820957635</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820957635?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820956345?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The secret life of pet Instagram accounts: Joy, resistance, and commodification in the Internet’s cute economy</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820956345?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;A popular sentiment is that the Internet is for cute animal photos, but little has explored the visual cultures of pets and social media. The relationship between pets and social media is particularly prominent on Instagram, where pet owners often run Instagram accounts on behalf of their pets. Drawing upon in-depth interviews with 23 individuals who run Instagram accounts for their pets, I discuss three dimensions of pet photos and social media: how individuals use pet Instagram accounts to curate a “fur baby” self-representation, the unspoken politics to sharing pet photographs online, and how individuals hope they provide followers joy. While joy and pet Instagram accounts are not solutions to the Internet’s problems, they do indicate how individuals work in ways to make platforms habitable. However, this joy is far from uncomplicated, as cultural dynamics of the Internet’s cute economy may problematize relationships between people, their pets, and their followers.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;A popular sentiment is that the Internet is for cute animal photos, but little has explored the visual cultures of pets and social media. The relationship between pets and social media is particularly prominent on Instagram, where pet owners often run Instagram accounts on behalf of their pets. Drawing upon in-depth interviews with 23 individuals who run Instagram accounts for their pets, I discuss three dimensions of pet photos and social media: how individuals use pet Instagram accounts to curate a “fur baby” self-representation, the unspoken politics to sharing pet photographs online, and how individuals hope they provide followers joy. While joy and pet Instagram accounts are not solutions to the Internet’s problems, they do indicate how individuals work in ways to make platforms habitable. However, this joy is far from uncomplicated, as cultural dynamics of the Internet’s cute economy may problematize relationships between people, their pets, and their followers.</description>
+      <dc:title>The secret life of pet Instagram accounts: Joy, resistance, and commodification in the Internet’s cute economy</dc:title>
+      <dc:identifier>10.1177/1461444820956345</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-09-04T08:02:34Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Jessica Maddox</dc:creator>
+      <prism:publicationName>The secret life of pet Instagram accounts: Joy, resistance, and commodification in the Internet’s cute economy</prism:publicationName>
+      <prism:doi>10.1177/1461444820956345</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820956345?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820954199?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>I saw it on YouTube! How online videos shape perceptions of mind, morality, and fears about robots</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820954199?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Robots have the potential to transform our existing categorical distinctions between “property” and “persons.” Previous research has demonstrated that humans naturally anthropomorphize them, and this tendency may be amplified when a robot is subject to abuse. Simultaneously, robots give rise to hopes and fears about the future and our place in it. However, most available evidence on these mechanisms is either anecdotal, or based on a small number of laboratory studies with limited ecological validity. The present work aims to bridge this gap through examining responses of participants (N = 160) to four popular online videos of a leading robotics company (Boston Dynamics) and one more familiar vacuum cleaning robot (Roomba). Our results suggest that unexpectedly human-like abilities might provide more potent cues to mind perception than appearance, whereas appearance may attract more compassion and protection. Exposure to advanced robots significantly influences attitudes toward future artificial intelligence. We discuss the need for more research examining groundbreaking robotics outside the laboratory.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Robots have the potential to transform our existing categorical distinctions between “property” and “persons.” Previous research has demonstrated that humans naturally anthropomorphize them, and this tendency may be amplified when a robot is subject to abuse. Simultaneously, robots give rise to hopes and fears about the future and our place in it. However, most available evidence on these mechanisms is either anecdotal, or based on a small number of laboratory studies with limited ecological validity. The present work aims to bridge this gap through examining responses of participants (N = 160) to four popular online videos of a leading robotics company (Boston Dynamics) and one more familiar vacuum cleaning robot (Roomba). Our results suggest that unexpectedly human-like abilities might provide more potent cues to mind perception than appearance, whereas appearance may attract more compassion and protection. Exposure to advanced robots significantly influences attitudes toward future artificial intelligence. We discuss the need for more research examining groundbreaking robotics outside the laboratory.</description>
+      <dc:title>I saw it on YouTube! How online videos shape perceptions of mind, morality, and fears about robots</dc:title>
+      <dc:identifier>10.1177/1461444820954199</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-09-03T09:28:50Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Dennis Küster</dc:creator>
+      <dc:creator>Aleksandra Swiderska</dc:creator>
+      <dc:creator>David Gunkel</dc:creator>
+      <prism:publicationName>I saw it on YouTube! How online videos shape perceptions of mind, morality, and fears about robots</prism:publicationName>
+      <prism:doi>10.1177/1461444820954199</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820954199?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820952795?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Dynamics of violent and dehumanizing rhetoric in far-right social media</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820952795?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This article sheds light on mechanisms by which online social interactions contribute to instigating far-right political violence. It presents an analysis of how violence against ethnic and religious minorities is motivated and legitimized in social media, as well as the situational conditions for such violent rhetoric. Online violent rhetoric in a Swedish public far-right social media discussion group was studied using a combination of machine-learning tools and qualitative analysis. The analysis shows that violent rhetoric primarily occurs in the context of narratives about criminals and crimes with (imagined) immigrant perpetrators and often particularly vulnerable victims, linked to a social problem definition of a corrupt and failing state as well as the alleged need to deport immigrants. The use of dehumanizing and infrahumanizing expressions both legitimizes political violence and spurs negative emotions that may increase motivation for violent action.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This article sheds light on mechanisms by which online social interactions contribute to instigating far-right political violence. It presents an analysis of how violence against ethnic and religious minorities is motivated and legitimized in social media, as well as the situational conditions for such violent rhetoric. Online violent rhetoric in a Swedish public far-right social media discussion group was studied using a combination of machine-learning tools and qualitative analysis. The analysis shows that violent rhetoric primarily occurs in the context of narratives about criminals and crimes with (imagined) immigrant perpetrators and often particularly vulnerable victims, linked to a social problem definition of a corrupt and failing state as well as the alleged need to deport immigrants. The use of dehumanizing and infrahumanizing expressions both legitimizes political violence and spurs negative emotions that may increase motivation for violent action.</description>
+      <dc:title>Dynamics of violent and dehumanizing rhetoric in far-right social media</dc:title>
+      <dc:identifier>10.1177/1461444820952795</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-08-31T06:18:59Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Mattias Wahlström</dc:creator>
+      <dc:creator>Anton Törnberg</dc:creator>
+      <dc:creator>Hans Ekbrand</dc:creator>
+      <prism:publicationName>Dynamics of violent and dehumanizing rhetoric in far-right social media</prism:publicationName>
+      <prism:doi>10.1177/1461444820952795</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820952795?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820951609?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The haunting of GeoCities and the politics of access control on the early Web</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820951609?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Yahoo’s purchase of make-your-own-website platform GeoCities in 1999 and subsequent implementation of a new Terms of Service agreement led to one of the most notable boycotts in Web history. During the “Haunting,” GeoCities users stripped their homepages of color and content, replacing blinking GIFs with excerpts of the offending Terms of Service. In this landmark battle over content rights and access control, protestors used the platform antagonistically, disrupting the value of user-generated content and undermining the company’s strategic vision for the platform. Within a week, the Haunting of GeoCities successfully forced Yahoo to acquiesce to protestor demands and set enduring standards for Terms of Service that preserved greater rights for content creators. This case study from the early Web demonstrates how access is always bound up in a struggle over control and offers a timely reminder of how users have been—and can be—vital agents of platform politics.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Yahoo’s purchase of make-your-own-website platform GeoCities in 1999 and subsequent implementation of a new Terms of Service agreement led to one of the most notable boycotts in Web history. During the “Haunting,” GeoCities users stripped their homepages of color and content, replacing blinking GIFs with excerpts of the offending Terms of Service. In this landmark battle over content rights and access control, protestors used the platform antagonistically, disrupting the value of user-generated content and undermining the company’s strategic vision for the platform. Within a week, the Haunting of GeoCities successfully forced Yahoo to acquiesce to protestor demands and set enduring standards for Terms of Service that preserved greater rights for content creators. This case study from the early Web demonstrates how access is always bound up in a struggle over control and offers a timely reminder of how users have been—and can be—vital agents of platform politics.</description>
+      <dc:title>The haunting of GeoCities and the politics of access control on the early Web</dc:title>
+      <dc:identifier>10.1177/1461444820951609</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-08-21T03:55:12Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>CJ Reynolds</dc:creator>
+      <dc:creator>Blake Hallinan</dc:creator>
+      <prism:publicationName>The haunting of GeoCities and the politics of access control on the early Web</prism:publicationName>
+      <prism:doi>10.1177/1461444820951609</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820951609?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820946454?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Shaping (non)-discursive social media spaces: Cross-national typologies of news organizations’ heavy commenters</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820946454?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This study examines the role of heavy commenters on social media. We propose typologies of heavy commenters on Facebook pages of six news organizations in two systems that historically embraced different discourse cultures—the United States and Germany. We find that discourse cultures are impacted by news outlet and country: the US discourse is more participatory in terms of comment frequency, but further characterized by a strong non-discursive culture compared to a participatory liberal discourse culture in Germany. Frequency of commenting as normative ideal of social media sites (e.g. web traffic) does not lead to higher amounts of deliberation. On the contrary, it may contribute to what we conceptualize as the non-discursive model. As an expression of this, heavy commenters in the United States more often perform hate watching that manifests in hostile commenting on stories that are incongruent with their political ideologies. Implications for the democratic function of media organizations on social media are discussed.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This study examines the role of heavy commenters on social media. We propose typologies of heavy commenters on Facebook pages of six news organizations in two systems that historically embraced different discourse cultures—the United States and Germany. We find that discourse cultures are impacted by news outlet and country: the US discourse is more participatory in terms of comment frequency, but further characterized by a strong non-discursive culture compared to a participatory liberal discourse culture in Germany. Frequency of commenting as normative ideal of social media sites (e.g. web traffic) does not lead to higher amounts of deliberation. On the contrary, it may contribute to what we conceptualize as the non-discursive model. As an expression of this, heavy commenters in the United States more often perform hate watching that manifests in hostile commenting on stories that are incongruent with their political ideologies. Implications for the democratic function of media organizations on social media are discussed.</description>
+      <dc:title>Shaping (non)-discursive social media spaces: Cross-national typologies of news organizations’ heavy commenters</dc:title>
+      <dc:identifier>10.1177/1461444820946454</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-08-18T06:03:32Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Lea Hellmueller</dc:creator>
+      <dc:creator>Juliane A Lischka</dc:creator>
+      <dc:creator>Edda Humprecht</dc:creator>
+      <prism:publicationName>Shaping (non)-discursive social media spaces: Cross-national typologies of news organizations’ heavy commenters</prism:publicationName>
+      <prism:doi>10.1177/1461444820946454</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820946454?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820948809?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Predicting problematic smartphone use over time in adolescence: A latent class regression analysis of online and offline activities</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820948809?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Despite today’s ubiquitous nature of smartphones among adolescents, little is known about behavioural online and offline longitudinal predictors of problematic smartphone use (PSU). Guided by Uses and Gratifications Theory, we applied latent class analysis on survey data collected in 2017 from a cohort of 1096 adolescents (Mage = 12.4, SDage = 0.56) and regressed PSU measured 1 year later on class membership, controlling for socio-demographic characteristics, social desirability and autoregressive effects. We extracted four distinct classes: social-recreational onliners (n = 228), weekend onliners (n = 331), balanced (n = 404) and noninvolved (n = 153). Characterised by significantly more time spent online for recreational and social networking activities, both during weekdays and weekend days, as well as less time for sleep, the social-recreational onliners class showed significantly higher levels of PSU over time. Future studies should assess not only duration but also the frequency of daily online activities to provide further insights into behavioural predictors of PSU.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Despite today’s ubiquitous nature of smartphones among adolescents, little is known about behavioural online and offline longitudinal predictors of problematic smartphone use (PSU). Guided by Uses and Gratifications Theory, we applied latent class analysis on survey data collected in 2017 from a cohort of 1096 adolescents (Mage = 12.4, SDage = 0.56) and regressed PSU measured 1 year later on class membership, controlling for socio-demographic characteristics, social desirability and autoregressive effects. We extracted four distinct classes: social-recreational onliners (n = 228), weekend onliners (n = 331), balanced (n = 404) and noninvolved (n = 153). Characterised by significantly more time spent online for recreational and social networking activities, both during weekdays and weekend days, as well as less time for sleep, the social-recreational onliners class showed significantly higher levels of PSU over time. Future studies should assess not only duration but also the frequency of daily online activities to provide further insights into behavioural predictors of PSU.</description>
+      <dc:title>Predicting problematic smartphone use over time in adolescence: A latent class regression analysis of online and offline activities</dc:title>
+      <dc:identifier>10.1177/1461444820948809</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-08-12T12:03:06Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Anne-Linda Camerini</dc:creator>
+      <dc:creator>Tiziano Gerosa</dc:creator>
+      <dc:creator>Laura Marciano</dc:creator>
+      <prism:publicationName>Predicting problematic smartphone use over time in adolescence: A latent class regression analysis of online and offline activities</prism:publicationName>
+      <prism:doi>10.1177/1461444820948809</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820948809?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820943854?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Beyond the eye-catchers: A large-scale study of social movement organizations’ involvement in online protests</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820943854?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Existing studies of social movement organizations (SMOs) commonly focus only on a small number of well-known SMOs or SMOs that belong to a single social movement industry (SMI). This is partially because current methods for identifying SMOs are labor-intensive. In contrast to these manual approaches, in our article, we use Twitter data pertaining to BlackLivesMatter and Women’s movements and employ crowdsourcing and nested supervised learning methods to identify more than 50K SMOs. Our results reveal that the behavior and influence of SMOs vary significantly, with half having little influence and behaving in similar ways to an average individual. Furthermore, we show that collectively, small SMOs contributed to the sharing of more diverse information. However, on average, large SMOs were significantly more committed to movements and decidedly more successful at recruiting. Finally, we also observe that a large number of SMOs from an extensive set of SMIs, including Occupy Wall Street, participated in solidarity or even as leaders in BlackLivesMatter. In comparison, few SMIs participated in Women’s movement.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Existing studies of social movement organizations (SMOs) commonly focus only on a small number of well-known SMOs or SMOs that belong to a single social movement industry (SMI). This is partially because current methods for identifying SMOs are labor-intensive. In contrast to these manual approaches, in our article, we use Twitter data pertaining to BlackLivesMatter and Women’s movements and employ crowdsourcing and nested supervised learning methods to identify more than 50K SMOs. Our results reveal that the behavior and influence of SMOs vary significantly, with half having little influence and behaving in similar ways to an average individual. Furthermore, we show that collectively, small SMOs contributed to the sharing of more diverse information. However, on average, large SMOs were significantly more committed to movements and decidedly more successful at recruiting. Finally, we also observe that a large number of SMOs from an extensive set of SMIs, including Occupy Wall Street, participated in solidarity or even as leaders in BlackLivesMatter. In comparison, few SMIs participated in Women’s movement.</description>
+      <dc:title>Beyond the eye-catchers: A large-scale study of social movement organizations’ involvement in online protests</dc:title>
+      <dc:identifier>10.1177/1461444820943854</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-08-10T11:40:58Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Lia Bozarth</dc:creator>
+      <dc:creator>Ceren Budak</dc:creator>
+      <prism:publicationName>Beyond the eye-catchers: A large-scale study of social movement organizations’ involvement in online protests</prism:publicationName>
+      <prism:doi>10.1177/1461444820943854</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820943854?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820946681?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Standing on the shoulders of tech giants: Media delivery, streaming television and the rise of global suppliers</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820946681?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This article uses the case study of Internet Protocol (IP) delivery for streaming television to demonstrate how technology and globalization combine to change what media firms do, how they create value and with whom. Media delivery – the sum of the value-adding tasks necessary to transfer content from source to audience – has become a mosaic of technologies that sustain a complex and fast-evolving video ecosystem. Broadcasters had been in charge of the full transmission process once, of tasks deemed core to their business. Today, media delivery is externalized to the market and devolved to a network of suppliers. These suppliers are no ordinary firms, but tech giants that have developed deep global capabilities. They gain further leverage by being cross-sectoral, serving clients across multiple industries. Who are these suppliers? What makes them unique? And what are the implications for the television industry?</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This article uses the case study of Internet Protocol (IP) delivery for streaming television to demonstrate how technology and globalization combine to change what media firms do, how they create value and with whom. Media delivery – the sum of the value-adding tasks necessary to transfer content from source to audience – has become a mosaic of technologies that sustain a complex and fast-evolving video ecosystem. Broadcasters had been in charge of the full transmission process once, of tasks deemed core to their business. Today, media delivery is externalized to the market and devolved to a network of suppliers. These suppliers are no ordinary firms, but tech giants that have developed deep global capabilities. They gain further leverage by being cross-sectoral, serving clients across multiple industries. Who are these suppliers? What makes them unique? And what are the implications for the television industry?</description>
+      <dc:title>Standing on the shoulders of tech giants: Media delivery, streaming television and the rise of global suppliers</dc:title>
+      <dc:identifier>10.1177/1461444820946681</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-08-06T05:56:19Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Jean K Chalaby</dc:creator>
+      <dc:creator>Steve Plunkett</dc:creator>
+      <prism:publicationName>Standing on the shoulders of tech giants: Media delivery, streaming television and the rise of global suppliers</prism:publicationName>
+      <prism:doi>10.1177/1461444820946681</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820946681?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820945317?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Boogaloo and Civil War 2: Memetic antagonism in expressions of covert activism</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820945317?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Internet memes are remixed images, videos, GIFs, hashtags, and similar content that usually incorporates humor but also some form of political or cultural critique. Several studies have previously examined the ways in which minority groups curate Internet memes for the purpose of protest or other forms of activism. This article examines user-generated tweets including any of the following hashtags: boogaloo, boogaloo2020, and/or civilwar2. The time period of interest on Twitter concerns any and all images posted between 15 and 25 January 2020, exactly 5 days before and after a controversial gun rally held in Richmond, Virginia. Drawing on Eco’s theory of semiotics, the results from a critical discourse analysis reveal a tendency toward a preference for antagonism as a means to consolidate identity for individuals engaged in online discursive practice within hybrid structures. Findings include the presence of deeply contextualized and situated logics within an emergent boogaloo discourse. In addition, the study found that hypernarrative storytelling serves the movement in terms of identity negotiation and consolidation.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Internet memes are remixed images, videos, GIFs, hashtags, and similar content that usually incorporates humor but also some form of political or cultural critique. Several studies have previously examined the ways in which minority groups curate Internet memes for the purpose of protest or other forms of activism. This article examines user-generated tweets including any of the following hashtags: boogaloo, boogaloo2020, and/or civilwar2. The time period of interest on Twitter concerns any and all images posted between 15 and 25 January 2020, exactly 5 days before and after a controversial gun rally held in Richmond, Virginia. Drawing on Eco’s theory of semiotics, the results from a critical discourse analysis reveal a tendency toward a preference for antagonism as a means to consolidate identity for individuals engaged in online discursive practice within hybrid structures. Findings include the presence of deeply contextualized and situated logics within an emergent boogaloo discourse. In addition, the study found that hypernarrative storytelling serves the movement in terms of identity negotiation and consolidation.</description>
+      <dc:title>Boogaloo and Civil War 2: Memetic antagonism in expressions of covert activism</dc:title>
+      <dc:identifier>10.1177/1461444820945317</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-08-01T08:31:15Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Bradley E Wiggins</dc:creator>
+      <prism:publicationName>Boogaloo and Civil War 2: Memetic antagonism in expressions of covert activism</prism:publicationName>
+      <prism:doi>10.1177/1461444820945317</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820945317?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820939458?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Liking as taste making: Social media practices as generators of aesthetic valuation and distinction</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820939458?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Much research has been conducted on how social media platforms are used as outlets of taste expression, displaying cultural preferences acquired outside the platforms. This research largely builds on the cultural sociology of Pierre Bourdieu and his analysis of taste as a medium of social distinction. We propose to shift the emphasis from the study of taste expression to an analysis of taste making on social media. This shift is occasioned by broader cultural transformations since the 1990s as well as developments on social media since the late 2000s. We see that rather than merely performing a taste learned elsewhere, users cooperatively develop sensitivities on social media platforms, constituting practices of joint observation, evaluation, and distinction. We call this the triangle of taste in which subjects, objects, and media mutually co-produce each other.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Much research has been conducted on how social media platforms are used as outlets of taste expression, displaying cultural preferences acquired outside the platforms. This research largely builds on the cultural sociology of Pierre Bourdieu and his analysis of taste as a medium of social distinction. We propose to shift the emphasis from the study of taste expression to an analysis of taste making on social media. This shift is occasioned by broader cultural transformations since the 1990s as well as developments on social media since the late 2000s. We see that rather than merely performing a taste learned elsewhere, users cooperatively develop sensitivities on social media platforms, constituting practices of joint observation, evaluation, and distinction. We call this the triangle of taste in which subjects, objects, and media mutually co-produce each other.</description>
+      <dc:title>Liking as taste making: Social media practices as generators of aesthetic valuation and distinction</dc:title>
+      <dc:identifier>10.1177/1461444820939458</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-08-01T08:30:27Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Johannes Paßmann</dc:creator>
+      <dc:creator>Cornelius Schubert</dc:creator>
+      <prism:publicationName>Liking as taste making: Social media practices as generators of aesthetic valuation and distinction</prism:publicationName>
+      <prism:doi>10.1177/1461444820939458</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820939458?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820946455?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Fighting biased news diets: Using news media literacy interventions to stimulate online cross-cutting media exposure patterns</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820946455?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Online news consumers have the tendency to select political news that confirms their prior attitudes, which may further fuel polarized divides in society. Despite scholarly attention to drivers of selective exposure, we know too little about how healthier cross-cutting news exposure patterns can be stimulated in digital media environments. Study 1 (N = 553) exposed people to news media literacy (NML) interventions using injunctive and descriptive normative language. The findings reveal the conditional effect of such online interventions: Participants with pro-immigration attitudes engaged in more cross-cutting exposure while the intervention was only to a certain extent effective for Democrats, ineffective for Republicans, and even boomeranged for partisans with anti-immigration attitudes. In response to these findings, Study 2 (N = 579) aimed to design interventions that work across issue publics and party affiliation. We show that NML messages tailored on immigration beliefs can be effective across the board. These findings inform the design of more successful NML interventions.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Online news consumers have the tendency to select political news that confirms their prior attitudes, which may further fuel polarized divides in society. Despite scholarly attention to drivers of selective exposure, we know too little about how healthier cross-cutting news exposure patterns can be stimulated in digital media environments. Study 1 (N = 553) exposed people to news media literacy (NML) interventions using injunctive and descriptive normative language. The findings reveal the conditional effect of such online interventions: Participants with pro-immigration attitudes engaged in more cross-cutting exposure while the intervention was only to a certain extent effective for Democrats, ineffective for Republicans, and even boomeranged for partisans with anti-immigration attitudes. In response to these findings, Study 2 (N = 579) aimed to design interventions that work across issue publics and party affiliation. We show that NML messages tailored on immigration beliefs can be effective across the board. These findings inform the design of more successful NML interventions.</description>
+      <dc:title>Fighting biased news diets: Using news media literacy interventions to stimulate online cross-cutting media exposure patterns</dc:title>
+      <dc:identifier>10.1177/1461444820946455</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-07-30T11:41:46Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Toni G.L.A. van der Meer</dc:creator>
+      <dc:creator>Michael Hameleers</dc:creator>
+      <prism:publicationName>Fighting biased news diets: Using news media literacy interventions to stimulate online cross-cutting media exposure patterns</prism:publicationName>
+      <prism:doi>10.1177/1461444820946455</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820946455?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820912197?ai=2b4&amp;mi=ehikzz&amp;af=R">
@@ -511,22 +783,6 @@
       <prism:publicationName>“It took me quite a long time to develop a voice”: Examining feminist digital activism in the Indian #MeToo movement</prism:publicationName>
       <prism:doi>10.1177/1461444820944846</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820944846?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820945934?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Technologies, bureaucracy, and disaster</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820945934?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Technologies, bureaucracy, and disaster</dc:title>
-      <dc:identifier>10.1177/1461444820945934</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2020-07-21T02:43:10Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Elizabeth Ellcessor</dc:creator>
-      <prism:publicationName>Technologies, bureaucracy, and disaster</prism:publicationName>
-      <prism:doi>10.1177/1461444820945934</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820945934?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820934034?ai=2b4&amp;mi=ehikzz&amp;af=R">
@@ -2489,22 +2745,6 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819888756?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819882694?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Women’s March Minnesota on Facebook: Effects of social connection on different types of collective action</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819882694?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Scholars have long debated the efficacy of social media in facilitating offline collective action. This research seeks to fill a gap in that literature by examining the role of social ties in determining intention to participate in different types of collective action. Survey findings show that aspects of tie strength—reciprocity, duration, and affect—have different impact on intention to participate in high- and low-cost political actions. Findings from this study have theoretical implication for the field as well as practical implication for social movement organizers seeking to mobilize supporters using social media.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Scholars have long debated the efficacy of social media in facilitating offline collective action. This research seeks to fill a gap in that literature by examining the role of social ties in determining intention to participate in different types of collective action. Survey findings show that aspects of tie strength—reciprocity, duration, and affect—have different impact on intention to participate in high- and low-cost political actions. Findings from this study have theoretical implication for the field as well as practical implication for social movement organizers seeking to mobilize supporters using social media.</description>
-      <dc:title>Women’s March Minnesota on Facebook: Effects of social connection on different types of collective action</dc:title>
-      <dc:identifier>10.1177/1461444819882694</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-11-21T01:43:21Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Simin Michelle Chen</dc:creator>
-      <prism:publicationName>Women’s March Minnesota on Facebook: Effects of social connection on different types of collective action</prism:publicationName>
-      <prism:doi>10.1177/1461444819882694</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819882694?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819888417?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Does political efficacy equally predict news engagement across countries? A multilevel analysis of the relationship among internal political efficacy, media environment and news engagement</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819888417?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
@@ -2540,24 +2780,6 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819888398?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819886295?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Social media prosumption and online political participation: An examination of online communication processes</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819886295?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This study examines the extent to which social media prosumption, an integrated act of consumption and production, is associated with online political participation. Data from an online panel survey of American adults reveal that social media prosumption has a positive relationship with online political participation indirectly through online political information seeking. Social media prosumption is also positively related to online political participation through online political information and online discussion heterogeneity in serial. Implications are discussed for the role of prosumptive use of social media in online political participation.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This study examines the extent to which social media prosumption, an integrated act of consumption and production, is associated with online political participation. Data from an online panel survey of American adults reveal that social media prosumption has a positive relationship with online political participation indirectly through online political information seeking. Social media prosumption is also positively related to online political participation through online political information and online discussion heterogeneity in serial. Implications are discussed for the role of prosumptive use of social media in online political participation.</description>
-      <dc:title>Social media prosumption and online political participation: An examination of online communication processes</dc:title>
-      <dc:identifier>10.1177/1461444819886295</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-11-19T07:11:17Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Masahiro Yamamoto</dc:creator>
-      <dc:creator>Seungahn Nah</dc:creator>
-      <dc:creator>Soo Young Bae</dc:creator>
-      <prism:publicationName>Social media prosumption and online political participation: An examination of online communication processes</prism:publicationName>
-      <prism:doi>10.1177/1461444819886295</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819886295?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819888720?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Social media is not real: The effect of ‘Instagram vs reality’ images on women’s social comparison and body image</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819888720?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
@@ -2591,74 +2813,6 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819887700?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819887141?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Sluts and soyboys: MGTOW and the production of misogynistic online harassment</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819887141?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Men Going Their Own Way (MGTOW) are a separatist Manosphere group (digital manifestation of the Men’s Liberation Movement) who focus on individualistic, self-empowering actions as opposed to traditional collective actions typical of Men’s Rights Activists and Incels. This study investigates how the ideology and rhetoric of MGTOW propagates and normalises misogynistic beliefs through online harassment, using a multi-phased content and thematic analysis of 10,280 tweets from three of the most active MGTOW users on Twitter. The findings document a link between the MGTOW ideology and toxic masculinity, showing that the online harassment generated is deeply misogynistic and polices the boundaries of a heterosexual, hegemonic masculinity. The analysis demonstrates that while the misogyny and violence produced by MGTOW is not extreme in nature, their appeals to rational thinking make it seem like common sense. The article develops new knowledge about the heterogeneous nature of the Manosphere and its constructions of masculinity.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Men Going Their Own Way (MGTOW) are a separatist Manosphere group (digital manifestation of the Men’s Liberation Movement) who focus on individualistic, self-empowering actions as opposed to traditional collective actions typical of Men’s Rights Activists and Incels. This study investigates how the ideology and rhetoric of MGTOW propagates and normalises misogynistic beliefs through online harassment, using a multi-phased content and thematic analysis of 10,280 tweets from three of the most active MGTOW users on Twitter. The findings document a link between the MGTOW ideology and toxic masculinity, showing that the online harassment generated is deeply misogynistic and polices the boundaries of a heterosexual, hegemonic masculinity. The analysis demonstrates that while the misogyny and violence produced by MGTOW is not extreme in nature, their appeals to rational thinking make it seem like common sense. The article develops new knowledge about the heterogeneous nature of the Manosphere and its constructions of masculinity.</description>
-      <dc:title>Sluts and soyboys: MGTOW and the production of misogynistic online harassment</dc:title>
-      <dc:identifier>10.1177/1461444819887141</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-11-08T02:13:07Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Callum Jones</dc:creator>
-      <dc:creator>Verity Trott</dc:creator>
-      <dc:creator>Scott Wright</dc:creator>
-      <prism:publicationName>Sluts and soyboys: MGTOW and the production of misogynistic online harassment</prism:publicationName>
-      <prism:doi>10.1177/1461444819887141</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819887141?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819887705?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Understanding the relationship between new media literacy, communication skills, and democratic tendency: Model development and testing</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819887705?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;New media provides new sources of information and communication that are crucial for participatory behaviors. Therefore, scholars conceptualize new media literacy (NML) that citizens should have to function successfully in this digital era. This study proposed and tested a structural model that examines multiple relationships among NML, communication skills (CS), and democratic tendency (DT). Data were collected from 1047 Turkish university students and analyzed through structural equation modeling. Using a comprehensive theoretical framework from the literature, NML was operationalized through four factors: functional consuming (FC), critical consuming (CC), functional prosuming (FP), and critical prosuming (CP). The results showed that FC and FP had a positive effect on CC, CP, and CS; CC had a positive effect on CP and DT; and CS had a positive effect on CC and DT. Findings of indirect effects revealed that CC and CS played mediation roles in the relationship of FC and FP with DT.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;New media provides new sources of information and communication that are crucial for participatory behaviors. Therefore, scholars conceptualize new media literacy (NML) that citizens should have to function successfully in this digital era. This study proposed and tested a structural model that examines multiple relationships among NML, communication skills (CS), and democratic tendency (DT). Data were collected from 1047 Turkish university students and analyzed through structural equation modeling. Using a comprehensive theoretical framework from the literature, NML was operationalized through four factors: functional consuming (FC), critical consuming (CC), functional prosuming (FP), and critical prosuming (CP). The results showed that FC and FP had a positive effect on CC, CP, and CS; CC had a positive effect on CP and DT; and CS had a positive effect on CC and DT. Findings of indirect effects revealed that CC and CS played mediation roles in the relationship of FC and FP with DT.</description>
-      <dc:title>Understanding the relationship between new media literacy, communication skills, and democratic tendency: Model development and testing</dc:title>
-      <dc:identifier>10.1177/1461444819887705</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-11-08T02:12:08Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Esra Barut Tugtekin</dc:creator>
-      <dc:creator>Mustafa Koc</dc:creator>
-      <prism:publicationName>Understanding the relationship between new media literacy, communication skills, and democratic tendency: Model development and testing</prism:publicationName>
-      <prism:doi>10.1177/1461444819887705</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819887705?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819885333?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Female journalists under attack? Explaining gender differences in reactions to audiences’ attacks</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819885333?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;The literature on public figures attacked by their audiences is unclear why female and male figures react differently to attacks. This study examines why female journalists are more likely than male journalists to use avoidance strategies as a reaction to online attacks. Avoidance includes limiting audience engagement, adapting reporting behavior, and thinking about quitting journalism. Drawing on social role theory and gender stereotypes, this study contrasts two explanatory hypotheses. The results, based on mediation analyses of online survey data of 637 journalists representative of Switzerland, show that women are more likely than men to use avoidance strategies because women are more stressed by attacks. This heightened stress is argued to result from differences in gender role socialization. In contrast, while women are somewhat more severely attacked than men, this cannot explain their greater probability of avoidance. Results contribute a theoretically and empirically rich explanation of gendered reactions to attacks.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;The literature on public figures attacked by their audiences is unclear why female and male figures react differently to attacks. This study examines why female journalists are more likely than male journalists to use avoidance strategies as a reaction to online attacks. Avoidance includes limiting audience engagement, adapting reporting behavior, and thinking about quitting journalism. Drawing on social role theory and gender stereotypes, this study contrasts two explanatory hypotheses. The results, based on mediation analyses of online survey data of 637 journalists representative of Switzerland, show that women are more likely than men to use avoidance strategies because women are more stressed by attacks. This heightened stress is argued to result from differences in gender role socialization. In contrast, while women are somewhat more severely attacked than men, this cannot explain their greater probability of avoidance. Results contribute a theoretically and empirically rich explanation of gendered reactions to attacks.</description>
-      <dc:title>Female journalists under attack? Explaining gender differences in reactions to audiences’ attacks</dc:title>
-      <dc:identifier>10.1177/1461444819885333</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-11-06T12:32:52Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Lea Stahel</dc:creator>
-      <dc:creator>Constantin Schoen</dc:creator>
-      <prism:publicationName>Female journalists under attack? Explaining gender differences in reactions to audiences’ attacks</prism:publicationName>
-      <prism:doi>10.1177/1461444819885333</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819885333?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819885334?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Human-aided artificial intelligence: Or, how to run large computations in human brains? Toward a media sociology of machine learning</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819885334?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Today, artificial intelligence (AI), especially machine learning, is structurally dependent on human participation. Technologies such as deep learning (DL) leverage networked media infrastructures and human-machine interaction designs to harness users to provide training and verification data. The emergence of DL is therefore based on a fundamental socio-technological transformation of the relationship between humans and machines. Rather than simulating human intelligence, DL-based AIs capture human cognitive abilities, so they are hybrid human-machine apparatuses. From a perspective of media philosophy and social-theoretical critique, I differentiate five types of “media technologies of capture” in AI apparatuses and analyze them as forms of power relations between humans and machines. Finally, I argue that the current hype about AI implies a relational and distributed understanding of (human/artificial) intelligence, which I categorize under the term “cybernetic AI.” This form of AI manifests in socio-technological apparatuses that involve new modes of subjectivation, social control, and digital labor.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Today, artificial intelligence (AI), especially machine learning, is structurally dependent on human participation. Technologies such as deep learning (DL) leverage networked media infrastructures and human-machine interaction designs to harness users to provide training and verification data. The emergence of DL is therefore based on a fundamental socio-technological transformation of the relationship between humans and machines. Rather than simulating human intelligence, DL-based AIs capture human cognitive abilities, so they are hybrid human-machine apparatuses. From a perspective of media philosophy and social-theoretical critique, I differentiate five types of “media technologies of capture” in AI apparatuses and analyze them as forms of power relations between humans and machines. Finally, I argue that the current hype about AI implies a relational and distributed understanding of (human/artificial) intelligence, which I categorize under the term “cybernetic AI.” This form of AI manifests in socio-technological apparatuses that involve new modes of subjectivation, social control, and digital labor.</description>
-      <dc:title>Human-aided artificial intelligence: Or, how to run large computations in human brains? Toward a media sociology of machine learning</dc:title>
-      <dc:identifier>10.1177/1461444819885334</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-11-06T12:31:22Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Rainer Mühlhoff</dc:creator>
-      <prism:publicationName>Human-aided artificial intelligence: Or, how to run large computations in human brains? Toward a media sociology of machine learning</prism:publicationName>
-      <prism:doi>10.1177/1461444819885334</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819885334?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819884373?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Translating national discourse into teaching and learning outcomes: Portability and connectivity in developing countries’ ICT in education (ICT4E) initiatives</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819884373?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
@@ -2677,75 +2831,5 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819884373?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819879509?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Hybrid mediation opportunity structure? A case study of Hong Kong’s Anti-National Education Movement</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819879509?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This article assesses how social movements make use of media, and how their media practices influence movement outcomes using a case study of the Anti-National Education Movement in Hong Kong. It contributes to the literature on this important protest event and to ongoing debates about changes in the relationship between media and protesters. It is argued that activists adapted to what we call a “hybrid mediation opportunity structure.” The concept of a hybrid mediation opportunity structure is built on a critical engagement with Cammaerts’ mediation opportunity structure and is informed by Chadwick’s hybrid media system theory. We find that old (mainstream) and new (social) media tactics were deployed interdependently in a hybrid, symbiotic process. Old and new media logics fed off each other, in turn producing new logics: hybrid mediation opportunities which enabled activists to simultaneously broaden their connective networks and capture the attention of news media to publicize and legitimize their collective protests.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This article assesses how social movements make use of media, and how their media practices influence movement outcomes using a case study of the Anti-National Education Movement in Hong Kong. It contributes to the literature on this important protest event and to ongoing debates about changes in the relationship between media and protesters. It is argued that activists adapted to what we call a “hybrid mediation opportunity structure.” The concept of a hybrid mediation opportunity structure is built on a critical engagement with Cammaerts’ mediation opportunity structure and is informed by Chadwick’s hybrid media system theory. We find that old (mainstream) and new (social) media tactics were deployed interdependently in a hybrid, symbiotic process. Old and new media logics fed off each other, in turn producing new logics: hybrid mediation opportunities which enabled activists to simultaneously broaden their connective networks and capture the attention of news media to publicize and legitimize their collective protests.</description>
-      <dc:title>Hybrid mediation opportunity structure? A case study of Hong Kong’s Anti-National Education Movement</dc:title>
-      <dc:identifier>10.1177/1461444819879509</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-11-01T01:52:53Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Shiau Ching Wong</dc:creator>
-      <dc:creator>Scott Wright</dc:creator>
-      <prism:publicationName>Hybrid mediation opportunity structure? A case study of Hong Kong’s Anti-National Education Movement</prism:publicationName>
-      <prism:doi>10.1177/1461444819879509</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819879509?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819884377?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>A new institution on the block: On platform urbanism and Airbnb citizenship</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819884377?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This article argues that Airbnb should be understood as a new urban institution that is transforming relations between market, state, and civil society actors. Taking the Airbnb Citizen advocacy initiative as my case, I examine how this transnational “home sharing” platform achieves such transformations, which in turn requires an investigation into the specific nature of Airbnb as an institutional form. Assuming the agenda-setting role of the urban “regulatory entrepreneur,” Airbnb aims to co-shape the terms of current and future policy debates pertaining not just to home sharing/short-term rental but also to the very fabric of city life. It pursues this mode of “platform urbanism” by mobilizing its user base, which it frames as a community of entrepreneurial middle-class citizens looking to supplement their income in a climate of economic insecurity and tech-enabled opportunity. Yet, who is the “Airbnb Citizen” and what are the opportunities and risks associated with platform-mediated citizenship?</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This article argues that Airbnb should be understood as a new urban institution that is transforming relations between market, state, and civil society actors. Taking the Airbnb Citizen advocacy initiative as my case, I examine how this transnational “home sharing” platform achieves such transformations, which in turn requires an investigation into the specific nature of Airbnb as an institutional form. Assuming the agenda-setting role of the urban “regulatory entrepreneur,” Airbnb aims to co-shape the terms of current and future policy debates pertaining not just to home sharing/short-term rental but also to the very fabric of city life. It pursues this mode of “platform urbanism” by mobilizing its user base, which it frames as a community of entrepreneurial middle-class citizens looking to supplement their income in a climate of economic insecurity and tech-enabled opportunity. Yet, who is the “Airbnb Citizen” and what are the opportunities and risks associated with platform-mediated citizenship?</description>
-      <dc:title>A new institution on the block: On platform urbanism and Airbnb citizenship</dc:title>
-      <dc:identifier>10.1177/1461444819884377</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-10-29T12:31:51Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
-      <dc:creator>Niels van Doorn</dc:creator>
-      <prism:publicationName>A new institution on the block: On platform urbanism and Airbnb citizenship</prism:publicationName>
-      <prism:doi>10.1177/1461444819884377</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819884377?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819884635?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Feminist activism in digital space: Postfeminist contradictions in #WhyIStayed</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819884635?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Scholars have argued that digital spaces are key sites for feminist activism, which can be seen in the emergence of “hashtag feminism,” or the use of social media hashtags to address feminist-identified issues through sharing personal experiences of inequality, constructing counter-discourses, and critiquing cultural figures and institutions. However, more empirical research is needed that examines both the possibilities and constraints of hashtag feminism. Through a qualitative analysis of 51,577 archived tweets and semi-structured interviews, we trace the ways #WhyIStayed creates a space for feminist activism in response to victim-blaming related to domestic violence through voice, multivocality, and visibility. More specifically, we critically analyze postfeminist discourses within #WhyIStayed in order to examine contradictions within the hashtag event as well as how these postfeminist contradictions shape possibilities for feminist activism online.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Scholars have argued that digital spaces are key sites for feminist activism, which can be seen in the emergence of “hashtag feminism,” or the use of social media hashtags to address feminist-identified issues through sharing personal experiences of inequality, constructing counter-discourses, and critiquing cultural figures and institutions. However, more empirical research is needed that examines both the possibilities and constraints of hashtag feminism. Through a qualitative analysis of 51,577 archived tweets and semi-structured interviews, we trace the ways #WhyIStayed creates a space for feminist activism in response to victim-blaming related to domestic violence through voice, multivocality, and visibility. More specifically, we critically analyze postfeminist discourses within #WhyIStayed in order to examine contradictions within the hashtag event as well as how these postfeminist contradictions shape possibilities for feminist activism online.</description>
-      <dc:title>Feminist activism in digital space: Postfeminist contradictions in #WhyIStayed</dc:title>
-      <dc:identifier>10.1177/1461444819884635</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-10-25T06:32:57Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Jasmine R Linabary</dc:creator>
-      <dc:creator>Danielle J Corple</dc:creator>
-      <dc:creator>Cheryl Cooky</dc:creator>
-      <prism:publicationName>Feminist activism in digital space: Postfeminist contradictions in #WhyIStayed</prism:publicationName>
-      <prism:doi>10.1177/1461444819884635</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819884635?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444819881735?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Constructing audience quantification: Social influences and the development of norms about audience analytics and metrics</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444819881735?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Audience analytics and metrics are ubiquitous in today’s media environment. However, little is known about how creative media workers come to understand the social norms related to those technologies. Drawing on social influence theory, this study examines formal and informal socialization mechanisms in U.S. newsrooms. It finds that editorial newsworkers express receiving a moderate amount of training on the use of analytics and metrics, which is typically provided by their organization; primarily look to people within the organization, and especially superiors, to understand the social norms; learn about those norms mostly through observation and communication about others’ experiences with the technology rather than their own; and that experiences are influenced by the organizational context and the individual’s position in the editorial hierarchy. This leads to a broader intervention to our understanding of the social structures and individual dispositions that influence how emerging technologies are experienced across organizational and institutional environments.</content:encoded>
-      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Audience analytics and metrics are ubiquitous in today’s media environment. However, little is known about how creative media workers come to understand the social norms related to those technologies. Drawing on social influence theory, this study examines formal and informal socialization mechanisms in U.S. newsrooms. It finds that editorial newsworkers express receiving a moderate amount of training on the use of analytics and metrics, which is typically provided by their organization; primarily look to people within the organization, and especially superiors, to understand the social norms; learn about those norms mostly through observation and communication about others’ experiences with the technology rather than their own; and that experiences are influenced by the organizational context and the individual’s position in the editorial hierarchy. This leads to a broader intervention to our understanding of the social structures and individual dispositions that influence how emerging technologies are experienced across organizational and institutional environments.</description>
-      <dc:title>Constructing audience quantification: Social influences and the development of norms about audience analytics and metrics</dc:title>
-      <dc:identifier>10.1177/1461444819881735</dc:identifier>
-      <dc:source>New Media &amp; Society</dc:source>
-      <dc:date>2019-10-16T01:48:00Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Rodrigo Zamith</dc:creator>
-      <dc:creator>Valerie Belair-Gagnon</dc:creator>
-      <dc:creator>Seth C Lewis</dc:creator>
-      <prism:publicationName>Constructing audience quantification: Social influences and the development of norms about audience analytics and metrics</prism:publicationName>
-      <prism:doi>10.1177/1461444819881735</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819881735?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
 </rdf:RDF>
-<!-- cached:  1596123222-->
+<!-- cached:  1600294050-->

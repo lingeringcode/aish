@@ -14,144 +14,171 @@
       <prism:publicationName>Journal of Technical Writing and Communication</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620923589?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619853266?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619865154?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619873139?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620946307?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620915434?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620913860?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620906128?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620907939?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620906150?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620901484?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619898140?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2020/jtwa_50_3/jtwa_50_3/20200518-01/jtwa_50_3.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2020/jtwa_50_4/jtwa_50_4/20200910-01/jtwa_50_4.cover.png">
       <title>Journal of Technical Writing and Communication</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2020/jtwa_50_3/jtwa_50_3/20200518-01/jtwa_50_3.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2020/jtwa_50_4/jtwa_50_4/20200910-01/jtwa_50_4.cover.png</url>
       <link>https://journals.sagepub.com/loi/jtwa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620923589?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Communicating About COVID-19: Practices for Today, Planning for Tomorrow</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620923589?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, Page 211-223, July 2020. &lt;br/&gt;In times of public health crises, effective information on how to perform daily activities can be central to the stability of local communities. Technical communicators can make important contributions to these situations by developing materials that meet local informational needs. This entry reviews strategies technical communicators can use to address public health challenges on the local level both today and in the future.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 50, Issue 3, Page 211-223, July 2020. &lt;br/&gt;In times of public health crises, effective information on how to perform daily activities can be central to the stability of local communities. Technical communicators can make important contributions to these situations by developing materials that meet local informational needs. This entry reviews strategies technical communicators can use to address public health challenges on the local level both today and in the future.</description>
-      <dc:title>Communicating About COVID-19: Practices for Today, Planning for Tomorrow</dc:title>
-      <dc:identifier>10.1177/0047281620923589</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>What Happens When We Fail? Building Resilient Community-Based Research</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, Page 339-375, October 2020. &lt;br/&gt;This article reports on the second stage of a 7-year community-based research project involving service-learning students in technical and professional communication courses and nonprofit organizations in Baltimore City. The article explains how students and community members overcame failure to collaborate on literacy and employment workshops. To assess collaboration, researchers integrated usability testing on workshop resources with 15 (N = 15) participants, postworkshop questionnaires with 34 (N = 34) participants, and interviews with 2 (N = 2) community partners. Participants responded positively, and 47% of workshop attendees found jobs. The article argues that community-based research should use participatory and iterative models and resilience theory.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 50, Issue 4, Page 339-375, October 2020. &lt;br/&gt;This article reports on the second stage of a 7-year community-based research project involving service-learning students in technical and professional communication courses and nonprofit organizations in Baltimore City. The article explains how students and community members overcame failure to collaborate on literacy and employment workshops. To assess collaboration, researchers integrated usability testing on workshop resources with 15 (N = 15) participants, postworkshop questionnaires with 34 (N = 34) participants, and interviews with 2 (N = 2) community partners. Participants responded positively, and 47% of workshop attendees found jobs. The article argues that community-based research should use participatory and iterative models and resilience theory.</description>
+      <dc:title>What Happens When We Fail? Building Resilient Community-Based Research</dc:title>
+      <dc:identifier>10.1177/0047281619876292</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-05-05T12:57:39Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Kirk St.Amant</dc:creator>
-      <prism:publicationName>Communicating About COVID-19: Practices for Today, Planning for Tomorrow</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>211</prism:startingPage>
-      <prism:endingPage>223</prism:endingPage>
-      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281620923589</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620923589?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619853266?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>High-Impact Civic Engagement: Outcomes of Community-Based Research in Technical Writing Courses</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619853266?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, Page 224-251, July 2020. &lt;br/&gt;This article reports on the first stage of a mixed-methods community-based research project involving residents of a socioeconomically challenged neighborhood in Baltimore City, Richnor Springs, and service-learning students in technical and professional communication courses at Loyola University Maryland (Loyola). To measure outcomes, we analyzed student surveys from 80 respondents and critical reflections from two students. We also analyzed interviews from two students and two community members. Findings indicate that there were no statistical mean differences in the educational experiences between service-learning and nonservice-learning students; however, there were significant mean differences in transformational experiences. Findings also indicate that community members responded positively and that stakeholders valued the personal relationships that developed.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 50, Issue 3, Page 224-251, July 2020. &lt;br/&gt;This article reports on the first stage of a mixed-methods community-based research project involving residents of a socioeconomically challenged neighborhood in Baltimore City, Richnor Springs, and service-learning students in technical and professional communication courses at Loyola University Maryland (Loyola). To measure outcomes, we analyzed student surveys from 80 respondents and critical reflections from two students. We also analyzed interviews from two students and two community members. Findings indicate that there were no statistical mean differences in the educational experiences between service-learning and nonservice-learning students; however, there were significant mean differences in transformational experiences. Findings also indicate that community members responded positively and that stakeholders valued the personal relationships that developed.</description>
-      <dc:title>High-Impact Civic Engagement: Outcomes of Community-Based Research in Technical Writing Courses</dc:title>
-      <dc:identifier>10.1177/0047281619853266</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-06-12T04:24:42Z</dc:date>
+      <dc:date>2019-10-15T07:08:03Z</dc:date>
       <dc:rights>© The Author(s) 2019</dc:rights>
       <dc:creator>Allen Brizee</dc:creator>
-      <dc:creator>Paola Pascual-Ferrá</dc:creator>
-      <dc:creator>Giuliana Caranante</dc:creator>
-      <prism:publicationName>High-Impact Civic Engagement: Outcomes of Community-Based Research in Technical Writing Courses</prism:publicationName>
+      <prism:publicationName>What Happens When We Fail? Building Resilient Community-Based Research</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>224</prism:startingPage>
-      <prism:endingPage>251</prism:endingPage>
-      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619853266</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619853266?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:number>4</prism:number>
+      <prism:startingPage>339</prism:startingPage>
+      <prism:endingPage>375</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281619876292</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619865154?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Writing, in English, for Publication in Science and Technology, and Policy: The Example of Nuclear Security</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619865154?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, Page 252-288, July 2020. &lt;br/&gt;This article considers best practices for writing articles in science, technology, and policy, focusing on writing for international scholarly journals in nuclear security. Its two main audiences are technical communication educators/researchers and internationals wishing to publish their work in English-medium scholarly journals. I discuss publishing scenarios and challenges facing such authors and offer guidelines for producing clear, effective, publishable articles, in English, for international discourse. My approach is based on traditional rhetorical principles, plain language studies, research pursued at nuclear security conferences, feedback from internationals at writing workshops, and my experience as editor of the International Journal of Nuclear Security.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 50, Issue 3, Page 252-288, July 2020. &lt;br/&gt;This article considers best practices for writing articles in science, technology, and policy, focusing on writing for international scholarly journals in nuclear security. Its two main audiences are technical communication educators/researchers and internationals wishing to publish their work in English-medium scholarly journals. I discuss publishing scenarios and challenges facing such authors and offer guidelines for producing clear, effective, publishable articles, in English, for international discourse. My approach is based on traditional rhetorical principles, plain language studies, research pursued at nuclear security conferences, feedback from internationals at writing workshops, and my experience as editor of the International Journal of Nuclear Security.</description>
-      <dc:title>Writing, in English, for Publication in Science and Technology, and Policy: The Example of Nuclear Security</dc:title>
-      <dc:identifier>10.1177/0047281619865154</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, Page 376-400, October 2020. &lt;br/&gt;As people today use information products in contexts with distractions, we need to design for people’s attention. User experience design routinely relies on behavioral design to engage distracted users and nudge them toward specific behavior. Although practiced in user experience design, behavioral design is less known in technical communication. In this article, we use the CHOICES (Context, Habits, Other people, Incentives, Congruence, Emotions, and Salience) framework developed by McKinsey’s Behavioral Lab to introduce students to learn about behavioral design principles that make use of cognitive biases to influence people. We maintain that behavioral design is useful for technical communicators because they create digital assets that are part of the user experience.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 50, Issue 4, Page 376-400, October 2020. &lt;br/&gt;As people today use information products in contexts with distractions, we need to design for people’s attention. User experience design routinely relies on behavioral design to engage distracted users and nudge them toward specific behavior. Although practiced in user experience design, behavioral design is less known in technical communication. In this article, we use the CHOICES (Context, Habits, Other people, Incentives, Congruence, Emotions, and Salience) framework developed by McKinsey’s Behavioral Lab to introduce students to learn about behavioral design principles that make use of cognitive biases to influence people. We maintain that behavioral design is useful for technical communicators because they create digital assets that are part of the user experience.</description>
+      <dc:title>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</dc:title>
+      <dc:identifier>10.1177/0047281619880286</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-07-25T09:14:14Z</dc:date>
+      <dc:date>2019-11-06T09:32:43Z</dc:date>
       <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Russel Hirst</dc:creator>
-      <prism:publicationName>Writing, in English, for Publication in Science and Technology, and Policy: The Example of Nuclear Security</prism:publicationName>
+      <dc:creator>Gustav Verhulsdonck</dc:creator>
+      <dc:creator>Nadya Shalamova</dc:creator>
+      <prism:publicationName>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>252</prism:startingPage>
-      <prism:endingPage>288</prism:endingPage>
-      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619865154</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619865154?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:number>4</prism:number>
+      <prism:startingPage>376</prism:startingPage>
+      <prism:endingPage>400</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281619880286</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619873139?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Beginning With Ganesha: The Founding and Early History of the Society for Technical Communication in India</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619873139?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, Page 289-307, July 2020. &lt;br/&gt;Scholars have given much weight to the question of professional legitimacy in the field of TPC, but much of that focus has been given to practitioners in Euro-Western contexts. However, practitioners in India have also worked to strengthen their own legitimacy in a variety of ways, including by harnessing existing structural mechanisms. This article addresses the founding of the Society for Technical Communication India chapter in 1999 and its subsequent organizational impact as a mechanism toward improving the legitimacy of the field in India. It covers a historical analysis of the founding years of the Society for Technical Communication India chapter and discusses ways that founding members and early participants worked to build their own legitimacy.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 50, Issue 3, Page 289-307, July 2020. &lt;br/&gt;Scholars have given much weight to the question of professional legitimacy in the field of TPC, but much of that focus has been given to practitioners in Euro-Western contexts. However, practitioners in India have also worked to strengthen their own legitimacy in a variety of ways, including by harnessing existing structural mechanisms. This article addresses the founding of the Society for Technical Communication India chapter in 1999 and its subsequent organizational impact as a mechanism toward improving the legitimacy of the field in India. It covers a historical analysis of the founding years of the Society for Technical Communication India chapter and discusses ways that founding members and early participants worked to build their own legitimacy.</description>
-      <dc:title>Beginning With Ganesha: The Founding and Early History of the Society for Technical Communication in India</dc:title>
-      <dc:identifier>10.1177/0047281619873139</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, Page 401-422, October 2020. &lt;br/&gt;Apocalypticism is a powerful brew of eschatological belief and political imagination that is extremely persuasive. This article addresses the intersections between apocalyptic rhetoric and the technical communication of risk, disease outbreak, and disaster preparedness by analyzing the Centers for Disease Control and Prevention’s zombie apocalypse preparedness campaign. Specifically, I argue that the framing of the Centers for Disease Control and Prevention’s campaign relies on and extends problematic iterations of apocalypticism and undermines the educational objectives of disaster preparedness and response. I conclude with suggestions for how technical communicators designing public awareness and outreach campaigns can use existential risk rhetoric for engagement without succumbing to the pernicious side effects of apocalypticism.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 50, Issue 4, Page 401-422, October 2020. &lt;br/&gt;Apocalypticism is a powerful brew of eschatological belief and political imagination that is extremely persuasive. This article addresses the intersections between apocalyptic rhetoric and the technical communication of risk, disease outbreak, and disaster preparedness by analyzing the Centers for Disease Control and Prevention’s zombie apocalypse preparedness campaign. Specifically, I argue that the framing of the Centers for Disease Control and Prevention’s campaign relies on and extends problematic iterations of apocalypticism and undermines the educational objectives of disaster preparedness and response. I conclude with suggestions for how technical communicators designing public awareness and outreach campaigns can use existential risk rhetoric for engagement without succumbing to the pernicious side effects of apocalypticism.</description>
+      <dc:title>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</dc:title>
+      <dc:identifier>10.1177/0047281619892630</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-08-30T01:09:04Z</dc:date>
+      <dc:date>2019-12-07T03:14:52Z</dc:date>
       <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Breeanne Matheson</dc:creator>
-      <prism:publicationName>Beginning With Ganesha: The Founding and Early History of the Society for Technical Communication in India</prism:publicationName>
+      <dc:creator>Ryan Cheek</dc:creator>
+      <prism:publicationName>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>289</prism:startingPage>
-      <prism:endingPage>307</prism:endingPage>
-      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619873139</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619873139?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:number>4</prism:number>
+      <prism:startingPage>401</prism:startingPage>
+      <prism:endingPage>422</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281619892630</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>A Day in the Life: Personas of Professional Communicators at Work</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/3"&gt;Volume 50, Issue 3&lt;/a&gt;, Page 308-335, July 2020. &lt;br/&gt;This article uses personas to illustrate the range of technical communication knowledge work developed through its practitioners—to articulate the functions, characteristics, traits, skills, and workplace styles of positions someone in the field might pursue. Recent research has provided valuable data about the expanding and evolving skill sets of the technical/professional communicator. We build on that by triangulating the data from an analysis of job postings, a survey of technical communicators, and interviews and embedded observations of practitioners to develop personas of technical/professional communicators on the job. The personas can help students, programs, and practitioners understand and navigate the many types of roles that are available in the field.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 50, Issue 3, Page 308-335, July 2020. &lt;br/&gt;This article uses personas to illustrate the range of technical communication knowledge work developed through its practitioners—to articulate the functions, characteristics, traits, skills, and workplace styles of positions someone in the field might pursue. Recent research has provided valuable data about the expanding and evolving skill sets of the technical/professional communicator. We build on that by triangulating the data from an analysis of job postings, a survey of technical communicators, and interviews and embedded observations of practitioners to develop personas of technical/professional communicators on the job. The personas can help students, programs, and practitioners understand and navigate the many types of roles that are available in the field.</description>
-      <dc:title>A Day in the Life: Personas of Professional Communicators at Work</dc:title>
-      <dc:identifier>10.1177/0047281619868723</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Research Video Abstracts in the Making: A Revised Move Analysis</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, Page 423-446, October 2020. &lt;br/&gt;This article reports on a revised move analysis of a video abstract (VA) repository curated by Cell Press. The analysis reveals that the VA displays several distinct core moves, optional moves, and move units. The analysis suggests that albeit evidence being inconclusive due to the sample size, the VA is in effect an emerging genre whose implications for further research and practice are worth discussing. The article also questions the assumed analytic pertinence of move analysis to researching multimodal genres and cautions against the uncritical use of the VAs curated by leading academic publishers and journals in professional training.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 50, Issue 4, Page 423-446, October 2020. &lt;br/&gt;This article reports on a revised move analysis of a video abstract (VA) repository curated by Cell Press. The analysis reveals that the VA displays several distinct core moves, optional moves, and move units. The analysis suggests that albeit evidence being inconclusive due to the sample size, the VA is in effect an emerging genre whose implications for further research and practice are worth discussing. The article also questions the assumed analytic pertinence of move analysis to researching multimodal genres and cautions against the uncritical use of the VAs curated by leading academic publishers and journals in professional training.</description>
+      <dc:title>Research Video Abstracts in the Making: A Revised Move Analysis</dc:title>
+      <dc:identifier>10.1177/0047281619894981</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-09-27T04:45:23Z</dc:date>
+      <dc:date>2019-12-18T04:43:57Z</dc:date>
       <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Eva Brumberger</dc:creator>
-      <dc:creator>Claire Lauer</dc:creator>
-      <prism:publicationName>A Day in the Life: Personas of Professional Communicators at Work</prism:publicationName>
+      <dc:creator>Jianxin Liu</dc:creator>
+      <prism:publicationName>Research Video Abstracts in the Making: A Revised Move Analysis</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>308</prism:startingPage>
-      <prism:endingPage>335</prism:endingPage>
-      <prism:coverDate>2020-07-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-07-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619868723</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619868723?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:number>4</prism:number>
+      <prism:startingPage>423</prism:startingPage>
+      <prism:endingPage>446</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281619894981</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Walton, R., Moore, K. R., &amp; Jones, N. N. (2019). Technical Communication After the Social Justice Turn: Building Coalitions for Action</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, Page 447-452, October 2020. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 50, Issue 4, Page 447-452, October 2020. &lt;br/&gt;</description>
+      <dc:title>Walton, R., Moore, K. R., &amp; Jones, N. N. (2019). Technical Communication After the Social Justice Turn: Building Coalitions for Action</dc:title>
+      <dc:identifier>10.1177/0047281620906132</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2020-02-17T06:47:24Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Keshab R. Acharya</dc:creator>
+      <prism:publicationName>Walton, R., Moore, K. R., &amp; Jones, N. N. (2019). Technical Communication After the Social Justice Turn: Building Coalitions for Action</prism:publicationName>
+      <prism:volume>50</prism:volume>
+      <prism:number>4</prism:number>
+      <prism:startingPage>447</prism:startingPage>
+      <prism:endingPage>452</prism:endingPage>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281620906132</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620946307?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“Let me heare … if thou canst say”: The Utility of the Prayer Book Catechism (1549–1604)</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620946307?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article explores the catechism in the Book of Common Prayer, shedding light on the emergence of instructional writing from oral instruction. The 1549 text evinces qualities of preliterate oral communication identified by Ong. By contrast, the 1604 addendum reveals a trend toward modern plain style, which is even more pronounced in the 1647 Westminster Shorter Catechism. The evidence indicates the oral features were useful to the text’s technical aims. What Ramist plain style gains in precision and objectivity comes at the cost of other useful features, such as reiteration, contextualization, and agonism, which (in Tannen's phrase) involve a greater relative focus on interpersonal involvement between speaker and auditor/ reader.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article explores the catechism in the Book of Common Prayer, shedding light on the emergence of instructional writing from oral instruction. The 1549 text evinces qualities of preliterate oral communication identified by Ong. By contrast, the 1604 addendum reveals a trend toward modern plain style, which is even more pronounced in the 1647 Westminster Shorter Catechism. The evidence indicates the oral features were useful to the text’s technical aims. What Ramist plain style gains in precision and objectivity comes at the cost of other useful features, such as reiteration, contextualization, and agonism, which (in Tannen's phrase) involve a greater relative focus on interpersonal involvement between speaker and auditor/ reader.</description>
+      <dc:title>“Let me heare … if thou canst say”: The Utility of the Prayer Book Catechism (1549–1604)</dc:title>
+      <dc:identifier>10.1177/0047281620946307</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2020-08-16T04:40:13Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Drew N. Keane</dc:creator>
+      <prism:publicationName>“Let me heare … if thou canst say”: The Utility of the Prayer Book Catechism (1549–1604)</prism:publicationName>
+      <prism:doi>10.1177/0047281620946307</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620946307?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Boundary Work and Boundary Objects: Synthesizing Two Concepts for Moments of Controversy</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;There are two boundary concepts utilized in technical and professional communication (TPC) scholarship: boundary work and, to a lesser degree, boundary objects. Boundary work functions to demarcate, incorporate, and expel particular ideas, groups, and practices from a field or profession. Boundary objects enhance the capacity of ideas, practices, and theories to translate across different groups. Together, these concepts are useful to TPC scholars interested in moments of controversy. In this essay, I explore the dialectical relationship between these two concepts and apply the resulting synthesis to a contemporary case study, the use of fecal microbiota transplants. I argue that the human microbiome functions as a boundary object and opens space within medicine’s own boundary work for the inclusion of fecal microbiota transplants. Together, the dialectical concepts of boundary work and boundary object create a new kind of analytic that allows TPC scholars to map boundary transformations, recognize moments for intervention, and create strategies for collaboration.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;There are two boundary concepts utilized in technical and professional communication (TPC) scholarship: boundary work and, to a lesser degree, boundary objects. Boundary work functions to demarcate, incorporate, and expel particular ideas, groups, and practices from a field or profession. Boundary objects enhance the capacity of ideas, practices, and theories to translate across different groups. Together, these concepts are useful to TPC scholars interested in moments of controversy. In this essay, I explore the dialectical relationship between these two concepts and apply the resulting synthesis to a contemporary case study, the use of fecal microbiota transplants. I argue that the human microbiome functions as a boundary object and opens space within medicine’s own boundary work for the inclusion of fecal microbiota transplants. Together, the dialectical concepts of boundary work and boundary object create a new kind of analytic that allows TPC scholars to map boundary transformations, recognize moments for intervention, and create strategies for collaboration.</description>
+      <dc:title>Boundary Work and Boundary Objects: Synthesizing Two Concepts for Moments of Controversy</dc:title>
+      <dc:identifier>10.1177/0047281620947355</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2020-08-12T03:48:52Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Jessica R. Houf</dc:creator>
+      <prism:publicationName>Boundary Work and Boundary Objects: Synthesizing Two Concepts for Moments of Controversy</prism:publicationName>
+      <prism:doi>10.1177/0047281620947355</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Student Social Media Self-Evaluation: Addressing the Posting Paradox in the Age of Cybervetting</title>
@@ -252,22 +279,6 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620906150?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Walton, R., Moore, K. R., &amp; Jones, N. N. (2019). Technical Communication After the Social Justice Turn: Building Coalitions for Action</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Walton, R., Moore, K. R., &amp; Jones, N. N. (2019). Technical Communication After the Social Justice Turn: Building Coalitions for Action</dc:title>
-      <dc:identifier>10.1177/0047281620906132</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-02-17T06:47:24Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Keshab R. Acharya</dc:creator>
-      <prism:publicationName>Walton, R., Moore, K. R., &amp; Jones, N. N. (2019). Technical Communication After the Social Justice Turn: Building Coalitions for Action</prism:publicationName>
-      <prism:doi>10.1177/0047281620906132</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620901484?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>“Subjects” in and of Research: Decolonizing Oppressive Rhetorical Practices in Technical Communication Research</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620901484?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
@@ -303,70 +314,5 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619898140?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Research Video Abstracts in the Making: A Revised Move Analysis</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Research Video Abstracts in the Making: A Revised Move Analysis</dc:title>
-      <dc:identifier>10.1177/0047281619894981</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-12-18T04:43:57Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Jianxin Liu</dc:creator>
-      <prism:publicationName>Research Video Abstracts in the Making: A Revised Move Analysis</prism:publicationName>
-      <prism:doi>10.1177/0047281619894981</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</dc:title>
-      <dc:identifier>10.1177/0047281619892630</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-12-07T03:14:52Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Ryan Cheek</dc:creator>
-      <prism:publicationName>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</prism:publicationName>
-      <prism:doi>10.1177/0047281619892630</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</dc:title>
-      <dc:identifier>10.1177/0047281619880286</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-11-06T09:32:43Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Gustav Verhulsdonck</dc:creator>
-      <dc:creator>Nadya Shalamova</dc:creator>
-      <prism:publicationName>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</prism:publicationName>
-      <prism:doi>10.1177/0047281619880286</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>What Happens When We Fail? Building Resilient Community-Based Research</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>What Happens When We Fail? Building Resilient Community-Based Research</dc:title>
-      <dc:identifier>10.1177/0047281619876292</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-10-15T07:08:03Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Allen Brizee</dc:creator>
-      <prism:publicationName>What Happens When We Fail? Building Resilient Community-Based Research</prism:publicationName>
-      <prism:doi>10.1177/0047281619876292</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
 </rdf:RDF>
-<!-- cached:  1596123219-->
+<!-- cached:  1600294045-->
