@@ -14,220 +14,198 @@
       <prism:publicationName>Rhetoric Society Quarterly</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785822?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748217?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748218?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748219?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748216?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748215?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785819?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785820?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785821?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813321?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813324?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813322?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813323?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1814397?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817687?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817688?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817689?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i04/rrsq20.v050.i04/20200812-01/rrsq20.v050.i04.cover.jpg">
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i05/rrsq20.v050.i05/20201013-01/rrsq20.v050.i05.cover.jpg">
       <title>Rhetoric Society Quarterly</title>
-      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i04/rrsq20.v050.i04/20200812-01/rrsq20.v050.i04.cover.jpg</url>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i05/rrsq20.v050.i05/20201013-01/rrsq20.v050.i05.cover.jpg</url>
       <link>https://www.tandfonline.com/loi/rrsq20?af=R</link>
    </image>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785822?af=R">
-      <title>Editor’s Message</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785822?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, August 2020, Page 223-224&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 4, August 2020, Page 223-224&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Editor’s Message</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1785822</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813321?af=R">
+      <title>“Sharing a World with Others”: Rhetoric’s Ecological Turn and the Transformation of the Networked Public Sphere</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813321?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 305-320&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 5, October 2020, Page 305-320&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>“Sharing a World with Others”: Rhetoric’s Ecological Turn and the Transformation of the Networked Public Sphere</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1813321</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-08-12T05:22:30Z</dc:date>
+      <dc:date>2020-09-25T09:03:50Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Jacqueline Rhodes</dc:creator>
-      <prism:publicationName>Editor’s Message</prism:publicationName>
+      <dc:creator>Dan Ehrenfeld</dc:creator>
+      <prism:publicationName>“Sharing a World with Others”: Rhetoric’s Ecological Turn and the Transformation of the Networked Public Sphere</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>223</prism:startingPage>
-      <prism:endingPage>224</prism:endingPage>
-      <prism:coverDate>2020-08-07T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-07T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1785822</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785822?af=R</prism:url>
+      <prism:number>5</prism:number>
+      <prism:startingPage>305</prism:startingPage>
+      <prism:endingPage>320</prism:endingPage>
+      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1813321</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813321?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748217?af=R">
-      <title>Divergence and Diplomacy as a Pluriversal Rhetorical Praxis of Coalitional Politics</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748217?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, August 2020, Page 225-239&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 4, August 2020, Page 225-239&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Divergence and Diplomacy as a Pluriversal Rhetorical Praxis of Coalitional Politics</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1748217</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813324?af=R">
+      <title>Walleye Wars and Pedagogical Management: Cooperative Rhetorics of Responsibility in Response to Settler Colonialism</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813324?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 321-334&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 5, October 2020, Page 321-334&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Walleye Wars and Pedagogical Management: Cooperative Rhetorics of Responsibility in Response to Settler Colonialism</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1813324</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-06-18T07:20:45Z</dc:date>
+      <dc:date>2020-09-25T09:19:44Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Kenneth Walker</dc:creator>
-      <prism:publicationName>Divergence and Diplomacy as a Pluriversal Rhetorical Praxis of Coalitional Politics</prism:publicationName>
+      <dc:creator>John Koban</dc:creator>
+      <prism:publicationName>Walleye Wars and Pedagogical Management: Cooperative Rhetorics of Responsibility in Response to Settler Colonialism</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>225</prism:startingPage>
-      <prism:endingPage>239</prism:endingPage>
-      <prism:coverDate>2020-08-07T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-07T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1748217</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748217?af=R</prism:url>
+      <prism:number>5</prism:number>
+      <prism:startingPage>321</prism:startingPage>
+      <prism:endingPage>334</prism:endingPage>
+      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1813324</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813324?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748218?af=R">
-      <title>Activist Rhetoric in Transnational Cyber-Public Spaces: Toward a Comparative Materialist Approach</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748218?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, August 2020, Page 240-253&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 4, August 2020, Page 240-253&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Activist Rhetoric in Transnational Cyber-Public Spaces: Toward a Comparative Materialist Approach</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1748218</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813322?af=R">
+      <title>Creating Space for Black Women’s Citizenship: African American Suffrage Arguments in the Crisis</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813322?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 335-351&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 5, October 2020, Page 335-351&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Creating Space for Black Women’s Citizenship: African American Suffrage Arguments in the Crisis</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1813322</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-06-22T06:20:09Z</dc:date>
+      <dc:date>2020-09-30T08:11:31Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Zhaozhe Wang</dc:creator>
-      <prism:publicationName>Activist Rhetoric in Transnational Cyber-Public Spaces: Toward a Comparative Materialist Approach</prism:publicationName>
+      <dc:creator>David Gold</dc:creator>
+      <prism:publicationName>Creating Space for Black Women’s Citizenship: African American Suffrage Arguments in the Crisis</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>240</prism:startingPage>
-      <prism:endingPage>253</prism:endingPage>
-      <prism:coverDate>2020-08-07T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-07T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1748218</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748218?af=R</prism:url>
+      <prism:number>5</prism:number>
+      <prism:startingPage>335</prism:startingPage>
+      <prism:endingPage>351</prism:endingPage>
+      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1813322</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813322?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748219?af=R">
-      <title>The Good Man Shooting Well: Authoritarian Submission and Aggression in the “Gun-Citizen”</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748219?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, August 2020, Page 254-267&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 4, August 2020, Page 254-267&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>The Good Man Shooting Well: Authoritarian Submission and Aggression in the “Gun-Citizen”</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1748219</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813323?af=R">
+      <title>The Moving Boundaries of Bears Ears: Ecological Rhetorics and the Shrinking of a Monument</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813323?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 352-367&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 5, October 2020, Page 352-367&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The Moving Boundaries of Bears Ears: Ecological Rhetorics and the Shrinking of a Monument</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1813323</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-06-12T08:38:06Z</dc:date>
+      <dc:date>2020-09-25T09:17:43Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Daniel A. Cryer</dc:creator>
-      <prism:publicationName>The Good Man Shooting Well: Authoritarian Submission and Aggression in the “Gun-Citizen”</prism:publicationName>
+      <dc:creator>Joshua Smith</dc:creator>
+      <prism:publicationName>The Moving Boundaries of Bears Ears: Ecological Rhetorics and the Shrinking of a Monument</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>254</prism:startingPage>
-      <prism:endingPage>267</prism:endingPage>
-      <prism:coverDate>2020-08-07T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-07T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1748219</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748219?af=R</prism:url>
+      <prism:number>5</prism:number>
+      <prism:startingPage>352</prism:startingPage>
+      <prism:endingPage>367</prism:endingPage>
+      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1813323</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813323?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748216?af=R">
-      <title>A Rhetoric of Walking and Reading: Immersion in Environmental Ambient Literature</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748216?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, August 2020, Page 268-282&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 4, August 2020, Page 268-282&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>A Rhetoric of Walking and Reading: Immersion in Environmental Ambient Literature</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1748216</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1814397?af=R">
+      <title>Precarious Data: Affect, Infrastructure, and Public Education</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1814397?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 368-382&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 5, October 2020, Page 368-382&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Precarious Data: Affect, Infrastructure, and Public Education</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1814397</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-06-12T08:34:57Z</dc:date>
+      <dc:date>2020-09-24T04:33:42Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Lili Pâquet</dc:creator>
-      <prism:publicationName>A Rhetoric of Walking and Reading: Immersion in Environmental Ambient Literature</prism:publicationName>
+      <dc:creator>Nathan R. Johnson</dc:creator>
+      <dc:creator>Meredith A. Johnson</dc:creator>
+      <prism:publicationName>Precarious Data: Affect, Infrastructure, and Public Education</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>268</prism:startingPage>
-      <prism:endingPage>282</prism:endingPage>
-      <prism:coverDate>2020-08-07T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-07T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1748216</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748216?af=R</prism:url>
+      <prism:number>5</prism:number>
+      <prism:startingPage>368</prism:startingPage>
+      <prism:endingPage>382</prism:endingPage>
+      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1814397</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1814397?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748215?af=R">
-      <title>Engendering Progress, Contesting Narratives: Women’s Labor Rhetorics at the 1907 Chicago Industrial Exhibit</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748215?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, August 2020, Page 283-296&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 4, August 2020, Page 283-296&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Engendering Progress, Contesting Narratives: Women’s Labor Rhetorics at the 1907 Chicago Industrial Exhibit</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1748215</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817687?af=R">
+      <title>Surrender: Feminist Rhetoric and Ethics in Love and Illness</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817687?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 383-385&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 5, October 2020, Page 383-385&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Surrender: Feminist Rhetoric and Ethics in Love and Illness</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1817687</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-07-01T02:34:31Z</dc:date>
+      <dc:date>2020-09-23T05:58:04Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Liane Malinowski</dc:creator>
-      <prism:publicationName>Engendering Progress, Contesting Narratives: Women’s Labor Rhetorics at the 1907 Chicago Industrial Exhibit</prism:publicationName>
+      <dc:creator>Tasha Dubriwny</dc:creator>
+      <prism:publicationName>Surrender: Feminist Rhetoric and Ethics in Love and Illness</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>283</prism:startingPage>
-      <prism:endingPage>296</prism:endingPage>
-      <prism:coverDate>2020-08-07T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-07T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1748215</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1748215?af=R</prism:url>
+      <prism:number>5</prism:number>
+      <prism:startingPage>383</prism:startingPage>
+      <prism:endingPage>385</prism:endingPage>
+      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1817687</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817687?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785819?af=R">
-      <title>Not One More! Feminicidio on the Border, by Nina Maria Lozano</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785819?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, August 2020, Page 297-299&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 4, August 2020, Page 297-299&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Not One More! Feminicidio on the Border, by Nina Maria Lozano</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1785819</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817688?af=R">
+      <title>Rhet-Ops: Rhetoric and Information Warfare</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817688?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 385-387&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 5, October 2020, Page 385-387&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Rhet-Ops: Rhetoric and Information Warfare</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1817688</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-07-22T04:03:11Z</dc:date>
+      <dc:date>2020-09-23T05:59:51Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Diana Isabel Martínez</dc:creator>
-      <prism:publicationName>Not One More! Feminicidio on the Border, by Nina Maria Lozano</prism:publicationName>
+      <dc:creator>Jeremy Johnson</dc:creator>
+      <prism:publicationName>Rhet-Ops: Rhetoric and Information Warfare</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>297</prism:startingPage>
-      <prism:endingPage>299</prism:endingPage>
-      <prism:coverDate>2020-08-07T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-07T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1785819</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785819?af=R</prism:url>
+      <prism:number>5</prism:number>
+      <prism:startingPage>385</prism:startingPage>
+      <prism:endingPage>387</prism:endingPage>
+      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1817688</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817688?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785820?af=R">
-      <title>Rhetorics Elsewhere and Otherwise: Contested Modernities, Decolonial Visions, edited by Romeo García and Damián Baca</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785820?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, August 2020, Page 299-302&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 4, August 2020, Page 299-302&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Rhetorics Elsewhere and Otherwise: Contested Modernities, Decolonial Visions, edited by Romeo García and Damián Baca</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1785820</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817689?af=R">
+      <title>Queering Romantic Engagement in the Postal Age: A Rhetorical Education</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817689?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 387-389&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 50, Issue 5, October 2020, Page 387-389&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Queering Romantic Engagement in the Postal Age: A Rhetorical Education</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1817689</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-07-22T04:04:44Z</dc:date>
+      <dc:date>2020-09-23T06:02:52Z</dc:date>
       <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Jason Edward Black</dc:creator>
-      <prism:publicationName>Rhetorics Elsewhere and Otherwise: Contested Modernities, Decolonial Visions, edited by Romeo García and Damián Baca</prism:publicationName>
+      <dc:creator>Erin J. Rand</dc:creator>
+      <prism:publicationName>Queering Romantic Engagement in the Postal Age: A Rhetorical Education</prism:publicationName>
       <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>299</prism:startingPage>
-      <prism:endingPage>302</prism:endingPage>
-      <prism:coverDate>2020-08-07T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-07T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1785820</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785820?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785821?af=R">
-      <title>Down to Earth: Politics in the New Climactic Regime, by Bruno Latour, trans. Catherine Porter</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785821?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, August 2020, Page 302-304&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 4, August 2020, Page 302-304&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Down to Earth: Politics in the New Climactic Regime, by Bruno Latour, trans. Catherine Porter</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1785821</dc:identifier>
-      <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-08-12T05:22:28Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Tyler Champine</dc:creator>
-      <prism:publicationName>Down to Earth: Politics in the New Climactic Regime, by Bruno Latour, trans. Catherine Porter</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>302</prism:startingPage>
-      <prism:endingPage>304</prism:endingPage>
-      <prism:coverDate>2020-08-07T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-08-07T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1785821</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1785821?af=R</prism:url>
+      <prism:number>5</prism:number>
+      <prism:startingPage>387</prism:startingPage>
+      <prism:endingPage>389</prism:endingPage>
+      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2020.1817689</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817689?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1600294049-->
+<!-- cached:  1604594207-->

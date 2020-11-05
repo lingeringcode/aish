@@ -18,6 +18,7 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320938794?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320939542?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320939541?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320964766?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320944918?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
@@ -118,6 +119,22 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320939541?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2020 SAGE Publications</prism:copyright>
    </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320964766?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“Helping Me Learn New Things Every Day”: The Power of Community College Students’ Writing Across Genres</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320964766?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Although community colleges are important entry points into higher education for many American students, few studies have investigated how community college students engage with different genres or develop genre knowledge. Even fewer have connected students’ genre knowledge to their academic performance. The present article discusses how 104 ethnically, culturally, and linguistically diverse students reported on classroom genre experiences and wrote stories about college across three narrative genres (Letter, Best Experience, Worst Experience). Findings suggest that students’ engagement with classroom genres in community college helped them develop rhetorical reading and writing skills. When students wrote about their college lives across narrative genres, they reflected on higher education in varied ways to achieve differing sociocultural goals with distinct audiences. Finally, students’ experience with classroom and narrative genres predicted their GPA, implying that students’ genre knowledge signals and influences their academic success. These findings demonstrate how diverse students attending community college can use genres as resources to further their social and academic development.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Although community colleges are important entry points into higher education for many American students, few studies have investigated how community college students engage with different genres or develop genre knowledge. Even fewer have connected students’ genre knowledge to their academic performance. The present article discusses how 104 ethnically, culturally, and linguistically diverse students reported on classroom genre experiences and wrote stories about college across three narrative genres (Letter, Best Experience, Worst Experience). Findings suggest that students’ engagement with classroom genres in community college helped them develop rhetorical reading and writing skills. When students wrote about their college lives across narrative genres, they reflected on higher education in varied ways to achieve differing sociocultural goals with distinct audiences. Finally, students’ experience with classroom and narrative genres predicted their GPA, implying that students’ genre knowledge signals and influences their academic success. These findings demonstrate how diverse students attending community college can use genres as resources to further their social and academic development.</description>
+      <dc:title>“Helping Me Learn New Things Every Day”: The Power of Community College Students’ Writing Across Genres</dc:title>
+      <dc:identifier>10.1177/0741088320964766</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2020-10-16T10:58:45Z</dc:date>
+      <dc:rights>© 2020 SAGE Publications</dc:rights>
+      <dc:creator>Tanzina Ahmed</dc:creator>
+      <prism:publicationName>“Helping Me Learn New Things Every Day”: The Power of Community College Students’ Writing Across Genres</prism:publicationName>
+      <prism:doi>10.1177/0741088320964766</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320964766?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
+   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320944918?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>The Opioid Epidemic and the Pursuit of Moral Medicine: A Computational-Rhetorical Analysis</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320944918?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
@@ -135,4 +152,4 @@
       <prism:copyright>© 2020 SAGE Publications</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1600294045-->
+<!-- cached:  1604594206-->

@@ -22,6 +22,10 @@
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713405?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774659?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689090?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831614?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1829072?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831615?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1823485?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804619?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803413?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803989?af=R"/>
@@ -234,6 +238,79 @@
       <prism:doi>10.1080/10572252.2019.1689090</prism:doi>
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689090?af=R</prism:url>
       <prism:copyright>© 2019 Theresa N. Walsh</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831614?af=R">
+      <title>Queer Usability</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831614?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Queer Usability</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1831614</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-10-31T05:14:47Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Mari E. Ramler</dc:creator>
+      <prism:publicationName>Queer Usability</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1831614</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831614?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1829072?af=R">
+      <title>“Are You Authorized to Work in the U.S.?” Investigating “Inclusive” Practices in Rhetoric and Technical Communication Job Descriptions</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1829072?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>“Are You Authorized to Work in the U.S.?” Investigating “Inclusive” Practices in Rhetoric and Technical Communication Job Descriptions</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1829072</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-10-21T06:42:08Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Josephine Walwema</dc:creator>
+      <dc:creator>Felicita Arzu Carmichael</dc:creator>
+      <prism:publicationName>“Are You Authorized to Work in the U.S.?” Investigating “Inclusive” Practices in Rhetoric and Technical Communication Job Descriptions</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1829072</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1829072?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831615?af=R">
+      <title>Resistance as Participation: Queer Theory’s Applications for HIV Health Technology Design</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831615?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Resistance as Participation: Queer Theory’s Applications for HIV Health Technology Design</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1831615</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-10-19T03:56:24Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>McKinley Green</dc:creator>
+      <prism:publicationName>Resistance as Participation: Queer Theory’s Applications for HIV Health Technology Design</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1831615</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831615?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1823485?af=R">
+      <title>The Rhetoric of Online Exclusive Pumping Communities: Tactical Technical Communication as Eschewing Judgment</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1823485?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The Rhetoric of Online Exclusive Pumping Communities: Tactical Technical Communication as Eschewing Judgment</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1823485</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-10-11T11:59:45Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Jessica McCaughey</dc:creator>
+      <prism:publicationName>The Rhetoric of Online Exclusive Pumping Communities: Tactical Technical Communication as Eschewing Judgment</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1823485</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1823485?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
    </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804619?af=R">
       <title>Engaging Design Thinking and Making in Technical and Professional Communication Pedagogy</title>
@@ -495,4 +572,4 @@
       <prism:copyright>© 2019 Erin Kathleen Bahl</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1600294047-->
+<!-- cached:  1604594206-->
