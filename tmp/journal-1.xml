@@ -14,186 +14,355 @@
       <prism:publicationName>Journal of Business and Technical Communication</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932192?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932191?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932198?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932171?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932180?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920932182?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920963439?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959201?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958506?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958505?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958502?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959208?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959194?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959188?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959210?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959192?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959190?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959187?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959191?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959189?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959185?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958507?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958394?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958505?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958504?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958506?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958507?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958502?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958500?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958392?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920957982?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920958394?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920963439?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959188?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959187?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959191?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959192?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959194?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959201?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959189?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959190?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959185?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1050651920959210?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2020/jbtb_34_4/jbtb_34_4/20200717/jbtb_34_4.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2021/jbtb_35_1/jbtb_35_1/20201117/jbtb_35_1.cover.png">
       <title>Journal of Business and Technical Communication</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2020/jbtb_34_4/jbtb_34_4/20200717/jbtb_34_4.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2021/jbtb_35_1/jbtb_35_1/20201117/jbtb_35_1.cover.png</url>
       <link>https://journals.sagepub.com/loi/jbtb?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920932192?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Inductively Versus Deductively Structured Product Descriptions: Effects on Chinese and Western Readers</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920932192?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/4"&gt;Volume 34, Issue 4&lt;/a&gt;, Page 335-363, October 2020. &lt;br/&gt;This study examines the effects of inductively versus deductively organized product descriptions on Chinese and Western readers. It uses a 2 × 3 experimental design with text structure (inductive versus deductive) and cultural background (Chinese living in China, Chinese living in the Netherlands, and Westerners) as independent variables and recall, reading time, and readers’ opinions as dependent variables. Participants read a product description that explained two refrigerator types and then recommended which one to purchase. The results showed that Chinese readers rated readability and persuasiveness higher when the text was structured inductively whereas Western readers rated these aspects equally high for the inductively and deductively structured text. The results suggest that culturally preferred organizing principles do not affect readers’ ability to read and understand texts but that these principles might affect their opinions about the texts.</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 34, Issue 4, Page 335-363, October 2020. &lt;br/&gt;This study examines the effects of inductively versus deductively organized product descriptions on Chinese and Western readers. It uses a 2 × 3 experimental design with text structure (inductive versus deductive) and cultural background (Chinese living in China, Chinese living in the Netherlands, and Westerners) as independent variables and recall, reading time, and readers’ opinions as dependent variables. Participants read a product description that explained two refrigerator types and then recommended which one to purchase. The results showed that Chinese readers rated readability and persuasiveness higher when the text was structured inductively whereas Western readers rated these aspects equally high for the inductively and deductively structured text. The results suggest that culturally preferred organizing principles do not affect readers’ ability to read and understand texts but that these principles might affect their opinions about the texts.</description>
-      <dc:title>Inductively Versus Deductively Structured Product Descriptions: Effects on Chinese and Western Readers</dc:title>
-      <dc:identifier>10.1177/1050651920932192</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959208?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Introduction to Business and Technical Communication and COVID-19: Communicating in Times of Crisis</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959208?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 1-6, January 2021. &lt;br/&gt;</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 1-6, January 2021. &lt;br/&gt;</description>
+      <dc:title>Introduction to Business and Technical Communication and COVID-19: Communicating in Times of Crisis</dc:title>
+      <dc:identifier>10.1177/1050651920959208</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-06-24T09:34:11Z</dc:date>
+      <dc:date>2020-09-21T10:11:16Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Qian Li</dc:creator>
-      <dc:creator>Joyce Karreman</dc:creator>
-      <dc:creator>Menno D. T. de Jong</dc:creator>
-      <prism:publicationName>Inductively Versus Deductively Structured Product Descriptions: Effects on Chinese and Western Readers</prism:publicationName>
-      <prism:volume>34</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>335</prism:startingPage>
-      <prism:endingPage>363</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1050651920932192</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920932192?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Jordan Frith</dc:creator>
+      <prism:publicationName>Introduction to Business and Technical Communication and COVID-19: Communicating in Times of Crisis</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>6</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920959208</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959208?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920932191?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>How Large Information Technology Companies Use Twitter: Arrangement of Corporate Accounts and Characteristics of Tweets</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920932191?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/4"&gt;Volume 34, Issue 4&lt;/a&gt;, Page 364-392, October 2020. &lt;br/&gt;Twitter is widely used by companies to reach various stakeholders, but how they use this social media platform is still unclear. To investigate how companies use Twitter, this study analyzes the content of the Twitter accounts of four large information technology companies, focusing on the arrangement of different Twitter accounts and on message characteristics (content, message elements, and communication strategies). The results show that companies used architectures of different Twitter accounts to serve various stakeholder groups. The companies’ tweets covered diverse topics within the corporate, marketing, and technical communication domains. The tweets focused more on providing information and promoting action than on facilitating dialogue.</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 34, Issue 4, Page 364-392, October 2020. &lt;br/&gt;Twitter is widely used by companies to reach various stakeholders, but how they use this social media platform is still unclear. To investigate how companies use Twitter, this study analyzes the content of the Twitter accounts of four large information technology companies, focusing on the arrangement of different Twitter accounts and on message characteristics (content, message elements, and communication strategies). The results show that companies used architectures of different Twitter accounts to serve various stakeholder groups. The companies’ tweets covered diverse topics within the corporate, marketing, and technical communication domains. The tweets focused more on providing information and promoting action than on facilitating dialogue.</description>
-      <dc:title>How Large Information Technology Companies Use Twitter: Arrangement of Corporate Accounts and Characteristics of Tweets</dc:title>
-      <dc:identifier>10.1177/1050651920932191</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958505?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Misinformation Inoculation and Literacy Support Tweetorials on COVID-19</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958505?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 7-14, January 2021. &lt;br/&gt;Many expected federal public health agencies to provide timely and accurate information about the COVID-19 pandemic. That did not happen. In response, physicians and epidemiologists have explored new ways to educate the public about COVID-19 and protect against misinformation. One genre that has received significant uptake is the tweetorial, threaded tweets that educate followers on technical matters. This article builds on prior genre studies of the tweetorial to explore how #MedTwitter and #EpiTwitter communities have refashioned the emerging conventions of the tweetorial as part of efforts to protect the public from COVID-19 misinformation.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 7-14, January 2021. &lt;br/&gt;Many expected federal public health agencies to provide timely and accurate information about the COVID-19 pandemic. That did not happen. In response, physicians and epidemiologists have explored new ways to educate the public about COVID-19 and protect against misinformation. One genre that has received significant uptake is the tweetorial, threaded tweets that educate followers on technical matters. This article builds on prior genre studies of the tweetorial to explore how #MedTwitter and #EpiTwitter communities have refashioned the emerging conventions of the tweetorial as part of efforts to protect the public from COVID-19 misinformation.</description>
+      <dc:title>Misinformation Inoculation and Literacy Support Tweetorials on COVID-19</dc:title>
+      <dc:identifier>10.1177/1050651920958505</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-06-22T10:09:48Z</dc:date>
+      <dc:date>2020-09-22T10:02:27Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Shu Zhang</dc:creator>
-      <dc:creator>Jordy F. Gosselt</dc:creator>
-      <dc:creator>Menno D. T. de Jong</dc:creator>
-      <prism:publicationName>How Large Information Technology Companies Use Twitter: Arrangement of Corporate Accounts and Characteristics of Tweets</prism:publicationName>
-      <prism:volume>34</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>364</prism:startingPage>
-      <prism:endingPage>392</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1050651920932191</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920932191?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>S. Scott Graham</dc:creator>
+      <prism:publicationName>Misinformation Inoculation and Literacy Support Tweetorials on COVID-19</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>7</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958505</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958505?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920932198?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Legally Minded Technical Communicators: A Case Study of a Legal Writing Course</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920932198?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/4"&gt;Volume 34, Issue 4&lt;/a&gt;, Page 393-414, October 2020. &lt;br/&gt;Understanding the law and its impact on the practice of technical communication has been an important scholarly thread in technical and professional communication (TPC) for more than two decades. Technical communicators recognize the impact of their work on stakeholders as well as the potential liability issues associated with composing technical communication documents. While this scholarship is widespread, relatively few pedagogical resources are available to prepare students for success in a litigious world or to guide instructors in teaching legal writing. This article offers a case study of a legal writing course that prepares TPC students to develop legal literacy and succeed in the workplace.</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 34, Issue 4, Page 393-414, October 2020. &lt;br/&gt;Understanding the law and its impact on the practice of technical communication has been an important scholarly thread in technical and professional communication (TPC) for more than two decades. Technical communicators recognize the impact of their work on stakeholders as well as the potential liability issues associated with composing technical communication documents. While this scholarship is widespread, relatively few pedagogical resources are available to prepare students for success in a litigious world or to guide instructors in teaching legal writing. This article offers a case study of a legal writing course that prepares TPC students to develop legal literacy and succeed in the workplace.</description>
-      <dc:title>Legally Minded Technical Communicators: A Case Study of a Legal Writing Course</dc:title>
-      <dc:identifier>10.1177/1050651920932198</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958504?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Managing Gender Care in Precarity: Trans Communities Respond to COVID-19</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958504?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 15-21, January 2021. &lt;br/&gt;Transgender (trans) people always already live with health care precarity, particularly concerning gender transition. During a pandemic, this precarity is heightened. Trans people find themselves without access to necessary cross-sex hormones or isolated with unaccepting or hostile family members. As a result, some engage in tactical technical communication, using the Internet to source knowledge and supplies to manage their transition. This article analyzes these do-it-yourself forms of tactical technical communication that support gender transition in the time of COVID-19.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 15-21, January 2021. &lt;br/&gt;Transgender (trans) people always already live with health care precarity, particularly concerning gender transition. During a pandemic, this precarity is heightened. Trans people find themselves without access to necessary cross-sex hormones or isolated with unaccepting or hostile family members. As a result, some engage in tactical technical communication, using the Internet to source knowledge and supplies to manage their transition. This article analyzes these do-it-yourself forms of tactical technical communication that support gender transition in the time of COVID-19.</description>
+      <dc:title>Managing Gender Care in Precarity: Trans Communities Respond to COVID-19</dc:title>
+      <dc:identifier>10.1177/1050651920958504</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-06-24T09:35:39Z</dc:date>
+      <dc:date>2020-09-11T02:52:25Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Godwin Y. Agboka</dc:creator>
-      <prism:publicationName>Legally Minded Technical Communicators: A Case Study of a Legal Writing Course</prism:publicationName>
-      <prism:volume>34</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>393</prism:startingPage>
-      <prism:endingPage>414</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1050651920932198</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920932198?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Avery C. Edenfield</dc:creator>
+      <prism:publicationName>Managing Gender Care in Precarity: Trans Communities Respond to COVID-19</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>15</prism:startingPage>
+      <prism:endingPage>21</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958504</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958504?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920932171?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Book Review: Citizenship and Advocacy in Technical Communication: Scholarly and Pedagogical Perspectives</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920932171?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/4"&gt;Volume 34, Issue 4&lt;/a&gt;, Page 415-418, October 2020. &lt;br/&gt;</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 34, Issue 4, Page 415-418, October 2020. &lt;br/&gt;</description>
-      <dc:title>Book Review: Citizenship and Advocacy in Technical Communication: Scholarly and Pedagogical Perspectives</dc:title>
-      <dc:identifier>10.1177/1050651920932171</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958506?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Is It Fake News or Is It Open Science? Science Communication in the COVID-19 Pandemic</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958506?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 22-27, January 2021. &lt;br/&gt;This article explores science communication in the context of COVID-19 through a case study of a January 31, 2020, bioRxiv preprint publication that led to conspiracy theories by suggesting that SARS-CoV-2 originated in the laboratory through genetic engineering. Analysis will consider the initial preprint, the scientific critique that led it to be withdrawn, the conspiracy theories that continue to circulate, and the larger debate that this example has sparked among advocates and critics of open science.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 22-27, January 2021. &lt;br/&gt;This article explores science communication in the context of COVID-19 through a case study of a January 31, 2020, bioRxiv preprint publication that led to conspiracy theories by suggesting that SARS-CoV-2 originated in the laboratory through genetic engineering. Analysis will consider the initial preprint, the scientific critique that led it to be withdrawn, the conspiracy theories that continue to circulate, and the larger debate that this example has sparked among advocates and critics of open science.</description>
+      <dc:title>Is It Fake News or Is It Open Science? Science Communication in the COVID-19 Pandemic</dc:title>
+      <dc:identifier>10.1177/1050651920958506</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-06-05T10:20:56Z</dc:date>
+      <dc:date>2020-09-22T10:03:07Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Jacob D. Richter</dc:creator>
-      <prism:publicationName>Book Review: Citizenship and Advocacy in Technical Communication: Scholarly and Pedagogical Perspectives</prism:publicationName>
-      <prism:volume>34</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>415</prism:startingPage>
-      <prism:endingPage>418</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1050651920932171</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920932171?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Amy Koerber</dc:creator>
+      <prism:publicationName>Is It Fake News or Is It Open Science? Science Communication in the COVID-19 Pandemic</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>22</prism:startingPage>
+      <prism:endingPage>27</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958506</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958506?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920932180?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Book Review: Conversational Design. A Book Apart</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920932180?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/4"&gt;Volume 34, Issue 4&lt;/a&gt;, Page 419-422, October 2020. &lt;br/&gt;</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 34, Issue 4, Page 419-422, October 2020. &lt;br/&gt;</description>
-      <dc:title>Book Review: Conversational Design. A Book Apart</dc:title>
-      <dc:identifier>10.1177/1050651920932180</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Valuing Expertise During the Pandemic</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 28-34, January 2021. &lt;br/&gt;This article addresses how social media platforms can better highlight expert voices through design choices. Misinformation, after all, has exploded during the Covid-19 pandemic, and platforms have struggled to address the issue. The authors examine this critical gap in validation mechanisms in the current social media platforms and suggest possible solutions for this urgent problem with third-party partnerships.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 28-34, January 2021. &lt;br/&gt;This article addresses how social media platforms can better highlight expert voices through design choices. Misinformation, after all, has exploded during the Covid-19 pandemic, and platforms have struggled to address the issue. The authors examine this critical gap in validation mechanisms in the current social media platforms and suggest possible solutions for this urgent problem with third-party partnerships.</description>
+      <dc:title>Valuing Expertise During the Pandemic</dc:title>
+      <dc:identifier>10.1177/1050651920958503</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-06-09T10:04:37Z</dc:date>
+      <dc:date>2020-09-11T09:39:46Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Amy Cicchino</dc:creator>
-      <prism:publicationName>Book Review: Conversational Design. A Book Apart</prism:publicationName>
-      <prism:volume>34</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>419</prism:startingPage>
-      <prism:endingPage>422</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1050651920932180</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920932180?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Sweta Baniya</dc:creator>
+      <dc:creator>Liza Potts</dc:creator>
+      <prism:publicationName>Valuing Expertise During the Pandemic</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>28</prism:startingPage>
+      <prism:endingPage>34</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958503</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920932182?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Book Review: Teaching Professional and Technical Communication: A Practicum in a Book</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920932182?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/34/4"&gt;Volume 34, Issue 4&lt;/a&gt;, Page 423-425, October 2020. &lt;br/&gt;</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 34, Issue 4, Page 423-425, October 2020. &lt;br/&gt;</description>
-      <dc:title>Book Review: Teaching Professional and Technical Communication: A Practicum in a Book</dc:title>
-      <dc:identifier>10.1177/1050651920932182</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958507?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The WHO Health Alert: Communicating a Global Pandemic with WhatsApp</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958507?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 35-40, January 2021. &lt;br/&gt;Upon declaring COVID-19 a global pandemic, the World Health Organization (WHO) orchestrated a global risk-communication outreach. The WHO’s objective was to persuade the public to upend and alter their lives so as to contain the disease and minimize its spread and infection. The WHO found a simple and efficient medium to communicate glocally through the social media application WhatsApp, through which individuals could access information without gatekeeping by governments and local agencies.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 35-40, January 2021. &lt;br/&gt;Upon declaring COVID-19 a global pandemic, the World Health Organization (WHO) orchestrated a global risk-communication outreach. The WHO’s objective was to persuade the public to upend and alter their lives so as to contain the disease and minimize its spread and infection. The WHO found a simple and efficient medium to communicate glocally through the social media application WhatsApp, through which individuals could access information without gatekeeping by governments and local agencies.</description>
+      <dc:title>The WHO Health Alert: Communicating a Global Pandemic with WhatsApp</dc:title>
+      <dc:identifier>10.1177/1050651920958507</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-06-09T10:05:37Z</dc:date>
+      <dc:date>2020-09-16T10:12:13Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>John Misak</dc:creator>
-      <prism:publicationName>Book Review: Teaching Professional and Technical Communication: A Practicum in a Book</prism:publicationName>
-      <prism:volume>34</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>423</prism:startingPage>
-      <prism:endingPage>425</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/1050651920932182</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920932182?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Josephine Walwema</dc:creator>
+      <prism:publicationName>The WHO Health Alert: Communicating a Global Pandemic with WhatsApp</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>35</prism:startingPage>
+      <prism:endingPage>40</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958507</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958507?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958502?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Rural Health and Contextualizing Data</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958502?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 41-49, January 2021. &lt;br/&gt;With significantly higher rates of comorbidities and limited access to health care, some Appalachian rural communities face magnified health challenges due to COVID-19. This article looks at one example of how data visualizations might draw attention to health care realities in rural communities and yet render invisible the realities of the most vulnerable community members. The authors urge technical and professional communicators to contextualize data-driven accounts of public health crises in order to call attention to the needs of rural communities and support community members who are multiply marginalized and thus especially vulnerable.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 41-49, January 2021. &lt;br/&gt;With significantly higher rates of comorbidities and limited access to health care, some Appalachian rural communities face magnified health challenges due to COVID-19. This article looks at one example of how data visualizations might draw attention to health care realities in rural communities and yet render invisible the realities of the most vulnerable community members. The authors urge technical and professional communicators to contextualize data-driven accounts of public health crises in order to call attention to the needs of rural communities and support community members who are multiply marginalized and thus especially vulnerable.</description>
+      <dc:title>Rural Health and Contextualizing Data</dc:title>
+      <dc:identifier>10.1177/1050651920958502</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-22T10:01:27Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Erin Brock Carlson</dc:creator>
+      <dc:creator>Catherine Gouge</dc:creator>
+      <prism:publicationName>Rural Health and Contextualizing Data</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>41</prism:startingPage>
+      <prism:endingPage>49</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958502</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958502?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“Picturing” Xenophobia: Visual Framing of Masks During COVID-19 and Its Implications for Advocacy in Technical Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 50-56, January 2021. &lt;br/&gt;This article reviews images of people of Asian descent wearing masks in popular press articles discussing mask shortages and argues that visual framing had the potential of fueling racial antagonism during the initial months of COVID-19’s spread across the United States. Technical communicators need to include globalized perspectives in educational materials about masks as an advocacy strategy that can help communities and individuals to navigate the crisis situation and better protect themselves and those around them.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 50-56, January 2021. &lt;br/&gt;This article reviews images of people of Asian descent wearing masks in popular press articles discussing mask shortages and argues that visual framing had the potential of fueling racial antagonism during the initial months of COVID-19’s spread across the United States. Technical communicators need to include globalized perspectives in educational materials about masks as an advocacy strategy that can help communities and individuals to navigate the crisis situation and better protect themselves and those around them.</description>
+      <dc:title>“Picturing” Xenophobia: Visual Framing of Masks During COVID-19 and Its Implications for Advocacy in Technical Communication</dc:title>
+      <dc:identifier>10.1177/1050651920958501</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-15T11:04:40Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Tatiana Batova</dc:creator>
+      <prism:publicationName>“Picturing” Xenophobia: Visual Framing of Masks During COVID-19 and Its Implications for Advocacy in Technical Communication</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>50</prism:startingPage>
+      <prism:endingPage>56</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958501</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958500?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Lean Data Visualization: Considering Actionable Metrics for Technical Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958500?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 57-64, January 2021. &lt;br/&gt;Analyzing data gathered around COVID-19 can increase our understanding of its spread and the social and economic impacts. Data visualizations can help various stakeholders understand the outbreak. To this end, this article seeks to understand how COVID-19 data dashboards utilized actionable metrics to inform various stakeholders. Used in lean methodology, actionable metrics specifically tie data visualization to actions to improve a specific situation. The authors discuss how actionable metrics were used in COVID-19 data dashboards to inspire actions of various stakeholders by modeling different outcomes through future projections. In turn, the authors explore how actionable metrics in data dashboards can inform new business and technical communication practices for data visualization.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 57-64, January 2021. &lt;br/&gt;Analyzing data gathered around COVID-19 can increase our understanding of its spread and the social and economic impacts. Data visualizations can help various stakeholders understand the outbreak. To this end, this article seeks to understand how COVID-19 data dashboards utilized actionable metrics to inform various stakeholders. Used in lean methodology, actionable metrics specifically tie data visualization to actions to improve a specific situation. The authors discuss how actionable metrics were used in COVID-19 data dashboards to inspire actions of various stakeholders by modeling different outcomes through future projections. In turn, the authors explore how actionable metrics in data dashboards can inform new business and technical communication practices for data visualization.</description>
+      <dc:title>Lean Data Visualization: Considering Actionable Metrics for Technical Communication</dc:title>
+      <dc:identifier>10.1177/1050651920958500</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-11T02:51:45Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Gustav Verhulsdonck</dc:creator>
+      <dc:creator>Vishal Shah</dc:creator>
+      <prism:publicationName>Lean Data Visualization: Considering Actionable Metrics for Technical Communication</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>57</prism:startingPage>
+      <prism:endingPage>64</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958500</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958500?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Facts Upon Delivery: What Is Rhetorical About Visualized Models?</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 65-72, January 2021. &lt;br/&gt;What expectations should professionals and the public place on visuals to communicate the uncertainties of complex phenomena? This article demonstrates how charts during the early months of the COVID-19 pandemic articulated visual arguments yet also required extended communicative support upon their delivery. The author examines one well-circulated chart comparing COVID-19 case trends per country and highlights its rhetoric by contrasting its design decisions with those of other charts and reports created as the pandemic initially unfolded. To help nonexpert audiences, the author suggests that professional communicators and designers incorporate more contextual information about the data and notable design choices.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 65-72, January 2021. &lt;br/&gt;What expectations should professionals and the public place on visuals to communicate the uncertainties of complex phenomena? This article demonstrates how charts during the early months of the COVID-19 pandemic articulated visual arguments yet also required extended communicative support upon their delivery. The author examines one well-circulated chart comparing COVID-19 case trends per country and highlights its rhetoric by contrasting its design decisions with those of other charts and reports created as the pandemic initially unfolded. To help nonexpert audiences, the author suggests that professional communicators and designers incorporate more contextual information about the data and notable design choices.</description>
+      <dc:title>Facts Upon Delivery: What Is Rhetorical About Visualized Models?</dc:title>
+      <dc:identifier>10.1177/1050651920958499</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-15T11:03:40Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Chris A. Lindgren</dc:creator>
+      <prism:publicationName>Facts Upon Delivery: What Is Rhetorical About Visualized Models?</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>65</prism:startingPage>
+      <prism:endingPage>72</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958499</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958392?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Misrepresenting COVID-19: Lying With Charts During the Second Golden Age of Data Design</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958392?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 73-79, January 2021. &lt;br/&gt;In this second golden age of data design, digital affordances enable the news media to share occasionally misleading charts about COVID-19. Examining data visualizations about COVID-19 highlights three ways that charts can mislead viewers: (a) by displaying inadequate data, (b) by manipulating scales and visual distance, and (c) by omitting contextual labels needed to fully understand a chart’s message. This article provides takeaways for technical communicators about including and displaying adequate data, representing numbers consistently, and humanizing COVID-19’s effects.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 73-79, January 2021. &lt;br/&gt;In this second golden age of data design, digital affordances enable the news media to share occasionally misleading charts about COVID-19. Examining data visualizations about COVID-19 highlights three ways that charts can mislead viewers: (a) by displaying inadequate data, (b) by manipulating scales and visual distance, and (c) by omitting contextual labels needed to fully understand a chart’s message. This article provides takeaways for technical communicators about including and displaying adequate data, representing numbers consistently, and humanizing COVID-19’s effects.</description>
+      <dc:title>Misrepresenting COVID-19: Lying With Charts During the Second Golden Age of Data Design</dc:title>
+      <dc:identifier>10.1177/1050651920958392</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-11T02:50:45Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Sara Doan</dc:creator>
+      <prism:publicationName>Misrepresenting COVID-19: Lying With Charts During the Second Golden Age of Data Design</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>73</prism:startingPage>
+      <prism:endingPage>79</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958392</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958392?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920957982?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“Missing/Unspecified”: Demographic Data Visualization During the COVID-19 Pandemic</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920957982?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 80-87, January 2021. &lt;br/&gt;While data has shown that COVID-19 disproportionately affects Black people, the CDC’s early data listed race as “missing/unspecified” at high rates. Incomplete demographic data obscures the virus’s full impact on marginalized communities. Without more information about who the virus is affecting and how, we cannot protect our most vulnerable. This article demonstrates disconnects between reported datasets and data visualizations in public-facing COVID health and science communication and suggests steps that technical and professional communicators can take in creating or using data visualizations accurately and ethically to describe COVID conditions and impacts.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 80-87, January 2021. &lt;br/&gt;While data has shown that COVID-19 disproportionately affects Black people, the CDC’s early data listed race as “missing/unspecified” at high rates. Incomplete demographic data obscures the virus’s full impact on marginalized communities. Without more information about who the virus is affecting and how, we cannot protect our most vulnerable. This article demonstrates disconnects between reported datasets and data visualizations in public-facing COVID health and science communication and suggests steps that technical and professional communicators can take in creating or using data visualizations accurately and ethically to describe COVID conditions and impacts.</description>
+      <dc:title>“Missing/Unspecified”: Demographic Data Visualization During the COVID-19 Pandemic</dc:title>
+      <dc:identifier>10.1177/1050651920957982</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-11T02:49:46Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Rachel Atherton</dc:creator>
+      <prism:publicationName>“Missing/Unspecified”: Demographic Data Visualization During the COVID-19 Pandemic</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>80</prism:startingPage>
+      <prism:endingPage>87</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920957982</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920957982?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Protecting Pandemic Conversations: Tracing Twitter’s Evolving Content Policies During COVID-19</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 88-93, January 2021. &lt;br/&gt;Throughout the COVID-19 pandemic, Twitter has served as a leading public platform for sharing, receiving, and engaging with virus-related content. To protect users from misinformation, Twitter has enforced stricter content-vetting policies. This article positions Twitter as a politically motivated entity and briefly traces Twitter’s use and applications of the term “harmful content.” The author investigates how the platform’s broadening of its definition of harmful content illustrates Twitter’s strategy for combating misinformation by acting on kairotic moments in a way that is shaped by the diverse authoritative voices already guiding larger public COVID-19 discussions. The article concludes by examining the roles these observations can play in technical and professional communication classrooms.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 88-93, January 2021. &lt;br/&gt;Throughout the COVID-19 pandemic, Twitter has served as a leading public platform for sharing, receiving, and engaging with virus-related content. To protect users from misinformation, Twitter has enforced stricter content-vetting policies. This article positions Twitter as a politically motivated entity and briefly traces Twitter’s use and applications of the term “harmful content.” The author investigates how the platform’s broadening of its definition of harmful content illustrates Twitter’s strategy for combating misinformation by acting on kairotic moments in a way that is shaped by the diverse authoritative voices already guiding larger public COVID-19 discussions. The article concludes by examining the roles these observations can play in technical and professional communication classrooms.</description>
+      <dc:title>Protecting Pandemic Conversations: Tracing Twitter’s Evolving Content Policies During COVID-19</dc:title>
+      <dc:identifier>10.1177/1050651920958393</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-11T02:51:05Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Lacy Hope</dc:creator>
+      <prism:publicationName>Protecting Pandemic Conversations: Tracing Twitter’s Evolving Content Policies During COVID-19</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>88</prism:startingPage>
+      <prism:endingPage>93</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958393</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958394?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Tracking the Differentiation of Risk: The Impact of Subject Framing in CDC Communication Regarding COVID-19</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958394?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 94-100, January 2021. &lt;br/&gt;Communicating risk amid moments of scientific ambiguity requires balance: Overdelivering certainty levels can cause undue alarm whereas underdelivering them can lead to increased public risk. Despite this complexity, risk assessment is an important decision-making tool. This article analyzes the circulation of the term “risk” in a corpus (74,804 words) of Centers for Disease Control and Prevention communications regarding COVID-19 from January 1 to April 30, 2020. Tracking collocations of the 147 instances of risk in this corpus reveals that experts initially framed risk away from individuals, complicating people’s differentiation between public and personal impacts. Recommendations are offered for how institutions can reframe subjectivity to promote vigilance during pandemics.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 94-100, January 2021. &lt;br/&gt;Communicating risk amid moments of scientific ambiguity requires balance: Overdelivering certainty levels can cause undue alarm whereas underdelivering them can lead to increased public risk. Despite this complexity, risk assessment is an important decision-making tool. This article analyzes the circulation of the term “risk” in a corpus (74,804 words) of Centers for Disease Control and Prevention communications regarding COVID-19 from January 1 to April 30, 2020. Tracking collocations of the 147 instances of risk in this corpus reveals that experts initially framed risk away from individuals, complicating people’s differentiation between public and personal impacts. Recommendations are offered for how institutions can reframe subjectivity to promote vigilance during pandemics.</description>
+      <dc:title>Tracking the Differentiation of Risk: The Impact of Subject Framing in CDC Communication Regarding COVID-19</dc:title>
+      <dc:identifier>10.1177/1050651920958394</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-16T10:11:12Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Kathryn Lambrecht</dc:creator>
+      <prism:publicationName>Tracking the Differentiation of Risk: The Impact of Subject Framing in CDC Communication Regarding COVID-19</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>94</prism:startingPage>
+      <prism:endingPage>100</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920958394</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958394?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920963439?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Visual Risk Literacy in “Flatten the Curve” COVID-19 Visualizations</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920963439?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article explores how “flatten the curve” (FTC) visualizations have served as a rhetorical anchor for communicating the risk of viral spread during the COVID-19 pandemic. Beginning from the premise that risk visualizations have eclipsed their original role as supplemental to public risk messaging and now function as an organizer of discourse, the authors highlight three rhetorical tensions (epideictic–deliberative, global–local, conceptual metaphors–data representations) with the goal of considering how the field of technical and professional communication might more strongly support visual risk literacy in future crises.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article explores how “flatten the curve” (FTC) visualizations have served as a rhetorical anchor for communicating the risk of viral spread during the COVID-19 pandemic. Beginning from the premise that risk visualizations have eclipsed their original role as supplemental to public risk messaging and now function as an organizer of discourse, the authors highlight three rhetorical tensions (epideictic–deliberative, global–local, conceptual metaphors–data representations) with the goal of considering how the field of technical and professional communication might more strongly support visual risk literacy in future crises.</description>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 101-109, January 2021. &lt;br/&gt;This article explores how “flatten the curve” (FTC) visualizations have served as a rhetorical anchor for communicating the risk of viral spread during the COVID-19 pandemic. Beginning from the premise that risk visualizations have eclipsed their original role as supplemental to public risk messaging and now function as an organizer of discourse, the authors highlight three rhetorical tensions (epideictic–deliberative, global–local, conceptual metaphors–data representations) with the goal of considering how the field of technical and professional communication might more strongly support visual risk literacy in future crises.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 101-109, January 2021. &lt;br/&gt;This article explores how “flatten the curve” (FTC) visualizations have served as a rhetorical anchor for communicating the risk of viral spread during the COVID-19 pandemic. Beginning from the premise that risk visualizations have eclipsed their original role as supplemental to public risk messaging and now function as an organizer of discourse, the authors highlight three rhetorical tensions (epideictic–deliberative, global–local, conceptual metaphors–data representations) with the goal of considering how the field of technical and professional communication might more strongly support visual risk literacy in future crises.</description>
       <dc:title>Visual Risk Literacy in “Flatten the Curve” COVID-19 Visualizations</dc:title>
       <dc:identifier>10.1177/1050651920963439</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
@@ -205,96 +374,112 @@
       <dc:creator>Daniel P. Richards</dc:creator>
       <dc:creator>Sonia H. Stephens</dc:creator>
       <prism:publicationName>Visual Risk Literacy in “Flatten the Curve” COVID-19 Visualizations</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>101</prism:startingPage>
+      <prism:endingPage>109</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1177/1050651920963439</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920963439?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959201?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Zoombombing Your Toddler: User Experience and the Communication of Zoom’s Privacy Crisis</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959201?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;In spring 2020, not only did the teleconferencing platform Zoom experience an onslaught of new users who were now social distancing due to the COVID-19 crisis, but it also faced its own crisis due to the privacy of its product. For those working in technical and professional communication, the Zoom example illustrates not only a way to communicate in an emergency but also a way that privacy can cause a crisis in the first place. Drawing from literature on crisis communication and the experiences users described in the Zoom CEO’s blog post, the author concludes that while Zoom did indeed have technical issues that contributed to its privacy crisis, users also experienced its technology in unexpected ways, and the company underestimated the privacy expectations of its new users. Zoom’s privacy crisis ultimately provides a useful discussion of why it is increasingly important for companies to incorporate privacy by design and to be frank about their privacy practices with a public who has a growing interest in, and dissatisfaction with, corporate privacy practices.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;In spring 2020, not only did the teleconferencing platform Zoom experience an onslaught of new users who were now social distancing due to the COVID-19 crisis, but it also faced its own crisis due to the privacy of its product. For those working in technical and professional communication, the Zoom example illustrates not only a way to communicate in an emergency but also a way that privacy can cause a crisis in the first place. Drawing from literature on crisis communication and the experiences users described in the Zoom CEO’s blog post, the author concludes that while Zoom did indeed have technical issues that contributed to its privacy crisis, users also experienced its technology in unexpected ways, and the company underestimated the privacy expectations of its new users. Zoom’s privacy crisis ultimately provides a useful discussion of why it is increasingly important for companies to incorporate privacy by design and to be frank about their privacy practices with a public who has a growing interest in, and dissatisfaction with, corporate privacy practices.</description>
-      <dc:title>Zoombombing Your Toddler: User Experience and the Communication of Zoom’s Privacy Crisis</dc:title>
-      <dc:identifier>10.1177/1050651920959201</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959188?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Adapting Uncertainty Reduction Theory for Crisis Communication: Guidelines for Technical Communicators</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959188?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 110-117, January 2021. &lt;br/&gt;The central components of an interpersonal communication framework such as uncertainty reduction theory can be adapted to design and evaluate crisis communication addressing uncertainty between citizens needing access to services and organizations attempting to manage risk and ensure continuity of operations. Through a content analysis of organizational crisis communication during the COVID-19 pandemic, this article adapts uncertainty reduction theory as an applied, user-centered framework that can guide technical communicators in managing uncertainty during unprecedented crises.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 110-117, January 2021. &lt;br/&gt;The central components of an interpersonal communication framework such as uncertainty reduction theory can be adapted to design and evaluate crisis communication addressing uncertainty between citizens needing access to services and organizations attempting to manage risk and ensure continuity of operations. Through a content analysis of organizational crisis communication during the COVID-19 pandemic, this article adapts uncertainty reduction theory as an applied, user-centered framework that can guide technical communicators in managing uncertainty during unprecedented crises.</description>
+      <dc:title>Adapting Uncertainty Reduction Theory for Crisis Communication: Guidelines for Technical Communicators</dc:title>
+      <dc:identifier>10.1177/1050651920959188</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-23T09:49:50Z</dc:date>
+      <dc:date>2020-09-21T10:08:56Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Sarah Young</dc:creator>
-      <prism:publicationName>Zoombombing Your Toddler: User Experience and the Communication of Zoom’s Privacy Crisis</prism:publicationName>
-      <prism:doi>10.1177/1050651920959201</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959201?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Rob Grace</dc:creator>
+      <dc:creator>Jason Chew Kit Tham</dc:creator>
+      <prism:publicationName>Adapting Uncertainty Reduction Theory for Crisis Communication: Guidelines for Technical Communicators</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>110</prism:startingPage>
+      <prism:endingPage>117</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920959188</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959188?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958506?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Is It Fake News or Is It Open Science? Science Communication in the COVID-19 Pandemic</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958506?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article explores science communication in the context of COVID-19 through a case study of a January 31, 2020, bioRxiv preprint publication that led to conspiracy theories by suggesting that SARS-CoV-2 originated in the laboratory through genetic engineering. Analysis will consider the initial preprint, the scientific critique that led it to be withdrawn, the conspiracy theories that continue to circulate, and the larger debate that this example has sparked among advocates and critics of open science.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article explores science communication in the context of COVID-19 through a case study of a January 31, 2020, bioRxiv preprint publication that led to conspiracy theories by suggesting that SARS-CoV-2 originated in the laboratory through genetic engineering. Analysis will consider the initial preprint, the scientific critique that led it to be withdrawn, the conspiracy theories that continue to circulate, and the larger debate that this example has sparked among advocates and critics of open science.</description>
-      <dc:title>Is It Fake News or Is It Open Science? Science Communication in the COVID-19 Pandemic</dc:title>
-      <dc:identifier>10.1177/1050651920958506</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959187?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Frozen Meat Against COVID-19 Misinformation: An Analysis of Steak-Umm and Positive Expectancy Violations</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959187?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 118-125, January 2021. &lt;br/&gt;COVID-19 has forced many businesses to adjust their communication strategies to fit a new reality. One surprising example of this strategy adjustment came from the company Steak-umm, maker of frozen sliced beef. Instead of finding new ways to promote its products, the company shifted its focus to the public’s urgent needs, breaking down possible approaches to navigating information flow during the pandemic. This resulted in overwhelming praise on social and news media, including almost 60,000 new Twitter followers within a week. Drawing on expectancy violation theory, this case study examines Steak-umm’s strategy, the content of social media responses, and why the approach was successful.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 118-125, January 2021. &lt;br/&gt;COVID-19 has forced many businesses to adjust their communication strategies to fit a new reality. One surprising example of this strategy adjustment came from the company Steak-umm, maker of frozen sliced beef. Instead of finding new ways to promote its products, the company shifted its focus to the public’s urgent needs, breaking down possible approaches to navigating information flow during the pandemic. This resulted in overwhelming praise on social and news media, including almost 60,000 new Twitter followers within a week. Drawing on expectancy violation theory, this case study examines Steak-umm’s strategy, the content of social media responses, and why the approach was successful.</description>
+      <dc:title>Frozen Meat Against COVID-19 Misinformation: An Analysis of Steak-Umm and Positive Expectancy Violations</dc:title>
+      <dc:identifier>10.1177/1050651920959187</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-22T10:03:07Z</dc:date>
+      <dc:date>2020-09-18T10:58:14Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Amy Koerber</dc:creator>
-      <prism:publicationName>Is It Fake News or Is It Open Science? Science Communication in the COVID-19 Pandemic</prism:publicationName>
-      <prism:doi>10.1177/1050651920958506</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958506?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Ekaterina Bogomoletc</dc:creator>
+      <dc:creator>Nicole M. Lee</dc:creator>
+      <prism:publicationName>Frozen Meat Against COVID-19 Misinformation: An Analysis of Steak-Umm and Positive Expectancy Violations</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>118</prism:startingPage>
+      <prism:endingPage>125</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920959187</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959187?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958505?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Misinformation Inoculation and Literacy Support Tweetorials on COVID-19</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958505?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Many expected federal public health agencies to provide timely and accurate information about the COVID-19 pandemic. That did not happen. In response, physicians and epidemiologists have explored new ways to educate the public about COVID-19 and protect against misinformation. One genre that has received significant uptake is the tweetorial, threaded tweets that educate followers on technical matters. This article builds on prior genre studies of the tweetorial to explore how #MedTwitter and #EpiTwitter communities have refashioned the emerging conventions of the tweetorial as part of efforts to protect the public from COVID-19 misinformation.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Many expected federal public health agencies to provide timely and accurate information about the COVID-19 pandemic. That did not happen. In response, physicians and epidemiologists have explored new ways to educate the public about COVID-19 and protect against misinformation. One genre that has received significant uptake is the tweetorial, threaded tweets that educate followers on technical matters. This article builds on prior genre studies of the tweetorial to explore how #MedTwitter and #EpiTwitter communities have refashioned the emerging conventions of the tweetorial as part of efforts to protect the public from COVID-19 misinformation.</description>
-      <dc:title>Misinformation Inoculation and Literacy Support Tweetorials on COVID-19</dc:title>
-      <dc:identifier>10.1177/1050651920958505</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959191?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Creating Scripts for Crisis Communication: COVID-19 and Beyond</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959191?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 126-133, January 2021. &lt;br/&gt;Individuals act on information that connects to their daily lives. In emergencies like the COVID-19 pandemic, these connections are central to maintaining individual health and community safety. Making such connections requires an understanding of audience perceptions; the better technical communicators address these perceptions, the more successful their materials can be. This article presents a cognitive framework, based on script theory, to help identify and address such factors in the COVID-19 crisis and in future public health challenges.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 126-133, January 2021. &lt;br/&gt;Individuals act on information that connects to their daily lives. In emergencies like the COVID-19 pandemic, these connections are central to maintaining individual health and community safety. Making such connections requires an understanding of audience perceptions; the better technical communicators address these perceptions, the more successful their materials can be. This article presents a cognitive framework, based on script theory, to help identify and address such factors in the COVID-19 crisis and in future public health challenges.</description>
+      <dc:title>Creating Scripts for Crisis Communication: COVID-19 and Beyond</dc:title>
+      <dc:identifier>10.1177/1050651920959191</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-22T10:02:27Z</dc:date>
+      <dc:date>2020-09-16T10:14:35Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>S. Scott Graham</dc:creator>
-      <prism:publicationName>Misinformation Inoculation and Literacy Support Tweetorials on COVID-19</prism:publicationName>
-      <prism:doi>10.1177/1050651920958505</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958505?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Kirk St.Amant</dc:creator>
+      <prism:publicationName>Creating Scripts for Crisis Communication: COVID-19 and Beyond</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>126</prism:startingPage>
+      <prism:endingPage>133</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920959191</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959191?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958502?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Rural Health and Contextualizing Data</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958502?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;With significantly higher rates of comorbidities and limited access to health care, some Appalachian rural communities face magnified health challenges due to COVID-19. This article looks at one example of how data visualizations might draw attention to health care realities in rural communities and yet render invisible the realities of the most vulnerable community members. The authors urge technical and professional communicators to contextualize data-driven accounts of public health crises in order to call attention to the needs of rural communities and support community members who are multiply marginalized and thus especially vulnerable.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;With significantly higher rates of comorbidities and limited access to health care, some Appalachian rural communities face magnified health challenges due to COVID-19. This article looks at one example of how data visualizations might draw attention to health care realities in rural communities and yet render invisible the realities of the most vulnerable community members. The authors urge technical and professional communicators to contextualize data-driven accounts of public health crises in order to call attention to the needs of rural communities and support community members who are multiply marginalized and thus especially vulnerable.</description>
-      <dc:title>Rural Health and Contextualizing Data</dc:title>
-      <dc:identifier>10.1177/1050651920958502</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959192?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>We’re Here for You: The Unsolicited Covid-19 Email</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959192?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 134-139, January 2021. &lt;br/&gt;Although companies have long used email to correspond directly with consumers in times of crisis (George &amp;amp; Pratt, 2012), the Covid-19 pandemic has incited an unprecedented flood of emails to our inboxes from companies reassuring us that “we’re all in this together.” As composition scholars begin to investigate how organizations have responded to this pandemic, this article explores the rise of the “we’re here for you” email, a rapidly developing genre that reveals an unsettling relationship with the voice behind our consumer products and also a paradigm shift in how organizations connect with consumers during times of crisis.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 134-139, January 2021. &lt;br/&gt;Although companies have long used email to correspond directly with consumers in times of crisis (George &amp; Pratt, 2012), the Covid-19 pandemic has incited an unprecedented flood of emails to our inboxes from companies reassuring us that “we’re all in this together.” As composition scholars begin to investigate how organizations have responded to this pandemic, this article explores the rise of the “we’re here for you” email, a rapidly developing genre that reveals an unsettling relationship with the voice behind our consumer products and also a paradigm shift in how organizations connect with consumers during times of crisis.</description>
+      <dc:title>We’re Here for You: The Unsolicited Covid-19 Email</dc:title>
+      <dc:identifier>10.1177/1050651920959192</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-22T10:01:27Z</dc:date>
+      <dc:date>2020-09-18T11:00:15Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Erin Brock Carlson</dc:creator>
-      <dc:creator>Catherine Gouge</dc:creator>
-      <prism:publicationName>Rural Health and Contextualizing Data</prism:publicationName>
-      <prism:doi>10.1177/1050651920958502</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958502?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959208?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Introduction to Business and Technical Communication and COVID-19: Communicating in Times of Crisis</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959208?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Introduction to Business and Technical Communication and COVID-19: Communicating in Times of Crisis</dc:title>
-      <dc:identifier>10.1177/1050651920959208</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-21T10:11:16Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Jordan Frith</dc:creator>
-      <prism:publicationName>Introduction to Business and Technical Communication and COVID-19: Communicating in Times of Crisis</prism:publicationName>
-      <prism:doi>10.1177/1050651920959208</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959208?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Kristin Winet</dc:creator>
+      <dc:creator>Ryan L. Winet</dc:creator>
+      <prism:publicationName>We’re Here for You: The Unsolicited Covid-19 Email</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>134</prism:startingPage>
+      <prism:endingPage>139</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920959192</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959192?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959194?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Drafting Pandemic Policy: Writing and Sudden Institutional Change</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959194?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article reports findings from an institutional ethnography of university stakeholders’ writing in the early days of the COVID-19 pandemic, illustrating the affordances of this methodology for professional and technical communication. Drawing on interview transcripts with faculty and administrators from across the university, the authors contextualize the role of writing in the iterative, collaborative, distributed writing processes by which the university transitioned from a traditional A–F grading scheme to a pass or fail option in just a few business days. They analyze these stakeholders’ experiences, discussing some effects of this accelerated timeline on policy development, writing processes, and uses of writing technologies within this new context of remote teaching and learning.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article reports findings from an institutional ethnography of university stakeholders’ writing in the early days of the COVID-19 pandemic, illustrating the affordances of this methodology for professional and technical communication. Drawing on interview transcripts with faculty and administrators from across the university, the authors contextualize the role of writing in the iterative, collaborative, distributed writing processes by which the university transitioned from a traditional A–F grading scheme to a pass or fail option in just a few business days. They analyze these stakeholders’ experiences, discussing some effects of this accelerated timeline on policy development, writing processes, and uses of writing technologies within this new context of remote teaching and learning.</description>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 140-146, January 2021. &lt;br/&gt;This article reports findings from an institutional ethnography of university stakeholders’ writing in the early days of the COVID-19 pandemic, illustrating the affordances of this methodology for professional and technical communication. Drawing on interview transcripts with faculty and administrators from across the university, the authors contextualize the role of writing in the iterative, collaborative, distributed writing processes by which the university transitioned from a traditional A–F grading scheme to a pass or fail option in just a few business days. They analyze these stakeholders’ experiences, discussing some effects of this accelerated timeline on policy development, writing processes, and uses of writing technologies within this new context of remote teaching and learning.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 140-146, January 2021. &lt;br/&gt;This article reports findings from an institutional ethnography of university stakeholders’ writing in the early days of the COVID-19 pandemic, illustrating the affordances of this methodology for professional and technical communication. Drawing on interview transcripts with faculty and administrators from across the university, the authors contextualize the role of writing in the iterative, collaborative, distributed writing processes by which the university transitioned from a traditional A–F grading scheme to a pass or fail option in just a few business days. They analyze these stakeholders’ experiences, discussing some effects of this accelerated timeline on policy development, writing processes, and uses of writing technologies within this new context of remote teaching and learning.</description>
       <dc:title>Drafting Pandemic Policy: Writing and Sudden Institutional Change</dc:title>
       <dc:identifier>10.1177/1050651920959194</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
@@ -304,25 +489,105 @@
       <dc:creator>Peter Vandenberg</dc:creator>
       <dc:creator>Madeline Crozier</dc:creator>
       <prism:publicationName>Drafting Pandemic Policy: Writing and Sudden Institutional Change</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>140</prism:startingPage>
+      <prism:endingPage>146</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1177/1050651920959194</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959194?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959188?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Adapting Uncertainty Reduction Theory for Crisis Communication: Guidelines for Technical Communicators</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959188?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;The central components of an interpersonal communication framework such as uncertainty reduction theory can be adapted to design and evaluate crisis communication addressing uncertainty between citizens needing access to services and organizations attempting to manage risk and ensure continuity of operations. Through a content analysis of organizational crisis communication during the COVID-19 pandemic, this article adapts uncertainty reduction theory as an applied, user-centered framework that can guide technical communicators in managing uncertainty during unprecedented crises.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;The central components of an interpersonal communication framework such as uncertainty reduction theory can be adapted to design and evaluate crisis communication addressing uncertainty between citizens needing access to services and organizations attempting to manage risk and ensure continuity of operations. Through a content analysis of organizational crisis communication during the COVID-19 pandemic, this article adapts uncertainty reduction theory as an applied, user-centered framework that can guide technical communicators in managing uncertainty during unprecedented crises.</description>
-      <dc:title>Adapting Uncertainty Reduction Theory for Crisis Communication: Guidelines for Technical Communicators</dc:title>
-      <dc:identifier>10.1177/1050651920959188</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959201?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Zoombombing Your Toddler: User Experience and the Communication of Zoom’s Privacy Crisis</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959201?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 147-153, January 2021. &lt;br/&gt;In spring 2020, not only did the teleconferencing platform Zoom experience an onslaught of new users who were now social distancing due to the COVID-19 crisis, but it also faced its own crisis due to the privacy of its product. For those working in technical and professional communication, the Zoom example illustrates not only a way to communicate in an emergency but also a way that privacy can cause a crisis in the first place. Drawing from literature on crisis communication and the experiences users described in the Zoom CEO’s blog post, the author concludes that while Zoom did indeed have technical issues that contributed to its privacy crisis, users also experienced its technology in unexpected ways, and the company underestimated the privacy expectations of its new users. Zoom’s privacy crisis ultimately provides a useful discussion of why it is increasingly important for companies to incorporate privacy by design and to be frank about their privacy practices with a public who has a growing interest in, and dissatisfaction with, corporate privacy practices.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 147-153, January 2021. &lt;br/&gt;In spring 2020, not only did the teleconferencing platform Zoom experience an onslaught of new users who were now social distancing due to the COVID-19 crisis, but it also faced its own crisis due to the privacy of its product. For those working in technical and professional communication, the Zoom example illustrates not only a way to communicate in an emergency but also a way that privacy can cause a crisis in the first place. Drawing from literature on crisis communication and the experiences users described in the Zoom CEO’s blog post, the author concludes that while Zoom did indeed have technical issues that contributed to its privacy crisis, users also experienced its technology in unexpected ways, and the company underestimated the privacy expectations of its new users. Zoom’s privacy crisis ultimately provides a useful discussion of why it is increasingly important for companies to incorporate privacy by design and to be frank about their privacy practices with a public who has a growing interest in, and dissatisfaction with, corporate privacy practices.</description>
+      <dc:title>Zoombombing Your Toddler: User Experience and the Communication of Zoom’s Privacy Crisis</dc:title>
+      <dc:identifier>10.1177/1050651920959201</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-21T10:08:56Z</dc:date>
+      <dc:date>2020-09-23T09:49:50Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Rob Grace</dc:creator>
-      <dc:creator>Jason Chew Kit Tham</dc:creator>
-      <prism:publicationName>Adapting Uncertainty Reduction Theory for Crisis Communication: Guidelines for Technical Communicators</prism:publicationName>
-      <prism:doi>10.1177/1050651920959188</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959188?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Sarah Young</dc:creator>
+      <prism:publicationName>Zoombombing Your Toddler: User Experience and the Communication of Zoom’s Privacy Crisis</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>147</prism:startingPage>
+      <prism:endingPage>153</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920959201</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959201?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959189?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Strange Days: Creating Flexible Pedagogies for Technical Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959189?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 154-159, January 2021. &lt;br/&gt;The COVID-19 pandemic created major disruptions in technical communication classrooms everywhere. Although technical communication instructors are used to teaching in a variety of contexts and settings, adopting a flexible approach in the first place will allow them to be better prepared for the changing dynamics of an unpredictable world. The authors present an approach that constructs pedagogical scaffolding to emphasize outcomes, interactions, relationships, and projects. These interrelated aspects form a coherent vision that can support both pedagogical planning and real-time decision making in specific instructional situations.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 154-159, January 2021. &lt;br/&gt;The COVID-19 pandemic created major disruptions in technical communication classrooms everywhere. Although technical communication instructors are used to teaching in a variety of contexts and settings, adopting a flexible approach in the first place will allow them to be better prepared for the changing dynamics of an unpredictable world. The authors present an approach that constructs pedagogical scaffolding to emphasize outcomes, interactions, relationships, and projects. These interrelated aspects form a coherent vision that can support both pedagogical planning and real-time decision making in specific instructional situations.</description>
+      <dc:title>Strange Days: Creating Flexible Pedagogies for Technical Communication</dc:title>
+      <dc:identifier>10.1177/1050651920959189</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-16T10:14:16Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Johndan Johnson-Eilola</dc:creator>
+      <dc:creator>Stuart A. Selber</dc:creator>
+      <prism:publicationName>Strange Days: Creating Flexible Pedagogies for Technical Communication</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>154</prism:startingPage>
+      <prism:endingPage>159</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920959189</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959189?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959190?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Culturally Situated Do-It-Yourself Instructions for Making Protective Masks: Teaching the Genre of Instructional Design in the Age of COVID-19</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959190?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 160-166, January 2021. &lt;br/&gt;This article employs cross-cultural communication approaches to teaching instructional design in the times of COVID-19 pandemic. Focusing on instructions from France, India, Spain, and the United States for making protective masks, the authors highlight how the writers and designers of these four documents from each culture approach their audiences, organize their DIY instructions, make language choices, employ images and other illustration devices, and culturally persuade users. While acknowledging cultural differences, the authors urge students to identify and adopt design strengths from diverse cultures in their own ideas about composing instructions.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 160-166, January 2021. &lt;br/&gt;This article employs cross-cultural communication approaches to teaching instructional design in the times of COVID-19 pandemic. Focusing on instructions from France, India, Spain, and the United States for making protective masks, the authors highlight how the writers and designers of these four documents from each culture approach their audiences, organize their DIY instructions, make language choices, employ images and other illustration devices, and culturally persuade users. While acknowledging cultural differences, the authors urge students to identify and adopt design strengths from diverse cultures in their own ideas about composing instructions.</description>
+      <dc:title>Culturally Situated Do-It-Yourself Instructions for Making Protective Masks: Teaching the Genre of Instructional Design in the Age of COVID-19</dc:title>
+      <dc:identifier>10.1177/1050651920959190</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-18T10:59:15Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Sushil K. Oswal</dc:creator>
+      <dc:creator>Zsuzsanna B. Palmer</dc:creator>
+      <prism:publicationName>Culturally Situated Do-It-Yourself Instructions for Making Protective Masks: Teaching the Genre of Instructional Design in the Age of COVID-19</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>160</prism:startingPage>
+      <prism:endingPage>166</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920959190</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959190?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959185?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Researching Home-Based Technical and Professional Communication: Emerging Structures and Methods</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959185?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/35/1"&gt;Volume 35, Issue 1&lt;/a&gt;, Page 167-173, January 2021. &lt;br/&gt;With the massive shift to remote work, what does researching home-based workplace writing look like? We argue that the collapse of traditional work–life boundaries might allow for a renaissance of feminist research methods in technical and professional communication, specifically because the home is a domestic space largely associated with women. Inspired by methodologies like apparent feminism and examinations of positionality, privilege, and power, the authors suggest three research methods that help capture the intricacies of blurred personal and professional lives: time-use diaries, embodied sensemaking, and participatory data collection and coding. These methods seek to illuminate the invisible work of women, as well as the diversity and range of experiences of home-based workplace communicators.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 35, Issue 1, Page 167-173, January 2021. &lt;br/&gt;With the massive shift to remote work, what does researching home-based workplace writing look like? We argue that the collapse of traditional work–life boundaries might allow for a renaissance of feminist research methods in technical and professional communication, specifically because the home is a domestic space largely associated with women. Inspired by methodologies like apparent feminism and examinations of positionality, privilege, and power, the authors suggest three research methods that help capture the intricacies of blurred personal and professional lives: time-use diaries, embodied sensemaking, and participatory data collection and coding. These methods seek to illuminate the invisible work of women, as well as the diversity and range of experiences of home-based workplace communicators.</description>
+      <dc:title>Researching Home-Based Technical and Professional Communication: Emerging Structures and Methods</dc:title>
+      <dc:identifier>10.1177/1050651920959185</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2020-09-16T10:12:53Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Jennifer Bay</dc:creator>
+      <dc:creator>Patricia Sullivan</dc:creator>
+      <prism:publicationName>Researching Home-Based Technical and Professional Communication: Emerging Structures and Methods</prism:publicationName>
+      <prism:volume>35</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>167</prism:startingPage>
+      <prism:endingPage>173</prism:endingPage>
+      <prism:coverDate>2021-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1050651920959185</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959185?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959210?ai=2b4&amp;mi=ehikzz&amp;af=R">
@@ -341,268 +606,5 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959210?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959192?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>We’re Here for You: The Unsolicited Covid-19 Email</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959192?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Although companies have long used email to correspond directly with consumers in times of crisis (George &amp;amp; Pratt, 2012), the Covid-19 pandemic has incited an unprecedented flood of emails to our inboxes from companies reassuring us that “we’re all in this together.” As composition scholars begin to investigate how organizations have responded to this pandemic, this article explores the rise of the “we’re here for you” email, a rapidly developing genre that reveals an unsettling relationship with the voice behind our consumer products and also a paradigm shift in how organizations connect with consumers during times of crisis.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Although companies have long used email to correspond directly with consumers in times of crisis (George &amp; Pratt, 2012), the Covid-19 pandemic has incited an unprecedented flood of emails to our inboxes from companies reassuring us that “we’re all in this together.” As composition scholars begin to investigate how organizations have responded to this pandemic, this article explores the rise of the “we’re here for you” email, a rapidly developing genre that reveals an unsettling relationship with the voice behind our consumer products and also a paradigm shift in how organizations connect with consumers during times of crisis.</description>
-      <dc:title>We’re Here for You: The Unsolicited Covid-19 Email</dc:title>
-      <dc:identifier>10.1177/1050651920959192</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-18T11:00:15Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Kristin Winet</dc:creator>
-      <dc:creator>Ryan L. Winet</dc:creator>
-      <prism:publicationName>We’re Here for You: The Unsolicited Covid-19 Email</prism:publicationName>
-      <prism:doi>10.1177/1050651920959192</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959192?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959190?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Culturally Situated Do-It-Yourself Instructions for Making Protective Masks: Teaching the Genre of Instructional Design in the Age of COVID-19</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959190?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article employs cross-cultural communication approaches to teaching instructional design in the times of COVID-19 pandemic. Focusing on instructions from France, India, Spain, and the United States for making protective masks, the authors highlight how the writers and designers of these four documents from each culture approach their audiences, organize their DIY instructions, make language choices, employ images and other illustration devices, and culturally persuade users. While acknowledging cultural differences, the authors urge students to identify and adopt design strengths from diverse cultures in their own ideas about composing instructions.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article employs cross-cultural communication approaches to teaching instructional design in the times of COVID-19 pandemic. Focusing on instructions from France, India, Spain, and the United States for making protective masks, the authors highlight how the writers and designers of these four documents from each culture approach their audiences, organize their DIY instructions, make language choices, employ images and other illustration devices, and culturally persuade users. While acknowledging cultural differences, the authors urge students to identify and adopt design strengths from diverse cultures in their own ideas about composing instructions.</description>
-      <dc:title>Culturally Situated Do-It-Yourself Instructions for Making Protective Masks: Teaching the Genre of Instructional Design in the Age of COVID-19</dc:title>
-      <dc:identifier>10.1177/1050651920959190</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-18T10:59:15Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Sushil K. Oswal</dc:creator>
-      <dc:creator>Zsuzsanna B. Palmer</dc:creator>
-      <prism:publicationName>Culturally Situated Do-It-Yourself Instructions for Making Protective Masks: Teaching the Genre of Instructional Design in the Age of COVID-19</prism:publicationName>
-      <prism:doi>10.1177/1050651920959190</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959190?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959187?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Frozen Meat Against COVID-19 Misinformation: An Analysis of Steak-Umm and Positive Expectancy Violations</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959187?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;COVID-19 has forced many businesses to adjust their communication strategies to fit a new reality. One surprising example of this strategy adjustment came from the company Steak-umm, maker of frozen sliced beef. Instead of finding new ways to promote its products, the company shifted its focus to the public’s urgent needs, breaking down possible approaches to navigating information flow during the pandemic. This resulted in overwhelming praise on social and news media, including almost 60,000 new Twitter followers within a week. Drawing on expectancy violation theory, this case study examines Steak-umm’s strategy, the content of social media responses, and why the approach was successful.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;COVID-19 has forced many businesses to adjust their communication strategies to fit a new reality. One surprising example of this strategy adjustment came from the company Steak-umm, maker of frozen sliced beef. Instead of finding new ways to promote its products, the company shifted its focus to the public’s urgent needs, breaking down possible approaches to navigating information flow during the pandemic. This resulted in overwhelming praise on social and news media, including almost 60,000 new Twitter followers within a week. Drawing on expectancy violation theory, this case study examines Steak-umm’s strategy, the content of social media responses, and why the approach was successful.</description>
-      <dc:title>Frozen Meat Against COVID-19 Misinformation: An Analysis of Steak-Umm and Positive Expectancy Violations</dc:title>
-      <dc:identifier>10.1177/1050651920959187</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-18T10:58:14Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Ekaterina Bogomoletc</dc:creator>
-      <dc:creator>Nicole M. Lee</dc:creator>
-      <prism:publicationName>Frozen Meat Against COVID-19 Misinformation: An Analysis of Steak-Umm and Positive Expectancy Violations</prism:publicationName>
-      <prism:doi>10.1177/1050651920959187</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959187?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959191?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Creating Scripts for Crisis Communication: COVID-19 and Beyond</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959191?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Individuals act on information that connects to their daily lives. In emergencies like the COVID-19 pandemic, these connections are central to maintaining individual health and community safety. Making such connections requires an understanding of audience perceptions; the better technical communicators address these perceptions, the more successful their materials can be. This article presents a cognitive framework, based on script theory, to help identify and address such factors in the COVID-19 crisis and in future public health challenges.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Individuals act on information that connects to their daily lives. In emergencies like the COVID-19 pandemic, these connections are central to maintaining individual health and community safety. Making such connections requires an understanding of audience perceptions; the better technical communicators address these perceptions, the more successful their materials can be. This article presents a cognitive framework, based on script theory, to help identify and address such factors in the COVID-19 crisis and in future public health challenges.</description>
-      <dc:title>Creating Scripts for Crisis Communication: COVID-19 and Beyond</dc:title>
-      <dc:identifier>10.1177/1050651920959191</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-16T10:14:35Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Kirk St.Amant</dc:creator>
-      <prism:publicationName>Creating Scripts for Crisis Communication: COVID-19 and Beyond</prism:publicationName>
-      <prism:doi>10.1177/1050651920959191</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959191?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959189?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Strange Days: Creating Flexible Pedagogies for Technical Communication</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959189?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;The COVID-19 pandemic created major disruptions in technical communication classrooms everywhere. Although technical communication instructors are used to teaching in a variety of contexts and settings, adopting a flexible approach in the first place will allow them to be better prepared for the changing dynamics of an unpredictable world. The authors present an approach that constructs pedagogical scaffolding to emphasize outcomes, interactions, relationships, and projects. These interrelated aspects form a coherent vision that can support both pedagogical planning and real-time decision making in specific instructional situations.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;The COVID-19 pandemic created major disruptions in technical communication classrooms everywhere. Although technical communication instructors are used to teaching in a variety of contexts and settings, adopting a flexible approach in the first place will allow them to be better prepared for the changing dynamics of an unpredictable world. The authors present an approach that constructs pedagogical scaffolding to emphasize outcomes, interactions, relationships, and projects. These interrelated aspects form a coherent vision that can support both pedagogical planning and real-time decision making in specific instructional situations.</description>
-      <dc:title>Strange Days: Creating Flexible Pedagogies for Technical Communication</dc:title>
-      <dc:identifier>10.1177/1050651920959189</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-16T10:14:16Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Johndan Johnson-Eilola</dc:creator>
-      <dc:creator>Stuart A. Selber</dc:creator>
-      <prism:publicationName>Strange Days: Creating Flexible Pedagogies for Technical Communication</prism:publicationName>
-      <prism:doi>10.1177/1050651920959189</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959189?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920959185?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Researching Home-Based Technical and Professional Communication: Emerging Structures and Methods</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920959185?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;With the massive shift to remote work, what does researching home-based workplace writing look like? We argue that the collapse of traditional work–life boundaries might allow for a renaissance of feminist research methods in technical and professional communication, specifically because the home is a domestic space largely associated with women. Inspired by methodologies like apparent feminism and examinations of positionality, privilege, and power, the authors suggest three research methods that help capture the intricacies of blurred personal and professional lives: time-use diaries, embodied sensemaking, and participatory data collection and coding. These methods seek to illuminate the invisible work of women, as well as the diversity and range of experiences of home-based workplace communicators.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;With the massive shift to remote work, what does researching home-based workplace writing look like? We argue that the collapse of traditional work–life boundaries might allow for a renaissance of feminist research methods in technical and professional communication, specifically because the home is a domestic space largely associated with women. Inspired by methodologies like apparent feminism and examinations of positionality, privilege, and power, the authors suggest three research methods that help capture the intricacies of blurred personal and professional lives: time-use diaries, embodied sensemaking, and participatory data collection and coding. These methods seek to illuminate the invisible work of women, as well as the diversity and range of experiences of home-based workplace communicators.</description>
-      <dc:title>Researching Home-Based Technical and Professional Communication: Emerging Structures and Methods</dc:title>
-      <dc:identifier>10.1177/1050651920959185</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-16T10:12:53Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Jennifer Bay</dc:creator>
-      <dc:creator>Patricia Sullivan</dc:creator>
-      <prism:publicationName>Researching Home-Based Technical and Professional Communication: Emerging Structures and Methods</prism:publicationName>
-      <prism:doi>10.1177/1050651920959185</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920959185?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958507?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>The WHO Health Alert: Communicating a Global Pandemic with WhatsApp</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958507?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Upon declaring COVID-19 a global pandemic, the World Health Organization (WHO) orchestrated a global risk-communication outreach. The WHO’s objective was to persuade the public to upend and alter their lives so as to contain the disease and minimize its spread and infection. The WHO found a simple and efficient medium to communicate glocally through the social media application WhatsApp, through which individuals could access information without gatekeeping by governments and local agencies.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Upon declaring COVID-19 a global pandemic, the World Health Organization (WHO) orchestrated a global risk-communication outreach. The WHO’s objective was to persuade the public to upend and alter their lives so as to contain the disease and minimize its spread and infection. The WHO found a simple and efficient medium to communicate glocally through the social media application WhatsApp, through which individuals could access information without gatekeeping by governments and local agencies.</description>
-      <dc:title>The WHO Health Alert: Communicating a Global Pandemic with WhatsApp</dc:title>
-      <dc:identifier>10.1177/1050651920958507</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-16T10:12:13Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Josephine Walwema</dc:creator>
-      <prism:publicationName>The WHO Health Alert: Communicating a Global Pandemic with WhatsApp</prism:publicationName>
-      <prism:doi>10.1177/1050651920958507</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958507?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958394?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Tracking the Differentiation of Risk: The Impact of Subject Framing in CDC Communication Regarding COVID-19</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958394?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Communicating risk amid moments of scientific ambiguity requires balance: Overdelivering certainty levels can cause undue alarm whereas underdelivering them can lead to increased public risk. Despite this complexity, risk assessment is an important decision-making tool. This article analyzes the circulation of the term “risk” in a corpus (74,804 words) of Centers for Disease Control and Prevention communications regarding COVID-19 from January 1 to April 30, 2020. Tracking collocations of the 147 instances of risk in this corpus reveals that experts initially framed risk away from individuals, complicating people’s differentiation between public and personal impacts. Recommendations are offered for how institutions can reframe subjectivity to promote vigilance during pandemics.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Communicating risk amid moments of scientific ambiguity requires balance: Overdelivering certainty levels can cause undue alarm whereas underdelivering them can lead to increased public risk. Despite this complexity, risk assessment is an important decision-making tool. This article analyzes the circulation of the term “risk” in a corpus (74,804 words) of Centers for Disease Control and Prevention communications regarding COVID-19 from January 1 to April 30, 2020. Tracking collocations of the 147 instances of risk in this corpus reveals that experts initially framed risk away from individuals, complicating people’s differentiation between public and personal impacts. Recommendations are offered for how institutions can reframe subjectivity to promote vigilance during pandemics.</description>
-      <dc:title>Tracking the Differentiation of Risk: The Impact of Subject Framing in CDC Communication Regarding COVID-19</dc:title>
-      <dc:identifier>10.1177/1050651920958394</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-16T10:11:12Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Kathryn Lambrecht</dc:creator>
-      <prism:publicationName>Tracking the Differentiation of Risk: The Impact of Subject Framing in CDC Communication Regarding COVID-19</prism:publicationName>
-      <prism:doi>10.1177/1050651920958394</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958394?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>“Picturing” Xenophobia: Visual Framing of Masks During COVID-19 and Its Implications for Advocacy in Technical Communication</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article reviews images of people of Asian descent wearing masks in popular press articles discussing mask shortages and argues that visual framing had the potential of fueling racial antagonism during the initial months of COVID-19’s spread across the United States. Technical communicators need to include globalized perspectives in educational materials about masks as an advocacy strategy that can help communities and individuals to navigate the crisis situation and better protect themselves and those around them.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article reviews images of people of Asian descent wearing masks in popular press articles discussing mask shortages and argues that visual framing had the potential of fueling racial antagonism during the initial months of COVID-19’s spread across the United States. Technical communicators need to include globalized perspectives in educational materials about masks as an advocacy strategy that can help communities and individuals to navigate the crisis situation and better protect themselves and those around them.</description>
-      <dc:title>“Picturing” Xenophobia: Visual Framing of Masks During COVID-19 and Its Implications for Advocacy in Technical Communication</dc:title>
-      <dc:identifier>10.1177/1050651920958501</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-15T11:04:40Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Tatiana Batova</dc:creator>
-      <prism:publicationName>“Picturing” Xenophobia: Visual Framing of Masks During COVID-19 and Its Implications for Advocacy in Technical Communication</prism:publicationName>
-      <prism:doi>10.1177/1050651920958501</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958501?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Facts Upon Delivery: What Is Rhetorical About Visualized Models?</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;What expectations should professionals and the public place on visuals to communicate the uncertainties of complex phenomena? This article demonstrates how charts during the early months of the COVID-19 pandemic articulated visual arguments yet also required extended communicative support upon their delivery. The author examines one well-circulated chart comparing COVID-19 case trends per country and highlights its rhetoric by contrasting its design decisions with those of other charts and reports created as the pandemic initially unfolded. To help nonexpert audiences, the author suggests that professional communicators and designers incorporate more contextual information about the data and notable design choices.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;What expectations should professionals and the public place on visuals to communicate the uncertainties of complex phenomena? This article demonstrates how charts during the early months of the COVID-19 pandemic articulated visual arguments yet also required extended communicative support upon their delivery. The author examines one well-circulated chart comparing COVID-19 case trends per country and highlights its rhetoric by contrasting its design decisions with those of other charts and reports created as the pandemic initially unfolded. To help nonexpert audiences, the author suggests that professional communicators and designers incorporate more contextual information about the data and notable design choices.</description>
-      <dc:title>Facts Upon Delivery: What Is Rhetorical About Visualized Models?</dc:title>
-      <dc:identifier>10.1177/1050651920958499</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-15T11:03:40Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Chris A. Lindgren</dc:creator>
-      <prism:publicationName>Facts Upon Delivery: What Is Rhetorical About Visualized Models?</prism:publicationName>
-      <prism:doi>10.1177/1050651920958499</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958499?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Valuing Expertise During the Pandemic</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article addresses how social media platforms can better highlight expert voices through design choices. Misinformation, after all, has exploded during the Covid-19 pandemic, and platforms have struggled to address the issue. The authors examine this critical gap in validation mechanisms in the current social media platforms and suggest possible solutions for this urgent problem with third-party partnerships.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This article addresses how social media platforms can better highlight expert voices through design choices. Misinformation, after all, has exploded during the Covid-19 pandemic, and platforms have struggled to address the issue. The authors examine this critical gap in validation mechanisms in the current social media platforms and suggest possible solutions for this urgent problem with third-party partnerships.</description>
-      <dc:title>Valuing Expertise During the Pandemic</dc:title>
-      <dc:identifier>10.1177/1050651920958503</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-11T09:39:46Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Sweta Baniya</dc:creator>
-      <dc:creator>Liza Potts</dc:creator>
-      <prism:publicationName>Valuing Expertise During the Pandemic</prism:publicationName>
-      <prism:doi>10.1177/1050651920958503</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958503?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958504?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Managing Gender Care in Precarity: Trans Communities Respond to COVID-19</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958504?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Transgender (trans) people always already live with health care precarity, particularly concerning gender transition. During a pandemic, this precarity is heightened. Trans people find themselves without access to necessary cross-sex hormones or isolated with unaccepting or hostile family members. As a result, some engage in tactical technical communication, using the Internet to source knowledge and supplies to manage their transition. This article analyzes these do-it-yourself forms of tactical technical communication that support gender transition in the time of COVID-19.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Transgender (trans) people always already live with health care precarity, particularly concerning gender transition. During a pandemic, this precarity is heightened. Trans people find themselves without access to necessary cross-sex hormones or isolated with unaccepting or hostile family members. As a result, some engage in tactical technical communication, using the Internet to source knowledge and supplies to manage their transition. This article analyzes these do-it-yourself forms of tactical technical communication that support gender transition in the time of COVID-19.</description>
-      <dc:title>Managing Gender Care in Precarity: Trans Communities Respond to COVID-19</dc:title>
-      <dc:identifier>10.1177/1050651920958504</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-11T02:52:25Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Avery C. Edenfield</dc:creator>
-      <prism:publicationName>Managing Gender Care in Precarity: Trans Communities Respond to COVID-19</prism:publicationName>
-      <prism:doi>10.1177/1050651920958504</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958504?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958500?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Lean Data Visualization: Considering Actionable Metrics for Technical Communication</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958500?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Analyzing data gathered around COVID-19 can increase our understanding of its spread and the social and economic impacts. Data visualizations can help various stakeholders understand the outbreak. To this end, this article seeks to understand how COVID-19 data dashboards utilized actionable metrics to inform various stakeholders. Used in lean methodology, actionable metrics specifically tie data visualization to actions to improve a specific situation. The authors discuss how actionable metrics were used in COVID-19 data dashboards to inspire actions of various stakeholders by modeling different outcomes through future projections. In turn, the authors explore how actionable metrics in data dashboards can inform new business and technical communication practices for data visualization.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Analyzing data gathered around COVID-19 can increase our understanding of its spread and the social and economic impacts. Data visualizations can help various stakeholders understand the outbreak. To this end, this article seeks to understand how COVID-19 data dashboards utilized actionable metrics to inform various stakeholders. Used in lean methodology, actionable metrics specifically tie data visualization to actions to improve a specific situation. The authors discuss how actionable metrics were used in COVID-19 data dashboards to inspire actions of various stakeholders by modeling different outcomes through future projections. In turn, the authors explore how actionable metrics in data dashboards can inform new business and technical communication practices for data visualization.</description>
-      <dc:title>Lean Data Visualization: Considering Actionable Metrics for Technical Communication</dc:title>
-      <dc:identifier>10.1177/1050651920958500</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-11T02:51:45Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Gustav Verhulsdonck</dc:creator>
-      <dc:creator>Vishal Shah</dc:creator>
-      <prism:publicationName>Lean Data Visualization: Considering Actionable Metrics for Technical Communication</prism:publicationName>
-      <prism:doi>10.1177/1050651920958500</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958500?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Protecting Pandemic Conversations: Tracing Twitter’s Evolving Content Policies During COVID-19</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Throughout the COVID-19 pandemic, Twitter has served as a leading public platform for sharing, receiving, and engaging with virus-related content. To protect users from misinformation, Twitter has enforced stricter content-vetting policies. This article positions Twitter as a politically motivated entity and briefly traces Twitter’s use and applications of the term “harmful content.” The author investigates how the platform’s broadening of its definition of harmful content illustrates Twitter’s strategy for combating misinformation by acting on kairotic moments in a way that is shaped by the diverse authoritative voices already guiding larger public COVID-19 discussions. The article concludes by examining the roles these observations can play in technical and professional communication classrooms.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;Throughout the COVID-19 pandemic, Twitter has served as a leading public platform for sharing, receiving, and engaging with virus-related content. To protect users from misinformation, Twitter has enforced stricter content-vetting policies. This article positions Twitter as a politically motivated entity and briefly traces Twitter’s use and applications of the term “harmful content.” The author investigates how the platform’s broadening of its definition of harmful content illustrates Twitter’s strategy for combating misinformation by acting on kairotic moments in a way that is shaped by the diverse authoritative voices already guiding larger public COVID-19 discussions. The article concludes by examining the roles these observations can play in technical and professional communication classrooms.</description>
-      <dc:title>Protecting Pandemic Conversations: Tracing Twitter’s Evolving Content Policies During COVID-19</dc:title>
-      <dc:identifier>10.1177/1050651920958393</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-11T02:51:05Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Lacy Hope</dc:creator>
-      <prism:publicationName>Protecting Pandemic Conversations: Tracing Twitter’s Evolving Content Policies During COVID-19</prism:publicationName>
-      <prism:doi>10.1177/1050651920958393</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958393?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920958392?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Misrepresenting COVID-19: Lying With Charts During the Second Golden Age of Data Design</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920958392?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;In this second golden age of data design, digital affordances enable the news media to share occasionally misleading charts about COVID-19. Examining data visualizations about COVID-19 highlights three ways that charts can mislead viewers: (a) by displaying inadequate data, (b) by manipulating scales and visual distance, and (c) by omitting contextual labels needed to fully understand a chart’s message. This article provides takeaways for technical communicators about including and displaying adequate data, representing numbers consistently, and humanizing COVID-19’s effects.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;In this second golden age of data design, digital affordances enable the news media to share occasionally misleading charts about COVID-19. Examining data visualizations about COVID-19 highlights three ways that charts can mislead viewers: (a) by displaying inadequate data, (b) by manipulating scales and visual distance, and (c) by omitting contextual labels needed to fully understand a chart’s message. This article provides takeaways for technical communicators about including and displaying adequate data, representing numbers consistently, and humanizing COVID-19’s effects.</description>
-      <dc:title>Misrepresenting COVID-19: Lying With Charts During the Second Golden Age of Data Design</dc:title>
-      <dc:identifier>10.1177/1050651920958392</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-11T02:50:45Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Sara Doan</dc:creator>
-      <prism:publicationName>Misrepresenting COVID-19: Lying With Charts During the Second Golden Age of Data Design</prism:publicationName>
-      <prism:doi>10.1177/1050651920958392</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920958392?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1050651920957982?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>“Missing/Unspecified”: Demographic Data Visualization During the COVID-19 Pandemic</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/1050651920957982?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;While data has shown that COVID-19 disproportionately affects Black people, the CDC’s early data listed race as “missing/unspecified” at high rates. Incomplete demographic data obscures the virus’s full impact on marginalized communities. Without more information about who the virus is affecting and how, we cannot protect our most vulnerable. This article demonstrates disconnects between reported datasets and data visualizations in public-facing COVID health and science communication and suggests steps that technical and professional communicators can take in creating or using data visualizations accurately and ethically to describe COVID conditions and impacts.</content:encoded>
-      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;While data has shown that COVID-19 disproportionately affects Black people, the CDC’s early data listed race as “missing/unspecified” at high rates. Incomplete demographic data obscures the virus’s full impact on marginalized communities. Without more information about who the virus is affecting and how, we cannot protect our most vulnerable. This article demonstrates disconnects between reported datasets and data visualizations in public-facing COVID health and science communication and suggests steps that technical and professional communicators can take in creating or using data visualizations accurately and ethically to describe COVID conditions and impacts.</description>
-      <dc:title>“Missing/Unspecified”: Demographic Data Visualization During the COVID-19 Pandemic</dc:title>
-      <dc:identifier>10.1177/1050651920957982</dc:identifier>
-      <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2020-09-11T02:49:46Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Rachel Atherton</dc:creator>
-      <prism:publicationName>“Missing/Unspecified”: Demographic Data Visualization During the COVID-19 Pandemic</prism:publicationName>
-      <prism:doi>10.1177/1050651920957982</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1050651920957982?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
 </rdf:RDF>
-<!-- cached:  1604594205-->
+<!-- cached:  1607625439-->

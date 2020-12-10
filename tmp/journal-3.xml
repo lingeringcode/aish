@@ -18,6 +18,8 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320938794?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320939542?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320939541?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320968061?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320964265?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320964766?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0741088320944918?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
@@ -119,6 +121,38 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320939541?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2020 SAGE Publications</prism:copyright>
    </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320968061?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Writing With Data: A Study of Coding on a Data-Journalism Team</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320968061?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Coding has typically been understood as an engineering practice, where the meaning of code has discrete boundaries as a technology that does precisely what it says. Multidisciplinary code studies reframed this technological perspective by positing code as the latest form of writing, where code’s meaning is always partial and dependent on situational factors. Building out from this premise, this article theorizes coding as a form of writing with data through a qualitative case study of a web developer’s coding on a data-journalism team. I specifically theorize code as a form of intermediary writing to examine how his coding to process and analyze data sets involved the construction and negotiation of emergent problems throughout his coding tasks. Findings suggest how he integrated previous coding experience with an emerging sense of how code helped him write and revise the data. I conclude by considering the implications of these findings and discuss how writing and code studies could develop mutually informative approaches to coding as a situated and relational writing activity.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Coding has typically been understood as an engineering practice, where the meaning of code has discrete boundaries as a technology that does precisely what it says. Multidisciplinary code studies reframed this technological perspective by positing code as the latest form of writing, where code’s meaning is always partial and dependent on situational factors. Building out from this premise, this article theorizes coding as a form of writing with data through a qualitative case study of a web developer’s coding on a data-journalism team. I specifically theorize code as a form of intermediary writing to examine how his coding to process and analyze data sets involved the construction and negotiation of emergent problems throughout his coding tasks. Findings suggest how he integrated previous coding experience with an emerging sense of how code helped him write and revise the data. I conclude by considering the implications of these findings and discuss how writing and code studies could develop mutually informative approaches to coding as a situated and relational writing activity.</description>
+      <dc:title>Writing With Data: A Study of Coding on a Data-Journalism Team</dc:title>
+      <dc:identifier>10.1177/0741088320968061</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2020-11-12T05:02:03Z</dc:date>
+      <dc:rights>© 2020 SAGE Publications</dc:rights>
+      <dc:creator>Chris Aaron Lindgren</dc:creator>
+      <prism:publicationName>Writing With Data: A Study of Coding on a Data-Journalism Team</prism:publicationName>
+      <prism:doi>10.1177/0741088320968061</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320968061?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320964265?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Scanning as a Rhetorical Activity: Reporting Histories of Ether Experiments in the Johns Hopkins University Physical Seminary (1892–1913)</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320964265?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;This article reports on a study that examined papers written by graduate students in the Physical Seminary course at Johns Hopkins University (1892–1913) to investigate how students reused various visuals of the interferometer to construct narratives of late-19th-century Ether research. Their representations of the interferometer focused on the mechanics of the devices by constructing a series of textual-visual relationships, requiring that the reader scan back and forth between the written text and the accompanying visual. These multimodal texts demonstrate how the students used writing activities to create a narrative of equipment development, which highlighted the centrality of trained vision in enculturating graduate students into disciplinary writing practices in the late 19th century. Through an analysis of the specific interactions and the network of visuals the students used to reconstruct a history of Ether investigation, scholars of writing and rhetoric can see how important inclusion of equipment and its detailed discussion was to graduate writing and disciplinary enculturation in the sciences.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;This article reports on a study that examined papers written by graduate students in the Physical Seminary course at Johns Hopkins University (1892–1913) to investigate how students reused various visuals of the interferometer to construct narratives of late-19th-century Ether research. Their representations of the interferometer focused on the mechanics of the devices by constructing a series of textual-visual relationships, requiring that the reader scan back and forth between the written text and the accompanying visual. These multimodal texts demonstrate how the students used writing activities to create a narrative of equipment development, which highlighted the centrality of trained vision in enculturating graduate students into disciplinary writing practices in the late 19th century. Through an analysis of the specific interactions and the network of visuals the students used to reconstruct a history of Ether investigation, scholars of writing and rhetoric can see how important inclusion of equipment and its detailed discussion was to graduate writing and disciplinary enculturation in the sciences.</description>
+      <dc:title>Scanning as a Rhetorical Activity: Reporting Histories of Ether Experiments in the Johns Hopkins University Physical Seminary (1892–1913)</dc:title>
+      <dc:identifier>10.1177/0741088320964265</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2020-11-07T07:38:34Z</dc:date>
+      <dc:rights>© 2020 SAGE Publications</dc:rights>
+      <dc:creator>Gabriel Cutrufello</dc:creator>
+      <prism:publicationName>Scanning as a Rhetorical Activity: Reporting Histories of Ether Experiments in the Johns Hopkins University Physical Seminary (1892–1913)</prism:publicationName>
+      <prism:doi>10.1177/0741088320964265</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0741088320964265?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2020 SAGE Publications</prism:copyright>
+   </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0741088320964766?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>“Helping Me Learn New Things Every Day”: The Power of Community College Students’ Writing Across Genres</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/0741088320964766?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
@@ -152,4 +186,4 @@
       <prism:copyright>© 2020 SAGE Publications</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1604594206-->
+<!-- cached:  1607625441-->

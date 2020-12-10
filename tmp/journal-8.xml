@@ -24,6 +24,27 @@
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819888746?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819889959?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444819889957?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820978655?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820978654?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820979470?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820977197?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820975025?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820975411?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820977199?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820975416?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820974955?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820969893?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820951925?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820971786?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820972389?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820971778?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820972396?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820972392?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820972390?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820972388?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820970180?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820971629?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820971612?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820966753?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820968907?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1461444820968212?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
@@ -424,6 +445,360 @@
       <prism:doi>10.1177/1461444819889957</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444819889957?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2019</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820978655?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: The Digital Edge: How Black and Latino Youth Navigate Digital Inequality</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820978655?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Book Review: The Digital Edge: How Black and Latino Youth Navigate Digital Inequality</dc:title>
+      <dc:identifier>10.1177/1461444820978655</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-12-08T07:18:27Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Caroline Stratton</dc:creator>
+      <prism:publicationName>Book Review: The Digital Edge: How Black and Latino Youth Navigate Digital Inequality</prism:publicationName>
+      <prism:doi>10.1177/1461444820978655</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820978655?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820978654?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: Zootechnologies: A history of swarm research</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820978654?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Book Review: Zootechnologies: A history of swarm research</dc:title>
+      <dc:identifier>10.1177/1461444820978654</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-12-08T07:18:11Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Benjamin Peters</dc:creator>
+      <prism:publicationName>Book Review: Zootechnologies: A history of swarm research</prism:publicationName>
+      <prism:doi>10.1177/1461444820978654</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820978654?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820979470?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Reviewer list for 23(1)</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820979470?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Reviewer list for 23(1)</dc:title>
+      <dc:identifier>10.1177/1461444820979470</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-12-04T11:29:36Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <prism:publicationName>Reviewer list for 23(1)</prism:publicationName>
+      <prism:doi>10.1177/1461444820979470</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820979470?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820977197?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Thinking through silicon: Cables and servers as epistemic infrastructures</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820977197?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Data centers and undersea cables allow information to be transmitted, stored, and processed. Yet, more than passively housing knowledge, information infrastructures actively shape knowledge. Infrastructures facilitate a certain use case, privileging some forms of knowledge while ignoring others. And infrastructures are material investments by states or corporations at a particular site, solidifying their knowledge-production, while marginalizing alternatives. These conditions are exemplified by two sites in Tseung Kwan O, Hong Kong. The TKO Express is a private undersea cable that offers its clients high-speed connectivity between financial centers, supporting the “fast knowledge” of finance and trading, while ignoring slower or more social forms of intelligence. The TKOIE industrial estate allocated land to a data center rather than a community center, prioritizing the production of corporate, proprietary knowledge over local and communal knowledge. The article reworks the concept of epistemic infrastructures to stress how such facilities influence what can be known and what remains unknown.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Data centers and undersea cables allow information to be transmitted, stored, and processed. Yet, more than passively housing knowledge, information infrastructures actively shape knowledge. Infrastructures facilitate a certain use case, privileging some forms of knowledge while ignoring others. And infrastructures are material investments by states or corporations at a particular site, solidifying their knowledge-production, while marginalizing alternatives. These conditions are exemplified by two sites in Tseung Kwan O, Hong Kong. The TKO Express is a private undersea cable that offers its clients high-speed connectivity between financial centers, supporting the “fast knowledge” of finance and trading, while ignoring slower or more social forms of intelligence. The TKOIE industrial estate allocated land to a data center rather than a community center, prioritizing the production of corporate, proprietary knowledge over local and communal knowledge. The article reworks the concept of epistemic infrastructures to stress how such facilities influence what can be known and what remains unknown.</description>
+      <dc:title>Thinking through silicon: Cables and servers as epistemic infrastructures</dc:title>
+      <dc:identifier>10.1177/1461444820977197</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-12-04T11:29:06Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Luke Munn</dc:creator>
+      <prism:publicationName>Thinking through silicon: Cables and servers as epistemic infrastructures</prism:publicationName>
+      <prism:doi>10.1177/1461444820977197</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820977197?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820975025?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“It’s a mix of authenticity and complete fabrication” Emotional camping: The cross-platform labor of the Real Housewives</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820975025?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Despite popular interest in reality television, social media, and self-branding, much scholarship focuses on a single platform and places the burden of self-branding on the individual alone. Drawing on 6 years of research into the Real Housewives (RH) franchise and interviews with “Housewives,” I focus on the women’s performances of identity and self-branding across platforms. This article demonstrates that the women of RH become experts at working the system that exploits them via a form of labor I conceptualize as “emotional camping.” Successfully branded “Housewives” tend to be (1) dedicated to Bravo, (2) inclined to present as walking GIFs on Instagram, and (3) seemingly authentic. I argue this self-branding strategy affords these women a semblance of privacy in their highly public careers. These findings are a critique of and feminist mediation into the legitimate labor reality stars do for networks and themselves across platforms.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Despite popular interest in reality television, social media, and self-branding, much scholarship focuses on a single platform and places the burden of self-branding on the individual alone. Drawing on 6 years of research into the Real Housewives (RH) franchise and interviews with “Housewives,” I focus on the women’s performances of identity and self-branding across platforms. This article demonstrates that the women of RH become experts at working the system that exploits them via a form of labor I conceptualize as “emotional camping.” Successfully branded “Housewives” tend to be (1) dedicated to Bravo, (2) inclined to present as walking GIFs on Instagram, and (3) seemingly authentic. I argue this self-branding strategy affords these women a semblance of privacy in their highly public careers. These findings are a critique of and feminist mediation into the legitimate labor reality stars do for networks and themselves across platforms.</description>
+      <dc:title>“It’s a mix of authenticity and complete fabrication” Emotional camping: The cross-platform labor of the Real Housewives</dc:title>
+      <dc:identifier>10.1177/1461444820975025</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-12-04T11:28:58Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Evie Psarras</dc:creator>
+      <prism:publicationName>“It’s a mix of authenticity and complete fabrication” Emotional camping: The cross-platform labor of the Real Housewives</prism:publicationName>
+      <prism:doi>10.1177/1461444820975025</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820975025?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820975411?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>A softer kind of hard news? Data journalism and the digital renewal of public service news in Sweden</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820975411?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Over the past decade, data journalism has received considerable attention among scholars, pointing to novel forms of investigative reporting as well as new daily practices of news production. This study contributes to existing scholarship by conceptualizing data journalism through distinctions between hard and soft news in relation to service journalism. We analyze news produced by specialized data desks in Swedish public service organizations over a 5-year period (2015–2019) and propose a model for how service journalism attributes can be used as a bridge between the binary categories of hard and soft in data journalism. With this model, we point to how data journalism in public service organizations challenges established notions of soft and hard news and how hybrid production practices open up new research trajectories concerning the societal significance of news in the digital age.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Over the past decade, data journalism has received considerable attention among scholars, pointing to novel forms of investigative reporting as well as new daily practices of news production. This study contributes to existing scholarship by conceptualizing data journalism through distinctions between hard and soft news in relation to service journalism. We analyze news produced by specialized data desks in Swedish public service organizations over a 5-year period (2015–2019) and propose a model for how service journalism attributes can be used as a bridge between the binary categories of hard and soft in data journalism. With this model, we point to how data journalism in public service organizations challenges established notions of soft and hard news and how hybrid production practices open up new research trajectories concerning the societal significance of news in the digital age.</description>
+      <dc:title>A softer kind of hard news? Data journalism and the digital renewal of public service news in Sweden</dc:title>
+      <dc:identifier>10.1177/1461444820975411</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-12-01T07:09:21Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Andreas Widholm</dc:creator>
+      <dc:creator>Ester Appelgren</dc:creator>
+      <prism:publicationName>A softer kind of hard news? Data journalism and the digital renewal of public service news in Sweden</prism:publicationName>
+      <prism:doi>10.1177/1461444820975411</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820975411?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820977199?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>A snap of your true self: How self-presentation and temporal affordance influence self-concept on social media</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820977199?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This study examined how self-presentation on social media influences the way people view themselves. It also examined whether that varies with sites using two temporal features: posts which have a short life (ephemeral) and those which live indefinitely (permanent). Drawing on both the notion of public commitment and self-symbolizing, our experiment provided a critical test of two rival theory-driven hypotheses—one suggesting a greater internalization of presented self on permanent rather than ephemeral social media and the other suggesting the opposite pattern. Supporting the self-symbolizing perspective, those who publicly presented themselves on ephemeral social media internalized their portrayed personality. Also, such a difference in internalization between the two conditions was triggered by an introverted self-presentation. Results suggest that ephemerality enhances self-symbolizing efforts and the subsequent internalization by affording nonstrategic self-presentation and reducing impression management concerns. Implications for understanding self-concept change in social media contexts are discussed.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This study examined how self-presentation on social media influences the way people view themselves. It also examined whether that varies with sites using two temporal features: posts which have a short life (ephemeral) and those which live indefinitely (permanent). Drawing on both the notion of public commitment and self-symbolizing, our experiment provided a critical test of two rival theory-driven hypotheses—one suggesting a greater internalization of presented self on permanent rather than ephemeral social media and the other suggesting the opposite pattern. Supporting the self-symbolizing perspective, those who publicly presented themselves on ephemeral social media internalized their portrayed personality. Also, such a difference in internalization between the two conditions was triggered by an introverted self-presentation. Results suggest that ephemerality enhances self-symbolizing efforts and the subsequent internalization by affording nonstrategic self-presentation and reducing impression management concerns. Implications for understanding self-concept change in social media contexts are discussed.</description>
+      <dc:title>A snap of your true self: How self-presentation and temporal affordance influence self-concept on social media</dc:title>
+      <dc:identifier>10.1177/1461444820977199</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-30T06:27:22Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Sukyoung Choi</dc:creator>
+      <dc:creator>Dmitri Williams</dc:creator>
+      <dc:creator>Hyeok Kim</dc:creator>
+      <prism:publicationName>A snap of your true self: How self-presentation and temporal affordance influence self-concept on social media</prism:publicationName>
+      <prism:doi>10.1177/1461444820977199</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820977199?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820975416?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Greta Thunberg’s iconicity: Performance and co-performance in the social media ecology</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820975416?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Greta Thunberg’s meteoric rise from lonely school striker in August 2018 to global icon is one of the most remarkable political phenomena in recent decades, and one full of paradoxes. Thunberg started out with no resources, a child of 15 with limited experience and a history of Asperger’s. Thunberg’s iconic performance seems to have been able to turn these weaknesses into strengths. To understand how this happened, we must situate her analysis within the social media ecology. Two things distinguish this environment from previous phases: iconic protagonists now have wide degrees of control over their own performance, and audiences are no longer mere receptors of iconic performance, but active co-performers. Greta Thunberg is one of the first major political icons to have been fully formed within the new social media ecology. This article provides the first systematic analysis of this dynamic.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Greta Thunberg’s meteoric rise from lonely school striker in August 2018 to global icon is one of the most remarkable political phenomena in recent decades, and one full of paradoxes. Thunberg started out with no resources, a child of 15 with limited experience and a history of Asperger’s. Thunberg’s iconic performance seems to have been able to turn these weaknesses into strengths. To understand how this happened, we must situate her analysis within the social media ecology. Two things distinguish this environment from previous phases: iconic protagonists now have wide degrees of control over their own performance, and audiences are no longer mere receptors of iconic performance, but active co-performers. Greta Thunberg is one of the first major political icons to have been fully formed within the new social media ecology. This article provides the first systematic analysis of this dynamic.</description>
+      <dc:title>Greta Thunberg’s iconicity: Performance and co-performance in the social media ecology</dc:title>
+      <dc:identifier>10.1177/1461444820975416</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-26T06:48:29Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Thomas Olesen</dc:creator>
+      <prism:publicationName>Greta Thunberg’s iconicity: Performance and co-performance in the social media ecology</prism:publicationName>
+      <prism:doi>10.1177/1461444820975416</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820975416?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820974955?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The posthumous privacy paradox: Privacy preferences and behavior regarding digital remains</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820974955?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Scholars have observed a gap between users’ stated preferences to protect their privacy and their actual behavior. This is the privacy paradox. This article queries the persistence of the privacy paradox after death. A survey of a representative sample of Israeli Internet users inquired of perceptions, preferences, and actions taken by users regarding their digital remains. The analysis yielded three distinct groups: (1) users interested in preserving privacy posthumously but do not act accordingly; for these users, the privacy paradox persists posthumously; (2) users who match their behavior to their preferences; for these users, the privacy paradox is resolved; and (3) users interested in sharing their personal data posthumously but do not make the appropriate provisions. This scenario is the inverted privacy paradox. This new category has yet to be addressed in the literature. We present some explanations for the persistence of the posthumous privacy paradox and for the inverted privacy paradox.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Scholars have observed a gap between users’ stated preferences to protect their privacy and their actual behavior. This is the privacy paradox. This article queries the persistence of the privacy paradox after death. A survey of a representative sample of Israeli Internet users inquired of perceptions, preferences, and actions taken by users regarding their digital remains. The analysis yielded three distinct groups: (1) users interested in preserving privacy posthumously but do not act accordingly; for these users, the privacy paradox persists posthumously; (2) users who match their behavior to their preferences; for these users, the privacy paradox is resolved; and (3) users interested in sharing their personal data posthumously but do not make the appropriate provisions. This scenario is the inverted privacy paradox. This new category has yet to be addressed in the literature. We present some explanations for the persistence of the posthumous privacy paradox and for the inverted privacy paradox.</description>
+      <dc:title>The posthumous privacy paradox: Privacy preferences and behavior regarding digital remains</dc:title>
+      <dc:identifier>10.1177/1461444820974955</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-26T06:48:15Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Tal Morse</dc:creator>
+      <dc:creator>Michael Birnhack</dc:creator>
+      <prism:publicationName>The posthumous privacy paradox: Privacy preferences and behavior regarding digital remains</prism:publicationName>
+      <prism:doi>10.1177/1461444820974955</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820974955?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820969893?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Why do so few people share fake news? It hurts their reputation</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820969893?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;In spite of the attractiveness of fake news stories, most people are reluctant to share them. Why? Four pre-registered experiments (N = 3,656) suggest that sharing fake news hurt one’s reputation in a way that is difficult to fix, even for politically congruent fake news. The decrease in trust a source (media outlet or individual) suffers when sharing one fake news story against a background of real news is larger than the increase in trust a source enjoys when sharing one real news story against a background of fake news. A comparison with real-world media outlets showed that only sources sharing no fake news at all had similar trust ratings to mainstream media. Finally, we found that the majority of people declare they would have to be paid to share fake news, even when the news is politically congruent, and more so when their reputation is at stake.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;In spite of the attractiveness of fake news stories, most people are reluctant to share them. Why? Four pre-registered experiments (N = 3,656) suggest that sharing fake news hurt one’s reputation in a way that is difficult to fix, even for politically congruent fake news. The decrease in trust a source (media outlet or individual) suffers when sharing one fake news story against a background of real news is larger than the increase in trust a source enjoys when sharing one real news story against a background of fake news. A comparison with real-world media outlets showed that only sources sharing no fake news at all had similar trust ratings to mainstream media. Finally, we found that the majority of people declare they would have to be paid to share fake news, even when the news is politically congruent, and more so when their reputation is at stake.</description>
+      <dc:title>Why do so few people share fake news? It hurts their reputation</dc:title>
+      <dc:identifier>10.1177/1461444820969893</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-25T07:36:00Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Sacha Altay</dc:creator>
+      <dc:creator>Anne-Sophie Hacquin</dc:creator>
+      <dc:creator>Hugo Mercier</dc:creator>
+      <prism:publicationName>Why do so few people share fake news? It hurts their reputation</prism:publicationName>
+      <prism:doi>10.1177/1461444820969893</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820969893?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820951925?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Examining augmented reality in journalism: Presence, knowledge gain, and perceived visual authenticity</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820951925?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This article examines the impact of augmented reality (AR) visualizations on users’ sense of physical presence, knowledge gain, and perceptions of the authenticity of journalistic visuals. In a mixed experimental design, 79 participants were randomly assigned to view three The New York Times articles on a mobile phone featuring one of three viewing modalities: (1) AR visualizations, (2) interactive (non-AR) visualizations, or (3) non-interactive, static visualizations. AR induced a greater sense of physical presence compared to the other modalities. The findings suggest that immersive properties of AR can contribute to journalism’s goal of engaging the audience. However, AR was not a superior medium for informing the participants, and the viewing modality did not have an effect on the perceived authenticity of the visuals. The findings indicate a need for more efficient ways to relay information through journalistic AR visualizations while keeping the user engaged in an immersive experience.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This article examines the impact of augmented reality (AR) visualizations on users’ sense of physical presence, knowledge gain, and perceptions of the authenticity of journalistic visuals. In a mixed experimental design, 79 participants were randomly assigned to view three The New York Times articles on a mobile phone featuring one of three viewing modalities: (1) AR visualizations, (2) interactive (non-AR) visualizations, or (3) non-interactive, static visualizations. AR induced a greater sense of physical presence compared to the other modalities. The findings suggest that immersive properties of AR can contribute to journalism’s goal of engaging the audience. However, AR was not a superior medium for informing the participants, and the viewing modality did not have an effect on the perceived authenticity of the visuals. The findings indicate a need for more efficient ways to relay information through journalistic AR visualizations while keeping the user engaged in an immersive experience.</description>
+      <dc:title>Examining augmented reality in journalism: Presence, knowledge gain, and perceived visual authenticity</dc:title>
+      <dc:identifier>10.1177/1461444820951925</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-21T09:58:59Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Tanja Aitamurto</dc:creator>
+      <dc:creator>Laura Aymerich-Franch</dc:creator>
+      <dc:creator>Jorge Saldivar</dc:creator>
+      <dc:creator>Catherine Kircos</dc:creator>
+      <dc:creator>Yasamin Sadeghi</dc:creator>
+      <dc:creator>Sukolsak Sakshuwong</dc:creator>
+      <prism:publicationName>Examining augmented reality in journalism: Presence, knowledge gain, and perceived visual authenticity</prism:publicationName>
+      <prism:doi>10.1177/1461444820951925</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820951925?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820971786?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Theorising the ‘Security Influencer’: Speaking security, terror and Muslims on social media during the Manchester bombings</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820971786?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Security studies literature neglects social media’s potential for lay actors to become influential within security debates. This article develops the concept of ‘security influencers’, bringing literature from marketing into the security debate to understand how social media enables individuals to ‘speak’ and contest security and how lay actors exert influence. Methodologically, this article applies a multi-methods approach to 27,367 tweets to identify and analyse the top four most influential actors in 48 hours following the 2017 bombings by keywords ‘Manchester’ and ‘Muslims’. This article builds a typology of security influencers nuancing definitions of the passive ‘security broadcaster’ and the active ‘security engager’, both of which emerge from obscurity or influence within non-security domains. Furthermore, a dichotomy emerges within influential messages and contestation; messages discussing Muslims in banal terms as diverse individuals register high levels of agreement, whereas those discussing Islam as a world religion receive more hostility and contestation.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Security studies literature neglects social media’s potential for lay actors to become influential within security debates. This article develops the concept of ‘security influencers’, bringing literature from marketing into the security debate to understand how social media enables individuals to ‘speak’ and contest security and how lay actors exert influence. Methodologically, this article applies a multi-methods approach to 27,367 tweets to identify and analyse the top four most influential actors in 48 hours following the 2017 bombings by keywords ‘Manchester’ and ‘Muslims’. This article builds a typology of security influencers nuancing definitions of the passive ‘security broadcaster’ and the active ‘security engager’, both of which emerge from obscurity or influence within non-security domains. Furthermore, a dichotomy emerges within influential messages and contestation; messages discussing Muslims in banal terms as diverse individuals register high levels of agreement, whereas those discussing Islam as a world religion receive more hostility and contestation.</description>
+      <dc:title>Theorising the ‘Security Influencer’: Speaking security, terror and Muslims on social media during the Manchester bombings</dc:title>
+      <dc:identifier>10.1177/1461444820971786</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-17T05:15:37Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Joseph Downing</dc:creator>
+      <dc:creator>Richard Dron</dc:creator>
+      <prism:publicationName>Theorising the ‘Security Influencer’: Speaking security, terror and Muslims on social media during the Manchester bombings</prism:publicationName>
+      <prism:doi>10.1177/1461444820971786</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820971786?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820972389?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Proactive ephemerality: How journalists use automated and manual tweet deletion to minimize risk and its consequences for social media as a public archive</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820972389?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Despite their ephemeral constantly changing nature, social media constitute an archive of public discourse. In this study, we examine when, how, and why journalists practice proactive ephemerality, deleting their tweets either manually or automatically to consider the viability of social media as a public record. Based on interviews conducted with journalists in New York City, we find many journalists delete their tweets, and that software-aided mass deletion is common, damaging Twitter’s standing as an archive. Through deletion, journalists manipulate temporality, exposing the public to a brief tweeting window to reduce risks and regain control in a precarious labor market and a harassment-ridden public sphere in which employers leave them largely unprotected. When deleting tweets mechanically, journalists emulate platform logic by depending—as commercial platforms often do—on automatic procedures rather than on human expertise. This constitutes a surrender of the very qualities that make human judgment so valuable.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Despite their ephemeral constantly changing nature, social media constitute an archive of public discourse. In this study, we examine when, how, and why journalists practice proactive ephemerality, deleting their tweets either manually or automatically to consider the viability of social media as a public record. Based on interviews conducted with journalists in New York City, we find many journalists delete their tweets, and that software-aided mass deletion is common, damaging Twitter’s standing as an archive. Through deletion, journalists manipulate temporality, exposing the public to a brief tweeting window to reduce risks and regain control in a precarious labor market and a harassment-ridden public sphere in which employers leave them largely unprotected. When deleting tweets mechanically, journalists emulate platform logic by depending—as commercial platforms often do—on automatic procedures rather than on human expertise. This constitutes a surrender of the very qualities that make human judgment so valuable.</description>
+      <dc:title>Proactive ephemerality: How journalists use automated and manual tweet deletion to minimize risk and its consequences for social media as a public archive</dc:title>
+      <dc:identifier>10.1177/1461444820972389</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-13T09:40:53Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Sharon Ringel</dc:creator>
+      <dc:creator>Roei Davidson</dc:creator>
+      <prism:publicationName>Proactive ephemerality: How journalists use automated and manual tweet deletion to minimize risk and its consequences for social media as a public archive</prism:publicationName>
+      <prism:doi>10.1177/1461444820972389</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820972389?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820971778?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“Definitive playthrough”: Behind-the-scenes narratives in let’s plays and streaming content by video game voice actors</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820971778?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Commented gameplay video is an established form of online media content, attracting millions of viewers on YouTube and Twitch and usually created by fans and players. This article, however, brings attention to video game voice actors who use their involvement in game production to create a new genre of gameplay video. Using a mixed-method approach that combines quantitative content analysis and qualitative thematic analysis, we explore three case studies of successful channels run by video game actors. We find that this new genre, which we term “definitive playthrough videos” based on the label used by one of the analyzed channels, is a hybrid form at the intersection of variety streaming and behind-the-scenes narratives. By broadcasting games in which they performed, actors capitalize on their connection to in-game characters, firsthand knowledge of production trivia, and access to other industry insiders, repurposing a genre of user-generated content from the position of industry practitioners.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Commented gameplay video is an established form of online media content, attracting millions of viewers on YouTube and Twitch and usually created by fans and players. This article, however, brings attention to video game voice actors who use their involvement in game production to create a new genre of gameplay video. Using a mixed-method approach that combines quantitative content analysis and qualitative thematic analysis, we explore three case studies of successful channels run by video game actors. We find that this new genre, which we term “definitive playthrough videos” based on the label used by one of the analyzed channels, is a hybrid form at the intersection of variety streaming and behind-the-scenes narratives. By broadcasting games in which they performed, actors capitalize on their connection to in-game characters, firsthand knowledge of production trivia, and access to other industry insiders, repurposing a genre of user-generated content from the position of industry practitioners.</description>
+      <dc:title>“Definitive playthrough”: Behind-the-scenes narratives in let’s plays and streaming content by video game voice actors</dc:title>
+      <dc:identifier>10.1177/1461444820971778</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-12T06:18:53Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Jan Švelch</dc:creator>
+      <dc:creator>Jaroslav Švelch</dc:creator>
+      <prism:publicationName>“Definitive playthrough”: Behind-the-scenes narratives in let’s plays and streaming content by video game voice actors</prism:publicationName>
+      <prism:doi>10.1177/1461444820971778</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820971778?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820972396?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“I suppose I’ll be patching you up, as usual”: Women’s roles and normative femininity in a team-based video game</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820972396?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Women are often viewed as outsiders in the videogaming environment, particularly in first-person shooter games. Perceived infringement on an overwhelmingly masculine space pushes women to the margins of online team-based games, where gender norms inform the presumption that they play supportive roles that are viewed as passive and unskilled rather than actively contributing to team objectives. This study explores why women continue to play these roles, even as they are belittled, how societal expectations of women translate to the gaming space, and consequences for gender as a social structure. Findings suggest similarities to gendered labor in that women report feeling obligated to shoulder tasks that nobody else desires, much in the same way that professional work characterized as feminine is devalued. In addition, women must perform emotion work as they game by hiding their role preferences, feeling shame at fulfilling harmful gender stereotypes, and justifying their utility.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Women are often viewed as outsiders in the videogaming environment, particularly in first-person shooter games. Perceived infringement on an overwhelmingly masculine space pushes women to the margins of online team-based games, where gender norms inform the presumption that they play supportive roles that are viewed as passive and unskilled rather than actively contributing to team objectives. This study explores why women continue to play these roles, even as they are belittled, how societal expectations of women translate to the gaming space, and consequences for gender as a social structure. Findings suggest similarities to gendered labor in that women report feeling obligated to shoulder tasks that nobody else desires, much in the same way that professional work characterized as feminine is devalued. In addition, women must perform emotion work as they game by hiding their role preferences, feeling shame at fulfilling harmful gender stereotypes, and justifying their utility.</description>
+      <dc:title>“I suppose I’ll be patching you up, as usual”: Women’s roles and normative femininity in a team-based video game</dc:title>
+      <dc:identifier>10.1177/1461444820972396</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-12T06:18:50Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Jessica Austin</dc:creator>
+      <prism:publicationName>“I suppose I’ll be patching you up, as usual”: Women’s roles and normative femininity in a team-based video game</prism:publicationName>
+      <prism:doi>10.1177/1461444820972396</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820972396?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820972392?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Participatory branding on social media: The affordances of live streaming for creative labor</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820972392?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Creative workers in the social media industries face the imperative to brand themselves to audiences, corporate sponsors, and potential customers. This study complicates the role of self-branding on social media through the case of real-time creative labor on a social live streaming platform. Drawing on ethnographic fieldwork and in-depth interviews with live creators and viewers, this study suggests that the affordances of social live streaming platforms create a media and relational environment wherein personal branding practices are belabored by both creators and audiences. This phenomenon, which we term participatory branding, redistributes the labor of personal branding on social media and emphasizes the work of audiences in helping to shape the brand of a creative worker. We then advance a typology that maps the terrain of personal branding on social media as it relates to platform affordances, cross-platform promotion, and audience activity in content creation.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Creative workers in the social media industries face the imperative to brand themselves to audiences, corporate sponsors, and potential customers. This study complicates the role of self-branding on social media through the case of real-time creative labor on a social live streaming platform. Drawing on ethnographic fieldwork and in-depth interviews with live creators and viewers, this study suggests that the affordances of social live streaming platforms create a media and relational environment wherein personal branding practices are belabored by both creators and audiences. This phenomenon, which we term participatory branding, redistributes the labor of personal branding on social media and emphasizes the work of audiences in helping to shape the brand of a creative worker. We then advance a typology that maps the terrain of personal branding on social media as it relates to platform affordances, cross-platform promotion, and audience activity in content creation.</description>
+      <dc:title>Participatory branding on social media: The affordances of live streaming for creative labor</dc:title>
+      <dc:identifier>10.1177/1461444820972392</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-12T06:18:48Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Colten Meisner</dc:creator>
+      <dc:creator>Andrew M. Ledbetter</dc:creator>
+      <prism:publicationName>Participatory branding on social media: The affordances of live streaming for creative labor</prism:publicationName>
+      <prism:doi>10.1177/1461444820972392</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820972392?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820972390?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“Backstage moments during the campaign”: The interactive use of Instagram by Spanish political leaders</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820972390?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;The political use of social media is a well-established field of research. We perform a content analysis of the messages posted on Instagram—one of the fastest growing social networking sites—by the leaders of the four main political parties in Spain, with special emphasis on the interactive use of this platform and the functions played by the posts. The sample of Instagram posts includes a non-election period and a period of regional elections. The results point to a practically irrelevant use of interactive tools, and an emphasis on the self-promotion of leaders and their parties. Accordingly, the data show that Instagram is basically used by Spanish leaders as a supplement to their campaign efforts and strategic objectives. These findings are discussed and linked to broader theoretical issues such as the hypothesis of normalization and the use of the Internet for broadcasting.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;The political use of social media is a well-established field of research. We perform a content analysis of the messages posted on Instagram—one of the fastest growing social networking sites—by the leaders of the four main political parties in Spain, with special emphasis on the interactive use of this platform and the functions played by the posts. The sample of Instagram posts includes a non-election period and a period of regional elections. The results point to a practically irrelevant use of interactive tools, and an emphasis on the self-promotion of leaders and their parties. Accordingly, the data show that Instagram is basically used by Spanish leaders as a supplement to their campaign efforts and strategic objectives. These findings are discussed and linked to broader theoretical issues such as the hypothesis of normalization and the use of the Internet for broadcasting.</description>
+      <dc:title>“Backstage moments during the campaign”: The interactive use of Instagram by Spanish political leaders</dc:title>
+      <dc:identifier>10.1177/1461444820972390</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-12T06:18:43Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Antonio Pineda</dc:creator>
+      <dc:creator>Elena Bellido-Pérez</dc:creator>
+      <dc:creator>Ana I Barragán-Romero</dc:creator>
+      <prism:publicationName>“Backstage moments during the campaign”: The interactive use of Instagram by Spanish political leaders</prism:publicationName>
+      <prism:doi>10.1177/1461444820972390</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820972390?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820972388?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Supporting digital discourse? The deliberative function of links on Twitter</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820972388?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Digital discussion spaces have changed the shape of discursive argumentation considerably. While there is not much explicit reasoning on Twitter, many users link to external resources in their tweets. This study zooms in on the justificatory capacity of those links and investigates their deliberative function on the platform. A qualitative exploration of material from four countries shows that links to external resources support Twitter discourse by regularly substantiating user statements in the context of both information and argumentation. Links with a truth-based informative function are posted to support deliberative truth claims with empirical evidence, thus adding primarily to theoretical discourses. Links with a norm-based argumentative function are shared to legitimate positions against social standards. They contribute to practical discourses about courses of action by sustaining deliberative claims for normative rightness. The country comparison suggests that societal divisions foster a norm-based argumentative rather than truth-based informative use of links on Twitter.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Digital discussion spaces have changed the shape of discursive argumentation considerably. While there is not much explicit reasoning on Twitter, many users link to external resources in their tweets. This study zooms in on the justificatory capacity of those links and investigates their deliberative function on the platform. A qualitative exploration of material from four countries shows that links to external resources support Twitter discourse by regularly substantiating user statements in the context of both information and argumentation. Links with a truth-based informative function are posted to support deliberative truth claims with empirical evidence, thus adding primarily to theoretical discourses. Links with a norm-based argumentative function are shared to legitimate positions against social standards. They contribute to practical discourses about courses of action by sustaining deliberative claims for normative rightness. The country comparison suggests that societal divisions foster a norm-based argumentative rather than truth-based informative use of links on Twitter.</description>
+      <dc:title>Supporting digital discourse? The deliberative function of links on Twitter</dc:title>
+      <dc:identifier>10.1177/1461444820972388</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-12T06:18:41Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Julia Jakob</dc:creator>
+      <prism:publicationName>Supporting digital discourse? The deliberative function of links on Twitter</prism:publicationName>
+      <prism:doi>10.1177/1461444820972388</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820972388?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820970180?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Connectivity and communion: The mobile phone and the Christian religious experience in Nigeria</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820970180?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;This article explores the integration of the mobile phone into the religious experience of Christians in Nigeria. Based on the results of an online survey and the author’s observation, it argues that the mobile phone has become an actant in the mediatization of religion, creating dependency among some users and transforming religious praxis in palpable ways. Unsurprisingly, perspectives vary on whether and how the phone should be used during worship. Attitudes coalesce around three viewpoints, leading to the emergence of user groups labelled critics, advocates, and dualists. The accounts of study participants give access into the ways some people seek to (re)configure their engagement with religion by inserting the mobile phone as a multifunctional techno-spiritual gadget.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;This article explores the integration of the mobile phone into the religious experience of Christians in Nigeria. Based on the results of an online survey and the author’s observation, it argues that the mobile phone has become an actant in the mediatization of religion, creating dependency among some users and transforming religious praxis in palpable ways. Unsurprisingly, perspectives vary on whether and how the phone should be used during worship. Attitudes coalesce around three viewpoints, leading to the emergence of user groups labelled critics, advocates, and dualists. The accounts of study participants give access into the ways some people seek to (re)configure their engagement with religion by inserting the mobile phone as a multifunctional techno-spiritual gadget.</description>
+      <dc:title>Connectivity and communion: The mobile phone and the Christian religious experience in Nigeria</dc:title>
+      <dc:identifier>10.1177/1461444820970180</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-12T06:18:39Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Allwell Okechukwu Nwankwo</dc:creator>
+      <prism:publicationName>Connectivity and communion: The mobile phone and the Christian religious experience in Nigeria</prism:publicationName>
+      <prism:doi>10.1177/1461444820970180</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820970180?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820971629?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Free software meets Facebook: Placing digital platforms’ usage by free culture communities</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820971629?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;The use of digital platforms in social movements has given the Internet a central role in analyzing activism over the last decade. However, social networks’ potential for social change has to be analyzed critically and take complex economic and political contexts where actors remain unequally powerful into consideration. Through a combined methodology, this article explores the tensions of free culture communities in Spain when using proprietary digital platforms. These communities include 1651 platforms, of which 1162 are proprietary, and 489 are free. They describe a complex ecology in which they use proprietary platforms or free alternatives depending on their ultimate goals. The logic of technological corporations is notably imposed when communities aim to communicate with outsiders as commercial social networks attract a significantly greater number of users.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;The use of digital platforms in social movements has given the Internet a central role in analyzing activism over the last decade. However, social networks’ potential for social change has to be analyzed critically and take complex economic and political contexts where actors remain unequally powerful into consideration. Through a combined methodology, this article explores the tensions of free culture communities in Spain when using proprietary digital platforms. These communities include 1651 platforms, of which 1162 are proprietary, and 489 are free. They describe a complex ecology in which they use proprietary platforms or free alternatives depending on their ultimate goals. The logic of technological corporations is notably imposed when communities aim to communicate with outsiders as commercial social networks attract a significantly greater number of users.</description>
+      <dc:title>Free software meets Facebook: Placing digital platforms’ usage by free culture communities</dc:title>
+      <dc:identifier>10.1177/1461444820971629</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-07T06:38:30Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Dafne Calvo</dc:creator>
+      <prism:publicationName>Free software meets Facebook: Placing digital platforms’ usage by free culture communities</prism:publicationName>
+      <prism:doi>10.1177/1461444820971629</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820971629?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820971612?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The stratification of media usage in Finland, 2007–2018: Signs of socio-political polarization?</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1461444820971612?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>New Media &amp;amp;Society, Ahead of Print. &lt;br/&gt;Over the last 10–15 years, Western societies have faced two interrelated social changes: the digitalization of media and the increase in socio-political polarization. While their relationship is causally reciprocal, population-level empirical studies focusing on over-time change remain scarce. We adopt the temporal perspective on the socio-political stratification of media usage in the context of Finland, one of the so-called Nordic media welfare states. We ask whether the ways in which media usage is socially stratified has changed from 2007 to 2018 and whether there is political polarization of media consumption. We draw on two nationally representative comparative surveys, collected in 2007 (N = 1388) and 2018 (N = 1425), and show that the main media usage patterns—the wide, the narrow, and the Internet-focused media repertoires—differ both in terms of their sociodemographic and political profiles and that the opposition between the wide and the narrow repertoires becomes increasingly polarized.</content:encoded>
+      <description>New Media &amp; Society, Ahead of Print. &lt;br/&gt;Over the last 10–15 years, Western societies have faced two interrelated social changes: the digitalization of media and the increase in socio-political polarization. While their relationship is causally reciprocal, population-level empirical studies focusing on over-time change remain scarce. We adopt the temporal perspective on the socio-political stratification of media usage in the context of Finland, one of the so-called Nordic media welfare states. We ask whether the ways in which media usage is socially stratified has changed from 2007 to 2018 and whether there is political polarization of media consumption. We draw on two nationally representative comparative surveys, collected in 2007 (N = 1388) and 2018 (N = 1425), and show that the main media usage patterns—the wide, the narrow, and the Internet-focused media repertoires—differ both in terms of their sociodemographic and political profiles and that the opposition between the wide and the narrow repertoires becomes increasingly polarized.</description>
+      <dc:title>The stratification of media usage in Finland, 2007–2018: Signs of socio-political polarization?</dc:title>
+      <dc:identifier>10.1177/1461444820971612</dc:identifier>
+      <dc:source>New Media &amp; Society</dc:source>
+      <dc:date>2020-11-05T09:30:04Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Riie Heikkilä</dc:creator>
+      <dc:creator>Adrian Leguina</dc:creator>
+      <dc:creator>Semi Purhonen</dc:creator>
+      <prism:publicationName>The stratification of media usage in Finland, 2007–2018: Signs of socio-political polarization?</prism:publicationName>
+      <prism:doi>10.1177/1461444820971612</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1461444820971612?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1461444820966753?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Toward discourse involution within China’s Internet: Class, voice, and social media</title>
@@ -3276,4 +3651,4 @@
       <prism:copyright>© The Author(s) 2019</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1604594208-->
+<!-- cached:  1607625447-->

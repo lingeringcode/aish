@@ -22,6 +22,8 @@
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817687?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817688?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817689?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841277?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841276?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
@@ -207,5 +209,41 @@
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817689?af=R</prism:url>
       <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
    </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841277?af=R">
+      <title>From Sunlight to Shadow and Back Again: Enmerkar and the Lord of Aratta and the Function of Analogical Reasoning in Mesopotamian Rhetoric</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841277?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>From Sunlight to Shadow and Back Again: Enmerkar and the Lord of Aratta and the Function of Analogical Reasoning in Mesopotamian Rhetoric</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1841277</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-12-10T02:25:52Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Shawn Ramsey</dc:creator>
+      <prism:publicationName>From Sunlight to Shadow and Back Again: Enmerkar and the Lord of Aratta and the Function of Analogical Reasoning in Mesopotamian Rhetoric</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1841277</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841277?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841276?af=R">
+      <title>Toward a Rhetorical Account of Refugee Encounters: Biometric Screening Technologies and Failed Promises of Mobility</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841276?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Toward a Rhetorical Account of Refugee Encounters: Biometric Screening Technologies and Failed Promises of Mobility</dc:title>
+      <dc:identifier>10.1080/02773945.2020.1841276</dc:identifier>
+      <dc:source>Rhetoric Society Quarterly</dc:source>
+      <dc:date>2020-12-09T05:04:58Z</dc:date>
+      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Mais T. Al-Khateeb</dc:creator>
+      <prism:publicationName>Toward a Rhetorical Account of Refugee Encounters: Biometric Screening Technologies and Failed Promises of Mobility</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/02773945.2020.1841276</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841276?af=R</prism:url>
+      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+   </item>
 </rdf:RDF>
-<!-- cached:  1604594207-->
+<!-- cached:  1607625446-->
