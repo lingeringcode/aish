@@ -14,141 +14,260 @@
       <prism:publicationName>Journal of Technical Writing and Communication</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620913860?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620915434?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620981568?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211014126?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211006341?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211007804?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281621989640?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620981565?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620981567?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620978360?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620966990?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620966988?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620953377?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620946307?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620915434?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620913860?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620906128?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620907939?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620906150?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281620901484?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/0047281619898140?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2020/jtwa_50_4/jtwa_50_4/20200910-01/jtwa_50_4.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2021/jtwa_51_3/jtwa_51_3/20210506-01/jtwa_51_3.cover.png">
       <title>Journal of Technical Writing and Communication</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2020/jtwa_50_4/jtwa_50_4/20200910-01/jtwa_50_4.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2021/jtwa_51_3/jtwa_51_3/20210506-01/jtwa_51_3.cover.png</url>
       <link>https://journals.sagepub.com/loi/jtwa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>What Happens When We Fail? Building Resilient Community-Based Research</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, Page 339-375, October 2020. &lt;br/&gt;This article reports on the second stage of a 7-year community-based research project involving service-learning students in technical and professional communication courses and nonprofit organizations in Baltimore City. The article explains how students and community members overcame failure to collaborate on literacy and employment workshops. To assess collaboration, researchers integrated usability testing on workshop resources with 15 (N = 15) participants, postworkshop questionnaires with 34 (N = 34) participants, and interviews with 2 (N = 2) community partners. Participants responded positively, and 47% of workshop attendees found jobs. The article argues that community-based research should use participatory and iterative models and resilience theory.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 50, Issue 4, Page 339-375, October 2020. &lt;br/&gt;This article reports on the second stage of a 7-year community-based research project involving service-learning students in technical and professional communication courses and nonprofit organizations in Baltimore City. The article explains how students and community members overcame failure to collaborate on literacy and employment workshops. To assess collaboration, researchers integrated usability testing on workshop resources with 15 (N = 15) participants, postworkshop questionnaires with 34 (N = 34) participants, and interviews with 2 (N = 2) community partners. Participants responded positively, and 47% of workshop attendees found jobs. The article argues that community-based research should use participatory and iterative models and resilience theory.</description>
-      <dc:title>What Happens When We Fail? Building Resilient Community-Based Research</dc:title>
-      <dc:identifier>10.1177/0047281619876292</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620913860?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Industrial Discourse in Voluntary Environmental Disclosure Questionnaires Responses: A Case Study</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620913860?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/51/3"&gt;Volume 51, Issue 3&lt;/a&gt;, Page 223-251, July 2021. &lt;br/&gt;Deploying a grounded theory approach, this case study examines 9 years of a nonrenewable energy company’s responses to a voluntary environmental disclosure questionnaire to discover how industrial discourse about climate change is used by industry writers. Through using the rhetorical strategies of emotions, affect, and mythic narrative within theory, balancing norm, and dominion frames, the company communicates climate change does not impact their secure economic future due to their proactive approach toward regulatory compliance with technological innovation and attentive internal and external policy oversight.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 51, Issue 3, Page 223-251, July 2021. &lt;br/&gt;Deploying a grounded theory approach, this case study examines 9 years of a nonrenewable energy company’s responses to a voluntary environmental disclosure questionnaire to discover how industrial discourse about climate change is used by industry writers. Through using the rhetorical strategies of emotions, affect, and mythic narrative within theory, balancing norm, and dominion frames, the company communicates climate change does not impact their secure economic future due to their proactive approach toward regulatory compliance with technological innovation and attentive internal and external policy oversight.</description>
+      <dc:title>Industrial Discourse in Voluntary Environmental Disclosure Questionnaires Responses: A Case Study</dc:title>
+      <dc:identifier>10.1177/0047281620913860</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-10-15T07:08:03Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Allen Brizee</dc:creator>
-      <prism:publicationName>What Happens When We Fail? Building Resilient Community-Based Research</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>339</prism:startingPage>
-      <prism:endingPage>375</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619876292</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619876292?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, Page 376-400, October 2020. &lt;br/&gt;As people today use information products in contexts with distractions, we need to design for people’s attention. User experience design routinely relies on behavioral design to engage distracted users and nudge them toward specific behavior. Although practiced in user experience design, behavioral design is less known in technical communication. In this article, we use the CHOICES (Context, Habits, Other people, Incentives, Congruence, Emotions, and Salience) framework developed by McKinsey’s Behavioral Lab to introduce students to learn about behavioral design principles that make use of cognitive biases to influence people. We maintain that behavioral design is useful for technical communicators because they create digital assets that are part of the user experience.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 50, Issue 4, Page 376-400, October 2020. &lt;br/&gt;As people today use information products in contexts with distractions, we need to design for people’s attention. User experience design routinely relies on behavioral design to engage distracted users and nudge them toward specific behavior. Although practiced in user experience design, behavioral design is less known in technical communication. In this article, we use the CHOICES (Context, Habits, Other people, Incentives, Congruence, Emotions, and Salience) framework developed by McKinsey’s Behavioral Lab to introduce students to learn about behavioral design principles that make use of cognitive biases to influence people. We maintain that behavioral design is useful for technical communicators because they create digital assets that are part of the user experience.</description>
-      <dc:title>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</dc:title>
-      <dc:identifier>10.1177/0047281619880286</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-11-06T09:32:43Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Gustav Verhulsdonck</dc:creator>
-      <dc:creator>Nadya Shalamova</dc:creator>
-      <prism:publicationName>Creating Content That Influences People: Considering User Experience and Behavioral Design in Technical Communication</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>376</prism:startingPage>
-      <prism:endingPage>400</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619880286</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619880286?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, Page 401-422, October 2020. &lt;br/&gt;Apocalypticism is a powerful brew of eschatological belief and political imagination that is extremely persuasive. This article addresses the intersections between apocalyptic rhetoric and the technical communication of risk, disease outbreak, and disaster preparedness by analyzing the Centers for Disease Control and Prevention’s zombie apocalypse preparedness campaign. Specifically, I argue that the framing of the Centers for Disease Control and Prevention’s campaign relies on and extends problematic iterations of apocalypticism and undermines the educational objectives of disaster preparedness and response. I conclude with suggestions for how technical communicators designing public awareness and outreach campaigns can use existential risk rhetoric for engagement without succumbing to the pernicious side effects of apocalypticism.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 50, Issue 4, Page 401-422, October 2020. &lt;br/&gt;Apocalypticism is a powerful brew of eschatological belief and political imagination that is extremely persuasive. This article addresses the intersections between apocalyptic rhetoric and the technical communication of risk, disease outbreak, and disaster preparedness by analyzing the Centers for Disease Control and Prevention’s zombie apocalypse preparedness campaign. Specifically, I argue that the framing of the Centers for Disease Control and Prevention’s campaign relies on and extends problematic iterations of apocalypticism and undermines the educational objectives of disaster preparedness and response. I conclude with suggestions for how technical communicators designing public awareness and outreach campaigns can use existential risk rhetoric for engagement without succumbing to the pernicious side effects of apocalypticism.</description>
-      <dc:title>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</dc:title>
-      <dc:identifier>10.1177/0047281619892630</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-12-07T03:14:52Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Ryan Cheek</dc:creator>
-      <prism:publicationName>Zombie Ent(r)ailments in Risk Communication: A Rhetorical Analysis of the CDC’s Zombie Apocalypse Preparedness Campaign</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>401</prism:startingPage>
-      <prism:endingPage>422</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619892630</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619892630?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Research Video Abstracts in the Making: A Revised Move Analysis</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, Page 423-446, October 2020. &lt;br/&gt;This article reports on a revised move analysis of a video abstract (VA) repository curated by Cell Press. The analysis reveals that the VA displays several distinct core moves, optional moves, and move units. The analysis suggests that albeit evidence being inconclusive due to the sample size, the VA is in effect an emerging genre whose implications for further research and practice are worth discussing. The article also questions the assumed analytic pertinence of move analysis to researching multimodal genres and cautions against the uncritical use of the VAs curated by leading academic publishers and journals in professional training.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 50, Issue 4, Page 423-446, October 2020. &lt;br/&gt;This article reports on a revised move analysis of a video abstract (VA) repository curated by Cell Press. The analysis reveals that the VA displays several distinct core moves, optional moves, and move units. The analysis suggests that albeit evidence being inconclusive due to the sample size, the VA is in effect an emerging genre whose implications for further research and practice are worth discussing. The article also questions the assumed analytic pertinence of move analysis to researching multimodal genres and cautions against the uncritical use of the VAs curated by leading academic publishers and journals in professional training.</description>
-      <dc:title>Research Video Abstracts in the Making: A Revised Move Analysis</dc:title>
-      <dc:identifier>10.1177/0047281619894981</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2019-12-18T04:43:57Z</dc:date>
-      <dc:rights>© The Author(s) 2019</dc:rights>
-      <dc:creator>Jianxin Liu</dc:creator>
-      <prism:publicationName>Research Video Abstracts in the Making: A Revised Move Analysis</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>423</prism:startingPage>
-      <prism:endingPage>446</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281619894981</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619894981?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2019</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Walton, R., Moore, K. R., &amp; Jones, N. N. (2019). Technical Communication After the Social Justice Turn: Building Coalitions for Action</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/50/4"&gt;Volume 50, Issue 4&lt;/a&gt;, Page 447-452, October 2020. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 50, Issue 4, Page 447-452, October 2020. &lt;br/&gt;</description>
-      <dc:title>Walton, R., Moore, K. R., &amp; Jones, N. N. (2019). Technical Communication After the Social Justice Turn: Building Coalitions for Action</dc:title>
-      <dc:identifier>10.1177/0047281620906132</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-02-17T06:47:24Z</dc:date>
+      <dc:date>2020-03-27T03:36:02Z</dc:date>
       <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Keshab R. Acharya</dc:creator>
-      <prism:publicationName>Walton, R., Moore, K. R., &amp; Jones, N. N. (2019). Technical Communication After the Social Justice Turn: Building Coalitions for Action</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>447</prism:startingPage>
-      <prism:endingPage>452</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/0047281620906132</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620906132?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Christina Lane</dc:creator>
+      <prism:publicationName>Industrial Discourse in Voluntary Environmental Disclosure Questionnaires Responses: A Case Study</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>223</prism:startingPage>
+      <prism:endingPage>251</prism:endingPage>
+      <prism:coverDate>2021-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281620913860</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620913860?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620915434?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Text Recycling in STEM Research: An Exploratory Investigation of Expert and Novice Beliefs and Attitudes</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620915434?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/51/3"&gt;Volume 51, Issue 3&lt;/a&gt;, Page 252-272, July 2021. &lt;br/&gt;When writing journal articles, science, technology, engineering and mathematics (STEM) researchers produce a number of other genres such as grant proposals and conference posters, and their new articles routinely build directly on their own prior work. As a result, STEM authors often reuse material from their completed documents in producing new documents. While this practice, known as text recycling (or self-plagiarism), is a debated issue in publishing and research ethics, little is known about researchers’ beliefs about what constitutes appropriate practice. This article presents results of from an exploratory, survey-based study on beliefs and attitudes toward text recycling among STEM “experts” (faculty researchers) and “novices” (graduate students and post docs). While expert and novice researchers are fairly consistent in distinguishing between text recycling and plagiarism, there is considerable disagreement about appropriate text recycling practice.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 51, Issue 3, Page 252-272, July 2021. &lt;br/&gt;When writing journal articles, science, technology, engineering and mathematics (STEM) researchers produce a number of other genres such as grant proposals and conference posters, and their new articles routinely build directly on their own prior work. As a result, STEM authors often reuse material from their completed documents in producing new documents. While this practice, known as text recycling (or self-plagiarism), is a debated issue in publishing and research ethics, little is known about researchers’ beliefs about what constitutes appropriate practice. This article presents results of from an exploratory, survey-based study on beliefs and attitudes toward text recycling among STEM “experts” (faculty researchers) and “novices” (graduate students and post docs). While expert and novice researchers are fairly consistent in distinguishing between text recycling and plagiarism, there is considerable disagreement about appropriate text recycling practice.</description>
+      <dc:title>Text Recycling in STEM Research: An Exploratory Investigation of Expert and Novice Beliefs and Attitudes</dc:title>
+      <dc:identifier>10.1177/0047281620915434</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2020-03-31T03:28:31Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Cary Moskovitz</dc:creator>
+      <dc:creator>Susanne Hall</dc:creator>
+      <prism:publicationName>Text Recycling in STEM Research: An Exploratory Investigation of Expert and Novice Beliefs and Attitudes</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>252</prism:startingPage>
+      <prism:endingPage>272</prism:endingPage>
+      <prism:coverDate>2021-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281620915434</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620915434?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Student Social Media Self-Evaluation: Addressing the Posting Paradox in the Age of Cybervetting</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/51/3"&gt;Volume 51, Issue 3&lt;/a&gt;, Page 273-292, July 2021. &lt;br/&gt;Cybervetting, or the review of job applicants’ social media accounts, is a common practice. This study investigates the use of a typology to increase students’ self-awareness by asking them to assess their social media presence. The majority of Facebook users concluded they post content that is appropriate for potential employers, while most Twitter users concluded they post questionable content. Yet most Facebook users restricted access to their accounts, while most Twitter users left them public. When subsequently asked about the prospect of changing posting behavior, students with questionable content were more open to change, supporting the potential viability of the typology.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 51, Issue 3, Page 273-292, July 2021. &lt;br/&gt;Cybervetting, or the review of job applicants’ social media accounts, is a common practice. This study investigates the use of a typology to increase students’ self-awareness by asking them to assess their social media presence. The majority of Facebook users concluded they post content that is appropriate for potential employers, while most Twitter users concluded they post questionable content. Yet most Facebook users restricted access to their accounts, while most Twitter users left them public. When subsequently asked about the prospect of changing posting behavior, students with questionable content were more open to change, supporting the potential viability of the typology.</description>
+      <dc:title>Student Social Media Self-Evaluation: Addressing the Posting Paradox in the Age of Cybervetting</dc:title>
+      <dc:identifier>10.1177/0047281620927014</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2020-05-28T03:48:23Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>James Melton</dc:creator>
+      <dc:creator>Robert Miller</dc:creator>
+      <dc:creator>Paul Dunn</dc:creator>
+      <prism:publicationName>Student Social Media Self-Evaluation: Addressing the Posting Paradox in the Age of Cybervetting</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>273</prism:startingPage>
+      <prism:endingPage>292</prism:endingPage>
+      <prism:coverDate>2021-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281620927014</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Boundary Work and Boundary Objects: Synthesizing Two Concepts for Moments of Controversy</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/51/3"&gt;Volume 51, Issue 3&lt;/a&gt;, Page 293-312, July 2021. &lt;br/&gt;There are two boundary concepts utilized in technical and professional communication (TPC) scholarship: boundary work and, to a lesser degree, boundary objects. Boundary work functions to demarcate, incorporate, and expel particular ideas, groups, and practices from a field or profession. Boundary objects enhance the capacity of ideas, practices, and theories to translate across different groups. Together, these concepts are useful to TPC scholars interested in moments of controversy. In this essay, I explore the dialectical relationship between these two concepts and apply the resulting synthesis to a contemporary case study, the use of fecal microbiota transplants. I argue that the human microbiome functions as a boundary object and opens space within medicine’s own boundary work for the inclusion of fecal microbiota transplants. Together, the dialectical concepts of boundary work and boundary object create a new kind of analytic that allows TPC scholars to map boundary transformations, recognize moments for intervention, and create strategies for collaboration.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 51, Issue 3, Page 293-312, July 2021. &lt;br/&gt;There are two boundary concepts utilized in technical and professional communication (TPC) scholarship: boundary work and, to a lesser degree, boundary objects. Boundary work functions to demarcate, incorporate, and expel particular ideas, groups, and practices from a field or profession. Boundary objects enhance the capacity of ideas, practices, and theories to translate across different groups. Together, these concepts are useful to TPC scholars interested in moments of controversy. In this essay, I explore the dialectical relationship between these two concepts and apply the resulting synthesis to a contemporary case study, the use of fecal microbiota transplants. I argue that the human microbiome functions as a boundary object and opens space within medicine’s own boundary work for the inclusion of fecal microbiota transplants. Together, the dialectical concepts of boundary work and boundary object create a new kind of analytic that allows TPC scholars to map boundary transformations, recognize moments for intervention, and create strategies for collaboration.</description>
+      <dc:title>Boundary Work and Boundary Objects: Synthesizing Two Concepts for Moments of Controversy</dc:title>
+      <dc:identifier>10.1177/0047281620947355</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2020-08-12T03:48:52Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Jessica R. Houf</dc:creator>
+      <prism:publicationName>Boundary Work and Boundary Objects: Synthesizing Two Concepts for Moments of Controversy</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>293</prism:startingPage>
+      <prism:endingPage>312</prism:endingPage>
+      <prism:coverDate>2021-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281620947355</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620981568?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Rethinking Graduate School Research Genres: Communicating With Industry, Writing to Learn</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620981568?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/51/3"&gt;Volume 51, Issue 3&lt;/a&gt;, Page 313-337, July 2021. &lt;br/&gt;Technical and professional communication master’s students work with a faculty advisor to complete a three-credit independent research (IR) project, featuring original research. Stakeholders recommended the IR thesis be revised to better communicate IR to industry. Using a writing, activity theory, and genre theory lens, I analyzed what contradictions emerged between academic and workplace activity systems as stakeholders recommended genre revisions. I analyzed faculty and professional advisory board meeting transcripts, alumni and student surveys, and a Graduate School director and thesis examiner interview. Results indicated the thesis’ spectrum of functions, from its strengths encouraging students’ research proficiency to the limiting way it showcases IR as a product, not a process. Stakeholders suggested no thesis changes but recommended IR genre system modifications. As agents of change, students are uniquely positioned to use the IR genre system to address workplace communication problems and help mend our discipline’s academia-industry divide.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 51, Issue 3, Page 313-337, July 2021. &lt;br/&gt;Technical and professional communication master’s students work with a faculty advisor to complete a three-credit independent research (IR) project, featuring original research. Stakeholders recommended the IR thesis be revised to better communicate IR to industry. Using a writing, activity theory, and genre theory lens, I analyzed what contradictions emerged between academic and workplace activity systems as stakeholders recommended genre revisions. I analyzed faculty and professional advisory board meeting transcripts, alumni and student surveys, and a Graduate School director and thesis examiner interview. Results indicated the thesis’ spectrum of functions, from its strengths encouraging students’ research proficiency to the limiting way it showcases IR as a product, not a process. Stakeholders suggested no thesis changes but recommended IR genre system modifications. As agents of change, students are uniquely positioned to use the IR genre system to address workplace communication problems and help mend our discipline’s academia-industry divide.</description>
+      <dc:title>Rethinking Graduate School Research Genres: Communicating With Industry, Writing to Learn</dc:title>
+      <dc:identifier>10.1177/0047281620981568</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2020-12-22T04:58:13Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Julie Watts</dc:creator>
+      <prism:publicationName>Rethinking Graduate School Research Genres: Communicating With Industry, Writing to Learn</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>313</prism:startingPage>
+      <prism:endingPage>337</prism:endingPage>
+      <prism:coverDate>2021-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/0047281620981568</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620981568?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211014126?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Analyzing Safety Communication in Industrial Contexts</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211014126?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Work in industrial contexts is confronted with various risks, which are further amplified by the trend toward Industry 4.0. Approaches are needed to examine safety communication (SC) in such changing environments. Existing studies focus on individual SC means and quantitative evaluation measures. This article proposes a qualitative approach for analyzing SC with which a process chain in a metal-working company is investigated. The results reveal that SC is implemented as a complex system of communicative means. Weaknesses in this system entail several problems at the level of both workplaces and process chains. Due to a lack of digitalization, SC does not meet the requirements of Industry 4.0. Several task areas for communication professionals are identified in optimizing SC. These include content preparation for existing SC means according to work contexts and related tasks, creating digital SC content, and increasing the companies’ resilience to novel risks.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Work in industrial contexts is confronted with various risks, which are further amplified by the trend toward Industry 4.0. Approaches are needed to examine safety communication (SC) in such changing environments. Existing studies focus on individual SC means and quantitative evaluation measures. This article proposes a qualitative approach for analyzing SC with which a process chain in a metal-working company is investigated. The results reveal that SC is implemented as a complex system of communicative means. Weaknesses in this system entail several problems at the level of both workplaces and process chains. Due to a lack of digitalization, SC does not meet the requirements of Industry 4.0. Several task areas for communication professionals are identified in optimizing SC. These include content preparation for existing SC means according to work contexts and related tasks, creating digital SC content, and increasing the companies’ resilience to novel risks.</description>
+      <dc:title>Analyzing Safety Communication in Industrial Contexts</dc:title>
+      <dc:identifier>10.1177/00472816211014126</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2021-06-09T05:40:07Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Claas Digmayer</dc:creator>
+      <dc:creator>Eva-Maria Jakobs</dc:creator>
+      <prism:publicationName>Analyzing Safety Communication in Industrial Contexts</prism:publicationName>
+      <prism:doi>10.1177/00472816211014126</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211014126?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211006341?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Taking the Tactical Out of Technical: A Reassessment of Tactical Technical Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211006341?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article interrogates the concept of tactical technical communication specifically questioning the established understanding of de Certeau in the field of technical communication. It argues once readers move beyond the concepts of strategies and tactics, they will find a rich and nuanced explanation of how ordinary people “make do” in everyday life.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article interrogates the concept of tactical technical communication specifically questioning the established understanding of de Certeau in the field of technical communication. It argues once readers move beyond the concepts of strategies and tactics, they will find a rich and nuanced explanation of how ordinary people “make do” in everyday life.</description>
+      <dc:title>Taking the Tactical Out of Technical: A Reassessment of Tactical Technical Communication</dc:title>
+      <dc:identifier>10.1177/00472816211006341</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2021-04-15T03:46:28Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>T. Scott Randall</dc:creator>
+      <prism:publicationName>Taking the Tactical Out of Technical: A Reassessment of Tactical Technical Communication</prism:publicationName>
+      <prism:doi>10.1177/00472816211006341</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211006341?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211007804?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Twitter Users’ Displays of Affect in the Global Warming Debate</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211007804?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article engages with recent discussions in the field of technical communication that call for climate change research that moves beyond the believer/denier dichotomy. For this study, our research team coded 900 tweets about climate change and global warming for different emotions in order to understand how Twitter users rely on affect rhetorically. Our findings use quantitative content analysis to challenge current assumptions about writing and affect on social media, and our results indicate a number of arenas for future research on affect, global warming, and rhetoric.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article engages with recent discussions in the field of technical communication that call for climate change research that moves beyond the believer/denier dichotomy. For this study, our research team coded 900 tweets about climate change and global warming for different emotions in order to understand how Twitter users rely on affect rhetorically. Our findings use quantitative content analysis to challenge current assumptions about writing and affect on social media, and our results indicate a number of arenas for future research on affect, global warming, and rhetoric.</description>
+      <dc:title>Twitter Users’ Displays of Affect in the Global Warming Debate</dc:title>
+      <dc:identifier>10.1177/00472816211007804</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2021-04-13T04:55:12Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Shanna Cameron</dc:creator>
+      <dc:creator>Alexandra Russell</dc:creator>
+      <dc:creator>Luke Brake</dc:creator>
+      <dc:creator>Katherine Fredlund</dc:creator>
+      <dc:creator>Angela Morris</dc:creator>
+      <prism:publicationName>Twitter Users’ Displays of Affect in the Global Warming Debate</prism:publicationName>
+      <prism:doi>10.1177/00472816211007804</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211007804?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281621989640?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Writing Climate Change Assessments: Scientific Author Challenges and Rhetorical Negotiations</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281621989640?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;The rhetorical challenges and deliberations of scientific authors writing climate change assessment reports have received scant scholarly attention. As our interviews with 21 authors reveal, authors engage with multiple stakeholders who bring diverse scientific, political, economic, and cultural interests and perspectives. They must remain aware of politically motivated climate change denial and scientific illiteracy while remaining committed to producing policy relevant rather than policy prescriptive statements. These challenges lead to intense rhetorical negotiations over the lexical and visual features of a document they hope will deflect denial and contribute to meaningful policy solutions.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;The rhetorical challenges and deliberations of scientific authors writing climate change assessment reports have received scant scholarly attention. As our interviews with 21 authors reveal, authors engage with multiple stakeholders who bring diverse scientific, political, economic, and cultural interests and perspectives. They must remain aware of politically motivated climate change denial and scientific illiteracy while remaining committed to producing policy relevant rather than policy prescriptive statements. These challenges lead to intense rhetorical negotiations over the lexical and visual features of a document they hope will deflect denial and contribute to meaningful policy solutions.</description>
+      <dc:title>Writing Climate Change Assessments: Scientific Author Challenges and Rhetorical Negotiations</dc:title>
+      <dc:identifier>10.1177/0047281621989640</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2021-02-09T03:34:59Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Carol A. Reeves</dc:creator>
+      <dc:creator>Maura Ross</dc:creator>
+      <prism:publicationName>Writing Climate Change Assessments: Scientific Author Challenges and Rhetorical Negotiations</prism:publicationName>
+      <prism:doi>10.1177/0047281621989640</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281621989640?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620981565?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Intercultural Communication: Providing a Working Definition of Culture and Reexamining Intercultural Components in Technical Writing Textbooks</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620981565?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article presents a reexamination of intercultural components in prominent, recent technical professional communication textbooks. This examination reveals the need for the technical professional communication field to establish a dynamic definition of culture as well as presents a possible definition, presents areas where textbooks have addressed previous scholars’ concerns as well as areas that could still use improvement and may require instructors to add supplemental instruction, and presents considerations for instructors when incorporating intercultural component elements into their courses.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article presents a reexamination of intercultural components in prominent, recent technical professional communication textbooks. This examination reveals the need for the technical professional communication field to establish a dynamic definition of culture as well as presents a possible definition, presents areas where textbooks have addressed previous scholars’ concerns as well as areas that could still use improvement and may require instructors to add supplemental instruction, and presents considerations for instructors when incorporating intercultural component elements into their courses.</description>
+      <dc:title>Intercultural Communication: Providing a Working Definition of Culture and Reexamining Intercultural Components in Technical Writing Textbooks</dc:title>
+      <dc:identifier>10.1177/0047281620981565</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2020-12-23T04:11:05Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Katie Rieger</dc:creator>
+      <prism:publicationName>Intercultural Communication: Providing a Working Definition of Culture and Reexamining Intercultural Components in Technical Writing Textbooks</prism:publicationName>
+      <prism:doi>10.1177/0047281620981565</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620981565?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620981567?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Cognition, Care, and Usability: Applying Cognitive Concepts to User Experience Design in Health and Medical Contexts</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620981567?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Meeting the needs of users requires an understanding of the contexts where they interact with materials. This entry presents an approach for integrating script theory into usability to develop medical materials individuals can use in the settings where they receive or perform healthcare activities. The entry introduces technical communication professionals to script theory and presents mechanisms for using script theory to research patient expectations of and presents usable materials for health and medical contexts.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Meeting the needs of users requires an understanding of the contexts where they interact with materials. This entry presents an approach for integrating script theory into usability to develop medical materials individuals can use in the settings where they receive or perform healthcare activities. The entry introduces technical communication professionals to script theory and presents mechanisms for using script theory to research patient expectations of and presents usable materials for health and medical contexts.</description>
+      <dc:title>Cognition, Care, and Usability: Applying Cognitive Concepts to User Experience Design in Health and Medical Contexts</dc:title>
+      <dc:identifier>10.1177/0047281620981567</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2020-12-21T04:58:47Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Kirk St.Amant</dc:creator>
+      <prism:publicationName>Cognition, Care, and Usability: Applying Cognitive Concepts to User Experience Design in Health and Medical Contexts</prism:publicationName>
+      <prism:doi>10.1177/0047281620981567</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620981567?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2020</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620978360?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Using Multimedia for Instructor Presence in Purposeful Pedagogy-Driven Online Technical Writing Courses</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620978360?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Teaching and composing with multimedia humanizes online technical writing and communication classes. However, students do not always see the connection between multimedia instructional materials, multimedia assignments, and the course learning outcomes. Purposeful pedagogy-driven course design uses multimedia instructional materials to connect assignments, course materials, and assessments with course outcomes. Technical writing instructors can integrate synchronous and asynchronous multimedia elements to address not only the what and why of online technical writing instruction but also the how of multimedia instructional materials. Example multimedia instructional materials and student projects discussed in the article can increase student retention and promote engaged learning.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Teaching and composing with multimedia humanizes online technical writing and communication classes. However, students do not always see the connection between multimedia instructional materials, multimedia assignments, and the course learning outcomes. Purposeful pedagogy-driven course design uses multimedia instructional materials to connect assignments, course materials, and assessments with course outcomes. Technical writing instructors can integrate synchronous and asynchronous multimedia elements to address not only the what and why of online technical writing instruction but also the how of multimedia instructional materials. Example multimedia instructional materials and student projects discussed in the article can increase student retention and promote engaged learning.</description>
+      <dc:title>Using Multimedia for Instructor Presence in Purposeful Pedagogy-Driven Online Technical Writing Courses</dc:title>
+      <dc:identifier>10.1177/0047281620978360</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2020-12-18T04:53:27Z</dc:date>
+      <dc:rights>© The Author(s) 2020</dc:rights>
+      <dc:creator>Heidi Skurat Harris</dc:creator>
+      <dc:creator>Michael Greer</dc:creator>
+      <prism:publicationName>Using Multimedia for Instructor Presence in Purposeful Pedagogy-Driven Online Technical Writing Courses</prism:publicationName>
+      <prism:doi>10.1177/0047281620978360</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620978360?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620966990?ai=2b4&amp;mi=ehikzz&amp;af=R">
@@ -217,155 +336,5 @@
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620946307?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2020</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Boundary Work and Boundary Objects: Synthesizing Two Concepts for Moments of Controversy</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;There are two boundary concepts utilized in technical and professional communication (TPC) scholarship: boundary work and, to a lesser degree, boundary objects. Boundary work functions to demarcate, incorporate, and expel particular ideas, groups, and practices from a field or profession. Boundary objects enhance the capacity of ideas, practices, and theories to translate across different groups. Together, these concepts are useful to TPC scholars interested in moments of controversy. In this essay, I explore the dialectical relationship between these two concepts and apply the resulting synthesis to a contemporary case study, the use of fecal microbiota transplants. I argue that the human microbiome functions as a boundary object and opens space within medicine’s own boundary work for the inclusion of fecal microbiota transplants. Together, the dialectical concepts of boundary work and boundary object create a new kind of analytic that allows TPC scholars to map boundary transformations, recognize moments for intervention, and create strategies for collaboration.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;There are two boundary concepts utilized in technical and professional communication (TPC) scholarship: boundary work and, to a lesser degree, boundary objects. Boundary work functions to demarcate, incorporate, and expel particular ideas, groups, and practices from a field or profession. Boundary objects enhance the capacity of ideas, practices, and theories to translate across different groups. Together, these concepts are useful to TPC scholars interested in moments of controversy. In this essay, I explore the dialectical relationship between these two concepts and apply the resulting synthesis to a contemporary case study, the use of fecal microbiota transplants. I argue that the human microbiome functions as a boundary object and opens space within medicine’s own boundary work for the inclusion of fecal microbiota transplants. Together, the dialectical concepts of boundary work and boundary object create a new kind of analytic that allows TPC scholars to map boundary transformations, recognize moments for intervention, and create strategies for collaboration.</description>
-      <dc:title>Boundary Work and Boundary Objects: Synthesizing Two Concepts for Moments of Controversy</dc:title>
-      <dc:identifier>10.1177/0047281620947355</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-08-12T03:48:52Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Jessica R. Houf</dc:creator>
-      <prism:publicationName>Boundary Work and Boundary Objects: Synthesizing Two Concepts for Moments of Controversy</prism:publicationName>
-      <prism:doi>10.1177/0047281620947355</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620947355?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Student Social Media Self-Evaluation: Addressing the Posting Paradox in the Age of Cybervetting</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Cybervetting, or the review of job applicants’ social media accounts, is a common practice. This study investigates the use of a typology to increase students’ self-awareness by asking them to assess their social media presence. The majority of Facebook users concluded they post content that is appropriate for potential employers, while most Twitter users concluded they post questionable content. Yet most Facebook users restricted access to their accounts, while most Twitter users left them public. When subsequently asked about the prospect of changing posting behavior, students with questionable content were more open to change, supporting the potential viability of the typology.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Cybervetting, or the review of job applicants’ social media accounts, is a common practice. This study investigates the use of a typology to increase students’ self-awareness by asking them to assess their social media presence. The majority of Facebook users concluded they post content that is appropriate for potential employers, while most Twitter users concluded they post questionable content. Yet most Facebook users restricted access to their accounts, while most Twitter users left them public. When subsequently asked about the prospect of changing posting behavior, students with questionable content were more open to change, supporting the potential viability of the typology.</description>
-      <dc:title>Student Social Media Self-Evaluation: Addressing the Posting Paradox in the Age of Cybervetting</dc:title>
-      <dc:identifier>10.1177/0047281620927014</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-05-28T03:48:23Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>James Melton</dc:creator>
-      <dc:creator>Robert Miller</dc:creator>
-      <dc:creator>Paul Dunn</dc:creator>
-      <prism:publicationName>Student Social Media Self-Evaluation: Addressing the Posting Paradox in the Age of Cybervetting</prism:publicationName>
-      <prism:doi>10.1177/0047281620927014</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620927014?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620915434?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Text Recycling in STEM Research: An Exploratory Investigation of Expert and Novice Beliefs and Attitudes</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620915434?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Text Recycling in STEM Research: An Exploratory Investigation of Expert and Novice Beliefs and Attitudes</dc:title>
-      <dc:identifier>10.1177/0047281620915434</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-03-31T03:28:31Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Cary Moskovitz</dc:creator>
-      <dc:creator>Susanne Hall</dc:creator>
-      <prism:publicationName>Text Recycling in STEM Research: An Exploratory Investigation of Expert and Novice Beliefs and Attitudes</prism:publicationName>
-      <prism:doi>10.1177/0047281620915434</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620915434?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620913860?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Industrial Discourse in Voluntary Environmental Disclosure Questionnaires Responses: A Case Study</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620913860?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Industrial Discourse in Voluntary Environmental Disclosure Questionnaires Responses: A Case Study</dc:title>
-      <dc:identifier>10.1177/0047281620913860</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-03-27T03:36:02Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Christina Lane</dc:creator>
-      <prism:publicationName>Industrial Discourse in Voluntary Environmental Disclosure Questionnaires Responses: A Case Study</prism:publicationName>
-      <prism:doi>10.1177/0047281620913860</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620913860?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620906128?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Rhetoric and Cape Town’s Campaign to Defeat Day Zero</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620906128?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Rhetoric and Cape Town’s Campaign to Defeat Day Zero</dc:title>
-      <dc:identifier>10.1177/0047281620906128</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-02-28T05:22:20Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Josephine Walwema</dc:creator>
-      <prism:publicationName>Rhetoric and Cape Town’s Campaign to Defeat Day Zero</prism:publicationName>
-      <prism:doi>10.1177/0047281620906128</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620906128?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620907939?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>mHealth Apps for Older Adults: A Method for Development and User Experience Design Evaluation</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620907939?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>mHealth Apps for Older Adults: A Method for Development and User Experience Design Evaluation</dc:title>
-      <dc:identifier>10.1177/0047281620907939</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-02-24T04:35:44Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Russell Kirkscey</dc:creator>
-      <prism:publicationName>mHealth Apps for Older Adults: A Method for Development and User Experience Design Evaluation</prism:publicationName>
-      <prism:doi>10.1177/0047281620907939</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620907939?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620906150?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Genre Uptake as Boundary-Work: Reasoning About Uptake in Wikipedia Articles</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620906150?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Genre Uptake as Boundary-Work: Reasoning About Uptake in Wikipedia Articles</dc:title>
-      <dc:identifier>10.1177/0047281620906150</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-02-20T11:35:45Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Ana Cooke</dc:creator>
-      <prism:publicationName>Genre Uptake as Boundary-Work: Reasoning About Uptake in Wikipedia Articles</prism:publicationName>
-      <prism:doi>10.1177/0047281620906150</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620906150?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281620901484?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>“Subjects” in and of Research: Decolonizing Oppressive Rhetorical Practices in Technical Communication Research</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281620901484?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>“Subjects” in and of Research: Decolonizing Oppressive Rhetorical Practices in Technical Communication Research</dc:title>
-      <dc:identifier>10.1177/0047281620901484</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-01-24T04:28:13Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <dc:creator>Godwin Y. Agboka</dc:creator>
-      <prism:publicationName>“Subjects” in and of Research: Decolonizing Oppressive Rhetorical Practices in Technical Communication Research</prism:publicationName>
-      <prism:doi>10.1177/0047281620901484</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281620901484?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/0047281619898140?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Getting the Picture: A Cross-Cultural Comparison of Chinese and Western Users’ Preferences for Image Types in Manuals for Household Appliances</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/0047281619898140?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
-      <dc:title>Getting the Picture: A Cross-Cultural Comparison of Chinese and Western Users’ Preferences for Image Types in Manuals for Household Appliances</dc:title>
-      <dc:identifier>10.1177/0047281619898140</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2020-01-23T04:28:24Z</dc:date>
-      <dc:rights>© The Author(s) 2020</dc:rights>
-      <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/"/>
-      <dc:creator>Qian Li</dc:creator>
-      <dc:creator>Menno D. T. de Jong</dc:creator>
-      <dc:creator>Joyce Karreman</dc:creator>
-      <prism:publicationName>Getting the Picture: A Cross-Cultural Comparison of Chinese and Western Users’ Preferences for Image Types in Manuals for Household Appliances</prism:publicationName>
-      <prism:doi>10.1177/0047281619898140</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/0047281619898140?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2020</prism:copyright>
-   </item>
 </rdf:RDF>
-<!-- cached:  1607625440-->
+<!-- cached:  1625760256-->

@@ -5,245 +5,254 @@
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
          xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
-   <channel>
+   <channel rdf:about="https://www.tandfonline.com/loi/rrsq20?af=R">
       <title>tandf: Rhetoric Society Quarterly: Table of Contents</title>
       <description>Table of Contents for Rhetoric Society Quarterly. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://www.tandfonline.com/loi/rrsq20?af=R</link>
       <dc:title>tandf: Rhetoric Society Quarterly: Table of Contents</dc:title>
       <dc:publisher>tandf</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>Rhetoric Society Quarterly</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813321?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813324?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813322?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813323?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1814397?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817687?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817688?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817689?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841277?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841276?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877797?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877799?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877801?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877800?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877798?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877802?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889264?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889265?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889266?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889267?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i05/rrsq20.v050.i05/20201013-01/rrsq20.v050.i05.cover.jpg">
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2021/rrsq20.v051.i02/rrsq20.v051.i02/20210405-01/rrsq20.v051.i02.cover.jpg">
       <title>Rhetoric Society Quarterly</title>
-      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2020/rrsq20.v050.i05/rrsq20.v050.i05/20201013-01/rrsq20.v050.i05.cover.jpg</url>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2021/rrsq20.v051.i02/rrsq20.v051.i02/20210405-01/rrsq20.v051.i02.cover.jpg</url>
       <link>https://www.tandfonline.com/loi/rrsq20?af=R</link>
    </image>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813321?af=R">
-      <title>“Sharing a World with Others”: Rhetoric’s Ecological Turn and the Transformation of the Networked Public Sphere</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813321?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 305-320&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 5, October 2020, Page 305-320&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>“Sharing a World with Others”: Rhetoric’s Ecological Turn and the Transformation of the Networked Public Sphere</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1813321</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877797?af=R">
+      <title>From Lucifer to Jezebel: Invitational Rhetoric, Rhetorical Closure, and Safe Spaces in Feminist Sexual Discourse Communities</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877797?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/51/2"&gt;Volume 51, Issue 2&lt;/a&gt;, March 2021, Page 79-93&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 51, Issue 2, March 2021, Page 79-93&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>From Lucifer to Jezebel: Invitational Rhetoric, Rhetorical Closure, and Safe Spaces in Feminist Sexual Discourse Communities</dc:title>
+      <dc:identifier>10.1080/02773945.2021.1877797</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-09-25T09:03:50Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Dan Ehrenfeld</dc:creator>
-      <prism:publicationName>“Sharing a World with Others”: Rhetoric’s Ecological Turn and the Transformation of the Networked Public Sphere</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>305</prism:startingPage>
-      <prism:endingPage>320</prism:endingPage>
-      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1813321</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813321?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2021-04-05T03:23:10Z</dc:date>
+      <dc:rights>© 2021 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Wendy Hayden</dc:creator>
+      <prism:publicationName>From Lucifer to Jezebel: Invitational Rhetoric, Rhetorical Closure, and Safe Spaces in Feminist Sexual Discourse Communities</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>79</prism:startingPage>
+      <prism:endingPage>93</prism:endingPage>
+      <prism:coverDate>2021-03-15T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-03-15T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2021.1877797</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877797?af=R</prism:url>
+      <prism:copyright>© 2021 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813324?af=R">
-      <title>Walleye Wars and Pedagogical Management: Cooperative Rhetorics of Responsibility in Response to Settler Colonialism</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813324?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 321-334&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 5, October 2020, Page 321-334&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Walleye Wars and Pedagogical Management: Cooperative Rhetorics of Responsibility in Response to Settler Colonialism</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1813324</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877799?af=R">
+      <title>Objects, Documentation, and Identification: Materiality and Memory of American Indian Boarding Schools at the Heard Museum</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877799?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/51/2"&gt;Volume 51, Issue 2&lt;/a&gt;, March 2021, Page 94-108&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 51, Issue 2, March 2021, Page 94-108&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Objects, Documentation, and Identification: Materiality and Memory of American Indian Boarding Schools at the Heard Museum</dc:title>
+      <dc:identifier>10.1080/02773945.2021.1877799</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-09-25T09:19:44Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>John Koban</dc:creator>
-      <prism:publicationName>Walleye Wars and Pedagogical Management: Cooperative Rhetorics of Responsibility in Response to Settler Colonialism</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>321</prism:startingPage>
-      <prism:endingPage>334</prism:endingPage>
-      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1813324</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813324?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2021-04-05T03:23:10Z</dc:date>
+      <dc:rights>© 2021 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Emily Robinson</dc:creator>
+      <prism:publicationName>Objects, Documentation, and Identification: Materiality and Memory of American Indian Boarding Schools at the Heard Museum</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>94</prism:startingPage>
+      <prism:endingPage>108</prism:endingPage>
+      <prism:coverDate>2021-03-15T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-03-15T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2021.1877799</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877799?af=R</prism:url>
+      <prism:copyright>© 2021 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813322?af=R">
-      <title>Creating Space for Black Women’s Citizenship: African American Suffrage Arguments in the Crisis</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813322?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 335-351&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 5, October 2020, Page 335-351&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Creating Space for Black Women’s Citizenship: African American Suffrage Arguments in the Crisis</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1813322</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877801?af=R">
+      <title>Products of US Performance: A Material Rhetorical Education at North Bennet Street Industrial School, 1890–1910</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877801?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/51/2"&gt;Volume 51, Issue 2&lt;/a&gt;, March 2021, Page 109-121&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 51, Issue 2, March 2021, Page 109-121&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Products of US Performance: A Material Rhetorical Education at North Bennet Street Industrial School, 1890–1910</dc:title>
+      <dc:identifier>10.1080/02773945.2021.1877801</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-09-30T08:11:31Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>David Gold</dc:creator>
-      <prism:publicationName>Creating Space for Black Women’s Citizenship: African American Suffrage Arguments in the Crisis</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>335</prism:startingPage>
-      <prism:endingPage>351</prism:endingPage>
-      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1813322</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813322?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2021-04-05T03:23:12Z</dc:date>
+      <dc:rights>© 2021 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Laura Proszak</dc:creator>
+      <prism:publicationName>Products of US Performance: A Material Rhetorical Education at North Bennet Street Industrial School, 1890–1910</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>109</prism:startingPage>
+      <prism:endingPage>121</prism:endingPage>
+      <prism:coverDate>2021-03-15T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-03-15T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2021.1877801</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877801?af=R</prism:url>
+      <prism:copyright>© 2021 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813323?af=R">
-      <title>The Moving Boundaries of Bears Ears: Ecological Rhetorics and the Shrinking of a Monument</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813323?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 352-367&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 5, October 2020, Page 352-367&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>The Moving Boundaries of Bears Ears: Ecological Rhetorics and the Shrinking of a Monument</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1813323</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877800?af=R">
+      <title>My Body, My Cells: Rhetoric and the Molecularization of the Human</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877800?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/51/2"&gt;Volume 51, Issue 2&lt;/a&gt;, March 2021, Page 123-137&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 51, Issue 2, March 2021, Page 123-137&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>My Body, My Cells: Rhetoric and the Molecularization of the Human</dc:title>
+      <dc:identifier>10.1080/02773945.2021.1877800</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-09-25T09:17:43Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Joshua Smith</dc:creator>
-      <prism:publicationName>The Moving Boundaries of Bears Ears: Ecological Rhetorics and the Shrinking of a Monument</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>352</prism:startingPage>
-      <prism:endingPage>367</prism:endingPage>
-      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1813323</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1813323?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2021-04-05T03:23:11Z</dc:date>
+      <dc:rights>© 2021 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Tori Thompson Peters</dc:creator>
+      <prism:publicationName>My Body, My Cells: Rhetoric and the Molecularization of the Human</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>123</prism:startingPage>
+      <prism:endingPage>137</prism:endingPage>
+      <prism:coverDate>2021-03-15T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-03-15T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2021.1877800</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877800?af=R</prism:url>
+      <prism:copyright>© 2021 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1814397?af=R">
-      <title>Precarious Data: Affect, Infrastructure, and Public Education</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1814397?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 368-382&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 5, October 2020, Page 368-382&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Precarious Data: Affect, Infrastructure, and Public Education</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1814397</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877798?af=R">
+      <title>Music against Fascism: DIY Versus the Right Wing Safety Squad</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877798?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/51/2"&gt;Volume 51, Issue 2&lt;/a&gt;, March 2021, Page 138-151&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 51, Issue 2, March 2021, Page 138-151&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Music against Fascism: DIY Versus the Right Wing Safety Squad</dc:title>
+      <dc:identifier>10.1080/02773945.2021.1877798</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-09-24T04:33:42Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Nathan R. Johnson</dc:creator>
-      <dc:creator>Meredith A. Johnson</dc:creator>
-      <prism:publicationName>Precarious Data: Affect, Infrastructure, and Public Education</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>368</prism:startingPage>
-      <prism:endingPage>382</prism:endingPage>
-      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1814397</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1814397?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2021-04-05T03:23:10Z</dc:date>
+      <dc:rights>© 2021 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Ben Harley</dc:creator>
+      <prism:publicationName>Music against Fascism: DIY Versus the Right Wing Safety Squad</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>138</prism:startingPage>
+      <prism:endingPage>151</prism:endingPage>
+      <prism:coverDate>2021-03-15T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-03-15T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2021.1877798</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877798?af=R</prism:url>
+      <prism:copyright>© 2021 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817687?af=R">
-      <title>Surrender: Feminist Rhetoric and Ethics in Love and Illness</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817687?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 383-385&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 5, October 2020, Page 383-385&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Surrender: Feminist Rhetoric and Ethics in Love and Illness</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1817687</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877802?af=R">
+      <title>Threatening Whiteness: “Angry Russell” and the Rhetoricity of Race</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877802?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/51/2"&gt;Volume 51, Issue 2&lt;/a&gt;, March 2021, Page 152-166&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 51, Issue 2, March 2021, Page 152-166&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Threatening Whiteness: “Angry Russell” and the Rhetoricity of Race</dc:title>
+      <dc:identifier>10.1080/02773945.2021.1877802</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-09-23T05:58:04Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Tasha Dubriwny</dc:creator>
-      <prism:publicationName>Surrender: Feminist Rhetoric and Ethics in Love and Illness</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>383</prism:startingPage>
-      <prism:endingPage>385</prism:endingPage>
-      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1817687</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817687?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2021-04-05T03:23:12Z</dc:date>
+      <dc:rights>© 2021 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Linsay M. Cramer</dc:creator>
+      <dc:creator>Andrew R. Donofrio</dc:creator>
+      <prism:publicationName>Threatening Whiteness: “Angry Russell” and the Rhetoricity of Race</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>152</prism:startingPage>
+      <prism:endingPage>166</prism:endingPage>
+      <prism:coverDate>2021-03-15T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-03-15T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2021.1877802</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1877802?af=R</prism:url>
+      <prism:copyright>© 2021 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817688?af=R">
-      <title>Rhet-Ops: Rhetoric and Information Warfare</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817688?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 385-387&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 5, October 2020, Page 385-387&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Rhet-Ops: Rhetoric and Information Warfare</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1817688</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889264?af=R">
+      <title>Inconvenient Strangers: Transnational Subjects and the Politics of Citizenship</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889264?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/51/2"&gt;Volume 51, Issue 2&lt;/a&gt;, March 2021, Page 167-168&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 51, Issue 2, March 2021, Page 167-168&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Inconvenient Strangers: Transnational Subjects and the Politics of Citizenship</dc:title>
+      <dc:identifier>10.1080/02773945.2021.1889264</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-09-23T05:59:51Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Jeremy Johnson</dc:creator>
-      <prism:publicationName>Rhet-Ops: Rhetoric and Information Warfare</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>385</prism:startingPage>
-      <prism:endingPage>387</prism:endingPage>
-      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1817688</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817688?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2021-04-05T03:23:11Z</dc:date>
+      <dc:rights>© 2021 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Belinda Stillion Southard</dc:creator>
+      <prism:publicationName>Inconvenient Strangers: Transnational Subjects and the Politics of Citizenship</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>167</prism:startingPage>
+      <prism:endingPage>168</prism:endingPage>
+      <prism:coverDate>2021-03-15T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-03-15T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2021.1889264</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889264?af=R</prism:url>
+      <prism:copyright>© 2021 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817689?af=R">
-      <title>Queering Romantic Engagement in the Postal Age: A Rhetorical Education</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817689?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/50/5"&gt;Volume 50, Issue 5&lt;/a&gt;, October 2020, Page 387-389&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 50, Issue 5, October 2020, Page 387-389&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Queering Romantic Engagement in the Postal Age: A Rhetorical Education</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1817689</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889265?af=R">
+      <title>How to Belong: Women’s Agency in a Transnational World</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889265?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/51/2"&gt;Volume 51, Issue 2&lt;/a&gt;, March 2021, Page 169-171&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 51, Issue 2, March 2021, Page 169-171&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>How to Belong: Women’s Agency in a Transnational World</dc:title>
+      <dc:identifier>10.1080/02773945.2021.1889265</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-09-23T06:02:52Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Erin J. Rand</dc:creator>
-      <prism:publicationName>Queering Romantic Engagement in the Postal Age: A Rhetorical Education</prism:publicationName>
-      <prism:volume>50</prism:volume>
-      <prism:number>5</prism:number>
-      <prism:startingPage>387</prism:startingPage>
-      <prism:endingPage>389</prism:endingPage>
-      <prism:coverDate>2020-10-19T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-19T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2020.1817689</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1817689?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2021-04-05T03:23:11Z</dc:date>
+      <dc:rights>© 2021 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Shui-Yin Sharon Yam</dc:creator>
+      <prism:publicationName>How to Belong: Women’s Agency in a Transnational World</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>169</prism:startingPage>
+      <prism:endingPage>171</prism:endingPage>
+      <prism:coverDate>2021-03-15T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-03-15T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2021.1889265</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889265?af=R</prism:url>
+      <prism:copyright>© 2021 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841277?af=R">
-      <title>From Sunlight to Shadow and Back Again: Enmerkar and the Lord of Aratta and the Function of Analogical Reasoning in Mesopotamian Rhetoric</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841277?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>From Sunlight to Shadow and Back Again: Enmerkar and the Lord of Aratta and the Function of Analogical Reasoning in Mesopotamian Rhetoric</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1841277</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889266?af=R">
+      <title>On African-American Rhetoric</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889266?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/51/2"&gt;Volume 51, Issue 2&lt;/a&gt;, March 2021, Page 171-173&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 51, Issue 2, March 2021, Page 171-173&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>On African-American Rhetoric</dc:title>
+      <dc:identifier>10.1080/02773945.2021.1889266</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-12-10T02:25:52Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Shawn Ramsey</dc:creator>
-      <prism:publicationName>From Sunlight to Shadow and Back Again: Enmerkar and the Lord of Aratta and the Function of Analogical Reasoning in Mesopotamian Rhetoric</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>13</prism:endingPage>
-      <prism:doi>10.1080/02773945.2020.1841277</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841277?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2021-04-05T03:23:11Z</dc:date>
+      <dc:rights>© 2021 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Derek G. Handley</dc:creator>
+      <prism:publicationName>On African-American Rhetoric</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>171</prism:startingPage>
+      <prism:endingPage>173</prism:endingPage>
+      <prism:coverDate>2021-03-15T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-03-15T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2021.1889266</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889266?af=R</prism:url>
+      <prism:copyright>© 2021 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841276?af=R">
-      <title>Toward a Rhetorical Account of Refugee Encounters: Biometric Screening Technologies and Failed Promises of Mobility</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841276?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Toward a Rhetorical Account of Refugee Encounters: Biometric Screening Technologies and Failed Promises of Mobility</dc:title>
-      <dc:identifier>10.1080/02773945.2020.1841276</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889267?af=R">
+      <title>Vulnerability Politics: The Uses and Abuses of Precarity in Political Debate</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889267?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/51/2"&gt;Volume 51, Issue 2&lt;/a&gt;, March 2021, Page 173-175&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 51, Issue 2, March 2021, Page 173-175&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Vulnerability Politics: The Uses and Abuses of Precarity in Political Debate</dc:title>
+      <dc:identifier>10.1080/02773945.2021.1889267</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2020-12-09T05:04:58Z</dc:date>
-      <dc:rights>© 2020 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Mais T. Al-Khateeb</dc:creator>
-      <prism:publicationName>Toward a Rhetorical Account of Refugee Encounters: Biometric Screening Technologies and Failed Promises of Mobility</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>12</prism:endingPage>
-      <prism:doi>10.1080/02773945.2020.1841276</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2020.1841276?af=R</prism:url>
-      <prism:copyright>© 2020 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2021-04-05T03:23:10Z</dc:date>
+      <dc:rights>© 2021 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Arabella Lyon</dc:creator>
+      <prism:publicationName>Vulnerability Politics: The Uses and Abuses of Precarity in Political Debate</prism:publicationName>
+      <prism:volume>51</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>173</prism:startingPage>
+      <prism:endingPage>175</prism:endingPage>
+      <prism:coverDate>2021-03-15T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-03-15T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2021.1889267</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2021.1889267?af=R</prism:url>
+      <prism:copyright>© 2021 The Rhetoric Society of America</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1607625446-->
+<!-- cached:  1625760264-->

@@ -5,239 +5,663 @@
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
          xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
-   <channel>
+   <channel rdf:about="https://www.tandfonline.com/loi/htcq20?af=R">
       <title>tandf: Technical Communication Quarterly: Table of Contents</title>
       <description>Table of Contents for Technical Communication Quarterly. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://www.tandfonline.com/loi/htcq20?af=R</link>
       <dc:title>tandf: Technical Communication Quarterly: Table of Contents</dc:title>
       <dc:publisher>tandf</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1738555?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713404?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1790665?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1659860?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789745?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713405?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774659?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689090?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831614?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1829072?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831615?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1823485?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804619?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803413?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803989?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803988?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804620?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803412?af=R"/>
             <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1794047?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789744?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774662?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774660?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774661?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774658?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1754466?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689089?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803989?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804620?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803988?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803413?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803412?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1888526?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1888527?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930180?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930184?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930181?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930178?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1931457?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1928962?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930185?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930183?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915387?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915386?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915060?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906449?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915064?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915059?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915066?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906451?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906450?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906453?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866677?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866678?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866679?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1860257?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831614?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831615?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804619?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/htcq20/2020/htcq20.v029.i04/htcq20.v029.i04/20200915-01/htcq20.v029.i04.cover.jpg">
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/htcq20/2021/htcq20.v030.i02/htcq20.v030.i02/20210411-01/htcq20.v030.i02.cover.jpg">
       <title>Technical Communication Quarterly</title>
-      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/htcq20/2020/htcq20.v029.i04/htcq20.v029.i04/20200915-01/htcq20.v029.i04.cover.jpg</url>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/htcq20/2021/htcq20.v030.i02/htcq20.v030.i02/20210411-01/htcq20.v030.i02.cover.jpg</url>
       <link>https://www.tandfonline.com/loi/htcq20?af=R</link>
    </image>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1738555?af=R">
-      <title>Gaming Design Thinking: Wicked Problems, Sufficient Solutions, and the Possibility Space of Games</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1738555?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/29/4"&gt;Volume 29, Issue 4&lt;/a&gt;, October-December 2020, Page 327-340&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 29, Issue 4, October-December 2020, Page 327-340&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Gaming Design Thinking: Wicked Problems, Sufficient Solutions, and the Possibility Space of Games</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1738555</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1829072?af=R">
+      <title>“Are You Authorized to Work in the U.S.?” Investigating “Inclusive” Practices in Rhetoric and Technical Communication Job Descriptions</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1829072?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/30/2"&gt;Volume 30, Issue 2&lt;/a&gt;, April-June 2021, Page 107-122&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 30, Issue 2, April-June 2021, Page 107-122&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>“Are You Authorized to Work in the U.S.?” Investigating “Inclusive” Practices in Rhetoric and Technical Communication Job Descriptions</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1829072</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-03-11T01:53:00Z</dc:date>
+      <dc:date>2020-10-21T06:42:08Z</dc:date>
       <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Laquana Cooke</dc:creator>
-      <dc:creator>Lisa Dusenberry</dc:creator>
-      <dc:creator>Joy Robinson</dc:creator>
-      <prism:publicationName>Gaming Design Thinking: Wicked Problems, Sufficient Solutions, and the Possibility Space of Games</prism:publicationName>
-      <prism:volume>29</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>327</prism:startingPage>
-      <prism:endingPage>340</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2020.1738555</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1738555?af=R</prism:url>
+      <dc:creator>Josephine Walwema</dc:creator>
+      <dc:creator>Felicita Arzu Carmichael</dc:creator>
+      <prism:publicationName>“Are You Authorized to Work in the U.S.?” Investigating “Inclusive” Practices in Rhetoric and Technical Communication Job Descriptions</prism:publicationName>
+      <prism:volume>30</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>107</prism:startingPage>
+      <prism:endingPage>122</prism:endingPage>
+      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2020.1829072</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1829072?af=R</prism:url>
       <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713404?af=R">
-      <title>Toward a Radical Collaboratory Model for Graduate Research Education: A Collaborative Autoethnography</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713404?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/29/4"&gt;Volume 29, Issue 4&lt;/a&gt;, October-December 2020, Page 341-357&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 29, Issue 4, October-December 2020, Page 341-357&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Toward a Radical Collaboratory Model for Graduate Research Education: A Collaborative Autoethnography</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1713404</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1794047?af=R">
+      <title>Leadership Communication in the STEM Workplace: A Qualitative Study</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1794047?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/30/2"&gt;Volume 30, Issue 2&lt;/a&gt;, April-June 2021, Page 123-142&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 30, Issue 2, April-June 2021, Page 123-142&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Leadership Communication in the STEM Workplace: A Qualitative Study</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1794047</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-01-10T10:26:17Z</dc:date>
+      <dc:date>2020-07-21T04:46:53Z</dc:date>
       <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Jason Chew Kit Tham</dc:creator>
-      <dc:creator>Jeremy Rosselot-Merritt</dc:creator>
-      <dc:creator>Saveena (Chakrika) Veeramoothoo</dc:creator>
-      <dc:creator>Nathan William Bollig</dc:creator>
-      <dc:creator>Ann Hill Duin</dc:creator>
-      <prism:publicationName>Toward a Radical Collaboratory Model for Graduate Research Education: A Collaborative Autoethnography</prism:publicationName>
-      <prism:volume>29</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>341</prism:startingPage>
-      <prism:endingPage>357</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2020.1713404</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713404?af=R</prism:url>
+      <dc:creator>Amy Koerber</dc:creator>
+      <dc:creator>Joseph Provencher</dc:creator>
+      <dc:creator>Jesse Starkey</dc:creator>
+      <prism:publicationName>Leadership Communication in the STEM Workplace: A Qualitative Study</prism:publicationName>
+      <prism:volume>30</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>123</prism:startingPage>
+      <prism:endingPage>142</prism:endingPage>
+      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2020.1794047</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1794047?af=R</prism:url>
       <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1790665?af=R">
-      <title>Navigating Messy Research Methods and Mentoring Practices at a Bilingual Research Site on the Mexico-U.S. Border</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1790665?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/29/4"&gt;Volume 29, Issue 4&lt;/a&gt;, October-December 2020, Page 358-375&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 29, Issue 4, October-December 2020, Page 358-375&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Navigating Messy Research Methods and Mentoring Practices at a Bilingual Research Site on the Mexico-U.S. Border</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1790665</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803989?af=R">
+      <title>Ridicule, Technical Communication, and Nineteenth-Century Women Performing College Math</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803989?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/30/2"&gt;Volume 30, Issue 2&lt;/a&gt;, April-June 2021, Page 143-156&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 30, Issue 2, April-June 2021, Page 143-156&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Ridicule, Technical Communication, and Nineteenth-Century Women Performing College Math</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1803989</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-07-24T06:52:54Z</dc:date>
+      <dc:date>2020-08-17T09:11:27Z</dc:date>
       <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Beau Pihlaja</dc:creator>
-      <dc:creator>Lucía Durá</dc:creator>
-      <prism:publicationName>Navigating Messy Research Methods and Mentoring Practices at a Bilingual Research Site on the Mexico-U.S. Border</prism:publicationName>
-      <prism:volume>29</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>358</prism:startingPage>
-      <prism:endingPage>375</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2020.1790665</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1790665?af=R</prism:url>
+      <dc:creator>Andrew Fiss</dc:creator>
+      <prism:publicationName>Ridicule, Technical Communication, and Nineteenth-Century Women Performing College Math</prism:publicationName>
+      <prism:volume>30</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>143</prism:startingPage>
+      <prism:endingPage>156</prism:endingPage>
+      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2020.1803989</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803989?af=R</prism:url>
       <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1659860?af=R">
-      <title>Tactics for Professional Legitimacy: An Apparent Feminist Analysis of Indian Women’s Experiences in Technical Communication</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1659860?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/29/4"&gt;Volume 29, Issue 4&lt;/a&gt;, October-December 2020, Page 376-391&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 29, Issue 4, October-December 2020, Page 376-391&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Tactics for Professional Legitimacy: An Apparent Feminist Analysis of Indian Women’s Experiences in Technical Communication</dc:title>
-      <dc:identifier>10.1080/10572252.2019.1659860</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804620?af=R">
+      <title>Rhetorical Body Work: Professional Embodiment in Health Provider Education and the Technical Writing Classroom</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804620?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/30/2"&gt;Volume 30, Issue 2&lt;/a&gt;, April-June 2021, Page 157-173&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 30, Issue 2, April-June 2021, Page 157-173&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Rhetorical Body Work: Professional Embodiment in Health Provider Education and the Technical Writing Classroom</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1804620</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2019-08-27T06:37:03Z</dc:date>
-      <dc:rights>© 2019 Association of Teachers of Technical Writing</dc:rights>
+      <dc:date>2020-08-14T06:23:38Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Lillian Campbell</dc:creator>
+      <prism:publicationName>Rhetorical Body Work: Professional Embodiment in Health Provider Education and the Technical Writing Classroom</prism:publicationName>
+      <prism:volume>30</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>157</prism:startingPage>
+      <prism:endingPage>173</prism:endingPage>
+      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2020.1804620</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804620?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803988?af=R">
+      <title>Complex Personal Stories and Dominant Cultural Narratives in Urban Planning Communication</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803988?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/30/2"&gt;Volume 30, Issue 2&lt;/a&gt;, April-June 2021, Page 174-188&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 30, Issue 2, April-June 2021, Page 174-188&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Complex Personal Stories and Dominant Cultural Narratives in Urban Planning Communication</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1803988</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-08-14T06:13:39Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Timothy J. Elliott</dc:creator>
+      <prism:publicationName>Complex Personal Stories and Dominant Cultural Narratives in Urban Planning Communication</prism:publicationName>
+      <prism:volume>30</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>174</prism:startingPage>
+      <prism:endingPage>188</prism:endingPage>
+      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2020.1803988</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803988?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803413?af=R">
+      <title>“Dude, that Sucks”: Examining Scrum’s Influence on Empathy in Student Teams</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803413?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/30/2"&gt;Volume 30, Issue 2&lt;/a&gt;, April-June 2021, Page 189-203&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 30, Issue 2, April-June 2021, Page 189-203&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>“Dude, that Sucks”: Examining Scrum’s Influence on Empathy in Student Teams</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1803413</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-08-17T09:09:45Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Erin Friess</dc:creator>
+      <dc:creator>Chris Lam</dc:creator>
+      <prism:publicationName>“Dude, that Sucks”: Examining Scrum’s Influence on Empathy in Student Teams</prism:publicationName>
+      <prism:volume>30</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>189</prism:startingPage>
+      <prism:endingPage>203</prism:endingPage>
+      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2020.1803413</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803413?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803412?af=R">
+      <title>The Transformative Paradigm: Equipping Technical Communication Researchers for Socially Just Work</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803412?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/30/2"&gt;Volume 30, Issue 2&lt;/a&gt;, April-June 2021, Page 204-215&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 30, Issue 2, April-June 2021, Page 204-215&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The Transformative Paradigm: Equipping Technical Communication Researchers for Socially Just Work</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1803412</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2020-08-06T09:52:12Z</dc:date>
+      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Johanna L. Phelps</dc:creator>
+      <prism:publicationName>The Transformative Paradigm: Equipping Technical Communication Researchers for Socially Just Work</prism:publicationName>
+      <prism:volume>30</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>204</prism:startingPage>
+      <prism:endingPage>215</prism:endingPage>
+      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2020.1803412</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803412?af=R</prism:url>
+      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1888526?af=R">
+      <title>Ethics and Practice in Science Communication</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1888526?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/30/2"&gt;Volume 30, Issue 2&lt;/a&gt;, April-June 2021, Page 216-218&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 30, Issue 2, April-June 2021, Page 216-218&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Ethics and Practice in Science Communication</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1888526</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-02-16T01:46:07Z</dc:date>
+      <dc:rights>© 2021 Katelyn Brunner</dc:rights>
+      <dc:creator>Katelyn Brunner</dc:creator>
+      <prism:publicationName>Ethics and Practice in Science Communication</prism:publicationName>
+      <prism:volume>30</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>216</prism:startingPage>
+      <prism:endingPage>218</prism:endingPage>
+      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2021.1888526</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1888526?af=R</prism:url>
+      <prism:copyright>© 2021 Katelyn Brunner</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1888527?af=R">
+      <title>Involving the Audience: A Rhetorical Perspective on Using Social Media to Improve Websites</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1888527?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/30/2"&gt;Volume 30, Issue 2&lt;/a&gt;, April-June 2021, Page 219-221&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 30, Issue 2, April-June 2021, Page 219-221&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Involving the Audience: A Rhetorical Perspective on Using Social Media to Improve Websites</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1888527</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-02-25T07:21:40Z</dc:date>
+      <dc:rights>© 2021 Katlynne A. Davis</dc:rights>
+      <dc:creator>Katlynne A. Davis</dc:creator>
+      <prism:publicationName>Involving the Audience: A Rhetorical Perspective on Using Social Media to Improve Websites</prism:publicationName>
+      <prism:volume>30</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>219</prism:startingPage>
+      <prism:endingPage>221</prism:endingPage>
+      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2021.1888527</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1888527?af=R</prism:url>
+      <prism:copyright>© 2021 Katlynne A. Davis</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930180?af=R">
+      <title>Decolonial Dinners: Ethical Considerations of “Decolonial” Metaphors in TPC</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930180?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Decolonial Dinners: Ethical Considerations of “Decolonial” Metaphors in TPC</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1930180</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-06-08T12:21:19Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Cana Uluak Itchuaqiyaq</dc:creator>
       <dc:creator>Breeanne Matheson</dc:creator>
-      <dc:creator>Emily January Petersen</dc:creator>
-      <prism:publicationName>Tactics for Professional Legitimacy: An Apparent Feminist Analysis of Indian Women’s Experiences in Technical Communication</prism:publicationName>
-      <prism:volume>29</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>376</prism:startingPage>
-      <prism:endingPage>391</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2019.1659860</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1659860?af=R</prism:url>
-      <prism:copyright>© 2019 Association of Teachers of Technical Writing</prism:copyright>
+      <prism:publicationName>Decolonial Dinners: Ethical Considerations of “Decolonial” Metaphors in TPC</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1930180</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930180?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789745?af=R">
-      <title>Embracing a Metic Lens for Community-based Participatory Research in Technical Communication</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789745?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/29/4"&gt;Volume 29, Issue 4&lt;/a&gt;, October-December 2020, Page 392-410&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 29, Issue 4, October-December 2020, Page 392-410&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Embracing a Metic Lens for Community-based Participatory Research in Technical Communication</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1789745</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930184?af=R">
+      <title>Re/producing Knowledge in Health and Medicine: Designing Research Methods for Mental Health</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930184?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Re/producing Knowledge in Health and Medicine: Designing Research Methods for Mental Health</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1930184</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-07-20T07:10:32Z</dc:date>
+      <dc:date>2021-06-08T08:24:59Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Peter Cannon</dc:creator>
+      <dc:creator>Katie Lynn Walkup</dc:creator>
+      <prism:publicationName>Re/producing Knowledge in Health and Medicine: Designing Research Methods for Mental Health</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1930184</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930184?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930181?af=R">
+      <title>Health and Wellness as Resistance: Tactical Folk Medicine</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930181?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Health and Wellness as Resistance: Tactical Folk Medicine</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1930181</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-06-07T09:01:07Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Jamal-Jared Alexander</dc:creator>
+      <dc:creator>Avery C. Edenfield</dc:creator>
+      <prism:publicationName>Health and Wellness as Resistance: Tactical Folk Medicine</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1930181</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930181?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930178?af=R">
+      <title>Chinese Women’s Reproductive Justice and Social Media</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930178?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Chinese Women’s Reproductive Justice and Social Media</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1930178</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-06-06T01:35:37Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Hua Wang</dc:creator>
+      <prism:publicationName>Chinese Women’s Reproductive Justice and Social Media</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1930178</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930178?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1931457?af=R">
+      <title>Reimagining the Boundaries of Health and Medical Discourse in Technical Communication</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1931457?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Reimagining the Boundaries of Health and Medical Discourse in Technical Communication</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1931457</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-06-04T08:48:36Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Erin A. Frost</dc:creator>
+      <dc:creator>Laura Gonzales</dc:creator>
+      <dc:creator>Marie E. Moeller</dc:creator>
+      <dc:creator>GPat Patterson</dc:creator>
+      <dc:creator>Cecilia D. Shelton</dc:creator>
+      <prism:publicationName>Reimagining the Boundaries of Health and Medical Discourse in Technical Communication</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>7</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1931457</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1931457?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1928962?af=R">
+      <title>Translanguaging outside the academy: negotiating rhetoric and healthcare in the Spanish Caribbean</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1928962?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Translanguaging outside the academy: negotiating rhetoric and healthcare in the Spanish Caribbean</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1928962</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-06-02T08:17:51Z</dc:date>
+      <dc:rights>© 2021 Kari Campeau</dc:rights>
+      <dc:creator>Kari Campeau</dc:creator>
+      <prism:publicationName>Translanguaging outside the academy: negotiating rhetoric and healthcare in the Spanish Caribbean</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>4</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1928962</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1928962?af=R</prism:url>
+      <prism:copyright>© 2021 Kari Campeau</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930185?af=R">
+      <title>Risking Disclosure: Unruly Rhetorics and Queer(ing) HIV Risk Communication on Grindr</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930185?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Risking Disclosure: Unruly Rhetorics and Queer(ing) HIV Risk Communication on Grindr</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1930185</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-06-01T01:51:29Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>McKinley Green</dc:creator>
+      <prism:publicationName>Risking Disclosure: Unruly Rhetorics and Queer(ing) HIV Risk Communication on Grindr</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1930185</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930185?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930183?af=R">
+      <title>Tired as a Mutha: Black Mother Activists and the Fight for Affordable Housing and Health Care</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930183?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Tired as a Mutha: Black Mother Activists and the Fight for Affordable Housing and Health Care</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1930183</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-05-28T02:26:56Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Kimberly C. Harper</dc:creator>
+      <prism:publicationName>Tired as a Mutha: Black Mother Activists and the Fight for Affordable Housing and Health Care</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>11</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1930183</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1930183?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915387?af=R">
+      <title>Representations of Creativity by Posters in Freelance Writing Internet Forums</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915387?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Representations of Creativity by Posters in Freelance Writing Internet Forums</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1915387</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-05-06T12:17:54Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Krista Speicher Sarraf</dc:creator>
+      <prism:publicationName>Representations of Creativity by Posters in Freelance Writing Internet Forums</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1915387</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915387?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915386?af=R">
+      <title>The Art of Ancient Mesopotamian Technical Manuals and Letters: The Origins of Instructional Writing</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915386?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The Art of Ancient Mesopotamian Technical Manuals and Letters: The Origins of Instructional Writing</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1915386</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-05-01T10:12:36Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Kathryn Rosser Raign</dc:creator>
+      <prism:publicationName>The Art of Ancient Mesopotamian Technical Manuals and Letters: The Origins of Instructional Writing</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>18</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1915386</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915386?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915060?af=R">
+      <title>Professional Development in Online Teaching and Learning in Technical Communication: A Ten-Year Retrospective</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915060?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Professional Development in Online Teaching and Learning in Technical Communication: A Ten-Year Retrospective</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1915060</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-04-30T03:57:44Z</dc:date>
+      <dc:rights>© 2021 Jodi L. Wagner-Angell</dc:rights>
+      <dc:creator>Jodi L. Wagner-Angell</dc:creator>
+      <prism:publicationName>Professional Development in Online Teaching and Learning in Technical Communication: A Ten-Year Retrospective</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>3</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1915060</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915060?af=R</prism:url>
+      <prism:copyright>© 2021 Jodi L. Wagner-Angell</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906449?af=R">
+      <title>Making When Ends Don’t Meet: Articulation Work and Visibility of Domestic Labor during Do-It-Yourself (DIY) Innovation on the Margins</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906449?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Making When Ends Don’t Meet: Articulation Work and Visibility of Domestic Labor during Do-It-Yourself (DIY) Innovation on the Margins</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1906449</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-04-20T01:59:07Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Prashant Rajan</dc:creator>
+      <prism:publicationName>Making When Ends Don’t Meet: Articulation Work and Visibility of Domestic Labor during Do-It-Yourself (DIY) Innovation on the Margins</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1906449</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906449?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915064?af=R">
+      <title>Translation and Localization: A Guide for Technical and Professional Communicators</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915064?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Translation and Localization: A Guide for Technical and Professional Communicators</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1915064</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-04-19T06:47:39Z</dc:date>
+      <dc:rights>© 2021 Lynn B. McCool</dc:rights>
+      <dc:creator>Lynn B. McCool</dc:creator>
+      <prism:publicationName>Translation and Localization: A Guide for Technical and Professional Communicators</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>4</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1915064</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915064?af=R</prism:url>
+      <prism:copyright>© 2021 Lynn B. McCool</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915059?af=R">
+      <title>Update Culture and the Afterlife of Digital Writing</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915059?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Update Culture and the Afterlife of Digital Writing</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1915059</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-04-14T10:46:05Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Jessica McCaughey</dc:creator>
+      <prism:publicationName>Update Culture and the Afterlife of Digital Writing</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>3</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1915059</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915059?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915066?af=R">
+      <title>Theory and Best Practices in Science Communication Training</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915066?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Theory and Best Practices in Science Communication Training</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1915066</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-04-14T10:41:52Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Astrid Northrup</dc:creator>
+      <prism:publicationName>Theory and Best Practices in Science Communication Training</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>3</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1915066</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1915066?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906451?af=R">
+      <title>Living Visual-voice as a Community-based Social Justice Research Method in Technical and Professional Communication</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906451?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Living Visual-voice as a Community-based Social Justice Research Method in Technical and Professional Communication</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1906451</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-04-03T09:30:09Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Kathryn Yankura Swacha</dc:creator>
+      <prism:publicationName>Living Visual-voice as a Community-based Social Justice Research Method in Technical and Professional Communication</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1906451</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906451?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906450?af=R">
+      <title>Above All Made by Themselves: The Visual Rhetoric of W. E. B. Du Bois’s Data Visualizations</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906450?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Above All Made by Themselves: The Visual Rhetoric of W. E. B. Du Bois’s Data Visualizations</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1906450</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-04-01T10:02:19Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Kevin Van Winkle</dc:creator>
+      <prism:publicationName>Above All Made by Themselves: The Visual Rhetoric of W. E. B. Du Bois’s Data Visualizations</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1906450</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906450?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906453?af=R">
+      <title>(Re) Framing Multilingual Technical Communication with Indigenous Language Interpreters and Translators</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906453?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>(Re) Framing Multilingual Technical Communication with Indigenous Language Interpreters and Translators</dc:title>
+      <dc:identifier>10.1080/10572252.2021.1906453</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-03-27T07:50:17Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Laura Gonzales</dc:creator>
+      <prism:publicationName>(Re) Framing Multilingual Technical Communication with Indigenous Language Interpreters and Translators</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2021.1906453</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.1906453?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866677?af=R">
+      <title>So You Want Your Own Tech Comm Department? One Program’s Story of Separating from English</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866677?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>So You Want Your Own Tech Comm Department? One Program’s Story of Separating from English</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1866677</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-01-11T09:35:53Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Sean D. Williams</dc:creator>
+      <dc:creator>K. Alex Ilyasova</dc:creator>
+      <prism:publicationName>So You Want Your Own Tech Comm Department? One Program’s Story of Separating from English</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1866677</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866677?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866678?af=R">
+      <title>The Ethics of Extrapolation: Science Fiction in the Technical Communication Classroom</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866678?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The Ethics of Extrapolation: Science Fiction in the Technical Communication Classroom</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1866678</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-01-08T06:34:19Z</dc:date>
+      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
+      <dc:creator>Derek Lee</dc:creator>
+      <prism:publicationName>The Ethics of Extrapolation: Science Fiction in the Technical Communication Classroom</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1866678</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866678?af=R</prism:url>
+      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866679?af=R">
+      <title>Open Video Game Development and Participatory Design</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866679?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Open Video Game Development and Participatory Design</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1866679</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2021-01-03T11:01:48Z</dc:date>
       <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Erin Brock Carlson</dc:creator>
-      <prism:publicationName>Embracing a Metic Lens for Community-based Participatory Research in Technical Communication</prism:publicationName>
-      <prism:volume>29</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>392</prism:startingPage>
-      <prism:endingPage>410</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2020.1789745</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789745?af=R</prism:url>
+      <dc:creator>Luke Thominet</dc:creator>
+      <prism:publicationName>Open Video Game Development and Participatory Design</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1866679</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1866679?af=R</prism:url>
       <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713405?af=R">
-      <title>A Collaborative Longitudinal Design for Supporting Writing Pedagogies of STEM Faculty</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713405?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/29/4"&gt;Volume 29, Issue 4&lt;/a&gt;, October-December 2020, Page 411-426&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 29, Issue 4, October-December 2020, Page 411-426&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>A Collaborative Longitudinal Design for Supporting Writing Pedagogies of STEM Faculty</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1713405</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1860257?af=R">
+      <title>An Approach for Incorporating Community-Engaged Learning in Intensive Online Classes: Sustainability and Lean User Experience</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1860257?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>An Approach for Incorporating Community-Engaged Learning in Intensive Online Classes: Sustainability and Lean User Experience</dc:title>
+      <dc:identifier>10.1080/10572252.2020.1860257</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-01-16T05:30:46Z</dc:date>
+      <dc:date>2020-12-16T02:37:25Z</dc:date>
       <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>John R. Gallagher</dc:creator>
-      <dc:creator>Nicole Turnipseed</dc:creator>
-      <dc:creator>John Y. Yoritomo</dc:creator>
-      <dc:creator>Celia M. Elliott</dc:creator>
-      <dc:creator>S. Lance Cooper</dc:creator>
-      <dc:creator>John S. Popovics</dc:creator>
-      <dc:creator>Paul Prior</dc:creator>
-      <dc:creator>Julie L. Zilles</dc:creator>
-      <prism:publicationName>A Collaborative Longitudinal Design for Supporting Writing Pedagogies of STEM Faculty</prism:publicationName>
-      <prism:volume>29</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>411</prism:startingPage>
-      <prism:endingPage>426</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2020.1713405</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1713405?af=R</prism:url>
+      <dc:creator>Tatiana Batova</dc:creator>
+      <prism:publicationName>An Approach for Incorporating Community-Engaged Learning in Intensive Online Classes: Sustainability and Lean User Experience</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/10572252.2020.1860257</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1860257?af=R</prism:url>
       <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774659?af=R">
-      <title>Technical Communication is a Social Medium</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774659?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/29/4"&gt;Volume 29, Issue 4&lt;/a&gt;, October-December 2020, Page 427-439&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 29, Issue 4, October-December 2020, Page 427-439&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Technical Communication is a Social Medium</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1774659</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-06-12T05:42:50Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Jason Swarts</dc:creator>
-      <prism:publicationName>Technical Communication is a Social Medium</prism:publicationName>
-      <prism:volume>29</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>427</prism:startingPage>
-      <prism:endingPage>439</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2020.1774659</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774659?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689090?af=R">
-      <title>Rhetorical work in emergency medical services: communicating in the unpredictable workplace</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689090?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/29/4"&gt;Volume 29, Issue 4&lt;/a&gt;, October-December 2020, Page 440-442&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 29, Issue 4, October-December 2020, Page 440-442&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Rhetorical work in emergency medical services: communicating in the unpredictable workplace</dc:title>
-      <dc:identifier>10.1080/10572252.2019.1689090</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2019-11-05T12:19:25Z</dc:date>
-      <dc:rights>© 2019 Theresa N. Walsh</dc:rights>
-      <dc:creator>Theresa N. Walsh</dc:creator>
-      <prism:publicationName>Rhetorical work in emergency medical services: communicating in the unpredictable workplace</prism:publicationName>
-      <prism:volume>29</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>440</prism:startingPage>
-      <prism:endingPage>442</prism:endingPage>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2019.1689090</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689090?af=R</prism:url>
-      <prism:copyright>© 2019 Theresa N. Walsh</prism:copyright>
    </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831614?af=R">
       <title>Queer Usability</title>
@@ -255,25 +679,6 @@
       <prism:endingPage>14</prism:endingPage>
       <prism:doi>10.1080/10572252.2020.1831614</prism:doi>
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831614?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1829072?af=R">
-      <title>“Are You Authorized to Work in the U.S.?” Investigating “Inclusive” Practices in Rhetoric and Technical Communication Job Descriptions</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1829072?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>“Are You Authorized to Work in the U.S.?” Investigating “Inclusive” Practices in Rhetoric and Technical Communication Job Descriptions</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1829072</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-10-21T06:42:08Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Josephine Walwema</dc:creator>
-      <dc:creator>Felicita Arzu Carmichael</dc:creator>
-      <prism:publicationName>“Are You Authorized to Work in the U.S.?” Investigating “Inclusive” Practices in Rhetoric and Technical Communication Job Descriptions</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>16</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1829072</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1829072?af=R</prism:url>
       <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
    </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831615?af=R">
@@ -294,24 +699,6 @@
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1831615?af=R</prism:url>
       <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1823485?af=R">
-      <title>The Rhetoric of Online Exclusive Pumping Communities: Tactical Technical Communication as Eschewing Judgment</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1823485?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>The Rhetoric of Online Exclusive Pumping Communities: Tactical Technical Communication as Eschewing Judgment</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1823485</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-10-11T11:59:45Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Jessica McCaughey</dc:creator>
-      <prism:publicationName>The Rhetoric of Online Exclusive Pumping Communities: Tactical Technical Communication as Eschewing Judgment</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>14</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1823485</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1823485?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
    <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804619?af=R">
       <title>Engaging Design Thinking and Making in Technical and Professional Communication Pedagogy</title>
       <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804619?af=R</link>
@@ -330,246 +717,5 @@
       <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804619?af=R</prism:url>
       <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803413?af=R">
-      <title>“Dude, that Sucks”: Examining Scrum’s Influence on Empathy in Student Teams</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803413?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>“Dude, that Sucks”: Examining Scrum’s Influence on Empathy in Student Teams</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1803413</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-08-17T09:09:45Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Erin Friess</dc:creator>
-      <dc:creator>Chris Lam</dc:creator>
-      <prism:publicationName>“Dude, that Sucks”: Examining Scrum’s Influence on Empathy in Student Teams</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>15</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1803413</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803413?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803989?af=R">
-      <title>Ridicule, Technical Communication, and Nineteenth-Century Women Performing College Math</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803989?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Ridicule, Technical Communication, and Nineteenth-Century Women Performing College Math</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1803989</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-08-17T09:11:27Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Andrew Fiss</dc:creator>
-      <prism:publicationName>Ridicule, Technical Communication, and Nineteenth-Century Women Performing College Math</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>14</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1803989</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803989?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803988?af=R">
-      <title>Complex Personal Stories and Dominant Cultural Narratives in Urban Planning Communication</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803988?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Complex Personal Stories and Dominant Cultural Narratives in Urban Planning Communication</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1803988</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-08-14T06:13:39Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Timothy J. Elliott</dc:creator>
-      <prism:publicationName>Complex Personal Stories and Dominant Cultural Narratives in Urban Planning Communication</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>15</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1803988</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803988?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804620?af=R">
-      <title>Rhetorical Body Work: Professional Embodiment in Health Provider Education and the Technical Writing Classroom</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804620?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Rhetorical Body Work: Professional Embodiment in Health Provider Education and the Technical Writing Classroom</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1804620</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-08-14T06:23:38Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Lillian Campbell</dc:creator>
-      <prism:publicationName>Rhetorical Body Work: Professional Embodiment in Health Provider Education and the Technical Writing Classroom</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>17</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1804620</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1804620?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803412?af=R">
-      <title>The Transformative Paradigm: Equipping Technical Communication Researchers for Socially Just Work</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803412?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>The Transformative Paradigm: Equipping Technical Communication Researchers for Socially Just Work</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1803412</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-08-06T09:52:12Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Johanna L. Phelps</dc:creator>
-      <prism:publicationName>The Transformative Paradigm: Equipping Technical Communication Researchers for Socially Just Work</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>12</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1803412</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1803412?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1794047?af=R">
-      <title>Leadership Communication in the STEM Workplace: A Qualitative Study</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1794047?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Leadership Communication in the STEM Workplace: A Qualitative Study</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1794047</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-07-21T04:46:53Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Amy Koerber</dc:creator>
-      <dc:creator>Joseph Provencher</dc:creator>
-      <dc:creator>Jesse Starkey</dc:creator>
-      <prism:publicationName>Leadership Communication in the STEM Workplace: A Qualitative Study</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>20</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1794047</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1794047?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789744?af=R">
-      <title>Digital Humanities in Professional and Technical Communication: Results of a Pedagogical Pilot Study</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789744?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Digital Humanities in Professional and Technical Communication: Results of a Pedagogical Pilot Study</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1789744</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-07-16T11:25:00Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Lisa M. Litterio</dc:creator>
-      <prism:publicationName>Digital Humanities in Professional and Technical Communication: Results of a Pedagogical Pilot Study</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>12</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1789744</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1789744?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774662?af=R">
-      <title>Programmatic Outcomes in Undergraduate Technical and Professional Communication Programs</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774662?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Programmatic Outcomes in Undergraduate Technical and Professional Communication Programs</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1774662</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-06-24T02:22:35Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Geoffrey Clegg</dc:creator>
-      <dc:creator>Jessica Lauer</dc:creator>
-      <dc:creator>Johanna Phelps</dc:creator>
-      <dc:creator>Lisa Melonçon</dc:creator>
-      <prism:publicationName>Programmatic Outcomes in Undergraduate Technical and Professional Communication Programs</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>15</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1774662</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774662?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774660?af=R">
-      <title>Student Recruitment in Technical and Professional Communication Programs</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774660?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Student Recruitment in Technical and Professional Communication Programs</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1774660</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-06-16T03:10:24Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Felicia Chong</dc:creator>
-      <dc:creator>Aimee Kendall Roundtree</dc:creator>
-      <prism:publicationName>Student Recruitment in Technical and Professional Communication Programs</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>18</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1774660</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774660?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774661?af=R">
-      <title>Getting the Story Straight: How Conflicting Narratives about Communication Impact Women in Engineering</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774661?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Getting the Story Straight: How Conflicting Narratives about Communication Impact Women in Engineering</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1774661</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-06-16T03:10:21Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Mary McCall</dc:creator>
-      <prism:publicationName>Getting the Story Straight: How Conflicting Narratives about Communication Impact Women in Engineering</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>15</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1774661</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774661?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774658?af=R">
-      <title>Ultrasound, Gender, and Consent: An Apparent Feminist Analysis of Medical Imaging Rhetorics</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774658?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Ultrasound, Gender, and Consent: An Apparent Feminist Analysis of Medical Imaging Rhetorics</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1774658</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-06-05T12:08:16Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Erin A. Frost</dc:creator>
-      <prism:publicationName>Ultrasound, Gender, and Consent: An Apparent Feminist Analysis of Medical Imaging Rhetorics</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>15</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1774658</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1774658?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1754466?af=R">
-      <title>The Benefits of Improvisational Games in the TC Classroom</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1754466?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>The Benefits of Improvisational Games in the TC Classroom</dc:title>
-      <dc:identifier>10.1080/10572252.2020.1754466</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2020-04-14T04:36:47Z</dc:date>
-      <dc:rights>© 2020 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Tammy Rice-Bailey</dc:creator>
-      <prism:publicationName>The Benefits of Improvisational Games in the TC Classroom</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>14</prism:endingPage>
-      <prism:doi>10.1080/10572252.2020.1754466</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2020.1754466?af=R</prism:url>
-      <prism:copyright>© 2020 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689089?af=R">
-      <title>Creating intelligent content with lightweight DITA</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689089?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Creating intelligent content with lightweight DITA</dc:title>
-      <dc:identifier>10.1080/10572252.2019.1689089</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2019-11-07T12:53:22Z</dc:date>
-      <dc:rights>© 2019 Erin Kathleen Bahl</dc:rights>
-      <dc:creator>Erin Kathleen Bahl</dc:creator>
-      <prism:publicationName>Creating intelligent content with lightweight DITA</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>3</prism:endingPage>
-      <prism:doi>10.1080/10572252.2019.1689089</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2019.1689089?af=R</prism:url>
-      <prism:copyright>© 2019 Erin Kathleen Bahl</prism:copyright>
-   </item>
 </rdf:RDF>
-<!-- cached:  1607625444-->
+<!-- cached:  1625760258-->
