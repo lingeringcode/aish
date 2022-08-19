@@ -15,220 +15,222 @@
       <prism:publicationName>Rhetoric Review</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883832?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883808?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883797?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883823?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883809?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883833?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898842?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898843?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898844?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077033?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077017?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077034?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077035?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077036?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2038510?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073779?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073765?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073766?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hrhr20/2021/hrhr20.v040.i02/hrhr20.v040.i02/20210527-01/hrhr20.v040.i02.cover.jpg">
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hrhr20/2022/hrhr20.v041.i03/hrhr20.v041.i03/20220713-01/hrhr20.v041.i03.cover.jpg">
       <title>Rhetoric Review</title>
-      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hrhr20/2021/hrhr20.v040.i02/hrhr20.v040.i02/20210527-01/hrhr20.v040.i02.cover.jpg</url>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hrhr20/2022/hrhr20.v041.i03/hrhr20.v041.i03/20220713-01/hrhr20.v041.i03.cover.jpg</url>
       <link>https://www.tandfonline.com/loi/hrhr20?af=R</link>
    </image>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883832?af=R">
-      <title>Haunting Women’s Public Memory: Ethos, Space, and Gender in the Winchester Mystery House</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883832?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/40/2"&gt;Volume 40, Issue 2&lt;/a&gt;, n/a 2021, Page 107-122&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 40, Issue 2, n/a 2021, Page 107-122&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Haunting Women’s Public Memory: Ethos, Space, and Gender in the Winchester Mystery House</dc:title>
-      <dc:identifier>10.1080/07350198.2021.1883832</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077033?af=R">
+      <title>Turning Tricks in Athens</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077033?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 155-167&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 41, Issue 3, 2022, Page 155-167&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Turning Tricks in Athens</dc:title>
+      <dc:identifier>10.1080/07350198.2022.2077033</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2021-05-27T04:05:25Z</dc:date>
-      <dc:rights>© 2021 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Amy J. Lueck</dc:creator>
-      <prism:publicationName>Haunting Women’s Public Memory: Ethos, Space, and Gender in the Winchester Mystery House</prism:publicationName>
-      <prism:volume>40</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>107</prism:startingPage>
-      <prism:endingPage>122</prism:endingPage>
-      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2021.1883832</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883832?af=R</prism:url>
-      <prism:copyright>© 2021 Taylor &amp; Francis Group, LLC</prism:copyright>
+      <dc:date>2022-07-13T10:44:27Z</dc:date>
+      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
+      <dc:creator>T Passwater</dc:creator>
+      <prism:publicationName>Turning Tricks in Athens</prism:publicationName>
+      <prism:volume>41</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>155</prism:startingPage>
+      <prism:endingPage>167</prism:endingPage>
+      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2022.2077033</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077033?af=R</prism:url>
+      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883808?af=R">
-      <title>(An)other Southern Rhetoric: Charlotte Hawkins Brown’s Mammy: An Appeal to the Heart of the South</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883808?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/40/2"&gt;Volume 40, Issue 2&lt;/a&gt;, n/a 2021, Page 123-137&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 40, Issue 2, n/a 2021, Page 123-137&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>(An)other Southern Rhetoric: Charlotte Hawkins Brown’s Mammy: An Appeal to the Heart of the South</dc:title>
-      <dc:identifier>10.1080/07350198.2021.1883808</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077017?af=R">
+      <title>Unmaking Colonial Fictions: Cherríe Moraga’s Rhetorics of Fragmentation and Semi-ness</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077017?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 168-183&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 41, Issue 3, 2022, Page 168-183&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Unmaking Colonial Fictions: Cherríe Moraga’s Rhetorics of Fragmentation and Semi-ness</dc:title>
+      <dc:identifier>10.1080/07350198.2022.2077017</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2021-05-27T04:05:24Z</dc:date>
-      <dc:rights>© 2021 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Christina L. Moss</dc:creator>
-      <prism:publicationName>(An)other Southern Rhetoric: Charlotte Hawkins Brown’s Mammy: An Appeal to the Heart of the South</prism:publicationName>
-      <prism:volume>40</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>123</prism:startingPage>
-      <prism:endingPage>137</prism:endingPage>
-      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2021.1883808</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883808?af=R</prism:url>
-      <prism:copyright>© 2021 Taylor &amp; Francis Group, LLC</prism:copyright>
+      <dc:date>2022-07-13T10:44:28Z</dc:date>
+      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
+      <dc:creator>Loretta Victoria Ramirez</dc:creator>
+      <prism:publicationName>Unmaking Colonial Fictions: Cherríe Moraga’s Rhetorics of Fragmentation and Semi-ness</prism:publicationName>
+      <prism:volume>41</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>168</prism:startingPage>
+      <prism:endingPage>183</prism:endingPage>
+      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2022.2077017</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077017?af=R</prism:url>
+      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883797?af=R">
-      <title>Genre Bending and Spiritual Resistance: Mina Pachter’s Concentration Camp “Cookbook”</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883797?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/40/2"&gt;Volume 40, Issue 2&lt;/a&gt;, n/a 2021, Page 138-152&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 40, Issue 2, n/a 2021, Page 138-152&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Genre Bending and Spiritual Resistance: Mina Pachter’s Concentration Camp “Cookbook”</dc:title>
-      <dc:identifier>10.1080/07350198.2021.1883797</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077034?af=R">
+      <title>Ethos, Hospitality, and the Pursuit of Rhetorical Healing: How Three Decolonial Cookbooks Reconstitute Cultural Identity through Ancestral Foodways</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077034?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 184-197&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 41, Issue 3, 2022, Page 184-197&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Ethos, Hospitality, and the Pursuit of Rhetorical Healing: How Three Decolonial Cookbooks Reconstitute Cultural Identity through Ancestral Foodways</dc:title>
+      <dc:identifier>10.1080/07350198.2022.2077034</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2021-05-27T04:05:24Z</dc:date>
-      <dc:rights>© 2021 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Lisa Mastrangelo</dc:creator>
-      <prism:publicationName>Genre Bending and Spiritual Resistance: Mina Pachter’s Concentration Camp “Cookbook”</prism:publicationName>
-      <prism:volume>40</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>138</prism:startingPage>
-      <prism:endingPage>152</prism:endingPage>
-      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2021.1883797</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883797?af=R</prism:url>
-      <prism:copyright>© 2021 Taylor &amp; Francis Group, LLC</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883823?af=R">
-      <title>Reclaiming Malcolm X: Epideictic Discourse and African-American Rhetoric</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883823?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/40/2"&gt;Volume 40, Issue 2&lt;/a&gt;, n/a 2021, Page 153-166&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 40, Issue 2, n/a 2021, Page 153-166&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Reclaiming Malcolm X: Epideictic Discourse and African-American Rhetoric</dc:title>
-      <dc:identifier>10.1080/07350198.2021.1883823</dc:identifier>
-      <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2021-05-27T04:05:24Z</dc:date>
-      <dc:rights>© 2021 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Danny Rodriguez</dc:creator>
-      <prism:publicationName>Reclaiming Malcolm X: Epideictic Discourse and African-American Rhetoric</prism:publicationName>
-      <prism:volume>40</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>153</prism:startingPage>
-      <prism:endingPage>166</prism:endingPage>
-      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2021.1883823</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883823?af=R</prism:url>
-      <prism:copyright>© 2021 Taylor &amp; Francis Group, LLC</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883809?af=R">
-      <title>Maps as Inscription of Power: Imposing Visibility on New York’s “Shadow Transit”</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883809?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/40/2"&gt;Volume 40, Issue 2&lt;/a&gt;, n/a 2021, Page 167-182&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 40, Issue 2, n/a 2021, Page 167-182&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Maps as Inscription of Power: Imposing Visibility on New York’s “Shadow Transit”</dc:title>
-      <dc:identifier>10.1080/07350198.2021.1883809</dc:identifier>
-      <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2021-05-27T04:05:24Z</dc:date>
-      <dc:rights>© 2021 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Rubén Casas</dc:creator>
-      <prism:publicationName>Maps as Inscription of Power: Imposing Visibility on New York’s “Shadow Transit”</prism:publicationName>
-      <prism:volume>40</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>167</prism:startingPage>
-      <prism:endingPage>182</prism:endingPage>
-      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2021.1883809</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883809?af=R</prism:url>
-      <prism:copyright>© 2021 Taylor &amp; Francis Group, LLC</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883833?af=R">
-      <title>The Constitutive Rhetoric of Late Nationalism: Imagined Communities after the Digital Revolution</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883833?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/40/2"&gt;Volume 40, Issue 2&lt;/a&gt;, n/a 2021, Page 183-197&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 40, Issue 2, n/a 2021, Page 183-197&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>The Constitutive Rhetoric of Late Nationalism: Imagined Communities after the Digital Revolution</dc:title>
-      <dc:identifier>10.1080/07350198.2021.1883833</dc:identifier>
-      <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2021-05-27T04:05:25Z</dc:date>
-      <dc:rights>© 2021 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Jake Cowan</dc:creator>
-      <prism:publicationName>The Constitutive Rhetoric of Late Nationalism: Imagined Communities after the Digital Revolution</prism:publicationName>
-      <prism:volume>40</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>183</prism:startingPage>
+      <dc:date>2022-07-13T10:44:27Z</dc:date>
+      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
+      <dc:creator>Brita M. Thielen</dc:creator>
+      <prism:publicationName>Ethos, Hospitality, and the Pursuit of Rhetorical Healing: How Three Decolonial Cookbooks Reconstitute Cultural Identity through Ancestral Foodways</prism:publicationName>
+      <prism:volume>41</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>184</prism:startingPage>
       <prism:endingPage>197</prism:endingPage>
-      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2021.1883833</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1883833?af=R</prism:url>
-      <prism:copyright>© 2021 Taylor &amp; Francis Group, LLC</prism:copyright>
+      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2022.2077034</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077034?af=R</prism:url>
+      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898842?af=R">
-      <title>After Gun Violence: Deliberation and Memory in an Age of Political Gridlock</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898842?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/40/2"&gt;Volume 40, Issue 2&lt;/a&gt;, n/a 2021, Page 198-200&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 40, Issue 2, n/a 2021, Page 198-200&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>After Gun Violence: Deliberation and Memory in an Age of Political Gridlock</dc:title>
-      <dc:identifier>10.1080/07350198.2021.1898842</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077035?af=R">
+      <title>Food, Feminist Rhetorical Studies, and Conservative Women: The Case of Elizabeth David</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077035?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 198-212&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 41, Issue 3, 2022, Page 198-212&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Food, Feminist Rhetorical Studies, and Conservative Women: The Case of Elizabeth David</dc:title>
+      <dc:identifier>10.1080/07350198.2022.2077035</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2021-05-27T04:05:26Z</dc:date>
-      <dc:rights>© 2021 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Richard Branscomb</dc:creator>
-      <prism:publicationName>After Gun Violence: Deliberation and Memory in an Age of Political Gridlock</prism:publicationName>
-      <prism:volume>40</prism:volume>
-      <prism:number>2</prism:number>
+      <dc:date>2022-07-13T10:44:29Z</dc:date>
+      <dc:rights>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC</dc:rights>
+      <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+      <dc:creator>Richard Vytniorgu</dc:creator>
+      <prism:publicationName>Food, Feminist Rhetorical Studies, and Conservative Women: The Case of Elizabeth David</prism:publicationName>
+      <prism:volume>41</prism:volume>
+      <prism:number>3</prism:number>
       <prism:startingPage>198</prism:startingPage>
-      <prism:endingPage>200</prism:endingPage>
-      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2021.1898842</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898842?af=R</prism:url>
-      <prism:copyright>© 2021 Taylor &amp; Francis Group, LLC</prism:copyright>
+      <prism:endingPage>212</prism:endingPage>
+      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2022.2077035</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077035?af=R</prism:url>
+      <prism:copyright>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898843?af=R">
-      <title>Institutional Ethnography: A Theory of Practice for Writing Studies Researchers</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898843?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/40/2"&gt;Volume 40, Issue 2&lt;/a&gt;, n/a 2021, Page 200-202&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 40, Issue 2, n/a 2021, Page 200-202&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Institutional Ethnography: A Theory of Practice for Writing Studies Researchers</dc:title>
-      <dc:identifier>10.1080/07350198.2021.1898843</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077036?af=R">
+      <title>Bridging the Gap: Speculative Roles of Specific Intellectuals in Climate Justice</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077036?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 213-225&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 41, Issue 3, 2022, Page 213-225&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Bridging the Gap: Speculative Roles of Specific Intellectuals in Climate Justice</dc:title>
+      <dc:identifier>10.1080/07350198.2022.2077036</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2021-05-27T04:05:26Z</dc:date>
-      <dc:rights>© 2021 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Ryan Michael Murphy</dc:creator>
-      <prism:publicationName>Institutional Ethnography: A Theory of Practice for Writing Studies Researchers</prism:publicationName>
-      <prism:volume>40</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>200</prism:startingPage>
-      <prism:endingPage>202</prism:endingPage>
-      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2021.1898843</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898843?af=R</prism:url>
-      <prism:copyright>© 2021 Taylor &amp; Francis Group, LLC</prism:copyright>
+      <dc:date>2022-07-13T10:44:29Z</dc:date>
+      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
+      <dc:creator>John Purfield</dc:creator>
+      <prism:publicationName>Bridging the Gap: Speculative Roles of Specific Intellectuals in Climate Justice</prism:publicationName>
+      <prism:volume>41</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>213</prism:startingPage>
+      <prism:endingPage>225</prism:endingPage>
+      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2022.2077036</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077036?af=R</prism:url>
+      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898844?af=R">
-      <title>Bordered Writers: Latinx Identities and Literacy Practices at Hispanic-Serving Institutions</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898844?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/40/2"&gt;Volume 40, Issue 2&lt;/a&gt;, n/a 2021, Page 203-205&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 40, Issue 2, n/a 2021, Page 203-205&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Bordered Writers: Latinx Identities and Literacy Practices at Hispanic-Serving Institutions</dc:title>
-      <dc:identifier>10.1080/07350198.2021.1898844</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2038510?af=R">
+      <title>A Play on Occlusion: Uptake of Letters to the University President</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2038510?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 226-239&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 41, Issue 3, 2022, Page 226-239&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>A Play on Occlusion: Uptake of Letters to the University President</dc:title>
+      <dc:identifier>10.1080/07350198.2022.2038510</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2021-05-27T04:05:26Z</dc:date>
-      <dc:rights>© 2021 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Victoria Ramirez Gentry</dc:creator>
-      <prism:publicationName>Bordered Writers: Latinx Identities and Literacy Practices at Hispanic-Serving Institutions</prism:publicationName>
-      <prism:volume>40</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>203</prism:startingPage>
-      <prism:endingPage>205</prism:endingPage>
-      <prism:coverDate>2021-04-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2021-04-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2021.1898844</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2021.1898844?af=R</prism:url>
-      <prism:copyright>© 2021 Taylor &amp; Francis Group, LLC</prism:copyright>
+      <dc:date>2022-07-13T10:44:28Z</dc:date>
+      <dc:rights>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC.</dc:rights>
+      <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+      <dc:creator>Katja Thieme</dc:creator>
+      <prism:publicationName>A Play on Occlusion: Uptake of Letters to the University President</prism:publicationName>
+      <prism:volume>41</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>226</prism:startingPage>
+      <prism:endingPage>239</prism:endingPage>
+      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2022.2038510</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2038510?af=R</prism:url>
+      <prism:copyright>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC.</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073779?af=R">
+      <title>Race, Rhetoric, and Research Methods</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073779?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 240-242&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 41, Issue 3, 2022, Page 240-242&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Race, Rhetoric, and Research Methods</dc:title>
+      <dc:identifier>10.1080/07350198.2022.2073779</dc:identifier>
+      <dc:source>Rhetoric Review</dc:source>
+      <dc:date>2022-07-13T10:44:28Z</dc:date>
+      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
+      <dc:creator>Cherice Escobar Jones</dc:creator>
+      <prism:publicationName>Race, Rhetoric, and Research Methods</prism:publicationName>
+      <prism:volume>41</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>240</prism:startingPage>
+      <prism:endingPage>242</prism:endingPage>
+      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2022.2073779</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073779?af=R</prism:url>
+      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073765?af=R">
+      <title>Rhetorics of Overcoming: Rewriting Narratives of Disability and Accessibility in Writing Studies.</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073765?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 242-244&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 41, Issue 3, 2022, Page 242-244&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Rhetorics of Overcoming: Rewriting Narratives of Disability and Accessibility in Writing Studies.</dc:title>
+      <dc:identifier>10.1080/07350198.2022.2073765</dc:identifier>
+      <dc:source>Rhetoric Review</dc:source>
+      <dc:date>2022-07-13T10:44:27Z</dc:date>
+      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
+      <dc:creator>Abigail Long</dc:creator>
+      <prism:publicationName>Rhetorics of Overcoming: Rewriting Narratives of Disability and Accessibility in Writing Studies.</prism:publicationName>
+      <prism:volume>41</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>242</prism:startingPage>
+      <prism:endingPage>244</prism:endingPage>
+      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2022.2073765</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073765?af=R</prism:url>
+      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073766?af=R">
+      <title>Violent Exceptions: Children’s Human Rights and Humanitarian Rhetorics</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073766?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 244-247&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 41, Issue 3, 2022, Page 244-247&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Violent Exceptions: Children’s Human Rights and Humanitarian Rhetorics</dc:title>
+      <dc:identifier>10.1080/07350198.2022.2073766</dc:identifier>
+      <dc:source>Rhetoric Review</dc:source>
+      <dc:date>2022-07-13T10:44:27Z</dc:date>
+      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
+      <dc:creator>Belinda Walzer</dc:creator>
+      <prism:publicationName>Violent Exceptions: Children’s Human Rights and Humanitarian Rhetorics</prism:publicationName>
+      <prism:volume>41</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>244</prism:startingPage>
+      <prism:endingPage>247</prism:endingPage>
+      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2022.2073766</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073766?af=R</prism:url>
+      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1625760258-->
+<!-- cached:  1660936168-->
