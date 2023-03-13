@@ -3,275 +3,489 @@
          xmlns="http://purl.org/rss/1.0/"
          xmlns:cc="http://web.resource.org/cc/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
-         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
-         xmlns:dc="http://purl.org/dc/elements/1.1/">
-   <channel>
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel rdf:about="https://journals.sagepub.com/loi/wcxa?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>SAGE Publications Inc: Written Communication: Table of Contents</title>
       <description>Table of Contents for Written Communication. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://journals.sagepub.com/loi/wcxa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
       <dc:title>SAGE Publications Inc: Written Communication: Table of Contents</dc:title>
       <dc:publisher>SAGE Publications Inc</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>Written Communication</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221083517?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221090436?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221087486?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221085993?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221092730?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221093564?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221109241?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221114085?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221108162?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221107934?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221107884?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221099474?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221131543?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221127701?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221134640?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221127998?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221127208?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221133290?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221128876?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221129605?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221149425?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221150937?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221149093?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221148724?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221148664?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221148468?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221146484?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221148676?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221147523?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221148679?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221148680?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221149649?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221146776?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221146550?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/07410883221135952?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2022/wcxa_39_3/wcxa_39_3/20220721/wcxa_39_3.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2023/wcxa_40_1/wcxa_40_1/20221209/wcxa_40_1.cover.png">
       <title>Written Communication</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2022/wcxa_39_3/wcxa_39_3/20220721/wcxa_39_3.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2023/wcxa_40_1/wcxa_40_1/20221209/wcxa_40_1.cover.png</url>
       <link>https://journals.sagepub.com/loi/wcxa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221083517?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Virtual Reality and Embodiment in Multimodal Meaning Making</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221083517?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/39/3"&gt;Volume 39, Issue 3&lt;/a&gt;, Page 335-369, July 2022. &lt;br/&gt;Immersive virtual reality (VR) technology is becoming widespread in education, yet research of VR technologies for students’ multimodal communication is an emerging area of research in writing and literacies scholarship. Likewise, the significance of new ways of embodied meaning making in VR environments is undertheorized—a gap that requires attention given the potential for broadened use of the sensorium in multimodal language and literacy learning. This classroom research investigated multimodal composition using the virtual paint program Google Tilt Brush™ with 47 elementary school students (ages 10–11 years) using a head-mounted display and motion sensors. Multimodal analysis of video, screen capture, and think-aloud data attended to sensory-motor affordances and constraints for embodiment. Modal constraints were the immateriality of the virtual text, virtual disembodiment, and somatosensory mismatch between the virtual and physical worlds. Potentials for new forms of embodied multimodal representation in VR involved extensive bodily, haptic, and locomotive movement. The findings are significant given that research of embodied cognition points to sensorimotor action as the basis for language and communication.</content:encoded>
-      <description>Written Communication, Volume 39, Issue 3, Page 335-369, July 2022. &lt;br/&gt;Immersive virtual reality (VR) technology is becoming widespread in education, yet research of VR technologies for students’ multimodal communication is an emerging area of research in writing and literacies scholarship. Likewise, the significance of new ways of embodied meaning making in VR environments is undertheorized—a gap that requires attention given the potential for broadened use of the sensorium in multimodal language and literacy learning. This classroom research investigated multimodal composition using the virtual paint program Google Tilt Brush™ with 47 elementary school students (ages 10–11 years) using a head-mounted display and motion sensors. Multimodal analysis of video, screen capture, and think-aloud data attended to sensory-motor affordances and constraints for embodiment. Modal constraints were the immateriality of the virtual text, virtual disembodiment, and somatosensory mismatch between the virtual and physical worlds. Potentials for new forms of embodied multimodal representation in VR involved extensive bodily, haptic, and locomotive movement. The findings are significant given that research of embodied cognition points to sensorimotor action as the basis for language and communication.</description>
-      <dc:title>Virtual Reality and Embodiment in Multimodal Meaning Making</dc:title>
-      <dc:identifier>10.1177/07410883221083517</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221131543?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Modeling Mobile Writing: Applying Sociocognitive Models of Writing to Mobile Contexts</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221131543?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/40/1"&gt;Volume 40, Issue 1&lt;/a&gt;, Page 3-29, January 2023. &lt;br/&gt;Current cognitive and sociocognitive models of writing conceptualize writing processes as complex interactions between multidimensional mechanisms that activate a writer’s social motivations, psychomotor processes, and cognitive resources in order to engage in writing. These models have been developed through years of empirical research employing a variety of data channels, such as keystroke logging; however, research about mobile writing processes have been understudied. This paper presents a study of mobile writing processes that used keystroke-logging methods in order to expand scholarship of writing processes into the realm of mobile writing. By examining how participants (N = 10) wrote on mobile devices at the keystroke level, as well as combining textual and keystroke analysis to examine context text-message (SMS) composition, this study argues for theoretically framing mobile writing as an embodied performance.</content:encoded>
+      <description>Written Communication, Volume 40, Issue 1, Page 3-29, January 2023. &lt;br/&gt;Current cognitive and sociocognitive models of writing conceptualize writing processes as complex interactions between multidimensional mechanisms that activate a writer’s social motivations, psychomotor processes, and cognitive resources in order to engage in writing. These models have been developed through years of empirical research employing a variety of data channels, such as keystroke logging; however, research about mobile writing processes have been understudied. This paper presents a study of mobile writing processes that used keystroke-logging methods in order to expand scholarship of writing processes into the realm of mobile writing. By examining how participants (N = 10) wrote on mobile devices at the keystroke level, as well as combining textual and keystroke analysis to examine context text-message (SMS) composition, this study argues for theoretically framing mobile writing as an embodied performance.</description>
+      <dc:title>Modeling Mobile Writing: Applying Sociocognitive Models of Writing to Mobile Contexts</dc:title>
+      <dc:identifier>10.1177/07410883221131543</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-04-30T10:09:07Z</dc:date>
+      <dc:date>2022-11-28T12:09:42Z</dc:date>
       <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>Kathy A. Mills</dc:creator>
-      <dc:creator>Laura Scholes</dc:creator>
-      <dc:creator>Alinta Brown</dc:creator>
-      <prism:publicationName>Virtual Reality and Embodiment in Multimodal Meaning Making</prism:publicationName>
-      <prism:volume>39</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>335</prism:startingPage>
-      <prism:endingPage>369</prism:endingPage>
-      <prism:coverDate>2022-07-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/07410883221083517</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221083517?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Joel Schneier</dc:creator>
+      <prism:publicationName>Modeling Mobile Writing: Applying Sociocognitive Models of Writing to Mobile Contexts</prism:publicationName>
+      <prism:volume>40</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>3</prism:startingPage>
+      <prism:endingPage>29</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/07410883221131543</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221131543?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2022 SAGE Publications</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221090436?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Threshold Genres: A 10-Year Exploration of a Medical Writer’s Development and Social Apprenticeship Through the Patient SOAP Note</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221090436?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/39/3"&gt;Volume 39, Issue 3&lt;/a&gt;, Page 370-399, July 2022. &lt;br/&gt;While writing is a critical part of the medical profession, longitudinal studies exploring the social apprenticeship and genre knowledge development of medical practitioners are almost nonexistent. Through interviews and writing samples, this article traces a 10-year journey of one writer’s engagement with the Patient SOAP note, following his experiences from the first year of his undergraduate education to the end of medical school. Drawing upon theories of social apprenticeship and the RIME framework (reporter, interpreter, mediator, educator) from the field of medicine, we offer an in-depth case study of our focal participant’s growing medical expertise as he masters the Patient SOAP note. Through this in-depth analysis, we argue that the SOAP note functions as a “threshold genre” to assist entry into the medical profession. We conclude by offering additional evidence about the role that key threshold genres play in the development of professional expertise and offer implications for genre theory.</content:encoded>
-      <description>Written Communication, Volume 39, Issue 3, Page 370-399, July 2022. &lt;br/&gt;While writing is a critical part of the medical profession, longitudinal studies exploring the social apprenticeship and genre knowledge development of medical practitioners are almost nonexistent. Through interviews and writing samples, this article traces a 10-year journey of one writer’s engagement with the Patient SOAP note, following his experiences from the first year of his undergraduate education to the end of medical school. Drawing upon theories of social apprenticeship and the RIME framework (reporter, interpreter, mediator, educator) from the field of medicine, we offer an in-depth case study of our focal participant’s growing medical expertise as he masters the Patient SOAP note. Through this in-depth analysis, we argue that the SOAP note functions as a “threshold genre” to assist entry into the medical profession. We conclude by offering additional evidence about the role that key threshold genres play in the development of professional expertise and offer implications for genre theory.</description>
-      <dc:title>Threshold Genres: A 10-Year Exploration of a Medical Writer’s Development and Social Apprenticeship Through the Patient SOAP Note</dc:title>
-      <dc:identifier>10.1177/07410883221090436</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221127701?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Examining Longitudinal and Concurrent Links Between Writing Motivation and Writing Quality in Middle School</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221127701?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/40/1"&gt;Volume 40, Issue 1&lt;/a&gt;, Page 30-58, January 2023. &lt;br/&gt;Research shows that writing motivation decreases throughout schooling and predicts writing performance. However, this evidence comes primarily from cross-sectional studies. Here, we adopted a longitudinal approach to (a) examine the development of attitudes toward writing, writing self-efficacy domains, and motives to write from Grade 6 to 7, and (b) test their longitudinal and concurrent contribution to the quality of opinion essay in Grade 7, after controlling for quality in Grade 6. For that, 112 Portuguese students completed motivation-related questionnaires and composed two opinion essays in Grade 6 and 1 year later, in Grade 7. Findings showed that, while attitudes and all motives to write declined, self-efficacy did not. Additionally, opinion essay quality in Grade 7 was associated with essay quality in Grade 6 as well as with self-efficacy for self-regulation and intrinsic motives in Grade 7. In other words, current motivational beliefs seem more important to students’ writing quality than their past beliefs. This conclusion means that, in order to fostering students’ writing performance, middle-grade teachers should nurture their positive beliefs about writing by placing a higher value on writing motivation in the classroom.</content:encoded>
+      <description>Written Communication, Volume 40, Issue 1, Page 30-58, January 2023. &lt;br/&gt;Research shows that writing motivation decreases throughout schooling and predicts writing performance. However, this evidence comes primarily from cross-sectional studies. Here, we adopted a longitudinal approach to (a) examine the development of attitudes toward writing, writing self-efficacy domains, and motives to write from Grade 6 to 7, and (b) test their longitudinal and concurrent contribution to the quality of opinion essay in Grade 7, after controlling for quality in Grade 6. For that, 112 Portuguese students completed motivation-related questionnaires and composed two opinion essays in Grade 6 and 1 year later, in Grade 7. Findings showed that, while attitudes and all motives to write declined, self-efficacy did not. Additionally, opinion essay quality in Grade 7 was associated with essay quality in Grade 6 as well as with self-efficacy for self-regulation and intrinsic motives in Grade 7. In other words, current motivational beliefs seem more important to students’ writing quality than their past beliefs. This conclusion means that, in order to fostering students’ writing performance, middle-grade teachers should nurture their positive beliefs about writing by placing a higher value on writing motivation in the classroom.</description>
+      <dc:title>Examining Longitudinal and Concurrent Links Between Writing Motivation and Writing Quality in Middle School</dc:title>
+      <dc:identifier>10.1177/07410883221127701</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-05-02T10:13:36Z</dc:date>
+      <dc:date>2022-11-15T07:09:13Z</dc:date>
       <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>Dana Lynn Driscoll</dc:creator>
-      <dc:creator>Omar Yacoub</dc:creator>
-      <prism:publicationName>Threshold Genres: A 10-Year Exploration of a Medical Writer’s Development and Social Apprenticeship Through the Patient SOAP Note</prism:publicationName>
-      <prism:volume>39</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>370</prism:startingPage>
-      <prism:endingPage>399</prism:endingPage>
-      <prism:coverDate>2022-07-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/07410883221090436</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221090436?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Isabel Rasteiro</dc:creator>
+      <dc:creator>Teresa Limpo</dc:creator>
+      <prism:publicationName>Examining Longitudinal and Concurrent Links Between Writing Motivation and Writing Quality in Middle School</prism:publicationName>
+      <prism:volume>40</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>30</prism:startingPage>
+      <prism:endingPage>58</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/07410883221127701</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221127701?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2022 SAGE Publications</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221087486?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Online Data Articles: The Language of Intersubjective Stance in a Rhetorical Hybrid</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221087486?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/39/3"&gt;Volume 39, Issue 3&lt;/a&gt;, Page 400-425, July 2022. &lt;br/&gt;The data article is a digital genre that has emerged in response to new exigencies, namely, to make data more transparent and research processes more trustable and reproducible. Following White’s framework of intersubjective stance, this article draws upon statistical tools and collocational and discourse analyses to examine the linguistic resources deployed by authors to respond to both exigencies. The results show a high presence of dialogically contractive resources (above all, passive constructions and, only in one data article section, inanimate subjects) by which authors do not fully engage with dialogic alternatives (heteroglossic disengagement). Dialogically expansive resources (anticipatory it-subjects and we-pronouns) are extremely rare, corroborating that the authors’ stance is neither monoglossic (undialogized) nor heteroglossically engaged. Further, the discourse functions and ensuing pragmatic effects of the prevailing intersubjective stance resources, significantly different between and among the data article sections, including their associated abstracts, reveal the construal of very distinct dialogic spaces for writer-reader interaction within this article type. Such intra-generic variation may be explained by the social (and rhetorical) action that the genre fulfills, namely, to describe and highlight the value of the research data.</content:encoded>
-      <description>Written Communication, Volume 39, Issue 3, Page 400-425, July 2022. &lt;br/&gt;The data article is a digital genre that has emerged in response to new exigencies, namely, to make data more transparent and research processes more trustable and reproducible. Following White’s framework of intersubjective stance, this article draws upon statistical tools and collocational and discourse analyses to examine the linguistic resources deployed by authors to respond to both exigencies. The results show a high presence of dialogically contractive resources (above all, passive constructions and, only in one data article section, inanimate subjects) by which authors do not fully engage with dialogic alternatives (heteroglossic disengagement). Dialogically expansive resources (anticipatory it-subjects and we-pronouns) are extremely rare, corroborating that the authors’ stance is neither monoglossic (undialogized) nor heteroglossically engaged. Further, the discourse functions and ensuing pragmatic effects of the prevailing intersubjective stance resources, significantly different between and among the data article sections, including their associated abstracts, reveal the construal of very distinct dialogic spaces for writer-reader interaction within this article type. Such intra-generic variation may be explained by the social (and rhetorical) action that the genre fulfills, namely, to describe and highlight the value of the research data.</description>
-      <dc:title>Online Data Articles: The Language of Intersubjective Stance in a Rhetorical Hybrid</dc:title>
-      <dc:identifier>10.1177/07410883221087486</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221134640?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Writing Toward a Decolonial Option: A Bilingual Student’s Multimodal Composing as a Site of Translingual Activism and Justice</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221134640?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/40/1"&gt;Volume 40, Issue 1&lt;/a&gt;, Page 59-89, January 2023. &lt;br/&gt;Drawing on discussions of (de)coloniality and translanguaging, this article reports findings from a classroom-based ethnographic study, focusing on how a self-identified Latina bilingual student resists colonial constructs of language and literacies in her multimodal project. Based on an analysis of the student’s multimodal composition, other classroom writings, and a semistructured interview, I examine how she creatively and critically draws on her entire language and literacy repertoire in her multimodal composing. More specifically, I demonstrate how she draws from and builds on her lived experiences of linguistic injustices and racialization and transforms such experiences into embodied knowledge making and sharing through her multimodal composing. I argue that students’ engagement with multimodality can and should be cultivated, sustained, and amplified as a site of translingual activism and justice with decolonial potential, and I suggest, further, that such a shift requires a change in approaching, reading, and valuing students’ multimodal meaning making.</content:encoded>
+      <description>Written Communication, Volume 40, Issue 1, Page 59-89, January 2023. &lt;br/&gt;Drawing on discussions of (de)coloniality and translanguaging, this article reports findings from a classroom-based ethnographic study, focusing on how a self-identified Latina bilingual student resists colonial constructs of language and literacies in her multimodal project. Based on an analysis of the student’s multimodal composition, other classroom writings, and a semistructured interview, I examine how she creatively and critically draws on her entire language and literacy repertoire in her multimodal composing. More specifically, I demonstrate how she draws from and builds on her lived experiences of linguistic injustices and racialization and transforms such experiences into embodied knowledge making and sharing through her multimodal composing. I argue that students’ engagement with multimodality can and should be cultivated, sustained, and amplified as a site of translingual activism and justice with decolonial potential, and I suggest, further, that such a shift requires a change in approaching, reading, and valuing students’ multimodal meaning making.</description>
+      <dc:title>Writing Toward a Decolonial Option: A Bilingual Student’s Multimodal Composing as a Site of Translingual Activism and Justice</dc:title>
+      <dc:identifier>10.1177/07410883221134640</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-05-07T11:12:04Z</dc:date>
+      <dc:date>2022-12-09T09:19:37Z</dc:date>
       <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>Carmen Pérez-Llantada</dc:creator>
-      <prism:publicationName>Online Data Articles: The Language of Intersubjective Stance in a Rhetorical Hybrid</prism:publicationName>
-      <prism:volume>39</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>400</prism:startingPage>
-      <prism:endingPage>425</prism:endingPage>
-      <prism:coverDate>2022-07-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/07410883221087486</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221087486?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Eunjeong Lee</dc:creator>
+      <prism:publicationName>Writing Toward a Decolonial Option: A Bilingual Student’s Multimodal Composing as a Site of Translingual Activism and Justice</prism:publicationName>
+      <prism:volume>40</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>59</prism:startingPage>
+      <prism:endingPage>89</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/07410883221134640</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221134640?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2022 SAGE Publications</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221085993?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Genre and Register Features of Sixth-Grade Students’ Factual Writing</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221085993?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/39/3"&gt;Volume 39, Issue 3&lt;/a&gt;, Page 426-461, July 2022. &lt;br/&gt;Factual writing is a key macrogenre of American K-12 schooling that is also valued in workplace and society. This study examined the genre and register features of two subgenres of factual writing—biography and report—composed by 48 sixth-grade students in a curriculum unit on scientists and science-related careers aimed at developing students’ understanding of the nature of science. These texts were analyzed for a range of schematic, lexical, and grammatical features that instantiate the two target genres. Statistical and descriptive analyses revealed that the students demonstrated a fairly mature control over the schematic and lexical features that realize the purpose of either genre and relied heavily on the grammatical resources characteristic of everyday registers in constructing both genres. Additionally, there was a positive relationship between the students’ genre/register familiarity and the holistic quality of their writing, and the students’ reading proficiency was a significant predictor of their genre familiarity and holistic writing quality, but not their register understanding. These findings suggest that learning the grammatical resources characteristic of academic registers remains a major and potentially daunting task for many adolescents.</content:encoded>
-      <description>Written Communication, Volume 39, Issue 3, Page 426-461, July 2022. &lt;br/&gt;Factual writing is a key macrogenre of American K-12 schooling that is also valued in workplace and society. This study examined the genre and register features of two subgenres of factual writing—biography and report—composed by 48 sixth-grade students in a curriculum unit on scientists and science-related careers aimed at developing students’ understanding of the nature of science. These texts were analyzed for a range of schematic, lexical, and grammatical features that instantiate the two target genres. Statistical and descriptive analyses revealed that the students demonstrated a fairly mature control over the schematic and lexical features that realize the purpose of either genre and relied heavily on the grammatical resources characteristic of everyday registers in constructing both genres. Additionally, there was a positive relationship between the students’ genre/register familiarity and the holistic quality of their writing, and the students’ reading proficiency was a significant predictor of their genre familiarity and holistic writing quality, but not their register understanding. These findings suggest that learning the grammatical resources characteristic of academic registers remains a major and potentially daunting task for many adolescents.</description>
-      <dc:title>Genre and Register Features of Sixth-Grade Students’ Factual Writing</dc:title>
-      <dc:identifier>10.1177/07410883221085993</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221127998?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Writing Process Feedback Based on Keystroke Logging and Comparison With Exemplars: Effects on the Quality and Process of Synthesis Texts</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221127998?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/40/1"&gt;Volume 40, Issue 1&lt;/a&gt;, Page 90-144, January 2023. &lt;br/&gt;This intervention study aimed to test the effect of writing process feedback. Sixty-five Grade 10 students received a personal report based on keystroke logging data, including information on several writing process aspects. Participants compared their writing process to exemplar processes of equally scoring (position-setting condition) or higher-scoring students (feed-forward condition). The effect of the feedback on writing performance and process was compared to a national baseline study. Results showed that feed-forward process feedback had an effect on text quality comparable to one grade of regular schooling. The feedback had an effect on production, pausing, revision, and source use, which indicates that it supported participants in self-regulating their writing process. Additionally, we explored the students’ perception of the feedback to get an insight into its strengths and weaknesses. This study shows the potential of writing process feedback and discusses pedagogical implications and options for future research.</content:encoded>
+      <description>Written Communication, Volume 40, Issue 1, Page 90-144, January 2023. &lt;br/&gt;This intervention study aimed to test the effect of writing process feedback. Sixty-five Grade 10 students received a personal report based on keystroke logging data, including information on several writing process aspects. Participants compared their writing process to exemplar processes of equally scoring (position-setting condition) or higher-scoring students (feed-forward condition). The effect of the feedback on writing performance and process was compared to a national baseline study. Results showed that feed-forward process feedback had an effect on text quality comparable to one grade of regular schooling. The feedback had an effect on production, pausing, revision, and source use, which indicates that it supported participants in self-regulating their writing process. Additionally, we explored the students’ perception of the feedback to get an insight into its strengths and weaknesses. This study shows the potential of writing process feedback and discusses pedagogical implications and options for future research.</description>
+      <dc:title>Writing Process Feedback Based on Keystroke Logging and Comparison With Exemplars: Effects on the Quality and Process of Synthesis Texts</dc:title>
+      <dc:identifier>10.1177/07410883221127998</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-05-02T10:08:56Z</dc:date>
+      <dc:date>2022-12-09T09:19:35Z</dc:date>
       <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>Zhihui Fang</dc:creator>
-      <dc:creator>Valerie Gresser</dc:creator>
-      <dc:creator>Peijuan Cao</dc:creator>
-      <dc:creator>Huibin Zhang</dc:creator>
-      <prism:publicationName>Genre and Register Features of Sixth-Grade Students’ Factual Writing</prism:publicationName>
-      <prism:volume>39</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>426</prism:startingPage>
-      <prism:endingPage>461</prism:endingPage>
-      <prism:coverDate>2022-07-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/07410883221085993</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221085993?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Nina Vandermeulen</dc:creator>
+      <dc:creator>Elke Van Steendam</dc:creator>
+      <dc:creator>Sven De Maeyer</dc:creator>
+      <dc:creator>Gert Rijlaarsdam</dc:creator>
+      <prism:publicationName>Writing Process Feedback Based on Keystroke Logging and Comparison With Exemplars: Effects on the Quality and Process of Synthesis Texts</prism:publicationName>
+      <prism:volume>40</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>90</prism:startingPage>
+      <prism:endingPage>144</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/07410883221127998</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221127998?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2022 SAGE Publications</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221092730?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Wreading on Online Literature Platforms</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221092730?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/39/3"&gt;Volume 39, Issue 3&lt;/a&gt;, Page 462-496, July 2022. &lt;br/&gt;Millions of users write and read freely accessible texts every day on online literary platforms (OLPs). Intra-platform surveys aside, only very few studies have considered the demographics of digital readers and authors. Our exploratory study of avid OLP users helps to close this research gap. We requested an international sample of OLP users (13 years and above) to complete an online questionnaire. Our survey gathered demographic data and information about participants’ OLP usage, motivation, (communicative) relationship with other users, and perceptions of the positive effects of OLP usage (Nmax = 315). Among others, our results not only reinforce the theoretical concept of wreading but also indicate that OLPs are likely to enhance the pleasure derived from writing and reading. Our data show that OLP usage is not limited to adolescent users. Reportedly, for participants from Generation Y as well as from Generation Z, the experience of creative freedom and the possibility to get direct reader feedback are major motivational factors to write on OLPs. Also, our data indicate that our surveyed writers on OLPs prefer short stories. We call for more longitudinal investigations and for a common theoretical framework, in order to strengthen future research on digital literature practices and to be able to implement the didactic potential of OLPs in the classroom.</content:encoded>
-      <description>Written Communication, Volume 39, Issue 3, Page 462-496, July 2022. &lt;br/&gt;Millions of users write and read freely accessible texts every day on online literary platforms (OLPs). Intra-platform surveys aside, only very few studies have considered the demographics of digital readers and authors. Our exploratory study of avid OLP users helps to close this research gap. We requested an international sample of OLP users (13 years and above) to complete an online questionnaire. Our survey gathered demographic data and information about participants’ OLP usage, motivation, (communicative) relationship with other users, and perceptions of the positive effects of OLP usage (Nmax = 315). Among others, our results not only reinforce the theoretical concept of wreading but also indicate that OLPs are likely to enhance the pleasure derived from writing and reading. Our data show that OLP usage is not limited to adolescent users. Reportedly, for participants from Generation Y as well as from Generation Z, the experience of creative freedom and the possibility to get direct reader feedback are major motivational factors to write on OLPs. Also, our data indicate that our surveyed writers on OLPs prefer short stories. We call for more longitudinal investigations and for a common theoretical framework, in order to strengthen future research on digital literature practices and to be able to implement the didactic potential of OLPs in the classroom.</description>
-      <dc:title>Wreading on Online Literature Platforms</dc:title>
-      <dc:identifier>10.1177/07410883221092730</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221127208?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Rethinking Translingualism in College Composition Classrooms: A Digital Ethnographic Study of Multilingual Students’ Written Communication Across Contexts</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221127208?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/40/1"&gt;Volume 40, Issue 1&lt;/a&gt;, Page 145-174, January 2023. &lt;br/&gt;It is important to understand multilingual students’ lived experiences and sense-making in their everyday written communication before rethinking the implementation of translingual writing in college composition classrooms. Unpacking multilinguals’ written communication across social and academic contexts, this exploratory qualitative study integrates digital ethnographic and interview methods to examine the first-semester communication experiences of 10 undergraduate students. The findings indicate that while participants engaged in translingual written communication as part of their lived experiences in social contexts, they were reluctant to draw upon their home language in academic settings. Based on the findings, I discuss the pedagogical implications of supporting multilingual students in college composition classrooms. I argue that instructors must reposition themselves as co-learners together with their multilingual students to enact a translingual stance in academic settings and reimagine meaningful written communication beyond English-only. This study sheds light on rethinking the pedagogical practices around implementing translingualism in college composition.</content:encoded>
+      <description>Written Communication, Volume 40, Issue 1, Page 145-174, January 2023. &lt;br/&gt;It is important to understand multilingual students’ lived experiences and sense-making in their everyday written communication before rethinking the implementation of translingual writing in college composition classrooms. Unpacking multilinguals’ written communication across social and academic contexts, this exploratory qualitative study integrates digital ethnographic and interview methods to examine the first-semester communication experiences of 10 undergraduate students. The findings indicate that while participants engaged in translingual written communication as part of their lived experiences in social contexts, they were reluctant to draw upon their home language in academic settings. Based on the findings, I discuss the pedagogical implications of supporting multilingual students in college composition classrooms. I argue that instructors must reposition themselves as co-learners together with their multilingual students to enact a translingual stance in academic settings and reimagine meaningful written communication beyond English-only. This study sheds light on rethinking the pedagogical practices around implementing translingualism in college composition.</description>
+      <dc:title>Rethinking Translingualism in College Composition Classrooms: A Digital Ethnographic Study of Multilingual Students’ Written Communication Across Contexts</dc:title>
+      <dc:identifier>10.1177/07410883221127208</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-06-20T10:24:30Z</dc:date>
+      <dc:date>2022-10-19T09:29:43Z</dc:date>
       <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>Maria Kraxenberger</dc:creator>
-      <dc:creator>Gerhard Lauer</dc:creator>
-      <prism:publicationName>Wreading on Online Literature Platforms</prism:publicationName>
-      <prism:volume>39</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>462</prism:startingPage>
-      <prism:endingPage>496</prism:endingPage>
-      <prism:coverDate>2022-07-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/07410883221092730</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221092730?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Qianqian Zhang-Wu</dc:creator>
+      <prism:publicationName>Rethinking Translingualism in College Composition Classrooms: A Digital Ethnographic Study of Multilingual Students’ Written Communication Across Contexts</prism:publicationName>
+      <prism:volume>40</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>145</prism:startingPage>
+      <prism:endingPage>174</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/07410883221127208</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221127208?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2022 SAGE Publications</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221093564?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Students’ Questions in Writing Center Conferences</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221093564?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/39/3"&gt;Volume 39, Issue 3&lt;/a&gt;, Page 497-527, July 2022. &lt;br/&gt;Questions are an important means by which students actively participate in and exercise some control over the moment-to-moment focus of writing center conferences. Through quantitative and qualitative analysis of student questions in 35 writing center conferences, we examined the frequency and type of students’ questions, finding no differences between native English speakers and non-native English speakers’ overall question frequency or their use of each question type. Students used common-ground questions most frequently, and knowledge-deficit questions second-most frequently. Our qualitative analysis revealed how students used questions to coconstruct potential language for their papers and to steer the course of their conferences. It also revealed the dilemma that arises when a student’s questions probe not only the tutor’s writing knowledge but also their subject-matter knowledge. This study demonstrates some ways that students take power over their conferences by asking questions and indicates that tutors might expect similar question frequency and similar types of questions from NESs and NNESs. It also suggests that tutors might use the tutoring strategy of reading aloud to create conversational openings for students’ questions. And it suggests potential benefits of attending to the type of questions that students use, as these types can indicate on a local level the extent of students’ contribution to their papers.</content:encoded>
-      <description>Written Communication, Volume 39, Issue 3, Page 497-527, July 2022. &lt;br/&gt;Questions are an important means by which students actively participate in and exercise some control over the moment-to-moment focus of writing center conferences. Through quantitative and qualitative analysis of student questions in 35 writing center conferences, we examined the frequency and type of students’ questions, finding no differences between native English speakers and non-native English speakers’ overall question frequency or their use of each question type. Students used common-ground questions most frequently, and knowledge-deficit questions second-most frequently. Our qualitative analysis revealed how students used questions to coconstruct potential language for their papers and to steer the course of their conferences. It also revealed the dilemma that arises when a student’s questions probe not only the tutor’s writing knowledge but also their subject-matter knowledge. This study demonstrates some ways that students take power over their conferences by asking questions and indicates that tutors might expect similar question frequency and similar types of questions from NESs and NNESs. It also suggests that tutors might use the tutoring strategy of reading aloud to create conversational openings for students’ questions. And it suggests potential benefits of attending to the type of questions that students use, as these types can indicate on a local level the extent of students’ contribution to their papers.</description>
-      <dc:title>Students’ Questions in Writing Center Conferences</dc:title>
-      <dc:identifier>10.1177/07410883221093564</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221133290?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Humanistic Knowledge-Making and the Rhetoric of Literary Criticism: Special Topoi Meet Rhetorical Action</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221133290?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/40/1"&gt;Volume 40, Issue 1&lt;/a&gt;, Page 175-209, January 2023. &lt;br/&gt;This article examines the power of special topoi to characterize the discourse of literary criticism, and through emphasis on rhetorical action, it sheds light on the limitations of topos analysis for characterizing research articles in disciplinary discourse more generally. Using an analytical approach drawn both from studies of topoi in disciplinary discourse and rhetorical genre theory, I examine a representative corpus of 21st-century literary research articles. I find that while most of the special topoi recognized by Fahnestock and Secor and Wilder remain prevalent in recent criticism, contemporary literary critics tend to draw on only a select subset of those topoi when making claims about their rhetorical actions. The topoi they use most often—mistaken-critic and paradigm—help identify the ways knowledge-making work is undertaken in literary criticism, a discipline often considered epideictic rather than epistemic. But what the special topoi do not capture is precisely the distinctly motivated, actively epistemic character of this disciplinary rhetoric. Based on these findings, I suggest that special topoi must be seen as functioning in the context of the rhetorical action undertaken by literary research articles. These articles undertake not simply persuasion but the particularly humanistic act I refer to as contributing to scholarly understanding: a rhetorical action worth attending to for scholars of disciplinary discourse, because it is deliberately more concerned with practice than product.</content:encoded>
+      <description>Written Communication, Volume 40, Issue 1, Page 175-209, January 2023. &lt;br/&gt;This article examines the power of special topoi to characterize the discourse of literary criticism, and through emphasis on rhetorical action, it sheds light on the limitations of topos analysis for characterizing research articles in disciplinary discourse more generally. Using an analytical approach drawn both from studies of topoi in disciplinary discourse and rhetorical genre theory, I examine a representative corpus of 21st-century literary research articles. I find that while most of the special topoi recognized by Fahnestock and Secor and Wilder remain prevalent in recent criticism, contemporary literary critics tend to draw on only a select subset of those topoi when making claims about their rhetorical actions. The topoi they use most often—mistaken-critic and paradigm—help identify the ways knowledge-making work is undertaken in literary criticism, a discipline often considered epideictic rather than epistemic. But what the special topoi do not capture is precisely the distinctly motivated, actively epistemic character of this disciplinary rhetoric. Based on these findings, I suggest that special topoi must be seen as functioning in the context of the rhetorical action undertaken by literary research articles. These articles undertake not simply persuasion but the particularly humanistic act I refer to as contributing to scholarly understanding: a rhetorical action worth attending to for scholars of disciplinary discourse, because it is deliberately more concerned with practice than product.</description>
+      <dc:title>Humanistic Knowledge-Making and the Rhetoric of Literary Criticism: Special Topoi Meet Rhetorical Action</dc:title>
+      <dc:identifier>10.1177/07410883221133290</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-06-17T11:25:19Z</dc:date>
+      <dc:date>2022-12-09T09:19:36Z</dc:date>
       <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>Jo Mackiewicz</dc:creator>
-      <dc:creator>Isabelle Thompson</dc:creator>
-      <prism:publicationName>Students’ Questions in Writing Center Conferences</prism:publicationName>
-      <prism:volume>39</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>497</prism:startingPage>
-      <prism:endingPage>527</prism:endingPage>
-      <prism:coverDate>2022-07-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/07410883221093564</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221093564?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Sarah Banting</dc:creator>
+      <prism:publicationName>Humanistic Knowledge-Making and the Rhetoric of Literary Criticism: Special Topoi Meet Rhetorical Action</prism:publicationName>
+      <prism:volume>40</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>175</prism:startingPage>
+      <prism:endingPage>209</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/07410883221133290</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221133290?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2022 SAGE Publications</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221109241?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Uses of Metadiscourse in Online Help</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221109241?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Metadiscourse guides how readers interact with a text and process the information they find. Because texts differ in purpose and audience, so do patterns of metadiscourse use. This research examines the patterns of metadiscourse use in topic-based writing, developed following a structured authoring method. The resulting writing is modular, nonhierarchical, and nonlinear, which creates user experience issues related to attention as well as information selection, ordering, processing, and navigation. The patterns of language use in topic-based writing reveal how metadiscourse might help readers address these reader experience issues.</content:encoded>
-      <description>Written Communication, Ahead of Print. &lt;br/&gt;Metadiscourse guides how readers interact with a text and process the information they find. Because texts differ in purpose and audience, so do patterns of metadiscourse use. This research examines the patterns of metadiscourse use in topic-based writing, developed following a structured authoring method. The resulting writing is modular, nonhierarchical, and nonlinear, which creates user experience issues related to attention as well as information selection, ordering, processing, and navigation. The patterns of language use in topic-based writing reveal how metadiscourse might help readers address these reader experience issues.</description>
-      <dc:title>Uses of Metadiscourse in Online Help</dc:title>
-      <dc:identifier>10.1177/07410883221109241</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221128876?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Changes in Research Abstracts: Past Tense, Third Person, Passive, and Negatives</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221128876?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/40/1"&gt;Volume 40, Issue 1&lt;/a&gt;, Page 210-237, January 2023. &lt;br/&gt;Research abstracts are an increasingly important aspect of research articles in all knowledge fields, summarizing the full article and encouraging readers to access it. Graetz suggests that four main features contribute to this purpose—the use of past tense, third person, passive, and the non-use of negatives, although this claim has never been confirmed. In this article, we set out to explore the extent to which these forms are used in the abstracts of four disciplines, the functions they perform and how their frequency has changed over the past 30 years. Drawing on a corpus of 6,000 abstracts taken from the top 10 journals in each of four disciplines at three distinct time periods, we found high but decreasing frequencies of past tense and passives, an increasing number of third person forms, and more than one negation every two texts. We also noted a remarkable decrease of past tense and passives in the hard sciences and an increase in applied linguistics, with sociologists making greater use of negation. These results suggest that abstracts have developed a distinctive argumentative style, rhetorically linked both to their communicative function and to the changing social contexts in which academic writing is produced and consumed.</content:encoded>
+      <description>Written Communication, Volume 40, Issue 1, Page 210-237, January 2023. &lt;br/&gt;Research abstracts are an increasingly important aspect of research articles in all knowledge fields, summarizing the full article and encouraging readers to access it. Graetz suggests that four main features contribute to this purpose—the use of past tense, third person, passive, and the non-use of negatives, although this claim has never been confirmed. In this article, we set out to explore the extent to which these forms are used in the abstracts of four disciplines, the functions they perform and how their frequency has changed over the past 30 years. Drawing on a corpus of 6,000 abstracts taken from the top 10 journals in each of four disciplines at three distinct time periods, we found high but decreasing frequencies of past tense and passives, an increasing number of third person forms, and more than one negation every two texts. We also noted a remarkable decrease of past tense and passives in the hard sciences and an increase in applied linguistics, with sociologists making greater use of negation. These results suggest that abstracts have developed a distinctive argumentative style, rhetorically linked both to their communicative function and to the changing social contexts in which academic writing is produced and consumed.</description>
+      <dc:title>Changes in Research Abstracts: Past Tense, Third Person, Passive, and Negatives</dc:title>
+      <dc:identifier>10.1177/07410883221128876</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-08-11T09:38:33Z</dc:date>
+      <dc:date>2022-11-28T12:05:02Z</dc:date>
       <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>Jason Swarts</dc:creator>
-      <prism:publicationName>Uses of Metadiscourse in Online Help</prism:publicationName>
-      <prism:doi>10.1177/07410883221109241</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221109241?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Feng (Kevin) Jiang</dc:creator>
+      <dc:creator>Ken Hyland</dc:creator>
+      <prism:publicationName>Changes in Research Abstracts: Past Tense, Third Person, Passive, and Negatives</prism:publicationName>
+      <prism:volume>40</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>210</prism:startingPage>
+      <prism:endingPage>237</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/07410883221128876</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221128876?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2022 SAGE Publications</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221114085?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Traversing Academic Contexts: An Egyptian Writer’s Literacy Learning Trajectory From Public School to Transnational University</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221114085?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;This article follows the academic literacy learning trajectory of Farah, an undergraduate anthropology major at the American University in Cairo. In charting her path from the Egyptian public schooling system to a Western-based transnational university, this study offers a perspective in which a writer created and navigated a challenging trajectory and adapted Western-based literacies to aid in the development of an academic and professional agenda based in personal and national interests. This article draws on frameworks in composition studies and transnational literacy studies to suggest that theorizing such trajectories may require new concepts that can account for literacy learning trajectories for writers like Farah.</content:encoded>
-      <description>Written Communication, Ahead of Print. &lt;br/&gt;This article follows the academic literacy learning trajectory of Farah, an undergraduate anthropology major at the American University in Cairo. In charting her path from the Egyptian public schooling system to a Western-based transnational university, this study offers a perspective in which a writer created and navigated a challenging trajectory and adapted Western-based literacies to aid in the development of an academic and professional agenda based in personal and national interests. This article draws on frameworks in composition studies and transnational literacy studies to suggest that theorizing such trajectories may require new concepts that can account for literacy learning trajectories for writers like Farah.</description>
-      <dc:title>Traversing Academic Contexts: An Egyptian Writer’s Literacy Learning Trajectory From Public School to Transnational University</dc:title>
-      <dc:identifier>10.1177/07410883221114085</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221129605?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>A Systematic Review on Inquiry-Based Writing Instruction in Tertiary Settings</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221129605?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, &lt;a href="https://journals.sagepub.com/toc/wcxa/40/1"&gt;Volume 40, Issue 1&lt;/a&gt;, Page 238-281, January 2023. &lt;br/&gt;In science disciplines, students need sufficient and well-designed support to successfully gain writing competence along the different stages of their writing development. This study examines effective inquiry-based writing pedagogies and the contextualization of scientific writing instruction for supporting student writers in the scientific community. The researchers first systematically reviewed effective pedagogical practices that can help students gain writing competence through inquiry-based learning, then explicated how scientific writing is situated in inquiry-based writing instruction (IBWI) with respect to text structures using a genre-based approach. A systematic review of 40 empirical studies published between 2000 and 2021 was conducted. The researchers examined the pedagogies, methods, and models that effectively support IBWI and identified some emerging trends that aim to raise undergraduates’ scientific writing communicative competence. Implications for how scientific writing should be situated in IBWI were provided to help disciplinary faculty respond more precisely to science students’ writing needs in tertiary settings.</content:encoded>
+      <description>Written Communication, Volume 40, Issue 1, Page 238-281, January 2023. &lt;br/&gt;In science disciplines, students need sufficient and well-designed support to successfully gain writing competence along the different stages of their writing development. This study examines effective inquiry-based writing pedagogies and the contextualization of scientific writing instruction for supporting student writers in the scientific community. The researchers first systematically reviewed effective pedagogical practices that can help students gain writing competence through inquiry-based learning, then explicated how scientific writing is situated in inquiry-based writing instruction (IBWI) with respect to text structures using a genre-based approach. A systematic review of 40 empirical studies published between 2000 and 2021 was conducted. The researchers examined the pedagogies, methods, and models that effectively support IBWI and identified some emerging trends that aim to raise undergraduates’ scientific writing communicative competence. Implications for how scientific writing should be situated in IBWI were provided to help disciplinary faculty respond more precisely to science students’ writing needs in tertiary settings.</description>
+      <dc:title>A Systematic Review on Inquiry-Based Writing Instruction in Tertiary Settings</dc:title>
+      <dc:identifier>10.1177/07410883221129605</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-08-06T05:48:27Z</dc:date>
+      <dc:date>2022-11-30T10:50:04Z</dc:date>
       <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>James P. Austin</dc:creator>
-      <prism:publicationName>Traversing Academic Contexts: An Egyptian Writer’s Literacy Learning Trajectory From Public School to Transnational University</prism:publicationName>
-      <prism:doi>10.1177/07410883221114085</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221114085?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Vivien Lin</dc:creator>
+      <dc:creator>Neil E. Barrett</dc:creator>
+      <dc:creator>Gi-Zen Liu</dc:creator>
+      <dc:creator>Howard Hao-Jan Chen</dc:creator>
+      <prism:publicationName>A Systematic Review on Inquiry-Based Writing Instruction in Tertiary Settings</prism:publicationName>
+      <prism:volume>40</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>238</prism:startingPage>
+      <prism:endingPage>281</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/07410883221129605</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221129605?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2022 SAGE Publications</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221108162?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Digital Documenting Practices: Collaborative Writing in Workplace Training</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221108162?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;The present article examines collaborative writing in organizational consulting and training, where writing takes place as part of a group discussion assignment and is carried out by using digital writing technologies. In the training, the groups use digital tablets as their writing device in order to document their answers in the shared digital platform. Using multimodal conversation analysis as a method, the article illustrates the way writing is interactionally accomplished in this setting where digital writing intertwines with face-to-face interaction as the groups jointly formulate a documentable written entry for specific institutional purposes. The results show how writing is managed in situated ways and organized by three specific aspects: access, publicity, and broader organizational practice. The article advances prior understanding of the embodied nature of writing and writing with technologies by demonstrating how the body and the material and social nature of writing technologies intertwine within situated social interaction.</content:encoded>
-      <description>Written Communication, Ahead of Print. &lt;br/&gt;The present article examines collaborative writing in organizational consulting and training, where writing takes place as part of a group discussion assignment and is carried out by using digital writing technologies. In the training, the groups use digital tablets as their writing device in order to document their answers in the shared digital platform. Using multimodal conversation analysis as a method, the article illustrates the way writing is interactionally accomplished in this setting where digital writing intertwines with face-to-face interaction as the groups jointly formulate a documentable written entry for specific institutional purposes. The results show how writing is managed in situated ways and organized by three specific aspects: access, publicity, and broader organizational practice. The article advances prior understanding of the embodied nature of writing and writing with technologies by demonstrating how the body and the material and social nature of writing technologies intertwine within situated social interaction.</description>
-      <dc:title>Digital Documenting Practices: Collaborative Writing in Workplace Training</dc:title>
-      <dc:identifier>10.1177/07410883221108162</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221149425?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Prompting Reflection: Using Corpus Linguistic Methods in the Local Assessment of Reflective Writing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221149425?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;We report on a college-level study of student reflection and instructor prompts using scoring and corpus analysis methods. We collected 340 student reflections and 24 faculty prompts. Reflections were scored using trait and holistic scoring and then reflections and faculty prompts were analyzed using Natural Language Processing to identify linguistic features of high, middle, and low scoring reflections. The data sets were then connected to determine if there was a relationship between faculty prompts and scores. Additional analysis was completed to determine if there was a relationship between scores and students’ GPAs. The corpus linguistics analysis showed that higher-scoring reflections used words that referred to the self, the writing process, and specific rhetorical terms. Additional analysis showed student GPAs did not correlate with holistic scores but that higher scoring reflections were from faculty who included learning goals on reflective writing prompts. Results suggest that teachers can de-mystify reflective writing by linking learning outcomes to textual tasks and that corpus linguistics methods can provide an understanding of how local learning goals are transmitted to students.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;We report on a college-level study of student reflection and instructor prompts using scoring and corpus analysis methods. We collected 340 student reflections and 24 faculty prompts. Reflections were scored using trait and holistic scoring and then reflections and faculty prompts were analyzed using Natural Language Processing to identify linguistic features of high, middle, and low scoring reflections. The data sets were then connected to determine if there was a relationship between faculty prompts and scores. Additional analysis was completed to determine if there was a relationship between scores and students’ GPAs. The corpus linguistics analysis showed that higher-scoring reflections used words that referred to the self, the writing process, and specific rhetorical terms. Additional analysis showed student GPAs did not correlate with holistic scores but that higher scoring reflections were from faculty who included learning goals on reflective writing prompts. Results suggest that teachers can de-mystify reflective writing by linking learning outcomes to textual tasks and that corpus linguistics methods can provide an understanding of how local learning goals are transmitted to students.</description>
+      <dc:title>Prompting Reflection: Using Corpus Linguistic Methods in the Local Assessment of Reflective Writing</dc:title>
+      <dc:identifier>10.1177/07410883221149425</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-07-28T10:13:15Z</dc:date>
-      <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>Riikka Nissi</dc:creator>
-      <dc:creator>Esa Lehtinen</dc:creator>
-      <prism:publicationName>Digital Documenting Practices: Collaborative Writing in Workplace Training</prism:publicationName>
-      <prism:doi>10.1177/07410883221108162</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221108162?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© 2022 SAGE Publications</prism:copyright>
+      <dc:date>2023-03-09T12:20:38Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Cara Marta Messina</dc:creator>
+      <dc:creator>Cherice Escobar Jones</dc:creator>
+      <dc:creator>Mya Poe</dc:creator>
+      <prism:publicationName>Prompting Reflection: Using Corpus Linguistic Methods in the Local Assessment of Reflective Writing</prism:publicationName>
+      <prism:doi>10.1177/07410883221149425</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221149425?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221107934?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>One Fourth-Grader’s Orchestration of Modes Through Comic Composition</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221107934?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Language-oriented literacy standards offer mostly linguistic accounts of text complexity. In response, the present article demonstrates that multimodal and visual narratives offer additional ways to understand and discuss text complexity. This descriptive analysis of one fourth-grader’s comic provides an account of the multimodal patterns and orchestration noted across the pages of the comic. Data sources included the published comic, as well as a multimodal artifact elicitation interview conducted with Sabrina, a fourth-grade student. The authors show how Sabrina constructed a complex multimodal text by drawing not only from her knowledge of image and written language but also from her experiences with spoken language, touch, facial expressions, and gesture. These findings suggest that it would be beneficial for teachers and researchers to continue to create curricular space for multimodal composing opportunities and that stakeholders in language arts and communication education might deepen collaborations to develop instructional frameworks that support students as they compose using modes beyond language across the grade levels.</content:encoded>
-      <description>Written Communication, Ahead of Print. &lt;br/&gt;Language-oriented literacy standards offer mostly linguistic accounts of text complexity. In response, the present article demonstrates that multimodal and visual narratives offer additional ways to understand and discuss text complexity. This descriptive analysis of one fourth-grader’s comic provides an account of the multimodal patterns and orchestration noted across the pages of the comic. Data sources included the published comic, as well as a multimodal artifact elicitation interview conducted with Sabrina, a fourth-grade student. The authors show how Sabrina constructed a complex multimodal text by drawing not only from her knowledge of image and written language but also from her experiences with spoken language, touch, facial expressions, and gesture. These findings suggest that it would be beneficial for teachers and researchers to continue to create curricular space for multimodal composing opportunities and that stakeholders in language arts and communication education might deepen collaborations to develop instructional frameworks that support students as they compose using modes beyond language across the grade levels.</description>
-      <dc:title>One Fourth-Grader’s Orchestration of Modes Through Comic Composition</dc:title>
-      <dc:identifier>10.1177/07410883221107934</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221150937?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Editor’s Note</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221150937?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Editor’s Note</dc:title>
+      <dc:identifier>10.1177/07410883221150937</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-07-22T11:08:42Z</dc:date>
-      <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>Stephanie F. Reid</dc:creator>
-      <dc:creator>Lindsey Moses</dc:creator>
-      <prism:publicationName>One Fourth-Grader’s Orchestration of Modes Through Comic Composition</prism:publicationName>
-      <prism:doi>10.1177/07410883221107934</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221107934?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© 2022 SAGE Publications</prism:copyright>
+      <dc:date>2023-03-04T12:38:37Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Chad Wickman</dc:creator>
+      <prism:publicationName>Editor’s Note</prism:publicationName>
+      <prism:doi>10.1177/07410883221150937</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221150937?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221107884?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Variation in Linguistic Stance: A Person-Centered Analysis of Student Writing</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221107884?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;The present study offers an alternative methodological approach to the growing body of literature on stance—the linguistic arrangements that construe a writer’s perspective on knowledge. A number of recent studies have concluded that control over linguistic stance tends to develop through college and that preferred markers of stance differ by discipline. We know relatively little, however, about how those patterns differ within and between individuals. This study uses a person-centered method, multilevel latent profile analysis, to determine how secondary students in the United States use typical markers of stance in their writing, and to what extent that use varies across texts. The analysis focuses on 338 informal responses produced by 27 rising high school seniors during a college access program. Findings point to wide variation in how students at this level use linguistic markers in their writing, and to the role of the larger instructional context in shaping stance in the informal response genre.</content:encoded>
-      <description>Written Communication, Ahead of Print. &lt;br/&gt;The present study offers an alternative methodological approach to the growing body of literature on stance—the linguistic arrangements that construe a writer’s perspective on knowledge. A number of recent studies have concluded that control over linguistic stance tends to develop through college and that preferred markers of stance differ by discipline. We know relatively little, however, about how those patterns differ within and between individuals. This study uses a person-centered method, multilevel latent profile analysis, to determine how secondary students in the United States use typical markers of stance in their writing, and to what extent that use varies across texts. The analysis focuses on 338 informal responses produced by 27 rising high school seniors during a college access program. Findings point to wide variation in how students at this level use linguistic markers in their writing, and to the role of the larger instructional context in shaping stance in the informal response genre.</description>
-      <dc:title>Variation in Linguistic Stance: A Person-Centered Analysis of Student Writing</dc:title>
-      <dc:identifier>10.1177/07410883221107884</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221149093?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Addressing an Unfulfilled Expectation: Teaching Students With Disabilities to Write Scientific Arguments</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221149093?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Students with disabilities (SWD) in general education science classes are expected to engage in the scientific practices and potentially in the writing of arguments drawn from evidence. Currently, however, there are few research-based instructional approaches for teaching argument writing for these students. The present article responds to this need through the application of an instructional model that promises to improve the ability of SWDs to write scientific arguments. We approach this work in multiple ways. First, we clarify our target group, students with high incidence disabilities (learning disability, ADHD, and students with speech and language impairments), and discuss common cognitive challenges they experience. We then explore the role of argumentation in science, review research on both experts’ (scientists’) and novices’ (students’) argument writing and highlight successful cognitive strategies for teaching argument writing with neurotypical learners. We further discuss SWDs’ general writing challenges and how researchers have improved their abilities to comprehend and evaluate scientific information and improve their domain-general writing. Cognitive apprenticeships appear advantageous for teaching SWDs science content and how to write scientific arguments, as this form of instruction begins with problem solving tasks that connect literacy (e.g., reading, writing, argumentation discourse) with epistemic reasoning in a given domain. We illustrate the potential of such apprenticeships by analyzing the conceptual quality of arguments written by three SWDs who participated in a larger quantitative study in which they and others showed improvement in the structure of their arguments. We end with suggestions for further research to expand the use of cognitive apprenticeships.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Students with disabilities (SWD) in general education science classes are expected to engage in the scientific practices and potentially in the writing of arguments drawn from evidence. Currently, however, there are few research-based instructional approaches for teaching argument writing for these students. The present article responds to this need through the application of an instructional model that promises to improve the ability of SWDs to write scientific arguments. We approach this work in multiple ways. First, we clarify our target group, students with high incidence disabilities (learning disability, ADHD, and students with speech and language impairments), and discuss common cognitive challenges they experience. We then explore the role of argumentation in science, review research on both experts’ (scientists’) and novices’ (students’) argument writing and highlight successful cognitive strategies for teaching argument writing with neurotypical learners. We further discuss SWDs’ general writing challenges and how researchers have improved their abilities to comprehend and evaluate scientific information and improve their domain-general writing. Cognitive apprenticeships appear advantageous for teaching SWDs science content and how to write scientific arguments, as this form of instruction begins with problem solving tasks that connect literacy (e.g., reading, writing, argumentation discourse) with epistemic reasoning in a given domain. We illustrate the potential of such apprenticeships by analyzing the conceptual quality of arguments written by three SWDs who participated in a larger quantitative study in which they and others showed improvement in the structure of their arguments. We end with suggestions for further research to expand the use of cognitive apprenticeships.</description>
+      <dc:title>Addressing an Unfulfilled Expectation: Teaching Students With Disabilities to Write Scientific Arguments</dc:title>
+      <dc:identifier>10.1177/07410883221149093</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-07-21T12:34:55Z</dc:date>
-      <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>Kristin E. Black</dc:creator>
-      <prism:publicationName>Variation in Linguistic Stance: A Person-Centered Analysis of Student Writing</prism:publicationName>
-      <prism:doi>10.1177/07410883221107884</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221107884?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© 2022 SAGE Publications</prism:copyright>
+      <dc:date>2023-03-04T12:37:37Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Susan De La Paz</dc:creator>
+      <dc:creator>Daniel M. Levin</dc:creator>
+      <dc:creator>Cameron Butler</dc:creator>
+      <prism:publicationName>Addressing an Unfulfilled Expectation: Teaching Students With Disabilities to Write Scientific Arguments</prism:publicationName>
+      <prism:doi>10.1177/07410883221149093</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221149093?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221099474?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>How Does the Language Control of L1 and L2 Writers Develop Over Time in First-Year Composition?</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221099474?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Most U.S. colleges and universities expect students to improve their writing ability by taking first-year composition (FYC) courses. In such courses, non-native English (L2) writers with diverse language backgrounds study alongside their native English (L1) speaking peers. However, it is not clear how different these populations are in terms of their language development over time, leaving questions unanswered about whether L2 writers develop more or less than L1 writers in an FYC curriculum. To investigate, we compared 75 L1 and L2 students’ written accuracy, fluency, and lexical and syntactic complexity over the semester of an FYC course. Data showed that L2 students had significantly higher rates of language error and less fluent and lexically complex writing compared to L1 writers. Moreover, L2 student writing became less grammatically accurate over 14 weeks despite showing greater fluency and syntactic complexity. These results suggest a need for plurilingual pedagogies in FYC that embrace diversity and inclusion while also providing L2 writers with instruction on socially powerful and dominant linguistic forms.</content:encoded>
-      <description>Written Communication, Ahead of Print. &lt;br/&gt;Most U.S. colleges and universities expect students to improve their writing ability by taking first-year composition (FYC) courses. In such courses, non-native English (L2) writers with diverse language backgrounds study alongside their native English (L1) speaking peers. However, it is not clear how different these populations are in terms of their language development over time, leaving questions unanswered about whether L2 writers develop more or less than L1 writers in an FYC curriculum. To investigate, we compared 75 L1 and L2 students’ written accuracy, fluency, and lexical and syntactic complexity over the semester of an FYC course. Data showed that L2 students had significantly higher rates of language error and less fluent and lexically complex writing compared to L1 writers. Moreover, L2 student writing became less grammatically accurate over 14 weeks despite showing greater fluency and syntactic complexity. These results suggest a need for plurilingual pedagogies in FYC that embrace diversity and inclusion while also providing L2 writers with instruction on socially powerful and dominant linguistic forms.</description>
-      <dc:title>How Does the Language Control of L1 and L2 Writers Develop Over Time in First-Year Composition?</dc:title>
-      <dc:identifier>10.1177/07410883221099474</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221148724?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Examining the Impact of a Cognitive Strategies Approach on the Argument Writing of Mainstreamed English Learners in Secondary School</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221148724?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;The stagnation of National Assessment of Educational Progress (NAEP) Writing scores demonstrates the need for research-based instruction that improves writing for all students, especially English learners. In this article, we synthesize the literature on effective instructional practices for this diverse group of learners and describe how these strategies are leveraged in a teacher professional development program that has been previously shown to improve students’ argument writing. Then, we share results of a study that focuses on distinct subgroups of secondary English learners students to (a) determine their needs and challenges and (b) examine the impact of a cognitive strategies approach on rhetorical and linguistic aspects of writing at posttest. Results show English learners have considerable challenges with higher-order tasks involved in writing literary arguments and with the linguistic demands of academic writing before receiving the intervention. However, after receiving the intervention, using descriptive statistics and multiple hierarchical linear regression, we show that these students grew in the areas of presentation of ideas, organization, evidence use, and language use. For example, students designated as reclassified English learners (RFEP [Reclassified Fluent English Proficient]) and students who have even more limited English proficiency (designated as EL [English learner] here) show improvements in many aspects of writing, especially in their ability to write claims and use evidence. In contrast, improvements in language use components were more limited for both groups of learners. Moreover, some of the gains due to being in the treatment were significant enough to bring the average EL student close to parity or beyond their EO (English Only) / IFEP (Initial Fluent English Proficient) peers in the control condition at posttest. We conclude by discussing pedagogical implications for English learners.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;The stagnation of National Assessment of Educational Progress (NAEP) Writing scores demonstrates the need for research-based instruction that improves writing for all students, especially English learners. In this article, we synthesize the literature on effective instructional practices for this diverse group of learners and describe how these strategies are leveraged in a teacher professional development program that has been previously shown to improve students’ argument writing. Then, we share results of a study that focuses on distinct subgroups of secondary English learners students to (a) determine their needs and challenges and (b) examine the impact of a cognitive strategies approach on rhetorical and linguistic aspects of writing at posttest. Results show English learners have considerable challenges with higher-order tasks involved in writing literary arguments and with the linguistic demands of academic writing before receiving the intervention. However, after receiving the intervention, using descriptive statistics and multiple hierarchical linear regression, we show that these students grew in the areas of presentation of ideas, organization, evidence use, and language use. For example, students designated as reclassified English learners (RFEP [Reclassified Fluent English Proficient]) and students who have even more limited English proficiency (designated as EL [English learner] here) show improvements in many aspects of writing, especially in their ability to write claims and use evidence. In contrast, improvements in language use components were more limited for both groups of learners. Moreover, some of the gains due to being in the treatment were significant enough to bring the average EL student close to parity or beyond their EO (English Only) / IFEP (Initial Fluent English Proficient) peers in the control condition at posttest. We conclude by discussing pedagogical implications for English learners.</description>
+      <dc:title>Examining the Impact of a Cognitive Strategies Approach on the Argument Writing of Mainstreamed English Learners in Secondary School</dc:title>
+      <dc:identifier>10.1177/07410883221148724</dc:identifier>
       <dc:source>Written Communication</dc:source>
-      <dc:date>2022-07-11T12:09:07Z</dc:date>
+      <dc:date>2023-03-04T12:35:57Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Carol Booth Olson</dc:creator>
+      <dc:creator>Undraa Maamuujav</dc:creator>
+      <dc:creator>Jacob Steiss</dc:creator>
+      <dc:creator>Huy Chung</dc:creator>
+      <prism:publicationName>Examining the Impact of a Cognitive Strategies Approach on the Argument Writing of Mainstreamed English Learners in Secondary School</prism:publicationName>
+      <prism:doi>10.1177/07410883221148724</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221148724?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221148664?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Beyond Structure: Using the Rational Force Model to Assess Argumentative Writing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221148664?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Current approaches used in educational research and practice to evaluate the quality of written arguments often rely on structural analysis. In such assessments, credit is awarded for the presence of structural elements of an argument, such as claims, evidence, and rebuttals. In this article, we discuss limitations of such approaches, including the absence of criteria for evaluating the quality of the argument elements. We then present an alternative framework, based on the Rational Force Model (RFM), which originated from the work of a Nordic philosopher Næss. Using an example of an argumentative essay, we demonstrate the potential of the RFM to improve argument analysis by focusing on the acceptability and relevance of argument elements, two criteria widely considered to be fundamental markers of argument strength. We outline possibilities and challenges with using the RFM in educational contexts and conclude by proposing directions for future research.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Current approaches used in educational research and practice to evaluate the quality of written arguments often rely on structural analysis. In such assessments, credit is awarded for the presence of structural elements of an argument, such as claims, evidence, and rebuttals. In this article, we discuss limitations of such approaches, including the absence of criteria for evaluating the quality of the argument elements. We then present an alternative framework, based on the Rational Force Model (RFM), which originated from the work of a Nordic philosopher Næss. Using an example of an argumentative essay, we demonstrate the potential of the RFM to improve argument analysis by focusing on the acceptability and relevance of argument elements, two criteria widely considered to be fundamental markers of argument strength. We outline possibilities and challenges with using the RFM in educational contexts and conclude by proposing directions for future research.</description>
+      <dc:title>Beyond Structure: Using the Rational Force Model to Assess Argumentative Writing</dc:title>
+      <dc:identifier>10.1177/07410883221148664</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2023-03-04T12:33:48Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Ylva Backman</dc:creator>
+      <dc:creator>Alina Reznitskaya</dc:creator>
+      <dc:creator>Viktor Gardelli</dc:creator>
+      <dc:creator>Ian A. G. Wilkinson</dc:creator>
+      <prism:publicationName>Beyond Structure: Using the Rational Force Model to Assess Argumentative Writing</prism:publicationName>
+      <prism:doi>10.1177/07410883221148664</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221148664?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221148468?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Confronting the Challenges of Undergraduates’ Argumentation Writing in a “Learning How to Learn” Course</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221148468?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;In this article, we share what we learned about undergraduates’ struggles in writing quality summaries, comparison texts, and argumentative essays that were components of a unique course, Learning How to Learn. This course was designed to address core psychological issues that impede optimal learning for students from all majors, many of whom are preparing to attend professional or graduate school. Although never intended to be a course devoted to academic writing, the struggles we uncovered made it apparent that without addressing these students’ writing difficulties, especially with argumentation, optimal learning was not achievable. For each form of writing central to the course (i.e., summaries, comparisons, and argumentation), we not only describe the challenges we have documented over the past six years, but also the instructional responses we instituted to counter those challenges. We conclude by sharing insights we have garnered from this experience that may serve others who are confronting similar issues in their students’ writing abilities.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;In this article, we share what we learned about undergraduates’ struggles in writing quality summaries, comparison texts, and argumentative essays that were components of a unique course, Learning How to Learn. This course was designed to address core psychological issues that impede optimal learning for students from all majors, many of whom are preparing to attend professional or graduate school. Although never intended to be a course devoted to academic writing, the struggles we uncovered made it apparent that without addressing these students’ writing difficulties, especially with argumentation, optimal learning was not achievable. For each form of writing central to the course (i.e., summaries, comparisons, and argumentation), we not only describe the challenges we have documented over the past six years, but also the instructional responses we instituted to counter those challenges. We conclude by sharing insights we have garnered from this experience that may serve others who are confronting similar issues in their students’ writing abilities.</description>
+      <dc:title>Confronting the Challenges of Undergraduates’ Argumentation Writing in a “Learning How to Learn” Course</dc:title>
+      <dc:identifier>10.1177/07410883221148468</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2023-03-01T12:08:20Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Patricia A. Alexander</dc:creator>
+      <dc:creator>Jannah Fusenig</dc:creator>
+      <dc:creator>Eric C. Schoute</dc:creator>
+      <dc:creator>Anisha Singh</dc:creator>
+      <dc:creator>Yuting Sun</dc:creator>
+      <dc:creator>Julianne E. van Meerten</dc:creator>
+      <prism:publicationName>Confronting the Challenges of Undergraduates’ Argumentation Writing in a “Learning How to Learn” Course</prism:publicationName>
+      <prism:doi>10.1177/07410883221148468</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221148468?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221146484?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“The World Has to Stop Discriminating Against African American Language” (AAL): Exploring the Language Ideologies of AAL-Speaking Students in College Writing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221146484?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Drawing on recent decades literature in college writing that theorizes the importance of Critical Language Awareness (CLA) curricula for African American Language (AAL)-speaking students, this article offers empirical evidence on the design and implementation of a college writing curriculum centered on CLA and its influence on African American Language (AAL)–speaking students’ language ideologies with respect to both speech and writing. Qualitative analyses of students’ pre- and-post-Questionnaires and the researcher’s field notes demonstrate that the curriculum helped students view AAL as an independent, natural, and legitimate language and view themselves as critically conscious thinkers and writers—more likely and willing to develop their academic writing skills and the strategies that support employing their native language in writing—for example, code-meshing strategies. This study offers important implications for college writing instruction.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Drawing on recent decades literature in college writing that theorizes the importance of Critical Language Awareness (CLA) curricula for African American Language (AAL)-speaking students, this article offers empirical evidence on the design and implementation of a college writing curriculum centered on CLA and its influence on African American Language (AAL)–speaking students’ language ideologies with respect to both speech and writing. Qualitative analyses of students’ pre- and-post-Questionnaires and the researcher’s field notes demonstrate that the curriculum helped students view AAL as an independent, natural, and legitimate language and view themselves as critically conscious thinkers and writers—more likely and willing to develop their academic writing skills and the strategies that support employing their native language in writing—for example, code-meshing strategies. This study offers important implications for college writing instruction.</description>
+      <dc:title>“The World Has to Stop Discriminating Against African American Language” (AAL): Exploring the Language Ideologies of AAL-Speaking Students in College Writing</dc:title>
+      <dc:identifier>10.1177/07410883221146484</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2023-02-27T11:27:22Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Shenika Hankerson</dc:creator>
+      <prism:publicationName>“The World Has to Stop Discriminating Against African American Language” (AAL): Exploring the Language Ideologies of AAL-Speaking Students in College Writing</prism:publicationName>
+      <prism:doi>10.1177/07410883221146484</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221146484?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221148676?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>When the Truth Doesn’t Seem to Matter: The Affordances of Disciplinary Argument in the Era of Post-truth</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221148676?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;A disquieting aspect of some contemporary public discourse is its seeming indifference to or abandonment of any pretense to truth. Among other things, unsubstantiated and misleading claims have been made about the efficacy of vaccines and other purported treatments for SARS-COVID, the 2020 U.S. presidential election, and the January 6, 2021, insurrection on the U.S. Capitol. In addition, a spate of legislation restricting classroom discussion and instruction related to race, bias, privilege, and discrimination has been or is pending passage in U.S. state legislatures. These restrictions are antithetical to core functions of education, which are to inculcate the values, virtues, and advanced literacy skills that support democratic deliberation about controversial issues. This article discusses the increasing political polarization and partisan attacks on the processes of education and the threats to liberal democracy posed by this disregard for the truth. In addition, it reviews the cultural and psychological factors that increase our susceptibility to misinformation and presents a perspective about the pursuit of truth that highlights the educational affordances of disciplinary inquiry, democratic deliberation, and reasonable argumentation. The contemporary challenges are manifestations of long-standing political and cultural divisions, and their mitigation will depend on developing communities of informed citizens that are committed to the values and virtues that are foundational to liberal democracy.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;A disquieting aspect of some contemporary public discourse is its seeming indifference to or abandonment of any pretense to truth. Among other things, unsubstantiated and misleading claims have been made about the efficacy of vaccines and other purported treatments for SARS-COVID, the 2020 U.S. presidential election, and the January 6, 2021, insurrection on the U.S. Capitol. In addition, a spate of legislation restricting classroom discussion and instruction related to race, bias, privilege, and discrimination has been or is pending passage in U.S. state legislatures. These restrictions are antithetical to core functions of education, which are to inculcate the values, virtues, and advanced literacy skills that support democratic deliberation about controversial issues. This article discusses the increasing political polarization and partisan attacks on the processes of education and the threats to liberal democracy posed by this disregard for the truth. In addition, it reviews the cultural and psychological factors that increase our susceptibility to misinformation and presents a perspective about the pursuit of truth that highlights the educational affordances of disciplinary inquiry, democratic deliberation, and reasonable argumentation. The contemporary challenges are manifestations of long-standing political and cultural divisions, and their mitigation will depend on developing communities of informed citizens that are committed to the values and virtues that are foundational to liberal democracy.</description>
+      <dc:title>When the Truth Doesn’t Seem to Matter: The Affordances of Disciplinary Argument in the Era of Post-truth</dc:title>
+      <dc:identifier>10.1177/07410883221148676</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2023-02-18T07:17:40Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Ralph P. Ferretti</dc:creator>
+      <prism:publicationName>When the Truth Doesn’t Seem to Matter: The Affordances of Disciplinary Argument in the Era of Post-truth</prism:publicationName>
+      <prism:doi>10.1177/07410883221148676</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221148676?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221147523?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Source-Based L1 Student Writing Development: Analyzing the Relationships Among Functional Dimensions of Source Use and the Quality of Source Use</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221147523?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Source-based writing is a complex and frequently occurring task type in postsecondary education. While a large body of research now exists investigating source-based student writing, few studies have used corpus-based methods to investigate L1 student performance on source-based writing tasks and to connect this performance to the holistic quality of source use. The current study investigates the relationship among functional dimensions of source use, operationalized for each text (N = 150) as factor scores from a previously conducted multidimensional analysis, and the quality of source use through a simultaneous multiple regression. Then, using the two functional dimensions that emerged as significant predictors of the holistic quality of source use, a qualitative analysis was conducted to investigate how the most strongly loading variables on those two functional dimensions may be contributing to the effectiveness of source use. Implications are discussed as they relate to the development of source-based L1 student writing.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Source-based writing is a complex and frequently occurring task type in postsecondary education. While a large body of research now exists investigating source-based student writing, few studies have used corpus-based methods to investigate L1 student performance on source-based writing tasks and to connect this performance to the holistic quality of source use. The current study investigates the relationship among functional dimensions of source use, operationalized for each text (N = 150) as factor scores from a previously conducted multidimensional analysis, and the quality of source use through a simultaneous multiple regression. Then, using the two functional dimensions that emerged as significant predictors of the holistic quality of source use, a qualitative analysis was conducted to investigate how the most strongly loading variables on those two functional dimensions may be contributing to the effectiveness of source use. Implications are discussed as they relate to the development of source-based L1 student writing.</description>
+      <dc:title>Source-Based L1 Student Writing Development: Analyzing the Relationships Among Functional Dimensions of Source Use and the Quality of Source Use</dc:title>
+      <dc:identifier>10.1177/07410883221147523</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2023-02-15T09:26:51Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Stephen M. Doolan</dc:creator>
+      <prism:publicationName>Source-Based L1 Student Writing Development: Analyzing the Relationships Among Functional Dimensions of Source Use and the Quality of Source Use</prism:publicationName>
+      <prism:doi>10.1177/07410883221147523</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221147523?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221148679?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Historical Argumentation: Watching Historians and Teaching Youth</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221148679?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;In this article, we explore the uniqueness of argumentation within the field of history, considering whether historians’ processes in crafting an interpretive argument from inexact evidence might provide insights into processes vital for informed civic engagement and civil dialogue in democratic societies. We discuss the role of argumentation in history, taking both historian (expert) and student (novice) perspectives by considering what historical writing is and how it is produced, taught, and learned. Unlike other research on argumentative historical processes, we examine the role of dispositions that complement skills and enrich collaborations as historians grapple with historical problems together. We examine the role that dispositions and historical thinking skills play as students discuss evidence, plan for argumentative writing, and evaluate their peers’ ideas. We propose that the dispositions and skills involved in historians’ reading, writing, and thinking parallel the critical thinking needed for deliberative and collaborative reasoning about complex social issues. Finally, we explore how instruction and experience with deliberative collaboration within historical problem spaces may prepare students for meaningful civic engagement. We call for increased research on these potential connections.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;In this article, we explore the uniqueness of argumentation within the field of history, considering whether historians’ processes in crafting an interpretive argument from inexact evidence might provide insights into processes vital for informed civic engagement and civil dialogue in democratic societies. We discuss the role of argumentation in history, taking both historian (expert) and student (novice) perspectives by considering what historical writing is and how it is produced, taught, and learned. Unlike other research on argumentative historical processes, we examine the role of dispositions that complement skills and enrich collaborations as historians grapple with historical problems together. We examine the role that dispositions and historical thinking skills play as students discuss evidence, plan for argumentative writing, and evaluate their peers’ ideas. We propose that the dispositions and skills involved in historians’ reading, writing, and thinking parallel the critical thinking needed for deliberative and collaborative reasoning about complex social issues. Finally, we explore how instruction and experience with deliberative collaboration within historical problem spaces may prepare students for meaningful civic engagement. We call for increased research on these potential connections.</description>
+      <dc:title>Historical Argumentation: Watching Historians and Teaching Youth</dc:title>
+      <dc:identifier>10.1177/07410883221148679</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2023-02-08T09:17:08Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Jeffery D. Nokes</dc:creator>
+      <dc:creator>Susan De La Paz</dc:creator>
+      <prism:publicationName>Historical Argumentation: Watching Historians and Teaching Youth</prism:publicationName>
+      <prism:doi>10.1177/07410883221148679</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221148679?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221148680?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Conceptualizing Dialogic Literary Argumentation: Inviting Students to Take a Turn in Important Conversations</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221148680?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Although authors often create literary texts in order to comment on issues of personhood and human relationships, reading and writing about literary texts in schools is often focused on close analysis of literary elements or exploration of one’s own experience with the text. Thus, students’ written arguments about literature typically do little work in the world toward understanding the human condition. In response, we argue for a theoretical and instructional framework of reading and writing about literature called Dialogic Literary Argumentation. Dialogic literary argumentation asks students and teachers to engage in reading, dialogue, and argumentative writing about how they and others make meaning out of literary texts, what the meaning says about what it means to be human together, and how we might act in and on the worlds in which we live. In this article, we explicate the various elements of this theoretical framework that situates the student’s literary argument within their own cognitive processes, social interactions in classroom events, and broader sociocultural contexts. Students’ composed arguments draw on multiple texts (the literary text, others in and beyond the classroom, their own experiences, the literary discipline, and the world), which are mediated by various classroom dialogues, scaffolds, and supports.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Although authors often create literary texts in order to comment on issues of personhood and human relationships, reading and writing about literary texts in schools is often focused on close analysis of literary elements or exploration of one’s own experience with the text. Thus, students’ written arguments about literature typically do little work in the world toward understanding the human condition. In response, we argue for a theoretical and instructional framework of reading and writing about literature called Dialogic Literary Argumentation. Dialogic literary argumentation asks students and teachers to engage in reading, dialogue, and argumentative writing about how they and others make meaning out of literary texts, what the meaning says about what it means to be human together, and how we might act in and on the worlds in which we live. In this article, we explicate the various elements of this theoretical framework that situates the student’s literary argument within their own cognitive processes, social interactions in classroom events, and broader sociocultural contexts. Students’ composed arguments draw on multiple texts (the literary text, others in and beyond the classroom, their own experiences, the literary discipline, and the world), which are mediated by various classroom dialogues, scaffolds, and supports.</description>
+      <dc:title>Conceptualizing Dialogic Literary Argumentation: Inviting Students to Take a Turn in Important Conversations</dc:title>
+      <dc:identifier>10.1177/07410883221148680</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2023-02-02T12:48:07Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Jennifer VanDerHeide</dc:creator>
+      <dc:creator>George E. Newell</dc:creator>
+      <dc:creator>Allison Wynhoff Olsen</dc:creator>
+      <prism:publicationName>Conceptualizing Dialogic Literary Argumentation: Inviting Students to Take a Turn in Important Conversations</prism:publicationName>
+      <prism:doi>10.1177/07410883221148680</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221148680?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221149649?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Editor’s Note</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221149649?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Editor’s Note</dc:title>
+      <dc:identifier>10.1177/07410883221149649</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2023-01-30T10:17:47Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <prism:publicationName>Editor’s Note</prism:publicationName>
+      <prism:doi>10.1177/07410883221149649</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221149649?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221146776?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Lecturer, Language Tutor, and Student Perspectives on the Ethics of the Proofreading of Student Writing</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221146776?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Various forms of proofreading of student writing take place in university contexts. Sometimes writers pay freelance proofreaders to edit their texts before submission for assessment; sometimes more informal arrangements take place, where friends, family, or coursemates proofread. Such arrangements raise ethical questions for universities formulating proofreading policies: in the interests of fairness, should proofreading be debarred entirely or should it be permitted in some form? Using questionnaires and semistructured interviews, this article investigates where three university stakeholder groups stand on the ethics of proofreading. Content lecturers, English language tutors, and students shared their views on the ethics of various lighter-touch and heavier-touch proofreader interventions. All three parties broadly approved of more minor interventions, such as correcting punctuation, amending word grammar, and improving sentence structure. However, students were found to be more relaxed than lecturers and language tutors about the ethics of more substantial interventions at the level of content. There were outliers within each of the three groups whose views on proofreading were wide apart, underscoring the difficulty of formulating proofreading policies that would attract consensus across the academy. The article concludes by discussing the formulation and dissemination of appropriate, research-led proofreading guidelines and issues for further exploration.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Various forms of proofreading of student writing take place in university contexts. Sometimes writers pay freelance proofreaders to edit their texts before submission for assessment; sometimes more informal arrangements take place, where friends, family, or coursemates proofread. Such arrangements raise ethical questions for universities formulating proofreading policies: in the interests of fairness, should proofreading be debarred entirely or should it be permitted in some form? Using questionnaires and semistructured interviews, this article investigates where three university stakeholder groups stand on the ethics of proofreading. Content lecturers, English language tutors, and students shared their views on the ethics of various lighter-touch and heavier-touch proofreader interventions. All three parties broadly approved of more minor interventions, such as correcting punctuation, amending word grammar, and improving sentence structure. However, students were found to be more relaxed than lecturers and language tutors about the ethics of more substantial interventions at the level of content. There were outliers within each of the three groups whose views on proofreading were wide apart, underscoring the difficulty of formulating proofreading policies that would attract consensus across the academy. The article concludes by discussing the formulation and dissemination of appropriate, research-led proofreading guidelines and issues for further exploration.</description>
+      <dc:title>Lecturer, Language Tutor, and Student Perspectives on the Ethics of the Proofreading of Student Writing</dc:title>
+      <dc:identifier>10.1177/07410883221146776</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2023-01-30T10:16:08Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Nigel Harwood</dc:creator>
+      <prism:publicationName>Lecturer, Language Tutor, and Student Perspectives on the Ethics of the Proofreading of Student Writing</prism:publicationName>
+      <prism:doi>10.1177/07410883221146776</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221146776?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221146550?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Tracing the Influences of Praxis on the Development of an Open Corequisite Writing Textbook</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221146550?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;Although retrospective project reports are common in the materials development literature, accounts of textbook writing sessions are rare; so too are accounts of open textbook production. Open textbooks are learning resources that are free to use and oftentimes adapt by virtue of their copyright permissions. The authors used concurrent verbalization and interviews to document writing episodes while preparing their first book, an open textbook devised for corequisite technical writing courses. Corequisite designs pair content courses with explicit skill-building modules as a means to support underprepared learners in higher education in the United States. Qualitative content analysis of the data revealed how teaching and other praxis influenced the open textbook’s composition: in the authors’ applications of technical writing principles, pedagogical reasoning skills, and nonteaching work. The findings may encourage open textbook writers to exploit their established composing practices and knowledge bases to proceed with textbook production. In addition, the article highlights the usefulness of concurrent verbalization to textbook research and identifies the various materials development opportunities open textbook projects provide. It also contributes to the underresearched area of textbook production by exposing the complexities of open textbook development and how two novice authors negotiated them during writing episodes.</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;Although retrospective project reports are common in the materials development literature, accounts of textbook writing sessions are rare; so too are accounts of open textbook production. Open textbooks are learning resources that are free to use and oftentimes adapt by virtue of their copyright permissions. The authors used concurrent verbalization and interviews to document writing episodes while preparing their first book, an open textbook devised for corequisite technical writing courses. Corequisite designs pair content courses with explicit skill-building modules as a means to support underprepared learners in higher education in the United States. Qualitative content analysis of the data revealed how teaching and other praxis influenced the open textbook’s composition: in the authors’ applications of technical writing principles, pedagogical reasoning skills, and nonteaching work. The findings may encourage open textbook writers to exploit their established composing practices and knowledge bases to proceed with textbook production. In addition, the article highlights the usefulness of concurrent verbalization to textbook research and identifies the various materials development opportunities open textbook projects provide. It also contributes to the underresearched area of textbook production by exposing the complexities of open textbook development and how two novice authors negotiated them during writing episodes.</description>
+      <dc:title>Tracing the Influences of Praxis on the Development of an Open Corequisite Writing Textbook</dc:title>
+      <dc:identifier>10.1177/07410883221146550</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2023-01-27T04:52:17Z</dc:date>
+      <dc:rights>© 2023 SAGE Publications</dc:rights>
+      <dc:creator>Dawn Atkinson</dc:creator>
+      <dc:creator>Stacey Corbitt</dc:creator>
+      <prism:publicationName>Tracing the Influences of Praxis on the Development of an Open Corequisite Writing Textbook</prism:publicationName>
+      <prism:doi>10.1177/07410883221146550</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221146550?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© 2023 SAGE Publications</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/07410883221135952?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Erratum to Wreading on Online Literature Platforms</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/07410883221135952?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Written Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Written Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Erratum to Wreading on Online Literature Platforms</dc:title>
+      <dc:identifier>10.1177/07410883221135952</dc:identifier>
+      <dc:source>Written Communication</dc:source>
+      <dc:date>2022-11-24T09:36:12Z</dc:date>
       <dc:rights>© 2022 SAGE Publications</dc:rights>
-      <dc:creator>Grant Eckstein</dc:creator>
-      <dc:creator>Ruei-Han Chang</dc:creator>
-      <prism:publicationName>How Does the Language Control of L1 and L2 Writers Develop Over Time in First-Year Composition?</prism:publicationName>
-      <prism:doi>10.1177/07410883221099474</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221099474?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:publicationName>Erratum to Wreading on Online Literature Platforms</prism:publicationName>
+      <prism:doi>10.1177/07410883221135952</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/07410883221135952?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© 2022 SAGE Publications</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1660936167-->
+<!-- cached:  1678735166-->

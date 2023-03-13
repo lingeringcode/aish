@@ -3,24 +3,32 @@
          xmlns="http://purl.org/rss/1.0/"
          xmlns:cc="http://web.resource.org/cc/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
-         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
-         xmlns:dc="http://purl.org/dc/elements/1.1/">
-   <channel>
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel rdf:about="https://journals.sagepub.com/loi/jtwa?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>SAGE Publications Inc: Journal of Technical Writing and Communication: Table of Contents</title>
       <description>Table of Contents for Journal of Technical Writing and Communication. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://journals.sagepub.com/loi/jtwa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
       <dc:title>SAGE Publications Inc: Journal of Technical Writing and Communication: Table of Contents</dc:title>
       <dc:publisher>SAGE Publications Inc</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>Journal of Technical Writing and Communication</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211038548?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211041315?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211053303?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211072533?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221086523?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221112860?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221125289?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221125188?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221125184?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221125186?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221115141?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221124817?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221131509?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221135652?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231161062?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221148476?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221134535?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221125192?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221124605?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221118246?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221104497?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221088349?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221084270?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
@@ -29,152 +37,105 @@
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2022/jtwa_52_4/jtwa_52_4/20220815/jtwa_52_4.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2023/jtwa_53_2/jtwa_53_2/20230209-01/jtwa_53_2.cover.png">
       <title>Journal of Technical Writing and Communication</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2022/jtwa_52_4/jtwa_52_4/20220815/jtwa_52_4.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2023/jtwa_53_2/jtwa_53_2/20230209-01/jtwa_53_2.cover.png</url>
       <link>https://journals.sagepub.com/loi/jtwa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211038548?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>The Specialist in Athenian Written Rhetoric During the Classical Period: A Reconsideration of Technical Rhetoric and Rhetorical Iconography</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211038548?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 367-385, October 2022. &lt;br/&gt;This essay argues that technical rhetoric in ancient Athens is neither well nor fully understood in its present historical characterization but rather is best realized as occupying a position on a spectrum of literate skills ranging from an art to a craft. The dismissive views of technical writing advanced by Plato and Aristotle should be reconsidered and specialized literate practices be recognized as an important feature of rhetoric in Athens’ classical period. A review of discursive and material (archaeological) evidence reveals that technical writing was evolving into a craft-skill in Athens as early as the archaic period and, by the classical period, would be regarded as a respected “rhetorical” profession of artistic expression. This essay urges readers to reconsider the restrictive characterization of rhetoric advanced by some historians of rhetoric and include the specialist craft-skills of writing as a manifestation of technical rhetoric that both illustrates, and more accurately represents, the range of classical rhetoric in ancient Athens.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 367-385, October 2022. &lt;br/&gt;This essay argues that technical rhetoric in ancient Athens is neither well nor fully understood in its present historical characterization but rather is best realized as occupying a position on a spectrum of literate skills ranging from an art to a craft. The dismissive views of technical writing advanced by Plato and Aristotle should be reconsidered and specialized literate practices be recognized as an important feature of rhetoric in Athens’ classical period. A review of discursive and material (archaeological) evidence reveals that technical writing was evolving into a craft-skill in Athens as early as the archaic period and, by the classical period, would be regarded as a respected “rhetorical” profession of artistic expression. This essay urges readers to reconsider the restrictive characterization of rhetoric advanced by some historians of rhetoric and include the specialist craft-skills of writing as a manifestation of technical rhetoric that both illustrates, and more accurately represents, the range of classical rhetoric in ancient Athens.</description>
-      <dc:title>The Specialist in Athenian Written Rhetoric During the Classical Period: A Reconsideration of Technical Rhetoric and Rhetorical Iconography</dc:title>
-      <dc:identifier>10.1177/00472816211038548</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221125289?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Introduction to the Special Issue on Visual Communication and Visual Literacy (Part Two)</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221125289?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/53/2"&gt;Volume 53, Issue 2&lt;/a&gt;, Page 71-72, April 2023. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 53, Issue 2, Page 71-72, April 2023. &lt;br/&gt;</description>
+      <dc:title>Introduction to the Special Issue on Visual Communication and Visual Literacy (Part Two)</dc:title>
+      <dc:identifier>10.1177/00472816221125289</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2021-08-31T01:47:35Z</dc:date>
-      <dc:rights>© The Author(s) 2021</dc:rights>
-      <dc:creator>Richard Leo Enos</dc:creator>
-      <prism:publicationName>The Specialist in Athenian Written Rhetoric During the Classical Period: A Reconsideration of Technical Rhetoric and Rhetorical Iconography</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>367</prism:startingPage>
-      <prism:endingPage>385</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816211038548</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211038548?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2021</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211041315?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Remote TPC Internships: Infrastructures for Success</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211041315?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 386-410, October 2022. &lt;br/&gt;Though the remote internship is certainly not a new phenomenon, the COVID-19 pandemic has accelerated the growth of this model for undergraduate experiential learning. As we consider this shift, we must evaluate how to best assist students completing remote internships. In this article, we argue that infrastructure offers a useful framework for understanding students’ internship experience and corresponding professionalization. We present two case studies of student remote internship experiences, analyzing areas of challenge and success through the infrastructural areas of writing projects, communication, and logistics. We offer recommendations for faculty working with remote student interns to promote positive learning experiences.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 386-410, October 2022. &lt;br/&gt;Though the remote internship is certainly not a new phenomenon, the COVID-19 pandemic has accelerated the growth of this model for undergraduate experiential learning. As we consider this shift, we must evaluate how to best assist students completing remote internships. In this article, we argue that infrastructure offers a useful framework for understanding students’ internship experience and corresponding professionalization. We present two case studies of student remote internship experiences, analyzing areas of challenge and success through the infrastructural areas of writing projects, communication, and logistics. We offer recommendations for faculty working with remote student interns to promote positive learning experiences.</description>
-      <dc:title>Remote TPC Internships: Infrastructures for Success</dc:title>
-      <dc:identifier>10.1177/00472816211041315</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2021-10-04T01:20:19Z</dc:date>
-      <dc:rights>© The Author(s) 2021</dc:rights>
-      <dc:creator>Jennifer Bay</dc:creator>
-      <dc:creator>Gracemarie Mike Fillenwarth</dc:creator>
-      <dc:creator>Christine Masters-Wheeler</dc:creator>
-      <prism:publicationName>Remote TPC Internships: Infrastructures for Success</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>386</prism:startingPage>
-      <prism:endingPage>410</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816211041315</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211041315?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2021</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211053303?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Communicating an Outbreak: The Visual Genres of Zika Virus Reports</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211053303?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 411-427, October 2022. &lt;br/&gt;This article examines visuals used in the reporting of the 2015-2016 Zika virus outbreak in order to explore the use of different image forms and genres in communicating health information to distinct audiences. By tracing an informational report through several publication types, the use of different image forms and rhetorical genres are observed, as is the robustness and flexibility of these categorizations.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 411-427, October 2022. &lt;br/&gt;This article examines visuals used in the reporting of the 2015-2016 Zika virus outbreak in order to explore the use of different image forms and genres in communicating health information to distinct audiences. By tracing an informational report through several publication types, the use of different image forms and rhetorical genres are observed, as is the robustness and flexibility of these categorizations.</description>
-      <dc:title>Communicating an Outbreak: The Visual Genres of Zika Virus Reports</dc:title>
-      <dc:identifier>10.1177/00472816211053303</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-02-08T04:55:54Z</dc:date>
+      <dc:date>2022-10-05T03:16:40Z</dc:date>
       <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Shannon N. Fanning</dc:creator>
-      <prism:publicationName>Communicating an Outbreak: The Visual Genres of Zika Virus Reports</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>411</prism:startingPage>
-      <prism:endingPage>427</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816211053303</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211053303?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Lisa DeTora</dc:creator>
+      <dc:creator>Katrina Hinson</dc:creator>
+      <prism:publicationName>Introduction to the Special Issue on Visual Communication and Visual Literacy (Part Two)</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>71</prism:startingPage>
+      <prism:endingPage>72</prism:endingPage>
+      <prism:coverDate>2023-04-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-04-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816221125289</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221125289?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2022</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211072533?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Extending Design Thinking, Content Strategy, and Artificial Intelligence into Technical Communication and User Experience Design Programs: Further Pedagogical Implications</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211072533?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 428-459, October 2022. &lt;br/&gt;This article follows up on the conversation about new streams of approaches in technical communication and user experience (UX) design, i.e., design thinking, content strategy, and artificial intelligence (AI), which afford implications for professional practice. By extending such implications to technical communication pedagogy, we aim to demonstrate the importance of paying attention to these streams in our programmatic development and provide strategies for doing so.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 428-459, October 2022. &lt;br/&gt;This article follows up on the conversation about new streams of approaches in technical communication and user experience (UX) design, i.e., design thinking, content strategy, and artificial intelligence (AI), which afford implications for professional practice. By extending such implications to technical communication pedagogy, we aim to demonstrate the importance of paying attention to these streams in our programmatic development and provide strategies for doing so.</description>
-      <dc:title>Extending Design Thinking, Content Strategy, and Artificial Intelligence into Technical Communication and User Experience Design Programs: Further Pedagogical Implications</dc:title>
-      <dc:identifier>10.1177/00472816211072533</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221125188?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Visual Representation &amp; Visible Boundaries in Online Postpartum Depression Support Groups</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221125188?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/53/2"&gt;Volume 53, Issue 2&lt;/a&gt;, Page 73-88, April 2023. &lt;br/&gt;The American Psychological Association notes that approximately one in seven women will experience postpartum depression (PPD) after giving birth. Finding support can help lead to better outcomes for those suffering from PPD. This article examines cover photos of PPD support groups on Facebook. By arguing that these photos construct rhetorical boundaries that support-seekers must cross to access PPD resources, the article expands our current understandings of rhetorical boundaries and calls for increased attention to visual selection in high-stakes health contexts. This article emphasizes the idea that we might transform visual boundaries, like the Facebook cover photos studied here, into rhetorical boundary objects that promote inclusivity through more thoughtful and representative image selection.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 53, Issue 2, Page 73-88, April 2023. &lt;br/&gt;The American Psychological Association notes that approximately one in seven women will experience postpartum depression (PPD) after giving birth. Finding support can help lead to better outcomes for those suffering from PPD. This article examines cover photos of PPD support groups on Facebook. By arguing that these photos construct rhetorical boundaries that support-seekers must cross to access PPD resources, the article expands our current understandings of rhetorical boundaries and calls for increased attention to visual selection in high-stakes health contexts. This article emphasizes the idea that we might transform visual boundaries, like the Facebook cover photos studied here, into rhetorical boundary objects that promote inclusivity through more thoughtful and representative image selection.</description>
+      <dc:title>Visual Representation &amp; Visible Boundaries in Online Postpartum Depression Support Groups</dc:title>
+      <dc:identifier>10.1177/00472816221125188</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-01-12T12:03:24Z</dc:date>
+      <dc:date>2022-09-19T05:03:27Z</dc:date>
       <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Jason Tham</dc:creator>
-      <dc:creator>Tharon Howard</dc:creator>
-      <dc:creator>Gustav Verhulsdonck</dc:creator>
-      <prism:publicationName>Extending Design Thinking, Content Strategy, and Artificial Intelligence into Technical Communication and User Experience Design Programs: Further Pedagogical Implications</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>428</prism:startingPage>
-      <prism:endingPage>459</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816211072533</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211072533?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Shannon Fanning</dc:creator>
+      <prism:publicationName>Visual Representation &amp; Visible Boundaries in Online Postpartum Depression Support Groups</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>73</prism:startingPage>
+      <prism:endingPage>88</prism:endingPage>
+      <prism:coverDate>2023-04-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-04-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816221125188</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221125188?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2022</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221086523?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Defining the racial and ethnic “other”: Constructing an American identity through visualizing census data in the U.S. Statistical Atlases</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221086523?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 460-492, October 2022. &lt;br/&gt;This study analyzes the visualization of census data in the U.S. Statistical Atlases from 1874 to 1925. I examine how visual strategies were used to construct an American identity by contrasting the “native” population with the “other”—new immigrants and African Americans, which were visualized as undesirable counterparts. By defining the “other,” the Atlases created a pan ethnic identity of the “native white” population, established a racial hierarchy, and hardened the division between old and new immigrants. The study develops a rhetorical framework for understanding how data design is used to marginalize racially and ethnically minority groups.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 460-492, October 2022. &lt;br/&gt;This study analyzes the visualization of census data in the U.S. Statistical Atlases from 1874 to 1925. I examine how visual strategies were used to construct an American identity by contrasting the “native” population with the “other”—new immigrants and African Americans, which were visualized as undesirable counterparts. By defining the “other,” the Atlases created a pan ethnic identity of the “native white” population, established a racial hierarchy, and hardened the division between old and new immigrants. The study develops a rhetorical framework for understanding how data design is used to marginalize racially and ethnically minority groups.</description>
-      <dc:title>Defining the racial and ethnic “other”: Constructing an American identity through visualizing census data in the U.S. Statistical Atlases</dc:title>
-      <dc:identifier>10.1177/00472816221086523</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221125184?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Identifying Digital Rhetoric in the Telemedicine User Interface</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221125184?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/53/2"&gt;Volume 53, Issue 2&lt;/a&gt;, Page 89-105, April 2023. &lt;br/&gt;Telemedicine is an alternative healthcare delivery system whereby patients access digital technology to consult with a physician virtually. Patients first interact with telemedicine via a consumer-facing website. Telemedicine promises numerous benefits to patients, such as increased access to healthcare, yet poor usability of the telemedicine user interface (UI) may hinder patient acceptance and adoption of the service. The telemedicine UI moderates patients’ ability to utilize telemedicine, and therefore it must be usable, but it must also be rhetorical to motivate patients to perform certain actions. Digital rhetoric refers to UI elements that influence user actions and knowledge and is tied to usability because of these same human–computer interaction (HCI) factors. This study examined the usability of three telemedicine provider UIs and by identifying usability problems, reveals digital rhetoric that is significant to telemedicine UIs. The article concludes by offering heuristics of digital rhetoric that lead to optimal usability.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 53, Issue 2, Page 89-105, April 2023. &lt;br/&gt;Telemedicine is an alternative healthcare delivery system whereby patients access digital technology to consult with a physician virtually. Patients first interact with telemedicine via a consumer-facing website. Telemedicine promises numerous benefits to patients, such as increased access to healthcare, yet poor usability of the telemedicine user interface (UI) may hinder patient acceptance and adoption of the service. The telemedicine UI moderates patients’ ability to utilize telemedicine, and therefore it must be usable, but it must also be rhetorical to motivate patients to perform certain actions. Digital rhetoric refers to UI elements that influence user actions and knowledge and is tied to usability because of these same human–computer interaction (HCI) factors. This study examined the usability of three telemedicine provider UIs and by identifying usability problems, reveals digital rhetoric that is significant to telemedicine UIs. The article concludes by offering heuristics of digital rhetoric that lead to optimal usability.</description>
+      <dc:title>Identifying Digital Rhetoric in the Telemedicine User Interface</dc:title>
+      <dc:identifier>10.1177/00472816221125184</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-03-31T05:58:14Z</dc:date>
+      <dc:date>2022-09-15T06:17:02Z</dc:date>
       <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Li Li</dc:creator>
-      <prism:publicationName>Defining the racial and ethnic “other”: Constructing an American identity through visualizing census data in the U.S. Statistical Atlases</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>460</prism:startingPage>
-      <prism:endingPage>492</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816221086523</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221086523?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Jessica Lynn Campbell</dc:creator>
+      <prism:publicationName>Identifying Digital Rhetoric in the Telemedicine User Interface</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>89</prism:startingPage>
+      <prism:endingPage>105</prism:endingPage>
+      <prism:coverDate>2023-04-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-04-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816221125184</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221125184?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2022</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221112860?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Book Review: Equipping Technical Communicators for Social Justice Work: Theories, Methodologies, and Pedagogies by R. Walton &amp; G. Y. Agboka (Eds.)</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221112860?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 493-497, October 2022. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 493-497, October 2022. &lt;br/&gt;</description>
-      <dc:title>Book Review: Equipping Technical Communicators for Social Justice Work: Theories, Methodologies, and Pedagogies by R. Walton &amp; G. Y. Agboka (Eds.)</dc:title>
-      <dc:identifier>10.1177/00472816221112860</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221125186?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Visualizing a Drug Abuse Epidemic: Media Coverage, Opioids, and the Racialized Construction of Public Health Frameworks</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221125186?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/53/2"&gt;Volume 53, Issue 2&lt;/a&gt;, Page 106-127, April 2023. &lt;br/&gt;In technical and professional communication, the social justice turn calls on us to interrogate sites of positionality, privilege, and power to help foreground strategies that can empower marginalized groups. I propose that mainstream media coverage of the opioid epidemic represents such a site because addiction to these drugs, which initially primarily affected White people, has been positioned as a public health issue rather than a criminal justice problem. I explore the strategies that were used to create this positioning by investigating themes in the visual rhetoric as conveyed through data visualizations and in the text of the articles in which these graphics were published. My results align with two previous studies that confirmed this public health framing. I also observed an emphasis on mortality, which contributes to our understanding of rhetorical strategies that can be used to engender support rather than condemnation for those suffering from drug addiction.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 53, Issue 2, Page 106-127, April 2023. &lt;br/&gt;In technical and professional communication, the social justice turn calls on us to interrogate sites of positionality, privilege, and power to help foreground strategies that can empower marginalized groups. I propose that mainstream media coverage of the opioid epidemic represents such a site because addiction to these drugs, which initially primarily affected White people, has been positioned as a public health issue rather than a criminal justice problem. I explore the strategies that were used to create this positioning by investigating themes in the visual rhetoric as conveyed through data visualizations and in the text of the articles in which these graphics were published. My results align with two previous studies that confirmed this public health framing. I also observed an emphasis on mortality, which contributes to our understanding of rhetorical strategies that can be used to engender support rather than condemnation for those suffering from drug addiction.</description>
+      <dc:title>Visualizing a Drug Abuse Epidemic: Media Coverage, Opioids, and the Racialized Construction of Public Health Frameworks</dc:title>
+      <dc:identifier>10.1177/00472816221125186</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-07-07T06:54:35Z</dc:date>
+      <dc:date>2022-10-05T03:15:08Z</dc:date>
       <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Rosanna M. Vail</dc:creator>
-      <prism:publicationName>Book Review: Equipping Technical Communicators for Social Justice Work: Theories, Methodologies, and Pedagogies by R. Walton &amp; G. Y. Agboka (Eds.)</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>493</prism:startingPage>
-      <prism:endingPage>497</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816221112860</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221112860?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <dc:creator>Candice A. Welhausen</dc:creator>
+      <prism:publicationName>Visualizing a Drug Abuse Epidemic: Media Coverage, Opioids, and the Racialized Construction of Public Health Frameworks</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>106</prism:startingPage>
+      <prism:endingPage>127</prism:endingPage>
+      <prism:coverDate>2023-04-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-04-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816221125186</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221125186?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2022</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221115141?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Examining Multimodal Community-Engaged Projects for Technical and Professional Communication: Motivation, Design, Technology, and Impact</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221115141?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This study examines the role of multimodality in facilitating service-learning goals. We report findings from qualitative interviews with 20 college instructors who have designed and facilitated multimodal community-engaged learning projects, identifying their motivations, goals, and the impact of these projects through reflections. Based on our qualitative analysis of these instructor responses, we discuss the technological and pedagogical implications of multimodal social advocacy projects in technical and professional writing courses.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This study examines the role of multimodality in facilitating service-learning goals. We report findings from qualitative interviews with 20 college instructors who have designed and facilitated multimodal community-engaged learning projects, identifying their motivations, goals, and the impact of these projects through reflections. Based on our qualitative analysis of these instructor responses, we discuss the technological and pedagogical implications of multimodal social advocacy projects in technical and professional writing courses.</description>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/53/2"&gt;Volume 53, Issue 2&lt;/a&gt;, Page 128-159, April 2023. &lt;br/&gt;This study examines the role of multimodality in facilitating service-learning goals. We report findings from qualitative interviews with 20 college instructors who have designed and facilitated multimodal community-engaged learning projects, identifying their motivations, goals, and the impact of these projects through reflections. Based on our qualitative analysis of these instructor responses, we discuss the technological and pedagogical implications of multimodal social advocacy projects in technical and professional writing courses.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 53, Issue 2, Page 128-159, April 2023. &lt;br/&gt;This study examines the role of multimodality in facilitating service-learning goals. We report findings from qualitative interviews with 20 college instructors who have designed and facilitated multimodal community-engaged learning projects, identifying their motivations, goals, and the impact of these projects through reflections. Based on our qualitative analysis of these instructor responses, we discuss the technological and pedagogical implications of multimodal social advocacy projects in technical and professional writing courses.</description>
       <dc:title>Examining Multimodal Community-Engaged Projects for Technical and Professional Communication: Motivation, Design, Technology, and Impact</dc:title>
       <dc:identifier>10.1177/00472816221115141</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
@@ -183,8 +144,188 @@
       <dc:creator>Jason Tham</dc:creator>
       <dc:creator>Jialei Jiang</dc:creator>
       <prism:publicationName>Examining Multimodal Community-Engaged Projects for Technical and Professional Communication: Motivation, Design, Technology, and Impact</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>128</prism:startingPage>
+      <prism:endingPage>159</prism:endingPage>
+      <prism:coverDate>2023-04-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-04-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1177/00472816221115141</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221115141?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2022</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221124817?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: Digital Writing: A Guide to Writing for Social Media and the Web by Lawrence D.</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221124817?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/53/2"&gt;Volume 53, Issue 2&lt;/a&gt;, Page 160-164, April 2023. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 53, Issue 2, Page 160-164, April 2023. &lt;br/&gt;</description>
+      <dc:title>Book Review: Digital Writing: A Guide to Writing for Social Media and the Web by Lawrence D.</dc:title>
+      <dc:identifier>10.1177/00472816221124817</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2022-09-06T07:05:03Z</dc:date>
+      <dc:rights>© The Author(s) 2022</dc:rights>
+      <dc:creator>Katrina Hinson</dc:creator>
+      <prism:publicationName>Book Review: Digital Writing: A Guide to Writing for Social Media and the Web by Lawrence D.</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>160</prism:startingPage>
+      <prism:endingPage>164</prism:endingPage>
+      <prism:coverDate>2023-04-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-04-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816221124817</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221124817?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2022</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221131509?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: The Bookseller of Florence: The Story of the Manuscripts That Illuminated the Renaissance by Ross King</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221131509?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/53/2"&gt;Volume 53, Issue 2&lt;/a&gt;, Page 165-166, April 2023. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 53, Issue 2, Page 165-166, April 2023. &lt;br/&gt;</description>
+      <dc:title>Book Review: The Bookseller of Florence: The Story of the Manuscripts That Illuminated the Renaissance by Ross King</dc:title>
+      <dc:identifier>10.1177/00472816221131509</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2022-10-05T03:17:20Z</dc:date>
+      <dc:rights>© The Author(s) 2022</dc:rights>
+      <dc:creator>Richard Leo Enos</dc:creator>
+      <prism:publicationName>Book Review: The Bookseller of Florence: The Story of the Manuscripts That Illuminated the Renaissance by Ross King</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>165</prism:startingPage>
+      <prism:endingPage>166</prism:endingPage>
+      <prism:coverDate>2023-04-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-04-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816221131509</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221131509?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2022</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221135652?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: Teaching Business, Technical and Academic Writing Online and Onsite: A Writing Pedagogy Sourcebook by Vengadasalam S. S.</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221135652?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/53/2"&gt;Volume 53, Issue 2&lt;/a&gt;, Page 167-170, April 2023. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 53, Issue 2, Page 167-170, April 2023. &lt;br/&gt;</description>
+      <dc:title>Book Review: Teaching Business, Technical and Academic Writing Online and Onsite: A Writing Pedagogy Sourcebook by Vengadasalam S. S.</dc:title>
+      <dc:identifier>10.1177/00472816221135652</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2022-10-31T06:38:49Z</dc:date>
+      <dc:rights>© The Author(s) 2022</dc:rights>
+      <dc:creator>Dorcas A. Anabire</dc:creator>
+      <prism:publicationName>Book Review: Teaching Business, Technical and Academic Writing Online and Onsite: A Writing Pedagogy Sourcebook by Vengadasalam S. S.</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:startingPage>167</prism:startingPage>
+      <prism:endingPage>170</prism:endingPage>
+      <prism:coverDate>2023-04-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-04-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816221135652</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221135652?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2022</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231161062?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Emojination Facilitates Inclusive Emoji Design Through Technical Writing: Fitting Tactical Technical Communication Inside Institutional Structures</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231161062?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Creating new emojis is predicated on a system of technical writing that lobbies for new emojis to the Unicode Consortium. Emojination, an activist collective working for cultural inclusivity, helps everyday people write proposals for inclusive and culturally sensitive emojis. Through a case study of Emojination, this article describes ways that Tactical Technical Communication can work toward cultural inclusivity within regulatory frameworks.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Creating new emojis is predicated on a system of technical writing that lobbies for new emojis to the Unicode Consortium. Emojination, an activist collective working for cultural inclusivity, helps everyday people write proposals for inclusive and culturally sensitive emojis. Through a case study of Emojination, this article describes ways that Tactical Technical Communication can work toward cultural inclusivity within regulatory frameworks.</description>
+      <dc:title>Emojination Facilitates Inclusive Emoji Design Through Technical Writing: Fitting Tactical Technical Communication Inside Institutional Structures</dc:title>
+      <dc:identifier>10.1177/00472816231161062</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2023-03-08T07:39:59Z</dc:date>
+      <dc:rights>© The Author(s) 2023</dc:rights>
+      <dc:creator>John R. Gallagher</dc:creator>
+      <dc:creator>Rebecca E. Avgoustopoulos</dc:creator>
+      <prism:publicationName>Emojination Facilitates Inclusive Emoji Design Through Technical Writing: Fitting Tactical Technical Communication Inside Institutional Structures</prism:publicationName>
+      <prism:doi>10.1177/00472816231161062</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231161062?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2023</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221148476?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Conferences With the Engineers: The Innovative Pedagogy and Career of Sada Harbarger, 1884–1942</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221148476?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;While Sada Harbarger is primarily known as the author of the first genre-based technical communication textbook, 1923's English For Engineers, I argue through extensive archival materials that her innovative conferencing with engineering students and interdisciplinary writing efforts, rather, drove her interwar success at Ohio State. Her rural agricultural background and acquaintance with the engineering faculty, combined with her literature training, led to OSU's engineering faculty demanding successfully that English promote her without reference to her textbook. Harbarger is also a notable early example of navigating being a female professor teaching engineering writing in a male-dominated English literature department.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;While Sada Harbarger is primarily known as the author of the first genre-based technical communication textbook, 1923's English For Engineers, I argue through extensive archival materials that her innovative conferencing with engineering students and interdisciplinary writing efforts, rather, drove her interwar success at Ohio State. Her rural agricultural background and acquaintance with the engineering faculty, combined with her literature training, led to OSU's engineering faculty demanding successfully that English promote her without reference to her textbook. Harbarger is also a notable early example of navigating being a female professor teaching engineering writing in a male-dominated English literature department.</description>
+      <dc:title>Conferences With the Engineers: The Innovative Pedagogy and Career of Sada Harbarger, 1884–1942</dc:title>
+      <dc:identifier>10.1177/00472816221148476</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2023-02-09T05:17:02Z</dc:date>
+      <dc:rights>© The Author(s) 2023</dc:rights>
+      <dc:creator>Mike Duncan</dc:creator>
+      <prism:publicationName>Conferences With the Engineers: The Innovative Pedagogy and Career of Sada Harbarger, 1884–1942</prism:publicationName>
+      <prism:doi>10.1177/00472816221148476</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221148476?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2023</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221134535?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>A Field Wide Snapshot of Student Learning Outcomes in the Technical and Professional Communication Service Course</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221134535?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Using the technical and professional communication service course as the site for research, and student learning outcomes (SLOs) as the specific focus, we gathered, coded, and analyzed 503 SLOs from 93 institutions. Our results show the top outcomes are rhetoric, genre, writing, design, and collaboration. We discuss these outcomes and then we offer programmatic implications drawn from the data that encourage technical and professional communication program administrators and faculty to use common SLOs, to improve outcome development, and to reconsider the purpose of the service course for students.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Using the technical and professional communication service course as the site for research, and student learning outcomes (SLOs) as the specific focus, we gathered, coded, and analyzed 503 SLOs from 93 institutions. Our results show the top outcomes are rhetoric, genre, writing, design, and collaboration. We discuss these outcomes and then we offer programmatic implications drawn from the data that encourage technical and professional communication program administrators and faculty to use common SLOs, to improve outcome development, and to reconsider the purpose of the service course for students.</description>
+      <dc:title>A Field Wide Snapshot of Student Learning Outcomes in the Technical and Professional Communication Service Course</dc:title>
+      <dc:identifier>10.1177/00472816221134535</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2022-11-03T07:29:47Z</dc:date>
+      <dc:rights>© The Author(s) 2022</dc:rights>
+      <dc:creator>Jessica Griffith</dc:creator>
+      <dc:creator>Tanya Zarlengo</dc:creator>
+      <dc:creator>Lisa Melonçon</dc:creator>
+      <prism:publicationName>A Field Wide Snapshot of Student Learning Outcomes in the Technical and Professional Communication Service Course</prism:publicationName>
+      <prism:doi>10.1177/00472816221134535</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221134535?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2022</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221125192?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Introduction to the  Special Issue on Visual Communication and Visual Literacy (Part One)</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221125192?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Introduction to the  Special Issue on Visual Communication and Visual Literacy (Part One)</dc:title>
+      <dc:identifier>10.1177/00472816221125192</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2022-10-05T03:16:00Z</dc:date>
+      <dc:rights>© The Author(s) 2022</dc:rights>
+      <dc:creator>Lisa DeTora</dc:creator>
+      <dc:creator>Katrina Hinson</dc:creator>
+      <prism:publicationName>Introduction to the  Special Issue on Visual Communication and Visual Literacy (Part One)</prism:publicationName>
+      <prism:doi>10.1177/00472816221125192</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221125192?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2022</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221124605?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Implementing a Continuous Improvement Model for Assignment Evaluation  at the Technical and Professional Communication Program Level</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221124605?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;We use a continuous improvement model to evaluate an information design assignment by analyzing 120 student drafts and finals alongside instructor feedback. Using data from across sections (N = 118), we illustrate a process focused on improving student learning that other technical and professional communication program administrators and faculty can follow, while also offering insights into ways programs can assist a contingent labor force with improving pedagogical practice. This study provides insights into assignment design through data-driven evidence and reflective work that is necessary to help continuously improve a service course and to assist students in meeting learning outcomes.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;We use a continuous improvement model to evaluate an information design assignment by analyzing 120 student drafts and finals alongside instructor feedback. Using data from across sections (N = 118), we illustrate a process focused on improving student learning that other technical and professional communication program administrators and faculty can follow, while also offering insights into ways programs can assist a contingent labor force with improving pedagogical practice. This study provides insights into assignment design through data-driven evidence and reflective work that is necessary to help continuously improve a service course and to assist students in meeting learning outcomes.</description>
+      <dc:title>Implementing a Continuous Improvement Model for Assignment Evaluation  at the Technical and Professional Communication Program Level</dc:title>
+      <dc:identifier>10.1177/00472816221124605</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2022-09-19T05:03:08Z</dc:date>
+      <dc:rights>© The Author(s) 2022</dc:rights>
+      <dc:creator>Michelle Sonnenberg</dc:creator>
+      <dc:creator>Carolyn Gubala</dc:creator>
+      <dc:creator>Justiss Burry</dc:creator>
+      <dc:creator>Jessica Griffith</dc:creator>
+      <dc:creator>Tanya Zarlengo</dc:creator>
+      <dc:creator>Lisa Melonçon</dc:creator>
+      <prism:publicationName>Implementing a Continuous Improvement Model for Assignment Evaluation  at the Technical and Professional Communication Program Level</prism:publicationName>
+      <prism:doi>10.1177/00472816221124605</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221124605?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2022</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221118246?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Don’t Abbreviate: An Experimental Comparison of the U.S. State Display Designs Commonly Used in Surveys and Forms*</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221118246?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Forms and surveys often require address information, including state. State data entry fields in online forms typically use a dropdown where the user selects one state from the list. A review of online forms shows a variety of state lists used, with some including the state name fully spelled out while others use the state abbreviation, and still others use a combination of the two, like MD-Maryland. Through a series of three independent experiments, we investigate usability of state list designs as measured by time-on-task, accuracy of answers, or user preference. Results indicate that participants have difficulty with state abbreviations alone. That design results in longer time-on-task, and lower accuracy and preference, particularly for states where the user does not live. We did not find any significant difference in usability for full state names compared to the abbreviation and state name combination in a dropdown design.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Forms and surveys often require address information, including state. State data entry fields in online forms typically use a dropdown where the user selects one state from the list. A review of online forms shows a variety of state lists used, with some including the state name fully spelled out while others use the state abbreviation, and still others use a combination of the two, like MD-Maryland. Through a series of three independent experiments, we investigate usability of state list designs as measured by time-on-task, accuracy of answers, or user preference. Results indicate that participants have difficulty with state abbreviations alone. That design results in longer time-on-task, and lower accuracy and preference, particularly for states where the user does not live. We did not find any significant difference in usability for full state names compared to the abbreviation and state name combination in a dropdown design.</description>
+      <dc:title>Don’t Abbreviate: An Experimental Comparison of the U.S. State Display Designs Commonly Used in Surveys and Forms*</dc:title>
+      <dc:identifier>10.1177/00472816221118246</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2022-09-02T06:28:26Z</dc:date>
+      <dc:rights>© The Author(s) 2022</dc:rights>
+      <dc:creator>Elizabeth Nichols</dc:creator>
+      <dc:creator>Erica Olmsted-Hawala</dc:creator>
+      <dc:creator>Shelley Feuer</dc:creator>
+      <dc:creator>Lin Wang</dc:creator>
+      <prism:publicationName>Don’t Abbreviate: An Experimental Comparison of the U.S. State Display Designs Commonly Used in Surveys and Forms*</prism:publicationName>
+      <prism:doi>10.1177/00472816221118246</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221118246?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2022</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221104497?ai=2b4&amp;mi=ehikzz&amp;af=R">
@@ -268,4 +409,4 @@
       <prism:copyright>© The Author(s) 2021</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1660936167-->
+<!-- cached:  1678735166-->

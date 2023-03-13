@@ -15,234 +15,189 @@
       <prism:publicationName>Rhetoric Society Quarterly</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032816?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032814?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032815?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059328?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059329?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059330?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059331?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059332?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059333?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078868?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078867?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078870?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078869?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078871?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078866?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2095423?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2095424?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2022/rrsq20.v052.i02/rrsq20.v052.i02/20220607-01/rrsq20.v052.i02.cover.jpg">
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2023/rrsq20.v053.i01/rrsq20.v053.i01/20230302-01/rrsq20.v053.i01.cover.jpg">
       <title>Rhetoric Society Quarterly</title>
-      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2022/rrsq20.v052.i02/rrsq20.v052.i02/20220607-01/rrsq20.v052.i02.cover.jpg</url>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rrsq20/2023/rrsq20.v053.i01/rrsq20.v053.i01/20230302-01/rrsq20.v053.i01.cover.jpg</url>
       <link>https://www.tandfonline.com/loi/rrsq20?af=R</link>
    </image>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032816?af=R">
-      <title>Decolonizing Exigency: Settler Exigences in the Wisconsin Winnebago Mission Home</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032816?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/52/2"&gt;Volume 52, Issue 2&lt;/a&gt;, March 2022, Page 107-121&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 52, Issue 2, March 2022, Page 107-121&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Decolonizing Exigency: Settler Exigences in the Wisconsin Winnebago Mission Home</dc:title>
-      <dc:identifier>10.1080/02773945.2022.2032816</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078868?af=R">
+      <title>Developing Midwives, Delivering Development</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078868?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/53/1"&gt;Volume 53, Issue 1&lt;/a&gt;, January 2023, Page 1-15&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 53, Issue 1, January 2023, Page 1-15&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Developing Midwives, Delivering Development</dc:title>
+      <dc:identifier>10.1080/02773945.2022.2078868</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2022-05-25T04:30:43Z</dc:date>
-      <dc:rights>© 2022 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Dominique Salas</dc:creator>
-      <prism:publicationName>Decolonizing Exigency: Settler Exigences in the Wisconsin Winnebago Mission Home</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>107</prism:startingPage>
-      <prism:endingPage>121</prism:endingPage>
-      <prism:coverDate>2022-03-15T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-03-15T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2022.2032816</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032816?af=R</prism:url>
-      <prism:copyright>© 2022 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2023-01-26T04:23:19Z</dc:date>
+      <dc:rights>© 2023 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Lydia McDermott</dc:creator>
+      <prism:publicationName>Developing Midwives, Delivering Development</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2022.2078868</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078868?af=R</prism:url>
+      <prism:copyright>© 2023 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032814?af=R">
-      <title>“It’s Promethean, Man!”: The Frankenstein Myth and Rhetorical Invention</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032814?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/52/2"&gt;Volume 52, Issue 2&lt;/a&gt;, March 2022, Page 122-136&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 52, Issue 2, March 2022, Page 122-136&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>“It’s Promethean, Man!”: The Frankenstein Myth and Rhetorical Invention</dc:title>
-      <dc:identifier>10.1080/02773945.2022.2032814</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078867?af=R">
+      <title>Tales Too Horrible for Belief: Atrocity Narratives and Peripheral Subjects in Hezekiah Niles’ Reporting on the Greek Revolution</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078867?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/53/1"&gt;Volume 53, Issue 1&lt;/a&gt;, January 2023, Page 16-29&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 53, Issue 1, January 2023, Page 16-29&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Tales Too Horrible for Belief: Atrocity Narratives and Peripheral Subjects in Hezekiah Niles’ Reporting on the Greek Revolution</dc:title>
+      <dc:identifier>10.1080/02773945.2022.2078867</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2022-05-03T03:08:15Z</dc:date>
-      <dc:rights>© 2022 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Robert E. Terrill</dc:creator>
-      <prism:publicationName>“It’s Promethean, Man!”: The Frankenstein Myth and Rhetorical Invention</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>122</prism:startingPage>
-      <prism:endingPage>136</prism:endingPage>
-      <prism:coverDate>2022-03-15T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-03-15T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2022.2032814</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032814?af=R</prism:url>
-      <prism:copyright>© 2022 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2023-01-30T04:26:30Z</dc:date>
+      <dc:rights>© 2023 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Jeremy Cox</dc:creator>
+      <prism:publicationName>Tales Too Horrible for Belief: Atrocity Narratives and Peripheral Subjects in Hezekiah Niles’ Reporting on the Greek Revolution</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>16</prism:startingPage>
+      <prism:endingPage>29</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2022.2078867</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078867?af=R</prism:url>
+      <prism:copyright>© 2023 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032815?af=R">
-      <title>Rhetorical New Materialisms (RNM)</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032815?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/52/2"&gt;Volume 52, Issue 2&lt;/a&gt;, March 2022, Page 137-202&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 52, Issue 2, March 2022, Page 137-202&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Rhetorical New Materialisms (RNM)</dc:title>
-      <dc:identifier>10.1080/02773945.2022.2032815</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078870?af=R">
+      <title>Witnessing the Open Semiosis: A Method for Rhetorical Listening beyond the Human</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078870?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/53/1"&gt;Volume 53, Issue 1&lt;/a&gt;, January 2023, Page 30-44&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 53, Issue 1, January 2023, Page 30-44&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Witnessing the Open Semiosis: A Method for Rhetorical Listening beyond the Human</dc:title>
+      <dc:identifier>10.1080/02773945.2022.2078870</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2022-06-07T05:29:53Z</dc:date>
-      <dc:rights>© 2022 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Laurie Gries</dc:creator>
-      <dc:creator>Jennifer Clary-Lemon</dc:creator>
-      <dc:creator>Caroline Gottschalk Druschke</dc:creator>
-      <dc:creator>Nathaniel Rivers</dc:creator>
-      <dc:creator>Jodie Nicotra</dc:creator>
-      <dc:creator>John M. Ackerman</dc:creator>
-      <dc:creator>David M. Grant</dc:creator>
-      <dc:creator>Gabriela R. Ríos</dc:creator>
-      <dc:creator>Byron Hawk</dc:creator>
-      <dc:creator>Joshua S. Hanan</dc:creator>
-      <dc:creator>Kristin L. Arola</dc:creator>
-      <dc:creator>Thomas J. Rickert</dc:creator>
-      <dc:creator>Qwo-Li Driskill</dc:creator>
-      <dc:creator>Donnie Johnson Sackey</dc:creator>
-      <prism:publicationName>Rhetorical New Materialisms (RNM)</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>137</prism:startingPage>
-      <prism:endingPage>202</prism:endingPage>
-      <prism:coverDate>2022-03-15T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-03-15T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2022.2032815</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2032815?af=R</prism:url>
-      <prism:copyright>© 2022 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2023-02-22T03:10:14Z</dc:date>
+      <dc:rights>© 2023 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Megan Poole</dc:creator>
+      <prism:publicationName>Witnessing the Open Semiosis: A Method for Rhetorical Listening beyond the Human</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>30</prism:startingPage>
+      <prism:endingPage>44</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2022.2078870</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078870?af=R</prism:url>
+      <prism:copyright>© 2023 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059328?af=R">
-      <title>Medium Design: Knowing How to Work on the World</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059328?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/52/2"&gt;Volume 52, Issue 2&lt;/a&gt;, March 2022, Page 203-205&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 52, Issue 2, March 2022, Page 203-205&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Medium Design: Knowing How to Work on the World</dc:title>
-      <dc:identifier>10.1080/02773945.2022.2059328</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078869?af=R">
+      <title>Unbecoming Words: Latriniana as Queer Rhetoric</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078869?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/53/1"&gt;Volume 53, Issue 1&lt;/a&gt;, January 2023, Page 45-60&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 53, Issue 1, January 2023, Page 45-60&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Unbecoming Words: Latriniana as Queer Rhetoric</dc:title>
+      <dc:identifier>10.1080/02773945.2022.2078869</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2022-05-02T07:10:55Z</dc:date>
-      <dc:rights>© 2022 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Casey Boyle</dc:creator>
-      <dc:creator>Nathaniel Rivers</dc:creator>
-      <prism:publicationName>Medium Design: Knowing How to Work on the World</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>203</prism:startingPage>
-      <prism:endingPage>205</prism:endingPage>
-      <prism:coverDate>2022-03-15T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-03-15T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2022.2059328</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059328?af=R</prism:url>
-      <prism:copyright>© 2022 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2023-03-02T05:46:36Z</dc:date>
+      <dc:rights>© 2023 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Patrick Clement James</dc:creator>
+      <prism:publicationName>Unbecoming Words: Latriniana as Queer Rhetoric</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>45</prism:startingPage>
+      <prism:endingPage>60</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2022.2078869</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078869?af=R</prism:url>
+      <prism:copyright>© 2023 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059329?af=R">
-      <title>Ecologies of Harm: Rhetorics of Violence in the United States</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059329?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/52/2"&gt;Volume 52, Issue 2&lt;/a&gt;, March 2022, Page 205-208&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 52, Issue 2, March 2022, Page 205-208&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Ecologies of Harm: Rhetorics of Violence in the United States</dc:title>
-      <dc:identifier>10.1080/02773945.2022.2059329</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078871?af=R">
+      <title>Feminist Witnessing from the Bench: A Study of Judge Aquilina’s Epideictic Rhetoric in the Nassar Sentencing Hearing</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078871?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/53/1"&gt;Volume 53, Issue 1&lt;/a&gt;, January 2023, Page 61-73&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 53, Issue 1, January 2023, Page 61-73&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Feminist Witnessing from the Bench: A Study of Judge Aquilina’s Epideictic Rhetoric in the Nassar Sentencing Hearing</dc:title>
+      <dc:identifier>10.1080/02773945.2022.2078871</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2022-05-02T07:12:55Z</dc:date>
-      <dc:rights>© 2022 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Richard Branscomb</dc:creator>
-      <prism:publicationName>Ecologies of Harm: Rhetorics of Violence in the United States</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>205</prism:startingPage>
-      <prism:endingPage>208</prism:endingPage>
-      <prism:coverDate>2022-03-15T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-03-15T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2022.2059329</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059329?af=R</prism:url>
-      <prism:copyright>© 2022 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2023-02-13T08:21:03Z</dc:date>
+      <dc:rights>© 2023 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Shari J. Stenberg</dc:creator>
+      <prism:publicationName>Feminist Witnessing from the Bench: A Study of Judge Aquilina’s Epideictic Rhetoric in the Nassar Sentencing Hearing</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>61</prism:startingPage>
+      <prism:endingPage>73</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2022.2078871</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078871?af=R</prism:url>
+      <prism:copyright>© 2023 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059330?af=R">
-      <title>Architects of Memory: Information and Rhetoric in a Networked Archival Age</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059330?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/52/2"&gt;Volume 52, Issue 2&lt;/a&gt;, March 2022, Page 208-211&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 52, Issue 2, March 2022, Page 208-211&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Architects of Memory: Information and Rhetoric in a Networked Archival Age</dc:title>
-      <dc:identifier>10.1080/02773945.2022.2059330</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078866?af=R">
+      <title>Desiring Bodies: Sexology and The Hite Report after New Materialism</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078866?af=R</link>
+      <content:encoded>&lt;a href="/toc/rrsq20/53/1"&gt;Volume 53, Issue 1&lt;/a&gt;, January 2023, Page 74-86&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 53, Issue 1, January 2023, Page 74-86&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Desiring Bodies: Sexology and The Hite Report after New Materialism</dc:title>
+      <dc:identifier>10.1080/02773945.2022.2078866</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2022-05-02T07:14:54Z</dc:date>
-      <dc:rights>© 2022 The Rhetoric Society of America</dc:rights>
-      <dc:creator>David R. Gruber</dc:creator>
-      <prism:publicationName>Architects of Memory: Information and Rhetoric in a Networked Archival Age</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>208</prism:startingPage>
-      <prism:endingPage>211</prism:endingPage>
-      <prism:coverDate>2022-03-15T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-03-15T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2022.2059330</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059330?af=R</prism:url>
-      <prism:copyright>© 2022 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2023-01-26T04:09:34Z</dc:date>
+      <dc:rights>© 2023 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Jean Bessette</dc:creator>
+      <prism:publicationName>Desiring Bodies: Sexology and The Hite Report after New Materialism</prism:publicationName>
+      <prism:volume>53</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:startingPage>74</prism:startingPage>
+      <prism:endingPage>86</prism:endingPage>
+      <prism:coverDate>2023-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2023-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/02773945.2022.2078866</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2078866?af=R</prism:url>
+      <prism:copyright>© 2023 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059331?af=R">
-      <title>Black or Right: Anti/Racist Campus Rhetorics</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059331?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/52/2"&gt;Volume 52, Issue 2&lt;/a&gt;, March 2022, Page 211-213&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 52, Issue 2, March 2022, Page 211-213&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Black or Right: Anti/Racist Campus Rhetorics</dc:title>
-      <dc:identifier>10.1080/02773945.2022.2059331</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2095423?af=R">
+      <title>Conversations with Other-than-Human Creatures: Unpacking the Ambiguity of “with” for Multispecies Rhetorics</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2095423?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Conversations with Other-than-Human Creatures: Unpacking the Ambiguity of “with” for Multispecies Rhetorics</dc:title>
+      <dc:identifier>10.1080/02773945.2022.2095423</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2022-05-02T07:16:55Z</dc:date>
-      <dc:rights>© 2022 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Mavis Boatemaa Beckson</dc:creator>
-      <prism:publicationName>Black or Right: Anti/Racist Campus Rhetorics</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>211</prism:startingPage>
-      <prism:endingPage>213</prism:endingPage>
-      <prism:coverDate>2022-03-15T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-03-15T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2022.2059331</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059331?af=R</prism:url>
-      <prism:copyright>© 2022 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2023-03-09T07:02:33Z</dc:date>
+      <dc:rights>© 2023 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Erika Amethyst Szymanski</dc:creator>
+      <prism:publicationName>Conversations with Other-than-Human Creatures: Unpacking the Ambiguity of “with” for Multispecies Rhetorics</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>15</prism:endingPage>
+      <prism:doi>10.1080/02773945.2022.2095423</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2095423?af=R</prism:url>
+      <prism:copyright>© 2023 The Rhetoric Society of America</prism:copyright>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059332?af=R">
-      <title>Awful Archives: Conspiracy Theory, Rhetoric, and Acts of Evidence</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059332?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/52/2"&gt;Volume 52, Issue 2&lt;/a&gt;, March 2022, Page 214-216&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 52, Issue 2, March 2022, Page 214-216&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Awful Archives: Conspiracy Theory, Rhetoric, and Acts of Evidence</dc:title>
-      <dc:identifier>10.1080/02773945.2022.2059332</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2095424?af=R">
+      <title>(Re)Turning to Hypertext: Mattering Digital Learning Spaces</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2095424?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>(Re)Turning to Hypertext: Mattering Digital Learning Spaces</dc:title>
+      <dc:identifier>10.1080/02773945.2022.2095424</dc:identifier>
       <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2022-05-02T07:18:56Z</dc:date>
-      <dc:rights>© 2022 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Atilla Hallsby</dc:creator>
-      <prism:publicationName>Awful Archives: Conspiracy Theory, Rhetoric, and Acts of Evidence</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>214</prism:startingPage>
-      <prism:endingPage>216</prism:endingPage>
-      <prism:coverDate>2022-03-15T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-03-15T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2022.2059332</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059332?af=R</prism:url>
-      <prism:copyright>© 2022 The Rhetoric Society of America</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059333?af=R">
-      <title>Racing the Street: Race, Rhetoric, and Technology in Metropolitan London, 1840–1900</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059333?af=R</link>
-      <content:encoded>&lt;a href="/toc/rrsq20/52/2"&gt;Volume 52, Issue 2&lt;/a&gt;, March 2022, Page 217-218&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 52, Issue 2, March 2022, Page 217-218&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Racing the Street: Race, Rhetoric, and Technology in Metropolitan London, 1840–1900</dc:title>
-      <dc:identifier>10.1080/02773945.2022.2059333</dc:identifier>
-      <dc:source>Rhetoric Society Quarterly</dc:source>
-      <dc:date>2022-05-02T07:21:54Z</dc:date>
-      <dc:rights>© 2022 The Rhetoric Society of America</dc:rights>
-      <dc:creator>Darrian Carroll</dc:creator>
-      <prism:publicationName>Racing the Street: Race, Rhetoric, and Technology in Metropolitan London, 1840–1900</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>2</prism:number>
-      <prism:startingPage>217</prism:startingPage>
-      <prism:endingPage>218</prism:endingPage>
-      <prism:coverDate>2022-03-15T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-03-15T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/02773945.2022.2059333</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2059333?af=R</prism:url>
-      <prism:copyright>© 2022 The Rhetoric Society of America</prism:copyright>
+      <dc:date>2023-03-09T09:44:57Z</dc:date>
+      <dc:rights>© 2023 The Rhetoric Society of America</dc:rights>
+      <dc:creator>Manuel Piña</dc:creator>
+      <prism:publicationName>(Re)Turning to Hypertext: Mattering Digital Learning Spaces</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>19</prism:endingPage>
+      <prism:doi>10.1080/02773945.2022.2095424</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/02773945.2022.2095424?af=R</prism:url>
+      <prism:copyright>© 2023 The Rhetoric Society of America</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1660936169-->
+<!-- cached:  1678735167-->
