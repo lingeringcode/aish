@@ -30,7 +30,7 @@ async function rdfRequestLister(){
       'tmp/journal-5.xml',//Rhetoric Review
       'tmp/journal-6.xml',//RSQ
       'tmp/journal-7.xml',//Computers & Composition
-      'tmp/journal-8.xml'//New Media & Society
+      // 'tmp/journal-8.xml'//New Media & Society
     ];
 
     function createCORSRequest(method, url) {
