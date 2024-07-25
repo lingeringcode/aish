@@ -15,652 +15,611 @@
       <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077455?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069290?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069289?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077454?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069288?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069287?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100484?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100677?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100485?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2088973?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2088975?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2085809?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2079725?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2085810?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077453?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2079726?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077452?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069286?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2056637?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2056638?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2047792?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2036815?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034974?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034973?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034975?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2019317?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2019318?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2024606?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2021451?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2021452?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2010027?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342580?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340431?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340438?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340439?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340441?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340442?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342581?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340432?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340433?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340434?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2236671?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2240854?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2245442?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2246050?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2292985?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2299465?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2302467?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342040?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352113?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352102?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352106?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2367779?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2372784?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2372771?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2374379?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2306259?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2310456?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2375362?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2240856?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2274067?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2360864?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/htcq20/2022/htcq20.v031.i02/htcq20.v031.i02/20220312-01/htcq20.v031.i02.cover.jpg">
+   <image rdf:about="https://www.tandfonline.com/cms/asset/0259a178-0907-4e35-a79c-4ece88296dc5/default_cover.jpg">
       <title>Technical Communication Quarterly</title>
-      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/htcq20/2022/htcq20.v031.i02/htcq20.v031.i02/20220312-01/htcq20.v031.i02.cover.jpg</url>
+      <url>https://www.tandfonline.com/cms/asset/0259a178-0907-4e35-a79c-4ece88296dc5/default_cover.jpg</url>
       <link>https://www.tandfonline.com/loi/htcq20?af=R</link>
    </image>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077455?af=R">
-      <title>Introduction to Special Issue: Black Technical and Professional Communication</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077455?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/31/3"&gt;Volume 31, Issue 3&lt;/a&gt;, July-September 2022&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 31, Issue 3, July-September 2022&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Introduction to Special Issue: Black Technical and Professional Communication</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2077455</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342580?af=R">
+      <title>Temptaous Mckoy’s Response and Guide to (Re)Defining Professional and Technical Communication Special Issue</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342580?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/33/3"&gt;Volume 33, Issue 3&lt;/a&gt;, July-September 2024&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 33, Issue 3, July-September 2024&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Temptaous Mckoy’s Response and Guide to (Re)Defining Professional and Technical Communication Special Issue</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2342580</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-05-19T02:24:32Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Temptaous Mckoy</dc:creator>
-      <dc:creator>Cecilia D. Shelton</dc:creator>
-      <dc:creator>Donnie Johnson Sackey</dc:creator>
-      <dc:creator>Natasha N. Jones</dc:creator>
-      <dc:creator>Constance Haywood</dc:creator>
-      <dc:creator>Ja’La Wourman</dc:creator>
-      <dc:creator>Kimberly C. Harper</dc:creator>
-      <prism:publicationName>Introduction to Special Issue: Black Technical and Professional Communication</prism:publicationName>
-      <prism:volume>31</prism:volume>
+      <dc:date>2024-04-18T03:45:15Z</dc:date>
+      <dc:creator>Temptaous Mckoy Bowie State University, Bowie, MD, USATemptaous Mckoy is an Assistant Professor of English with a focus in Technical and Professional Communication, as well as the Coordinator of Graduate Studies in the Department Language, Literature, and Cultural Studies at Bowie State University. Her research focuses on redefining the field of TPC and challenging it to be more inclusive of the (in)formal communicative and learning practices as found in Black communities, such as HBCUs. She is an HBCU alum (Elizabeth City State Univ.) and also a member of Sigma Gamma Rho Sorority, Inc. She obtained her BA in English from Elizabeth City State University (’13); her MA in Professional Communication and Leadership (’15) from Armstrong State University (Now GA Southern at Armstrong); and her PhD in Rhetoric, Writing, and Professional Communication from East Carolina University (’19). She is the author of a three-time award-winning dissertation: “Y’all Call It Technical and Professional Communication, We Call It #ForTheCulture” as well. Recently, she served as chair of the CCCCs Black Technical and Professional Communication Task Force. In addition, one of the co-editors of the Technical Communications Quarterly Black Technical Communication Special Issue, published July 2022.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:volume>33</prism:volume>
       <prism:number>3</prism:number>
-      <prism:startingPage>221</prism:startingPage>
-      <prism:endingPage>228</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2022.2077455</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077455?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
+      <prism:startingPage>373</prism:startingPage>
+      <prism:endingPage>377</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2024.2342580</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342580?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069290?af=R">
-      <title>Handling Family Business: Technical Communication Literacies in Black Family Reunions</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069290?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/31/3"&gt;Volume 31, Issue 3&lt;/a&gt;, July-September 2022&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 31, Issue 3, July-September 2022&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Handling Family Business: Technical Communication Literacies in Black Family Reunions</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2069290</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340431?af=R">
+      <title>Mas Marunong Kang Mag-English (You’re Better at English-Ing): Professional Ventriloquy and the Ideologies of “Professionalism”</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340431?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/33/3"&gt;Volume 33, Issue 3&lt;/a&gt;, July-September 2024&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 33, Issue 3, July-September 2024&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Mas Marunong Kang Mag-English (You’re Better at English-Ing): Professional Ventriloquy and the Ideologies of “Professionalism”</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2340431</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-04-29T12:29:34Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Laura L. Allen</dc:creator>
-      <prism:publicationName>Handling Family Business: Technical Communication Literacies in Black Family Reunions</prism:publicationName>
-      <prism:volume>31</prism:volume>
+      <dc:date>2024-04-10T06:25:52Z</dc:date>
+      <dc:creator>Juval V. Racelis Wentworth Institute of TechnologyJuval V. Racelis is an Associate Professor of English at Wentworth Institute of Technology. His research focuses on writing program administration, equitable placement practices, and technical and professional communication pedagogy. His research has appeared in Language Teaching and Collaborative Librarianship.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:volume>33</prism:volume>
       <prism:number>3</prism:number>
-      <prism:startingPage>229</prism:startingPage>
-      <prism:endingPage>244</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2022.2069290</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069290?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
+      <prism:startingPage>258</prism:startingPage>
+      <prism:endingPage>269</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2024.2340431</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340431?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069289?af=R">
-      <title>Black Women Imagining and Realizing Liberated Futures</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069289?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/31/3"&gt;Volume 31, Issue 3&lt;/a&gt;, July-September 2022&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 31, Issue 3, July-September 2022&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Black Women Imagining and Realizing Liberated Futures</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2069289</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340438?af=R">
+      <title>Professional Critical Consciousness: Bridging Classroom Theory with Workplace Practice</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340438?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/33/3"&gt;Volume 33, Issue 3&lt;/a&gt;, July-September 2024&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 33, Issue 3, July-September 2024&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Professional Critical Consciousness: Bridging Classroom Theory with Workplace Practice</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2340438</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-04-30T09:00:47Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Jessica Edwards</dc:creator>
-      <dc:creator>Josie Walwema</dc:creator>
-      <prism:publicationName>Black Women Imagining and Realizing Liberated Futures</prism:publicationName>
-      <prism:volume>31</prism:volume>
+      <dc:date>2024-04-11T06:14:49Z</dc:date>
+      <dc:creator>Margaret Hsiao Utah State UniversityMargaret Hsiao is a doctoral student in the Technical Communication and Rhetoric program at Utah State University. She received her Master of Public Administration degree from the University of Utah and currently works as a policy advisor at Western Governors University.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:volume>33</prism:volume>
       <prism:number>3</prism:number>
-      <prism:startingPage>245</prism:startingPage>
-      <prism:endingPage>262</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2022.2069289</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069289?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
+      <prism:startingPage>296</prism:startingPage>
+      <prism:endingPage>308</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2024.2340438</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340438?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077454?af=R">
-      <title>A Technical Hair Piece: Metis, Social Justice and Technical Communication in Black Hair Care on YouTube</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077454?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/31/3"&gt;Volume 31, Issue 3&lt;/a&gt;, July-September 2022&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 31, Issue 3, July-September 2022&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>A Technical Hair Piece: Metis, Social Justice and Technical Communication in Black Hair Care on YouTube</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2077454</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340439?af=R">
+      <title>Considering the Factory Floor</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340439?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/33/3"&gt;Volume 33, Issue 3&lt;/a&gt;, July-September 2024&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 33, Issue 3, July-September 2024&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Considering the Factory Floor</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2340439</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-05-25T05:05:45Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Modupe Yusuf</dc:creator>
-      <dc:creator>Veena Namboodri Schioppa</dc:creator>
-      <prism:publicationName>A Technical Hair Piece: Metis, Social Justice and Technical Communication in Black Hair Care on YouTube</prism:publicationName>
-      <prism:volume>31</prism:volume>
+      <dc:date>2024-05-08T04:16:49Z</dc:date>
+      <dc:creator>Elena G. Garcia Lupe Garcia University of Detroit MercyElena G. Garcia is an Assistant Professor and Director of the First-year Writing Program at the University of Detroit Mercy. Her research focuses on several key areas: factory workplace writing and communication, academic/non-academic collaborative research, issues of identity and positionality in academia, and first-year writing pedagogy.Lupe Garcia is a now-retired factory machine operator who spent over 45 years working in a single factory. His research focuses on working with his collaborative partner and daughter, Elena G. Garcia, to examine the communication practices of his former workplace and the effectiveness of collaborations between academic and non-academic researchers.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:volume>33</prism:volume>
       <prism:number>3</prism:number>
-      <prism:startingPage>263</prism:startingPage>
-      <prism:endingPage>282</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2022.2077454</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077454?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
+      <prism:startingPage>285</prism:startingPage>
+      <prism:endingPage>295</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2024.2340439</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340439?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069288?af=R">
-      <title>The Work Before: A Model for Coalitional Alliance Toward Black Futures in Technical Communication</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069288?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/31/3"&gt;Volume 31, Issue 3&lt;/a&gt;, July-September 2022&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 31, Issue 3, July-September 2022&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>The Work Before: A Model for Coalitional Alliance Toward Black Futures in Technical Communication</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2069288</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340441?af=R">
+      <title>Black Professional Ethos: Exploring Black Mentorship Through Narrative Ethnography in Technical Communication</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340441?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/33/3"&gt;Volume 33, Issue 3&lt;/a&gt;, July-September 2024&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 33, Issue 3, July-September 2024&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Black Professional Ethos: Exploring Black Mentorship Through Narrative Ethnography in Technical Communication</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2340441</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-05-17T11:11:06Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Floyd Pouncil</dc:creator>
-      <dc:creator>Nick Sanders</dc:creator>
-      <prism:publicationName>The Work Before: A Model for Coalitional Alliance Toward Black Futures in Technical Communication</prism:publicationName>
-      <prism:volume>31</prism:volume>
+      <dc:date>2024-04-12T01:06:27Z</dc:date>
+      <dc:creator>Christopher J. Morris Laura L. Allen York UniversityChristopher J. Morris is an Assistant Professor of Writing at York University in Toronto, Ontario. His research, informed by critical race and ethnic studies, explores rhetoric and technical communication in economic development. He earned his PhD from The Ohio State University.Laura L. Allen is an Assistant Professor of Writing at York University in Toronto, Ontario. Her scholarly interests include digital rhetorics and race, family literacy, and community engaged research in Black communities. She teaches courses on professional writing, rhetoric, social justice, and digital media.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:volume>33</prism:volume>
       <prism:number>3</prism:number>
-      <prism:startingPage>283</prism:startingPage>
-      <prism:endingPage>297</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2022.2069288</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069288?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
+      <prism:startingPage>358</prism:startingPage>
+      <prism:endingPage>372</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2024.2340441</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340441?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069287?af=R">
-      <title>Black Professional Communicators Testifying to Black Technical Joy</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069287?af=R</link>
-      <content:encoded>&lt;a href="/toc/htcq20/31/3"&gt;Volume 31, Issue 3&lt;/a&gt;, July-September 2022&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 31, Issue 3, July-September 2022&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Black Professional Communicators Testifying to Black Technical Joy</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2069287</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340442?af=R">
+      <title>(Re)situating Professionalism: Using Course Documents As Tactical Tools in the Professional Writing Classroom</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340442?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/33/3"&gt;Volume 33, Issue 3&lt;/a&gt;, July-September 2024&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 33, Issue 3, July-September 2024&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>(Re)situating Professionalism: Using Course Documents As Tactical Tools in the Professional Writing Classroom</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2340442</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-04-28T02:05:38Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Antonio Byrd</dc:creator>
-      <prism:publicationName>Black Professional Communicators Testifying to Black Technical Joy</prism:publicationName>
-      <prism:volume>31</prism:volume>
+      <dc:date>2024-04-11T11:37:40Z</dc:date>
+      <dc:creator>Alicia K. Hatcher Lerie M. Gabriel Syracuse UniversityAlicia K. Hatcher is an Assistant Professor of African American Rhetorics and Literacies at Syracuse University. She is a Writing Studies scholar whose research focuses on Black Rhetorical Practices and their usage as tactical tools for engaging in acts of resistance.Lerie M. Gabriel (she/her) is Ph.D. candidate at Syracuse University in the Department of Writing Studies, Rhetoric, and Composition. While her current research revolves around redressing inequities manifested in (professional and technical) writing courses, the thread that weaves her work is the amplification of marginalized voices. Lerie has also taught first-year composition for six years and professional writing for two.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:volume>33</prism:volume>
       <prism:number>3</prism:number>
-      <prism:startingPage>298</prism:startingPage>
-      <prism:endingPage>310</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/10572252.2022.2069287</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069287?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
+      <prism:startingPage>327</prism:startingPage>
+      <prism:endingPage>341</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2024.2340442</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340442?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100484?af=R">
-      <title>Working to Resonate: Rhetorical Mapping of Disciplinary Stances about Technology, Risk, and the Brain</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100484?af=R</link>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342581?af=R">
+      <title>(Re)defining “Professional” in Technical &amp; Professional Communication</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342581?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/33/3"&gt;Volume 33, Issue 3&lt;/a&gt;, July-September 2024&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 33, Issue 3, July-September 2024&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>(Re)defining “Professional” in Technical &amp; Professional Communication</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2342581</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-04-17T04:45:54Z</dc:date>
+      <dc:creator>Bridget Gelms Cynthia Johnson a San Francisco State Universityb University of Central OklahomaBridget Gelms is an associate professor in the English department at San Francisco State University, where she teaches courses in professional communication, social media, document design, and team writing. She is also the co-director of the College Undergraduate Research Experience in SFSU’s College of Liberal and Creative Arts. Her work has appeared in Technical Communication Quarterly, Computers &amp; Composition, and Composition Forum, among other journals and edited collections.Cynthia Johnson is an assistant professor of English at the University of Central Oklahoma, where she is the Director of Composition and teaches in the Technical Writing and Composition &amp; Rhetoric programs. Her research centers on composition and technical writing pedagogies and has appeared in Computers and Composition, The Writing Center Journal, and edited collections. In 2023, she received a CCCC Emergent Researcher Award for her work with the FYW Syllabus Project.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:volume>33</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>249</prism:startingPage>
+      <prism:endingPage>257</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2024.2342581</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342581?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340432?af=R">
+      <title>The Exclusionary Potential of “Professionalism” in Hiring Situations</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340432?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/33/3"&gt;Volume 33, Issue 3&lt;/a&gt;, July-September 2024&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 33, Issue 3, July-September 2024&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The Exclusionary Potential of “Professionalism” in Hiring Situations</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2340432</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-04-20T04:41:17Z</dc:date>
+      <dc:creator>Chalice Randazzo Utah Tech UniversityChalice Randazzo researches the intersection of practical and critical-cultural technical and professional communication, especially missing work and silence. She is an Associate Professor at Utah Tech University.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:volume>33</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>270</prism:startingPage>
+      <prism:endingPage>284</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2024.2340432</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340432?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340433?af=R">
+      <title>(Dis)ability Deconditioning: Challenging Ableist Articulations of Professionalism in University Career Centers</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340433?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/33/3"&gt;Volume 33, Issue 3&lt;/a&gt;, July-September 2024&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 33, Issue 3, July-September 2024&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>(Dis)ability Deconditioning: Challenging Ableist Articulations of Professionalism in University Career Centers</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2340433</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-04-12T01:06:08Z</dc:date>
+      <dc:creator>Kristin C. Bennett University of OklahomaKristin C. Bennett is an Assistant Professor of Technical and Scientific Writing at the University of Oklahoma. She received a PhD in Writing, Rhetorics, and Literacies at Arizona State University. Her research examines the intersections between technical and professional communication, disability studies, rhetorics of health and medicine, and digital rhetoric. Her work has appeared in IEEE: Transactions on Professional Communication, Technical Communication, ImageText, The Journal of Business and Technical Communication, Composition Studies, and Teaching English in the Two-Year College.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:volume>33</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>309</prism:startingPage>
+      <prism:endingPage>326</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2024.2340433</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340433?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340434?af=R">
+      <title>Thinking with Keywords: Investigating the Role and Nature of Professionalism Keywords in TPC Enculturation</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340434?af=R</link>
+      <content:encoded>&lt;a href="/toc/htcq20/33/3"&gt;Volume 33, Issue 3&lt;/a&gt;, July-September 2024&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 33, Issue 3, July-September 2024&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Thinking with Keywords: Investigating the Role and Nature of Professionalism Keywords in TPC Enculturation</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2340434</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-04-11T06:08:50Z</dc:date>
+      <dc:creator>Mark A. Hannah Courtney Caputo Lily Deen Amber Hedquist Catherine Salgado Seher Shah Laura Cruser Chris Fluty Tom Lane Tristan Rebe Dwi Budidarma Sutrisno Arizona State UniversityMark A. Hannah is Associate Professor of English at Arizona State University where he serves as Director of Writing, Rhetorics, and Literacies. He publishes widely on the intersections of law, rhetoric, and expertise in professional communication.Courtney Caputo is a M.A. student in the Writing, Rhetorics and Literacies graduate program at Arizona State University. Her research focuses on how institutions mediate embodied rhetorical performances. In Fall 2024, she will enroll in ASU’s Sandra Day O’Connor College of Law.Lily Deen is a Ph.D. student in the Writing, Rhetorics and Literacies graduate program at Arizona State University. Her research interests center on rhetoric in popular culture, disciplinary rhetorics, feminist rhetorical practices, and composing with generative AI. She teaches undergraduate courses in technical and professional writing and first-year writing.Amber Hedquist is a Ph.D. student in the Writing, Rhetorics, and Literacies graduate program at Arizona State University. Her research focuses on how universities engage the public, largely informed by technical and professional communication, genre studies, and rhetorical theory. She currently works for ASU’s Office of Vice President Research and Development and manages the university’s research recruitment platform.Catherine Salgado is a fellowship advisor and Ph.D. student in the Writing, Rhetorics, and Literacies graduate program at Arizona State University. Her research and teaching focus on community-based writing spaces and storytelling as a means of developing one’s sense of self. She is a former Fulbright recipient to Portugal with a background in Portuguese, Spanish, Applied Linguistics, and Writing Studies.Seher Shah is a Ph.D. student in English Literature at Arizona State University. Her research interests include studying places and spaces in 19th century Victorian/Early Modernist Literature. She teaches First-Year Composition and is the Director of L19C Colloquium.Laura Cruser teaches business writing, fiction, and composition at Arizona State University. She holds an M.F.A in creative writing from ASU, and her work has appeared in Arts &amp; Letters, The Greensboro Review, and other publications. Writer, teacher, farmer, and artist, Cruser is passionate about the natural world.Chris Fluty is a Ph.D. student in the Writings, Rhetorics, and Literacies graduate program at Arizona State University. Chris’s research interests focus on concepts of identification. He is an Assistant Vice President at a Fortune 500 Company where he has worked for 16 years and now serves as a consultant for their training program.Tom Lane is a M.A. student in Arizona State University’s Writing, Rhetorics and Literacies graduate program. He works for ADP as a small business consultant, and his research interests include the role of rhetoric in community building.Tristan Rebe is a Ph.D. candidate in English Literature at Arizona State University. His research interests include phenomenology and literature, translation studies, sensology, and writing center studies. He currently serves as a Program Manager for ASU’s Academic Support Network, where he oversees the Writing Center and Graduate Writing Center.Dwi Budidarma Sutrisno is a recent M.A. graduate of Arizona State University’s Writing, Rhetorics, and Literacies program. His master’s thesis explores the complexity of Indonesian international students in U.S universities navigating between their L1 Bahasa Indonesian and L2 English in the writing process. His research focuses on Second Language Writing and TESOL. He teaches TOEFL at Khairun University and currently serves as coordinator of Mentari English Academy in Indonesia.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:volume>33</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>342</prism:startingPage>
+      <prism:endingPage>357</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/10572252.2024.2340434</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2340434?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2236671?af=R">
+      <title>Editors’ Use of Comprehensive Style Guides: The Case of Singular They</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2236671?af=R</link>
       <content:encoded>. &lt;br/&gt;</content:encoded>
       <description>. &lt;br/&gt;</description>
-      <dc:title>Working to Resonate: Rhetorical Mapping of Disciplinary Stances about Technology, Risk, and the Brain</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2100484</dc:identifier>
+      <dc:title>Editors’ Use of Comprehensive Style Guides: The Case of Singular They</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2023.2236671</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-07-26T08:32:02Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Kathryn Lambrecht</dc:creator>
-      <prism:publicationName>Working to Resonate: Rhetorical Mapping of Disciplinary Stances about Technology, Risk, and the Brain</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>16</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2100484</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100484?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100677?af=R">
-      <title>Effective Teaching of Technical Communication: Theory, Practice, and Application</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100677?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Effective Teaching of Technical Communication: Theory, Practice, and Application</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2100677</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-07-19T05:06:29Z</dc:date>
-      <dc:rights>© 2022 Jacob Buller-Young</dc:rights>
-      <dc:creator>Jacob Buller-Young</dc:creator>
-      <prism:publicationName>Effective Teaching of Technical Communication: Theory, Practice, and Application</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>4</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2100677</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100677?af=R</prism:url>
-      <prism:copyright>© 2022 Jacob Buller-Young</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100485?af=R">
-      <title>Unofficial Vaccine Advocates: Technical Communication, Localization, and Care by COVID-19 Vaccine Trial Participants</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100485?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Unofficial Vaccine Advocates: Technical Communication, Localization, and Care by COVID-19 Vaccine Trial Participants</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2100485</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-07-17T07:39:22Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Kari Campeau</dc:creator>
-      <prism:publicationName>Unofficial Vaccine Advocates: Technical Communication, Localization, and Care by COVID-19 Vaccine Trial Participants</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>16</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2100485</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2100485?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2088973?af=R">
-      <title>Raveling the Brain: Toward a Transdisciplinary Neurorhetoric</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2088973?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Raveling the Brain: Toward a Transdisciplinary Neurorhetoric</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2088973</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-06-21T07:25:18Z</dc:date>
-      <dc:rights>© 2022 Elizabeth Skerpan-Wheeler</dc:rights>
-      <dc:creator>Elizabeth Skerpan-Wheeler</dc:creator>
-      <prism:publicationName>Raveling the Brain: Toward a Transdisciplinary Neurorhetoric</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>3</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2088973</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2088973?af=R</prism:url>
-      <prism:copyright>© 2022 Elizabeth Skerpan-Wheeler</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2088975?af=R">
-      <title>Global Perspectives on Intercultural Communication</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2088975?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Global Perspectives on Intercultural Communication</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2088975</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-06-16T04:49:00Z</dc:date>
-      <dc:rights>© 2022 Meghalee Das</dc:rights>
-      <dc:creator>Meghalee Das</dc:creator>
-      <prism:publicationName>Global Perspectives on Intercultural Communication</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>3</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2088975</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2088975?af=R</prism:url>
-      <prism:copyright>© 2022 Meghalee Das</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2085809?af=R">
-      <title>Slack, Social Justice, and Online Technical Communication Pedagogy</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2085809?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Slack, Social Justice, and Online Technical Communication Pedagogy</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2085809</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-06-14T07:02:23Z</dc:date>
-      <dc:rights>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC.</dc:rights>
-      <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
-      <dc:creator>Jennifer Sano-Franchini</dc:creator>
-      <dc:creator>André M. Jones</dc:creator>
-      <dc:creator>Priyanka Ganguly</dc:creator>
-      <dc:creator>Chloe J. Robertson</dc:creator>
-      <dc:creator>Luana J. Shafer</dc:creator>
-      <dc:creator>Marti Wagnon</dc:creator>
-      <dc:creator>Olayemi Awotayo</dc:creator>
-      <dc:creator>Megan Bronson</dc:creator>
-      <prism:publicationName>Slack, Social Justice, and Online Technical Communication Pedagogy</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>15</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2085809</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2085809?af=R</prism:url>
-      <prism:copyright>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC.</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2079725?af=R">
-      <title>Regulating Emotions for Social Action: Emotional Intelligence’s Role in TPC</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2079725?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Regulating Emotions for Social Action: Emotional Intelligence’s Role in TPC</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2079725</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-06-11T08:41:01Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Brandi J. Fuglsby</dc:creator>
-      <dc:creator>Saveena (Chakrika) Veeramoothoo</dc:creator>
-      <prism:publicationName>Regulating Emotions for Social Action: Emotional Intelligence’s Role in TPC</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>16</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2079725</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2079725?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2085810?af=R">
-      <title>“Who Am I Fighting For? Who Am I Accountable To?”: Comradeship as a Frame for Nonprofit Community Work in Technical Communication</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2085810?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>“Who Am I Fighting For? Who Am I Accountable To?”: Comradeship as a Frame for Nonprofit Community Work in Technical Communication</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2085810</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-06-11T12:51:12Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Erin Brock Carlson</dc:creator>
-      <prism:publicationName>“Who Am I Fighting For? Who Am I Accountable To?”: Comradeship as a Frame for Nonprofit Community Work in Technical Communication</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>16</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2085810</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2085810?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077453?af=R">
-      <title>Embodying empathy: using game design as a maker pedagogy to teach design thinking</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077453?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Embodying empathy: using game design as a maker pedagogy to teach design thinking</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2077453</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-06-05T01:50:45Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Rebekah Shultz Colby</dc:creator>
-      <prism:publicationName>Embodying empathy: using game design as a maker pedagogy to teach design thinking</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>15</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2077453</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077453?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2079726?af=R">
-      <title>Making a Case for Political Technical Communication (Pxtc)</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2079726?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Making a Case for Political Technical Communication (Pxtc)</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2079726</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-05-27T06:28:23Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Ryan Cheek</dc:creator>
-      <prism:publicationName>Making a Case for Political Technical Communication (Pxtc)</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>13</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2079726</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2079726?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077452?af=R">
-      <title>Building Better Machine Learning Models for Rhetorical Analyses: The Use of Rhetorical Feature Sets for Training Artificial Neural Network Models</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077452?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Building Better Machine Learning Models for Rhetorical Analyses: The Use of Rhetorical Feature Sets for Training Artificial Neural Network Models</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2077452</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-05-23T07:08:29Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Zoltan P. Majdik</dc:creator>
-      <dc:creator>James Wynn</dc:creator>
-      <prism:publicationName>Building Better Machine Learning Models for Rhetorical Analyses: The Use of Rhetorical Feature Sets for Training Artificial Neural Network Models</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>16</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2077452</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2077452?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069286?af=R">
-      <title>Diagnosing Unsettled Stasis in Transnational Communication Design: An Exploration of Public Health Emergency Communication</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069286?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Diagnosing Unsettled Stasis in Transnational Communication Design: An Exploration of Public Health Emergency Communication</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2069286</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-04-26T04:57:49Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Julie Gerdes</dc:creator>
-      <prism:publicationName>Diagnosing Unsettled Stasis in Transnational Communication Design: An Exploration of Public Health Emergency Communication</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>16</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2069286</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2069286?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2056637?af=R">
-      <title>Superdiversity: An Audience Analysis Praxis for Enacting Social Justice in Technical Communication</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2056637?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Superdiversity: An Audience Analysis Praxis for Enacting Social Justice in Technical Communication</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2056637</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-03-30T07:04:30Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Alison Cardinal</dc:creator>
-      <prism:publicationName>Superdiversity: An Audience Analysis Praxis for Enacting Social Justice in Technical Communication</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>13</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2056637</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2056637?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2056638?af=R">
-      <title>“I Do Think We Did the Right Things at the Right Time to Generate the Right Buzz1:” A TPC Framework for Public Events</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2056638?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>“I Do Think We Did the Right Things at the Right Time to Generate the Right Buzz1:” A TPC Framework for Public Events</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2056638</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-03-24T08:22:17Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>John J Silvestro</dc:creator>
-      <prism:publicationName>“I Do Think We Did the Right Things at the Right Time to Generate the Right Buzz1:” A TPC Framework for Public Events</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>16</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2056638</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2056638?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2047792?af=R">
-      <title>“It Makes Everything Just Another Story”: A Mixed Methods Study of Medical Storytelling on GoFundMe</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2047792?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>“It Makes Everything Just Another Story”: A Mixed Methods Study of Medical Storytelling on GoFundMe</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2047792</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-03-06T11:41:57Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Kari Campeau</dc:creator>
-      <dc:creator>Yee Thao</dc:creator>
-      <prism:publicationName>“It Makes Everything Just Another Story”: A Mixed Methods Study of Medical Storytelling on GoFundMe</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>17</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2047792</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2047792?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2036815?af=R">
-      <title>Technical Communication as Assemblage</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2036815?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Technical Communication as Assemblage</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2036815</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-03-02T06:24:21Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Johndan Johnson-Eilola</dc:creator>
-      <dc:creator>Stuart A. Selber</dc:creator>
-      <prism:publicationName>Technical Communication as Assemblage</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>19</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2036815</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2036815?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034974?af=R">
-      <title>When Extension and Rhetorical Engagement Meet: Framing Public Audiences for Agricultural Science Communication</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034974?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>When Extension and Rhetorical Engagement Meet: Framing Public Audiences for Agricultural Science Communication</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2034974</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-02-16T09:27:33Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Stacey Pigg</dc:creator>
-      <dc:creator>Lindsey Ray Scheper</dc:creator>
-      <prism:publicationName>When Extension and Rhetorical Engagement Meet: Framing Public Audiences for Agricultural Science Communication</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>16</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2034974</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034974?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034973?af=R">
-      <title>Transnational Assemblages in Disaster Response: Networked Communities, Technologies, and Coalitional Actions During Global Disasters</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034973?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Transnational Assemblages in Disaster Response: Networked Communities, Technologies, and Coalitional Actions During Global Disasters</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2034973</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-02-14T08:41:57Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Sweta Baniya</dc:creator>
-      <prism:publicationName>Transnational Assemblages in Disaster Response: Networked Communities, Technologies, and Coalitional Actions During Global Disasters</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>17</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2034973</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034973?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034975?af=R">
-      <title>Key-notes: A Content Analysis of ATTW Conferences 1998-2018</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034975?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Key-notes: A Content Analysis of ATTW Conferences 1998-2018</dc:title>
-      <dc:identifier>10.1080/10572252.2022.2034975</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-02-07T01:05:03Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Heather Noel Turner</dc:creator>
-      <prism:publicationName>Key-notes: A Content Analysis of ATTW Conferences 1998-2018</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>15</prism:endingPage>
-      <prism:doi>10.1080/10572252.2022.2034975</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2022.2034975?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2019317?af=R">
-      <title>Hyperrationality and Rhetorical Constellations in Digital Climate Change Denial: A Multi-Methodological Analysis of the Discourse of Watts up with That</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2019317?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Hyperrationality and Rhetorical Constellations in Digital Climate Change Denial: A Multi-Methodological Analysis of the Discourse of Watts up with That</dc:title>
-      <dc:identifier>10.1080/10572252.2021.2019317</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-01-20T01:07:13Z</dc:date>
-      <dc:rights>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC.</dc:rights>
-      <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
-      <dc:creator>Denise Tillery</dc:creator>
-      <dc:creator>Emma Frances Bloomfield</dc:creator>
-      <prism:publicationName>Hyperrationality and Rhetorical Constellations in Digital Climate Change Denial: A Multi-Methodological Analysis of the Discourse of Watts up with That</prism:publicationName>
+      <dc:date>2023-07-26T10:17:53Z</dc:date>
+      <dc:creator>Jo Mackiewicz Shaya Kraut Allison Durazzi Iowa State UniversityJo Mackiewicz is a professor of rhetoric and professional communication at Iowa State University. She studies the communication of pedagogical and workplace interactions. Her book, Welding Technical Communication: Teaching and Learning Embodied Knowledge was published by SUNY Press in 2022.Shaya Kraut is a PhD student in the Rhetoric and Professional Communication program at Iowa State University, where she teaches first-year writing. She has also worked as an ESL teacher, a writing center tutor, and a teacher/tutor for adult basic education. Her research interests include composition pedagogy and critical literacy.Allison Durazzi is a communication professional with experience in industry settings including law, the arts, and freelance editing. She is a Ph.D. student in Rhetoric and Professional Communication at Iowa State University where she researches and teaches technical editing and teaches business, technical, and speech communication courses.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
       <prism:startingPage>1</prism:startingPage>
       <prism:endingPage>18</prism:endingPage>
-      <prism:doi>10.1080/10572252.2021.2019317</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2019317?af=R</prism:url>
-      <prism:copyright>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC.</prism:copyright>
+      <prism:doi>10.1080/10572252.2023.2236671</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2236671?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2019318?af=R">
-      <title>Required Templates: An Assemblage Theory Analysis of How Template Character Limits Influence the Writing of DIY Online Grant Proposals</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2019318?af=R</link>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2240854?af=R">
+      <title>Social Justice and “Harmful Tech”: Dis-Orienting Militarized Research</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2240854?af=R</link>
       <content:encoded>. &lt;br/&gt;</content:encoded>
       <description>. &lt;br/&gt;</description>
-      <dc:title>Required Templates: An Assemblage Theory Analysis of How Template Character Limits Influence the Writing of DIY Online Grant Proposals</dc:title>
-      <dc:identifier>10.1080/10572252.2021.2019318</dc:identifier>
+      <dc:title>Social Justice and “Harmful Tech”: Dis-Orienting Militarized Research</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2023.2240854</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-01-20T01:09:11Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>John R. Gallagher</dc:creator>
-      <dc:creator>Anna Wysocka</dc:creator>
-      <dc:creator>Steven Holmes</dc:creator>
-      <prism:publicationName>Required Templates: An Assemblage Theory Analysis of How Template Character Limits Influence the Writing of DIY Online Grant Proposals</prism:publicationName>
-      <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>13</prism:endingPage>
-      <prism:doi>10.1080/10572252.2021.2019318</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2019318?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2024606?af=R">
-      <title>Tactical (Dis)connection in Smart Cities: Postconnectivist Technical Communication for a Datafied World</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2024606?af=R</link>
-      <content:encoded>. &lt;br/&gt;</content:encoded>
-      <description>. &lt;br/&gt;</description>
-      <dc:title>Tactical (Dis)connection in Smart Cities: Postconnectivist Technical Communication for a Datafied World</dc:title>
-      <dc:identifier>10.1080/10572252.2021.2024606</dc:identifier>
-      <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-01-18T07:19:16Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Gustav Verhulsdonck</dc:creator>
-      <dc:creator>Jason Tham</dc:creator>
-      <prism:publicationName>Tactical (Dis)connection in Smart Cities: Postconnectivist Technical Communication for a Datafied World</prism:publicationName>
+      <dc:date>2023-08-08T10:16:32Z</dc:date>
+      <dc:creator>Calvin Pollak Sanvi Bhardwaj a Utah State Universityb Cornell UniversityCalvin Pollak is a postdoctoral teaching fellow in Technical Communication &amp; Rhetoric at Utah State University, where he teaches courses on research methods and professional editing. His scholarly interests include institutional rhetoric, language accessibility, and social justice. He is also co-founder, co-producer, and co-host of re:verb, a podcast about language in action.Sanvi Bhardwaj is a junior at Cornell University studying Health Care Policy and Inequality Studies. Her scholarly interests include social justice, health disparities among marginalized groups, and community-based healthcare interventions. She is also involved in local activism as a member of Cornell Progressives.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
       <prism:startingPage>1</prism:startingPage>
       <prism:endingPage>17</prism:endingPage>
-      <prism:doi>10.1080/10572252.2021.2024606</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2024606?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
+      <prism:doi>10.1080/10572252.2023.2240854</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2240854?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2021451?af=R">
-      <title>“An Excelent Good Remedi”: Medical Recipes as Ethos-Building Tactical Technical Communication in Early Modern England</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2021451?af=R</link>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2245442?af=R">
+      <title>“I Feel Like I’m in a Box”: Contrasting Virtual Reality “Imaginaries” in the Context of Academic Innovation Labs</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2245442?af=R</link>
       <content:encoded>. &lt;br/&gt;</content:encoded>
       <description>. &lt;br/&gt;</description>
-      <dc:title>“An Excelent Good Remedi”: Medical Recipes as Ethos-Building Tactical Technical Communication in Early Modern England</dc:title>
-      <dc:identifier>10.1080/10572252.2021.2021451</dc:identifier>
+      <dc:title>“I Feel Like I’m in a Box”: Contrasting Virtual Reality “Imaginaries” in the Context of Academic Innovation Labs</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2023.2245442</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-01-09T02:08:26Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Danielle Mollie Stambler</dc:creator>
-      <prism:publicationName>“An Excelent Good Remedi”: Medical Recipes as Ethos-Building Tactical Technical Communication in Early Modern England</prism:publicationName>
+      <dc:date>2023-08-10T12:06:10Z</dc:date>
+      <dc:creator>Brent Lucia Matthew A. Vetter David A. Solberg a University of Connecticutb Indiana University of Pennsylvaniac Holy Family InstituteBrent Lucia is an Assistant Professor In-Residence at the University of Connecticut School of Business. He has a PhD in Composition and Applied Linguistics from Indiana University of Pennsylvania. His current research explores the rhetorics of technology and its relationship to the production of space. His recent scholarship can be found in Rhetoric Review, Business and Professional Communication Quarterly, and Enculturation.Matthew A. Vetter is an Associate Professor of English and affiliate faculty in the Composition and Applied Linguistics PhD program at Indiana University of Pennsylvania. His research, which asks questions related to technology, rhetoric, and writing, has been published widely in venues such as Social Media and Society, Rhetoric Review, Studies in Higher Education, and Computers and Composition. His co-authored book, Wikipedia and the Representation of Reality, was published by Routledge in 2021.David A. Solberg is a teaching assistant at the Holy Family Institute in Pittsburgh, Pennsylvania. He received his MA degree in TESOL (Teaching English to Speakers of Other Languages) from Indiana University of Pennsylvania. His master’s thesis was entitled The Use of Parallelism in Poetry Writing for the Acquisition of English Grammar (available from ProQuest).</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2023.2245442</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2245442?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2246050?af=R">
+      <title>’F---- Shark Tank:’ Rethinking the Centrality of the Business Pitch in Microenterprise Entrepreneurship</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2246050?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>’F---- Shark Tank:’ Rethinking the Centrality of the Business Pitch in Microenterprise Entrepreneurship</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2023.2246050</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2023-08-22T06:07:47Z</dc:date>
+      <dc:creator>Mason T. Pellegrini Texas Tech UniversityMason Pellegrini is an assistant professor in technical communication and rhetoric at Texas Tech University. His main research areas are entrepreneurial communication, workplace writing, academic publishing, and qualitative research methods. In 2022, Mason received a Fulbright Open Research Grant to Chile, which he used to study entrepreneurship communication at the famous Chilean business accelerator Start-Up Chile.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2023.2246050</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2246050?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2292985?af=R">
+      <title>Decolonizing mHealth Technology for User Empowerment and Persuasion in the Global South Healthcare Context: A Case Study</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2292985?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Decolonizing mHealth Technology for User Empowerment and Persuasion in the Global South Healthcare Context: A Case Study</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2023.2292985</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2023-12-22T12:20:49Z</dc:date>
+      <dc:creator>Keshab Raj Acharya University at Buffalo—SUNYKeshab Raj Acharya is a faculty member at the University at Buffalo—the State University of New York—where he teaches courses related to technical communication in the Department of Engineering Education. His research interests in technical and professional communication include the rhetoric of health and medicine, usability studies, user localization, inter/cross cultural technical communication, international technical communication, and social justice. His publications have appeared in the journals Technical Communication, Journal of Technical Writing and Communication, Technical Communication and Social Justice, Communication Design Quarterly, and Present Tense, among others.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>22</prism:endingPage>
+      <prism:doi>10.1080/10572252.2023.2292985</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2292985?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2299465?af=R">
+      <title>Please Provide the Following Information: Enthymemes and the Logics of Individual Responsibility in the Patient Medical History Form</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2299465?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Please Provide the Following Information: Enthymemes and the Logics of Individual Responsibility in the Patient Medical History Form</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2023.2299465</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2023-12-30T04:08:47Z</dc:date>
+      <dc:creator>Kelly A. Whitney Ohio State UniversityKelly A. Whitney is an Assistant Professor of English at Ohio State University. Her research examines the rhetorical processes of sensations in medical contexts. She teaches in the Rhetoric, Writing, and Literacy program at Ohio State Mansfield campus.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>23</prism:endingPage>
+      <prism:doi>10.1080/10572252.2023.2299465</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2299465?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2302467?af=R">
+      <title>Constructed Ethos and Kairotic Responses in Communicating About the COVID-19 Pandemic to the Chinese Public: A Rhetorical Analysis of Dr. Wenhong Zhang’s Posts on WeChat</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2302467?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Constructed Ethos and Kairotic Responses in Communicating About the COVID-19 Pandemic to the Chinese Public: A Rhetorical Analysis of Dr. Wenhong Zhang’s Posts on WeChat</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2302467</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-01-10T08:02:37Z</dc:date>
+      <dc:creator>Jianfen Chen Towson UniversityJianfen Chen is an assistant professor in Technical Communication at Towson University. She teaches undergraduate courses in professional and technical communication. Her research focuses on technical and professional communication, public rhetoric, digital rhetoric, and environmental and health risk communication.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>21</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2302467</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2302467?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342040?af=R">
+      <title>Emerging Perspectives in Medical Case Report Writing: How Guidelines Support Inclusion of Patient-Reported Outcomes</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342040?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Emerging Perspectives in Medical Case Report Writing: How Guidelines Support Inclusion of Patient-Reported Outcomes</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2342040</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-04-20T04:41:53Z</dc:date>
+      <dc:creator>Chad Wickman Auburn UniversityChad Wickman is an Associate Professor in the Department of English at Auburn University where he teaches undergraduate and graduate courses in writing, rhetoric, and technical communication. Informed by scholarship in these areas, his research explores intersections between writing and knowledge making in disciplinary and professional communication.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2342040</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2342040?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352113?af=R">
+      <title>A Black Fetus? Examining Social Justice in Medical Illustrations in Technical and Professional Communication (TPC) Pedagogical Materials</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352113?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A Black Fetus? Examining Social Justice in Medical Illustrations in Technical and Professional Communication (TPC) Pedagogical Materials</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2352113</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-05-14T05:03:01Z</dc:date>
+      <dc:creator>G. Edzordzi Agbozo Isidore K. Dorpenyo Godwin Y. Agboka a University of North Carolina Wilmingtonb George Mason Universityc University of Houston-DowntownG. Edzordzi Agbozo is an Assistant Professor of English at the University of North Carolina Wilmington. He researches the complex dimensions of technology development and localization; medical and science communication, critical discourse analysis, social justice, and international/intercultural technical communication. He co-edited Communicative Perspectives on COVID-19 in Ghana: At the Intersection of Culture, Science, Religion and Politics (Routledge, 2024) and Communication and Electoral Politics in Ghana: Interrogating Transnational Technology, Discourse, and Multimodality (Palgrave Macmillan 2024). His articles have appeared in Technical Communication Quarterly, Technical Communication, Technical Communication &amp; Social Justice, Composition Studies, Programmatic Perspectives, and IEEE Transactions on Professional Communication.Isidore K. Dorpenyo is a tenured Associate Professor of English at George Mason University. His research focuses on election technology, science and technology, international/intercultural technical communication, social justice, and localization. He is the author of the book: User-localization Strategies in the Face of Technological Breakdown: Biometric in Ghana’s Elections. Dr. Dorpenyo, has been named the 2024 winner of the Ken Rainey Award for Distinguished Research. Also, his co-authored article is the winner of the 2023 CCCC Technical and Scientific Communication Award for Best Article on Pedagogy or Curriculum in Technical and Scientific Communication. He has published in Technical Communication Quarterly, the Journal of Business and Technical Communication, Technical Communication, IEEE Transactions on Professional Communication, Programmatic Perspectives, and the Journal of Technical Writing and Communication.Godwin Y. Agboka is professor of technical and professional communication (TPC) at the University of Houston-Downtown, where he teaches courses in TPC. His research interests include intercultural communication, social justice, human rights, medical and science communication, legal writing, and research methodologies. His publications have appeared in Technical Communication Quarterly, Technical Communication, Journal of Business and Technical Communication, Journal of Technical Writing and Communication, Connexions, Technical Communication &amp; Social Justice, IEEE Transactions on Professional Communication, and in books. He has also co-edited several book collections and journal special issues, all on themes of social justice.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2352113</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352113?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352102?af=R">
+      <title>Pandemic Communications Beyond Risk and Crisis: A Change of Course for Law Enforcement During COVID-19</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352102?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Pandemic Communications Beyond Risk and Crisis: A Change of Course for Law Enforcement During COVID-19</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2352102</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-06-03T02:09:22Z</dc:date>
+      <dc:creator>Sarah Young Erasmus University RotterdamSarah Young is a Postdoctoral researcher in Digitalization and Artificial Intelligence at Erasmus University in Rotterdam, Netherlands. She researches technical and professional communication, especially themes of privacy and surveillance. She previously worked as an investigator retained by the United States government for over a decade.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2352102</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352102?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352106?af=R">
+      <title>A Memetic Pandemic: COVID-19 Memes As Tactical Risk Communication</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352106?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A Memetic Pandemic: COVID-19 Memes As Tactical Risk Communication</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2352106</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-05-23T01:52:31Z</dc:date>
+      <dc:creator>Derek M. Sparby Illinois State UniversityDerek M. Sparby (they/he) is an Associate Professor at Illinois State University where they teach courses in digital rhetorics and technical communication. Their research interests lie at the intersection of memes, online aggression, and ethics, and their publications have appeared in enculturation, Computers and Composition, Technical Communication Quarterly, Communication Design Quarterly, and several edited collections. They are the co-editor of Digital Ethics: Rhetoric and Responsibility in Online Aggression and the author of Memetic Rhetorics: Toward an Ethical Toolkit for Meming.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2352106</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2352106?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2367779?af=R">
+      <title>Misinformation As Genre Function: Insights on the Infodemic from a Genre-Theoretical Perspective</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2367779?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Misinformation As Genre Function: Insights on the Infodemic from a Genre-Theoretical Perspective</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2367779</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-06-18T08:53:15Z</dc:date>
+      <dc:creator>Ashley Rose Mehlenbacher Brad Mehlenbacher University of WaterlooDr. Ashley Rose Mehlenbacher is an Associate Professor and a Canada Research Chair at the University of Waterloo, Canada. She is the author of On Expertise (Penn State UP), Science Communication Online (OSUP) and coeditor of Emerging Genres in New Media Environments (Palgrave).Dr. Brad Mehlenbacher is Professor of Rhetoric and Communication in the Department of English Language and Literature at the University of Waterloo, Canada. He is the author of the award-winning book, Instruction and Technology: Designs for Everyday Learning (MIT Press, 2010).</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
       <prism:startingPage>1</prism:startingPage>
       <prism:endingPage>15</prism:endingPage>
-      <prism:doi>10.1080/10572252.2021.2021451</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2021451?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
+      <prism:doi>10.1080/10572252.2024.2367779</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2367779?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2021452?af=R">
-      <title>The Aural-Visual Rhetoric in Video Game Tutorials</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2021452?af=R</link>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2372784?af=R">
+      <title>Building Translator Repertoire Across a Humanitarian Translation App: Translingual Practice and Tarjimly</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2372784?af=R</link>
       <content:encoded>. &lt;br/&gt;</content:encoded>
       <description>. &lt;br/&gt;</description>
-      <dc:title>The Aural-Visual Rhetoric in Video Game Tutorials</dc:title>
-      <dc:identifier>10.1080/10572252.2021.2021452</dc:identifier>
+      <dc:title>Building Translator Repertoire Across a Humanitarian Translation App: Translingual Practice and Tarjimly</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2372784</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2022-01-07T09:14:38Z</dc:date>
-      <dc:rights>© 2022 Association of Teachers of Technical Writing</dc:rights>
-      <dc:creator>Emily K. Johnson</dc:creator>
-      <prism:publicationName>The Aural-Visual Rhetoric in Video Game Tutorials</prism:publicationName>
+      <dc:date>2024-06-29T11:37:58Z</dc:date>
+      <dc:creator>Gabriel Lorenzo Aguilar Penn State UniversityGabriel Lorenzo Aguilar is a PhD candidate at Penn State University studying humanitarian technical communication. He has accepted a position as an Assistant Professor of Technical Writing and Professional Design at the University of Texas at Arlington to begin in Fall 2024.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
       <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>11</prism:endingPage>
-      <prism:doi>10.1080/10572252.2021.2021452</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2021452?af=R</prism:url>
-      <prism:copyright>© 2022 Association of Teachers of Technical Writing</prism:copyright>
+      <prism:endingPage>14</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2372784</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2372784?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2010027?af=R">
-      <title>Correction</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2010027?af=R</link>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2372771?af=R">
+      <title>Automating Media Accessibility: An Approach for Analyzing Audio Description Across Generative Artificial Intelligence Algorithms</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2372771?af=R</link>
       <content:encoded>. &lt;br/&gt;</content:encoded>
       <description>. &lt;br/&gt;</description>
-      <dc:title>Correction</dc:title>
-      <dc:identifier>10.1080/10572252.2021.2010027</dc:identifier>
+      <dc:title>Automating Media Accessibility: An Approach for Analyzing Audio Description Across Generative Artificial Intelligence Algorithms</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2372771</dc:identifier>
       <dc:source>Technical Communication Quarterly</dc:source>
-      <dc:date>2021-12-17T07:02:01Z</dc:date>
-      <dc:rights>© 2021 Association of Teachers of Technical Writing</dc:rights>
-      <prism:publicationName>Correction</prism:publicationName>
+      <dc:date>2024-07-07T05:32:13Z</dc:date>
+      <dc:creator>Daniel Bergin Brett Oppegaard University of HawaiʻiDaniel Bergin is a PhD student in Communication &amp; Information Sciences at the University of Hawaiʻi at Mānoa. He researches media futures, artificial intelligence, digital transformation, change management, and cybersecurity in the School of Communication and Information. He can be reached via: bergind@hawaii.edu.Brett Oppegaard is an associate professor in the School of Communication and Information at the University of Hawaiʻi at Mānoa in Honolulu, HI. He researches media-production processes and products at intersections of Technical Communication, Rhetoric, Human-Computer Interaction, Disability Studies, Digital Inequalities, and Journalism. For his recent research involving Audio Description, he has been honored by Helen Keller Services with the AccessAbility Award (2022), The Best of Heritage, ICOM, and Europa Nostra with the Projects of Influence Award (2021), The American Alliance of Museums’ The MUSE Award (2020), and the American Council of the Blind’s Margaret Pfanstiehl Audio Description Achievement Award in R&amp;D (2019). His Audio Description research during that time also has been supported by grants from the U.S. National Park Service, the U.S. National Endowment for the Humanities, the U.S. National Endowment for the Arts, and Google. He can be reached via: brett.oppegaard@hawaii.edu.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
       <prism:startingPage>1</prism:startingPage>
-      <prism:endingPage>1</prism:endingPage>
-      <prism:doi>10.1080/10572252.2021.2010027</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2021.2010027?af=R</prism:url>
-      <prism:copyright>© 2021 Association of Teachers of Technical Writing</prism:copyright>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2372771</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2372771?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2374379?af=R">
+      <title>‘Flatten the curve’: rhetorical data visualizations of a global pandemic</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2374379?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>‘Flatten the curve’: rhetorical data visualizations of a global pandemic</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2374379</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-07-09T01:28:06Z</dc:date>
+      <dc:creator>Molly Hartzog Frostburg State UniversityMolly Hartzog is a Senior Health Education Specialist at Karna, LLC in Atlanta, Georgia. she provides direction in curriculum development and training, strategic communication, communication products, and general project management.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>16</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2374379</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2374379?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2306259?af=R">
+      <title>A Stasis Network Methodology to Reckon with the Rhetorical Process of Data: How a Data Team Qualified Meaning and Practices</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2306259?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>A Stasis Network Methodology to Reckon with the Rhetorical Process of Data: How a Data Team Qualified Meaning and Practices</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2306259</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-01-16T02:31:01Z</dc:date>
+      <dc:creator>Chris A. Lindgren Virginia TechChris A. Lindgren is an Assistant Professor of Technical Communication in the English Department at Virginia Tech. He teaches in the Professional &amp; Technical Writing undergraduate program and Rhetoric &amp; Writing Ph.D. program. His research focuses on theorizing computer coding as a form of writing with data, how data processing and analysis impact data visualization, and intersectional approaches to user experiences and content strategy. His work has been published in Written Communication, Journal of Business and Technical Communication, Communication Design Quarterly, and Reflections.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>26</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2306259</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2306259?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2310456?af=R">
+      <title>Nestwork: New Material Rhetorics for Precarious Species</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2310456?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Nestwork: New Material Rhetorics for Precarious Species</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2310456</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-01-30T05:51:31Z</dc:date>
+      <dc:creator>Alexandra Gunnells The University of Texas at AustinAlexandra Gunnells is a PhD student in Rhetoric &amp; Writing at the University of Texas at Austin.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>3</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2310456</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2310456?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2375362?af=R">
+      <title>Covid and … How to Do Rhetoric in a Pandemic</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2375362?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Covid and … How to Do Rhetoric in a Pandemic</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2375362</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-07-05T11:58:42Z</dc:date>
+      <dc:creator>Brittany Smart Indiana University School of MedicineBrittany Smart is a research writer at the Indiana University School of Medicine, working within the Health Equity Advancing through Learning health systems Research (HEAL-R) Collaborative, which aims to address pressing health disparities through equity research. Her research interests include health equity/justice, the rhetoric of health and medicine, health communication, information literacy, and scientific, technical, and professional writing pedagogy.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>4</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2375362</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2375362?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2240856?af=R">
+      <title>“A Proficiency in What We Call Rhetoric”: A Role for Community-Engaged Technical Communicators in Interpretive Planning Processes</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2240856?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>“A Proficiency in What We Call Rhetoric”: A Role for Community-Engaged Technical Communicators in Interpretive Planning Processes</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2023.2240856</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2023-07-28T06:03:10Z</dc:date>
+      <dc:creator>Lauren E. Cagle University of KentuckyLauren E. Cagle is an Associate Professor of Writing, Rhetoric, and Digital Studies and Affiliate Faculty in Environmental and Sustainability Studies and Appalachian Studies at the University of Kentucky. She teaches environmental rhetoric, technical communication, and communication in the natural and social sciences. Her research often focuses on overlaps between these areas; she studies questions such as how web interfaces promote productive conversations about climate change, how smartphones’ ubiquity change our everyday behaviors, and how signage design in public spaces can increase environmental knowledge. Her work has been published in Technical Communication Quarterly, the Journal of Technical Writing and Communication, Computers &amp; Composition, Rhetoric Review, and POROI.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:doi>10.1080/10572252.2023.2240856</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2240856?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2274067?af=R">
+      <title>The Paradigm Shift to UX and the Durability of Usability in TPC</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2274067?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>The Paradigm Shift to UX and the Durability of Usability in TPC</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2023.2274067</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2023-10-29T03:34:01Z</dc:date>
+      <dc:creator>Emma J. Rose Heather N. Turner a University of Washington Tacomab Santa Clara UniversityEmma J. Rose is an Associate Professor in Technical Communication and a core faculty member in the Global Innovation and Design Lab at the University of Washington Tacoma she also holds an adjunct appointment in Human-Centered Design &amp; Engineering at the University of Washington Seattle. Her research is motivated by a commitment to social justice to engage in questions about how technologies are designed and who is doing the designing. Prior to her academic career, she spent over a decade working as a user experience consultant. Her current research focuses on UX pedagogy.Heather Noel Turner is an Assistant Professor and Director of Internships in the Department of English at Santa Clara University (SCU). Her research interests include User Experience (UX), pedagogy, design methodologies, and rhetorical approaches for data visualization. At SCU, Dr. Turner serves as founder and director of the User-Experience Research and Writing Lab and as a member of the Digital Humanities Working Group Advisory Council.</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>12</prism:endingPage>
+      <prism:doi>10.1080/10572252.2023.2274067</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2023.2274067?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2360864?af=R">
+      <title>Works Like a Charm: Incentive Rhetoric and the Economization of Everyday Life</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2360864?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Works Like a Charm: Incentive Rhetoric and the Economization of Everyday Life</dc:title>
+      <dc:identifier>doi:10.1080/10572252.2024.2360864</dc:identifier>
+      <dc:source>Technical Communication Quarterly</dc:source>
+      <dc:date>2024-05-30T08:02:40Z</dc:date>
+      <dc:creator>Oren Abeles Michigan Technological University</dc:creator>
+      <prism:publicationName>Technical Communication Quarterly</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>4</prism:endingPage>
+      <prism:doi>10.1080/10572252.2024.2360864</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/10572252.2024.2360864?af=R</prism:url>
+      <prism:copyright/>
    </item>
 </rdf:RDF>
-<!-- cached:  1660936168-->
+<!-- cached:  1721920396-->

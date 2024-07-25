@@ -15,222 +15,167 @@
       <prism:publicationName>Rhetoric Review</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077033?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077017?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077034?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077035?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077036?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2038510?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073779?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073765?af=R"/>
-            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073766?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2356425?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349840?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349860?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349861?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2351723?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349837?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349838?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hrhr20/2022/hrhr20.v041.i03/hrhr20.v041.i03/20220713-01/hrhr20.v041.i03.cover.jpg">
+   <image rdf:about="https://www.tandfonline.com/cms/asset/123a741d-fc43-4172-8d27-7578bc0e0f8b/default_cover.jpg">
       <title>Rhetoric Review</title>
-      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hrhr20/2022/hrhr20.v041.i03/hrhr20.v041.i03/20220713-01/hrhr20.v041.i03.cover.jpg</url>
+      <url>https://www.tandfonline.com/cms/asset/123a741d-fc43-4172-8d27-7578bc0e0f8b/default_cover.jpg</url>
       <link>https://www.tandfonline.com/loi/hrhr20?af=R</link>
    </image>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077033?af=R">
-      <title>Turning Tricks in Athens</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077033?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 155-167&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 41, Issue 3, 2022, Page 155-167&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Turning Tricks in Athens</dc:title>
-      <dc:identifier>10.1080/07350198.2022.2077033</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2356425?af=R">
+      <title>Latin Literature and Roman Rhetoric … and Beyond: A Symbiotic Relationship Re-examined</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2356425?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/43/3"&gt;Volume 43, Issue 3&lt;/a&gt;, July 2024, Page 217-221&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 43, Issue 3, July 2024, Page 217-221&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Latin Literature and Roman Rhetoric … and Beyond: A Symbiotic Relationship Re-examined</dc:title>
+      <dc:identifier>doi:10.1080/07350198.2024.2356425</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2022-07-13T10:44:27Z</dc:date>
-      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>T Passwater</dc:creator>
-      <prism:publicationName>Turning Tricks in Athens</prism:publicationName>
-      <prism:volume>41</prism:volume>
+      <dc:date>2024-06-19T04:41:14Z</dc:date>
+      <dc:creator>Richard Leo Enos Texas Christian University</dc:creator>
+      <prism:publicationName>Rhetoric Review</prism:publicationName>
+      <prism:volume>43</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>217</prism:startingPage>
+      <prism:endingPage>221</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2024.2356425</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2356425?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349840?af=R">
+      <title>“There is Not One Shred of Evidence That [Being Trans] is Not a Divine Gift”: Grace and Lace Letter and the Rhetorical Construction of an Evangelical Transfeminine Identity</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349840?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/43/3"&gt;Volume 43, Issue 3&lt;/a&gt;, July 2024, Page 187-200&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 43, Issue 3, July 2024, Page 187-200&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>“There is Not One Shred of Evidence That [Being Trans] is Not a Divine Gift”: Grace and Lace Letter and the Rhetorical Construction of an Evangelical Transfeminine Identity</dc:title>
+      <dc:identifier>doi:10.1080/07350198.2024.2349840</dc:identifier>
+      <dc:source>Rhetoric Review</dc:source>
+      <dc:date>2024-06-19T04:41:14Z</dc:date>
+      <dc:creator>N. Claire Jackson Grace Katherine Berlew Department of English, College of the Holy Cross, Worcester, MA, USAN. Claire Jackson is an assistant professor of Writing Studies at SUNY Geneseo. She researches writing program administration, writing assessment, language and literacy ideologies, and transgender rhetorics. Her work has appeared in Composition Forum, Peitho, Journal of Writing Analytics, and various edited collections.Grace Katherine Berlew is a recent graduate of the College of the Holy Cross, where she received a BA in Sociology with a concentration in social construction. For the last three years, she has been a staff writer for The Citizens’ Voice newspaper, during which time she has brought home two annual “Best of the Best” awards for her slice of life community column. She now works full-time for the Pennsylvania House of Representatives as a legislative assistant and service advisor for her home state.</dc:creator>
+      <prism:publicationName>Rhetoric Review</prism:publicationName>
+      <prism:volume>43</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>187</prism:startingPage>
+      <prism:endingPage>200</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2024.2349840</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349840?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349860?af=R">
+      <title>A Manual Training Method as Literate Practice: Rhetorics of the Sloyd Training School for Teachers, 1904-1914</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349860?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/43/3"&gt;Volume 43, Issue 3&lt;/a&gt;, July 2024, Page 173-186&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 43, Issue 3, July 2024, Page 173-186&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>A Manual Training Method as Literate Practice: Rhetorics of the Sloyd Training School for Teachers, 1904-1914</dc:title>
+      <dc:identifier>doi:10.1080/07350198.2024.2349860</dc:identifier>
+      <dc:source>Rhetoric Review</dc:source>
+      <dc:date>2024-06-19T04:41:14Z</dc:date>
+      <dc:creator>Laura Proszak Mercy UniversityLaura Proszak is an Assistant Professor and Composition Coordinator within the Department of Literature and Language at Mercy University, New York. Her research centers on archival studies and rhetorical education at late nineteenth- and early twentieth-century schools. Laura can be contacted at lproszak@mercy.edu.</dc:creator>
+      <prism:publicationName>Rhetoric Review</prism:publicationName>
+      <prism:volume>43</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>173</prism:startingPage>
+      <prism:endingPage>186</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2024.2349860</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349860?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349861?af=R">
+      <title>Understanding the Ideological Force of Graduate Application Materials: A Rhetorical Genre Study of Personal Statement Prompts</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349861?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/43/3"&gt;Volume 43, Issue 3&lt;/a&gt;, July 2024, Page 201-216&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 43, Issue 3, July 2024, Page 201-216&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Understanding the Ideological Force of Graduate Application Materials: A Rhetorical Genre Study of Personal Statement Prompts</dc:title>
+      <dc:identifier>doi:10.1080/07350198.2024.2349861</dc:identifier>
+      <dc:source>Rhetoric Review</dc:source>
+      <dc:date>2024-06-19T04:41:14Z</dc:date>
+      <dc:creator>Olalekan T. Adepoju Joseph E. Sharp a The College of Staten Island, CUNY, NY, USAb Abraham Baldwin Agricultural College, Tifton, USAOlalekan Adepoju, PhD is a college professor who teaches courses in writing and rhetoric at the College of Staten Island, New York. His research interests lie in the intersections of rhetoric, transnational writing, empathy, and social justice. He has authored various articles, each contributing valuable insights to the field of English language, Rhetoric and Composition.Joseph Sharp, PhD is an Assistant Professor of English at Abraham Baldwin Agricultural College in Tifton, Georgia where he teaches courses in British literature and professional and technical writing. His research has been published in the Journal for the History of Rhetoric and the Routledge Companion to Global Chaucer.</dc:creator>
+      <prism:publicationName>Rhetoric Review</prism:publicationName>
+      <prism:volume>43</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>201</prism:startingPage>
+      <prism:endingPage>216</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2024.2349861</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349861?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2351723?af=R">
+      <title>Post-Rhetoric: A Rhetorical Profile of the Generative Artificial Intelligence Chatbot</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2351723?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/43/3"&gt;Volume 43, Issue 3&lt;/a&gt;, July 2024, Page 155-172&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 43, Issue 3, July 2024, Page 155-172&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Post-Rhetoric: A Rhetorical Profile of the Generative Artificial Intelligence Chatbot</dc:title>
+      <dc:identifier>doi:10.1080/07350198.2024.2351723</dc:identifier>
+      <dc:source>Rhetoric Review</dc:source>
+      <dc:date>2024-06-19T04:41:14Z</dc:date>
+      <dc:creator>Zhaozhe Wang Institute for the Study of University Pedagogy, Ontario Institute for Studies in Education, University of TorontoZhaozhe Wang is an Assistant Professor of Writing and Rhetoric Studies at the University of Toronto. His work, which explores the vitality (or lack thereof) of rhetorical circulation in the digital age, has appeared in Quarterly Journal of Speech, Rhetoric Review, and Rhetoric Society Quarterly. He is a recipient of the Theresa J. Enos Anniversary Award for his first Rhetoric Review essay titled “The Switched-off Circulation: A Rhetoric of Disconnect.”</dc:creator>
+      <prism:publicationName>Rhetoric Review</prism:publicationName>
+      <prism:volume>43</prism:volume>
       <prism:number>3</prism:number>
       <prism:startingPage>155</prism:startingPage>
-      <prism:endingPage>167</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2022.2077033</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077033?af=R</prism:url>
-      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
+      <prism:endingPage>172</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2024.2351723</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2351723?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077017?af=R">
-      <title>Unmaking Colonial Fictions: Cherríe Moraga’s Rhetorics of Fragmentation and Semi-ness</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077017?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 168-183&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 41, Issue 3, 2022, Page 168-183&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Unmaking Colonial Fictions: Cherríe Moraga’s Rhetorics of Fragmentation and Semi-ness</dc:title>
-      <dc:identifier>10.1080/07350198.2022.2077017</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349837?af=R">
+      <title>Kenneth Burke’s Weed Garden: Refiguring the Mythic Grounds of Modern Rhetoric</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349837?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/43/3"&gt;Volume 43, Issue 3&lt;/a&gt;, July 2024, Page 222-223&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 43, Issue 3, July 2024, Page 222-223&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Kenneth Burke’s Weed Garden: Refiguring the Mythic Grounds of Modern Rhetoric</dc:title>
+      <dc:identifier>doi:10.1080/07350198.2024.2349837</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2022-07-13T10:44:28Z</dc:date>
-      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Loretta Victoria Ramirez</dc:creator>
-      <prism:publicationName>Unmaking Colonial Fictions: Cherríe Moraga’s Rhetorics of Fragmentation and Semi-ness</prism:publicationName>
-      <prism:volume>41</prism:volume>
+      <dc:date>2024-06-19T04:41:14Z</dc:date>
+      <dc:creator>Christian Taylor Clemson University</dc:creator>
+      <prism:publicationName>Rhetoric Review</prism:publicationName>
+      <prism:volume>43</prism:volume>
       <prism:number>3</prism:number>
-      <prism:startingPage>168</prism:startingPage>
-      <prism:endingPage>183</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2022.2077017</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077017?af=R</prism:url>
-      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
+      <prism:startingPage>222</prism:startingPage>
+      <prism:endingPage>223</prism:endingPage>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2024.2349837</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349837?af=R</prism:url>
+      <prism:copyright/>
    </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077034?af=R">
-      <title>Ethos, Hospitality, and the Pursuit of Rhetorical Healing: How Three Decolonial Cookbooks Reconstitute Cultural Identity through Ancestral Foodways</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077034?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 184-197&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 41, Issue 3, 2022, Page 184-197&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Ethos, Hospitality, and the Pursuit of Rhetorical Healing: How Three Decolonial Cookbooks Reconstitute Cultural Identity through Ancestral Foodways</dc:title>
-      <dc:identifier>10.1080/07350198.2022.2077034</dc:identifier>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349838?af=R">
+      <title>Monster Metaphors: When Rhetoric Runs Amok</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349838?af=R</link>
+      <content:encoded>&lt;a href="/toc/hrhr20/43/3"&gt;Volume 43, Issue 3&lt;/a&gt;, July 2024, Page 223-225&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 43, Issue 3, July 2024, Page 223-225&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Monster Metaphors: When Rhetoric Runs Amok</dc:title>
+      <dc:identifier>doi:10.1080/07350198.2024.2349838</dc:identifier>
       <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2022-07-13T10:44:27Z</dc:date>
-      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Brita M. Thielen</dc:creator>
-      <prism:publicationName>Ethos, Hospitality, and the Pursuit of Rhetorical Healing: How Three Decolonial Cookbooks Reconstitute Cultural Identity through Ancestral Foodways</prism:publicationName>
-      <prism:volume>41</prism:volume>
+      <dc:date>2024-06-19T04:41:14Z</dc:date>
+      <dc:creator>Zilong Zhong Research Institute of Foreign Languages, Beijing Foreign Studies University</dc:creator>
+      <prism:publicationName>Rhetoric Review</prism:publicationName>
+      <prism:volume>43</prism:volume>
       <prism:number>3</prism:number>
-      <prism:startingPage>184</prism:startingPage>
-      <prism:endingPage>197</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2022.2077034</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077034?af=R</prism:url>
-      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077035?af=R">
-      <title>Food, Feminist Rhetorical Studies, and Conservative Women: The Case of Elizabeth David</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077035?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 198-212&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 41, Issue 3, 2022, Page 198-212&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Food, Feminist Rhetorical Studies, and Conservative Women: The Case of Elizabeth David</dc:title>
-      <dc:identifier>10.1080/07350198.2022.2077035</dc:identifier>
-      <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2022-07-13T10:44:29Z</dc:date>
-      <dc:rights>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC</dc:rights>
-      <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
-      <dc:creator>Richard Vytniorgu</dc:creator>
-      <prism:publicationName>Food, Feminist Rhetorical Studies, and Conservative Women: The Case of Elizabeth David</prism:publicationName>
-      <prism:volume>41</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>198</prism:startingPage>
-      <prism:endingPage>212</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2022.2077035</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077035?af=R</prism:url>
-      <prism:copyright>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077036?af=R">
-      <title>Bridging the Gap: Speculative Roles of Specific Intellectuals in Climate Justice</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077036?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 213-225&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 41, Issue 3, 2022, Page 213-225&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Bridging the Gap: Speculative Roles of Specific Intellectuals in Climate Justice</dc:title>
-      <dc:identifier>10.1080/07350198.2022.2077036</dc:identifier>
-      <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2022-07-13T10:44:29Z</dc:date>
-      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>John Purfield</dc:creator>
-      <prism:publicationName>Bridging the Gap: Speculative Roles of Specific Intellectuals in Climate Justice</prism:publicationName>
-      <prism:volume>41</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>213</prism:startingPage>
+      <prism:startingPage>223</prism:startingPage>
       <prism:endingPage>225</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2022.2077036</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2077036?af=R</prism:url>
-      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2038510?af=R">
-      <title>A Play on Occlusion: Uptake of Letters to the University President</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2038510?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 226-239&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 41, Issue 3, 2022, Page 226-239&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>A Play on Occlusion: Uptake of Letters to the University President</dc:title>
-      <dc:identifier>10.1080/07350198.2022.2038510</dc:identifier>
-      <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2022-07-13T10:44:28Z</dc:date>
-      <dc:rights>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC.</dc:rights>
-      <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
-      <dc:creator>Katja Thieme</dc:creator>
-      <prism:publicationName>A Play on Occlusion: Uptake of Letters to the University President</prism:publicationName>
-      <prism:volume>41</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>226</prism:startingPage>
-      <prism:endingPage>239</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2022.2038510</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2038510?af=R</prism:url>
-      <prism:copyright>© 2022 The Author(s). Published with license by Taylor &amp; Francis Group, LLC.</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073779?af=R">
-      <title>Race, Rhetoric, and Research Methods</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073779?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 240-242&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 41, Issue 3, 2022, Page 240-242&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Race, Rhetoric, and Research Methods</dc:title>
-      <dc:identifier>10.1080/07350198.2022.2073779</dc:identifier>
-      <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2022-07-13T10:44:28Z</dc:date>
-      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Cherice Escobar Jones</dc:creator>
-      <prism:publicationName>Race, Rhetoric, and Research Methods</prism:publicationName>
-      <prism:volume>41</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>240</prism:startingPage>
-      <prism:endingPage>242</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2022.2073779</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073779?af=R</prism:url>
-      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073765?af=R">
-      <title>Rhetorics of Overcoming: Rewriting Narratives of Disability and Accessibility in Writing Studies.</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073765?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 242-244&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 41, Issue 3, 2022, Page 242-244&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Rhetorics of Overcoming: Rewriting Narratives of Disability and Accessibility in Writing Studies.</dc:title>
-      <dc:identifier>10.1080/07350198.2022.2073765</dc:identifier>
-      <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2022-07-13T10:44:27Z</dc:date>
-      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Abigail Long</dc:creator>
-      <prism:publicationName>Rhetorics of Overcoming: Rewriting Narratives of Disability and Accessibility in Writing Studies.</prism:publicationName>
-      <prism:volume>41</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>242</prism:startingPage>
-      <prism:endingPage>244</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2022.2073765</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073765?af=R</prism:url>
-      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
-   </item>
-   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073766?af=R">
-      <title>Violent Exceptions: Children’s Human Rights and Humanitarian Rhetorics</title>
-      <link>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073766?af=R</link>
-      <content:encoded>&lt;a href="/toc/hrhr20/41/3"&gt;Volume 41, Issue 3&lt;/a&gt;, 2022, Page 244-247&lt;br/&gt;. &lt;br/&gt;</content:encoded>
-      <description>Volume 41, Issue 3, 2022, Page 244-247&lt;br/&gt;. &lt;br/&gt;</description>
-      <dc:title>Violent Exceptions: Children’s Human Rights and Humanitarian Rhetorics</dc:title>
-      <dc:identifier>10.1080/07350198.2022.2073766</dc:identifier>
-      <dc:source>Rhetoric Review</dc:source>
-      <dc:date>2022-07-13T10:44:27Z</dc:date>
-      <dc:rights>© 2022 Taylor &amp; Francis Group, LLC</dc:rights>
-      <dc:creator>Belinda Walzer</dc:creator>
-      <prism:publicationName>Violent Exceptions: Children’s Human Rights and Humanitarian Rhetorics</prism:publicationName>
-      <prism:volume>41</prism:volume>
-      <prism:number>3</prism:number>
-      <prism:startingPage>244</prism:startingPage>
-      <prism:endingPage>247</prism:endingPage>
-      <prism:coverDate>2022-07-03T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-07-03T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1080/07350198.2022.2073766</prism:doi>
-      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2022.2073766?af=R</prism:url>
-      <prism:copyright>© 2022 Taylor &amp; Francis Group, LLC</prism:copyright>
+      <prism:coverDate>2024-07-02T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-02T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/07350198.2024.2349838</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/07350198.2024.2349838?af=R</prism:url>
+      <prism:copyright/>
    </item>
 </rdf:RDF>
-<!-- cached:  1660936168-->
+<!-- cached:  1721920398-->

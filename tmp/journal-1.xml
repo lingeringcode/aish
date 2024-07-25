@@ -3,145 +3,289 @@
          xmlns="http://purl.org/rss/1.0/"
          xmlns:cc="http://web.resource.org/cc/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
-         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
-         xmlns:dc="http://purl.org/dc/elements/1.1/">
-   <channel>
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel rdf:about="https://journals.sagepub.com/loi/jbtb?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>SAGE Publications Inc: Journal of Business and Technical Communication: Table of Contents</title>
       <description>Table of Contents for Journal of Business and Technical Communication. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://journals.sagepub.com/loi/jbtb?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
       <dc:title>SAGE Publications Inc: Journal of Business and Technical Communication: Table of Contents</dc:title>
       <dc:publisher>SAGE Publications Inc</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>Journal of Business and Technical Communication</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519221105492?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519221105490?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519221105495?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519221105493?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519221105497?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241239638?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241239641?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241239661?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241239923?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241239927?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241239937?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241239950?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241239951?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241258445?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241258468?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241258456?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/10506519241258433?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2022/jbtb_36_4/jbtb_36_4/20220815/jbtb_36_4.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2024/jbtb_38_3/jbtb_38_3/20240613/jbtb_38_3.cover.png">
       <title>Journal of Business and Technical Communication</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2022/jbtb_36_4/jbtb_36_4/20220815/jbtb_36_4.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jbtb/2024/jbtb_38_3/jbtb_38_3/20240613/jbtb_38_3.cover.png</url>
       <link>https://journals.sagepub.com/loi/jbtb?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519221105492?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Trans Oppression Through Technical Rhetorics: A Queer Phenomenological Analysis of Institutional Documents</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519221105492?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/36/4"&gt;Volume 36, Issue 4&lt;/a&gt;, Page 403-439, October 2022. &lt;br/&gt;Technical communication has long acknowledged that documents can be unethical and even oppressive and harmful. But not all forms or experiences of oppression are equivalent or similar, and it can be instrumental to analyze in particular how certain groups are wounded by specific documents. In this article, the authors use Ahmed's queer phenomenology to analyze institutional and government documents and demonstrate the ways that these technical documents create failed orientations. Then, through a focused analysis of a federal proposal policy, they show how these documents can produce failures for trans people in particular. The authors close by suggesting courses of actions for redressing these failures.</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 36, Issue 4, Page 403-439, October 2022. &lt;br/&gt;Technical communication has long acknowledged that documents can be unethical and even oppressive and harmful. But not all forms or experiences of oppression are equivalent or similar, and it can be instrumental to analyze in particular how certain groups are wounded by specific documents. In this article, the authors use Ahmed's queer phenomenology to analyze institutional and government documents and demonstrate the ways that these technical documents create failed orientations. Then, through a focused analysis of a federal proposal policy, they show how these documents can produce failures for trans people in particular. The authors close by suggesting courses of actions for redressing these failures.</description>
-      <dc:title>Trans Oppression Through Technical Rhetorics: A Queer Phenomenological Analysis of Institutional Documents</dc:title>
-      <dc:identifier>10.1177/10506519221105492</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241239638?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>On the Current Moment in AI: Introduction to Special Issue on Effects of Artificial Intelligence Tools in Technical Communication Pedagogy, Practice, and Research, Part 1</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241239638?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/38/3"&gt;Volume 38, Issue 3&lt;/a&gt;, Page 187-198, July 2024. &lt;br/&gt;</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 38, Issue 3, Page 187-198, July 2024. &lt;br/&gt;</description>
+      <dc:title>On the Current Moment in AI: Introduction to Special Issue on Effects of Artificial Intelligence Tools in Technical Communication Pedagogy, Practice, and Research, Part 1</dc:title>
+      <dc:identifier>10.1177/10506519241239638</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2022-07-22T06:41:53Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Zarah C. Moeggenberg</dc:creator>
-      <dc:creator>Avery C. Edenfield</dc:creator>
-      <dc:creator>Steve Holmes</dc:creator>
-      <prism:publicationName>Trans Oppression Through Technical Rhetorics: A Queer Phenomenological Analysis of Institutional Documents</prism:publicationName>
-      <prism:volume>36</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>403</prism:startingPage>
-      <prism:endingPage>439</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/10506519221105492</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519221105492?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
+      <dc:date>2024-04-01T06:56:47Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Stephen Carradini</dc:creator>
+      <prism:publicationName>On the Current Moment in AI: Introduction to Special Issue on Effects of Artificial Intelligence Tools in Technical Communication Pedagogy, Practice, and Research, Part 1</prism:publicationName>
+      <prism:volume>38</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>187</prism:startingPage>
+      <prism:endingPage>198</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/10506519241239638</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241239638?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519221105490?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Emotion, Rhetoric, and Entrepreneurial Experience: A Survey of Start-Up Community Membership</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519221105490?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/36/4"&gt;Volume 36, Issue 4&lt;/a&gt;, Page 440-483, October 2022. &lt;br/&gt;This article connects work on emotion, rhetoric, and entrepreneurial experience as it reports findings from a questionnaire issued to 80 entrepreneurs who belong to the global entrepreneur community Startup Grind. The findings from this study offer researchers a more robust representation of the rhetorical theories that guide entrepreneurs’ professional communication practices. In particular, the authors report on the distribution and dependency between two variables: operative rhetorical theory (indicated by one of four choices) and entrepreneurial experience (indicated by number of ventures and total years of experience).</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 36, Issue 4, Page 440-483, October 2022. &lt;br/&gt;This article connects work on emotion, rhetoric, and entrepreneurial experience as it reports findings from a questionnaire issued to 80 entrepreneurs who belong to the global entrepreneur community Startup Grind. The findings from this study offer researchers a more robust representation of the rhetorical theories that guide entrepreneurs’ professional communication practices. In particular, the authors report on the distribution and dependency between two variables: operative rhetorical theory (indicated by one of four choices) and entrepreneurial experience (indicated by number of ventures and total years of experience).</description>
-      <dc:title>Emotion, Rhetoric, and Entrepreneurial Experience: A Survey of Start-Up Community Membership</dc:title>
-      <dc:identifier>10.1177/10506519221105490</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241239641?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Can Artificial Intelligence Robots Write Effective Instructions?</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241239641?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/38/3"&gt;Volume 38, Issue 3&lt;/a&gt;, Page 199-212, July 2024. &lt;br/&gt;The authors analyze the ability of ChatGPT to generate effective instructions for a consequential task: taking a COVID-19 test. They compare the output from a commercial prompt for generating these instructions to those provided by the test manufacturer. They also analyze the input, the prompt itself, to address prompt-engineering issues. The results show that although the output from ChatGPT exhibits certain conventions for documentation, the human-authored instructions from the manufacturer are superior in most ways. The authors conclude that when it comes to creating high-quality, consequential instructions, ChatGPT might be better seen as a collaborator than a competitor with human technical communicators.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 38, Issue 3, Page 199-212, July 2024. &lt;br/&gt;The authors analyze the ability of ChatGPT to generate effective instructions for a consequential task: taking a COVID-19 test. They compare the output from a commercial prompt for generating these instructions to those provided by the test manufacturer. They also analyze the input, the prompt itself, to address prompt-engineering issues. The results show that although the output from ChatGPT exhibits certain conventions for documentation, the human-authored instructions from the manufacturer are superior in most ways. The authors conclude that when it comes to creating high-quality, consequential instructions, ChatGPT might be better seen as a collaborator than a competitor with human technical communicators.</description>
+      <dc:title>Can Artificial Intelligence Robots Write Effective Instructions?</dc:title>
+      <dc:identifier>10.1177/10506519241239641</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2022-06-14T06:05:19Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Brian Gogan</dc:creator>
+      <dc:date>2024-03-28T06:57:11Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Johndan Johnson-Eilola</dc:creator>
       <dc:creator>
-Stacy J. Belinsky</dc:creator>
-      <prism:publicationName>Emotion, Rhetoric, and Entrepreneurial Experience: A Survey of Start-Up Community Membership</prism:publicationName>
-      <prism:volume>36</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>440</prism:startingPage>
-      <prism:endingPage>483</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/10506519221105490</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519221105490?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
+Stuart A. Selber</dc:creator>
+      <dc:creator>Eric J. York</dc:creator>
+      <prism:publicationName>Can Artificial Intelligence Robots Write Effective Instructions?</prism:publicationName>
+      <prism:volume>38</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>199</prism:startingPage>
+      <prism:endingPage>212</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/10506519241239641</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241239641?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519221105495?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Teaching Students in the Technical and Professional Communication Classroom Practices for Innovation Rhetoric</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519221105495?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/36/4"&gt;Volume 36, Issue 4&lt;/a&gt;, Page 484-523, October 2022. &lt;br/&gt;Initiating and continuing rhetorical invention is an important practice for teams seeking to innovate. Workplace professionals demonstrate one potential model of rhetorical innovation by instantiating four rhetorical moves that make up a broader practice of difference-driven inquiry (DDI). But it remains unknown how DDI, as a model of innovative rhetoric, can be taught in the technical and professional communication classroom. Over the course of two studies, the author investigated a pedagogy attempting to teach practices for innovation rhetoric. The results show that the pedagogy can be effective but that more scaffolding is needed.</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 36, Issue 4, Page 484-523, October 2022. &lt;br/&gt;Initiating and continuing rhetorical invention is an important practice for teams seeking to innovate. Workplace professionals demonstrate one potential model of rhetorical innovation by instantiating four rhetorical moves that make up a broader practice of difference-driven inquiry (DDI). But it remains unknown how DDI, as a model of innovative rhetoric, can be taught in the technical and professional communication classroom. Over the course of two studies, the author investigated a pedagogy attempting to teach practices for innovation rhetoric. The results show that the pedagogy can be effective but that more scaffolding is needed.</description>
-      <dc:title>Teaching Students in the Technical and Professional Communication Classroom Practices for Innovation Rhetoric</dc:title>
-      <dc:identifier>10.1177/10506519221105495</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241239661?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Exploring Artificial Intelligence Tool Use in a Nonprofit Workplace</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241239661?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/38/3"&gt;Volume 38, Issue 3&lt;/a&gt;, Page 213-224, July 2024. &lt;br/&gt;This case study offers examples of the use of artificial intelligence (AI) writing tools at a small nonprofit workplace dispute resolution center. It explores the limits and strengths of these AI tools, as well as the mediation field's concerns around using AI as a replacement for mediation work. Further, it explores the implications of AI tool use for the ethos of the writer and the AI tool itself as well as for the current pedagogy deliberations occurring in the technical writing field at large.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 38, Issue 3, Page 213-224, July 2024. &lt;br/&gt;This case study offers examples of the use of artificial intelligence (AI) writing tools at a small nonprofit workplace dispute resolution center. It explores the limits and strengths of these AI tools, as well as the mediation field's concerns around using AI as a replacement for mediation work. Further, it explores the implications of AI tool use for the ethos of the writer and the AI tool itself as well as for the current pedagogy deliberations occurring in the technical writing field at large.</description>
+      <dc:title>Exploring Artificial Intelligence Tool Use in a Nonprofit Workplace</dc:title>
+      <dc:identifier>10.1177/10506519241239661</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2022-06-14T06:05:58Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Craig Moreau</dc:creator>
-      <prism:publicationName>Teaching Students in the Technical and Professional Communication Classroom Practices for Innovation Rhetoric</prism:publicationName>
-      <prism:volume>36</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>484</prism:startingPage>
-      <prism:endingPage>523</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/10506519221105495</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519221105495?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
+      <dc:date>2024-03-25T05:04:05Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Andrew Hillen</dc:creator>
+      <prism:publicationName>Exploring Artificial Intelligence Tool Use in a Nonprofit Workplace</prism:publicationName>
+      <prism:volume>38</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>213</prism:startingPage>
+      <prism:endingPage>224</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/10506519241239661</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241239661?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519221105493?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Communicating During COVID-19 and Other Acute-Event Scenarios: A Practical Approach</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519221105493?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/36/4"&gt;Volume 36, Issue 4&lt;/a&gt;, Page 524-534, October 2022. &lt;br/&gt;Successfully adapting to organizational changes during the COVID-19 pandemic crisis necessitated the effective deployment of technical communication texts delineating the expectations and structures for guiding behavior and interactions. A dearth of system-wide familiarity with changes in modalities has disrupted expectations and impacted engagement. During acute events, business and technical communicators will probably not be the initial source of transition messaging. Instead, this task will fall on managers, faculty, and other front-line communicators. The authors present pragmatic recommendations for adapting familiar discourses, semiotics, and mental scripts so that communicators can more effectively intervene during crises to ease organizational transitions and decrease uncertainty.</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 36, Issue 4, Page 524-534, October 2022. &lt;br/&gt;Successfully adapting to organizational changes during the COVID-19 pandemic crisis necessitated the effective deployment of technical communication texts delineating the expectations and structures for guiding behavior and interactions. A dearth of system-wide familiarity with changes in modalities has disrupted expectations and impacted engagement. During acute events, business and technical communicators will probably not be the initial source of transition messaging. Instead, this task will fall on managers, faculty, and other front-line communicators. The authors present pragmatic recommendations for adapting familiar discourses, semiotics, and mental scripts so that communicators can more effectively intervene during crises to ease organizational transitions and decrease uncertainty.</description>
-      <dc:title>Communicating During COVID-19 and Other Acute-Event Scenarios: A Practical Approach</dc:title>
-      <dc:identifier>10.1177/10506519221105493</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241239923?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Using Generative AI to Facilitate Data Analysis and Visualization: A Case Study of Olympic Athletes</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241239923?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/38/3"&gt;Volume 38, Issue 3&lt;/a&gt;, Page 225-241, July 2024. &lt;br/&gt;The ability to work with data is an important skill for students enrolled in technical and professional communication programs, but students with limited mathematical and computer programming literacies might find it difficult to do basic data analysis or customize data visualizations. This article examines the extent to which ChatGPT can make data analysis and visualization more accessible for students with limited technical proficiency. The results suggest that although the tool is poised to have a substantial impact in helping students create effective data visualizations, its efficacy as a data analysis tool is more limited.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 38, Issue 3, Page 225-241, July 2024. &lt;br/&gt;The ability to work with data is an important skill for students enrolled in technical and professional communication programs, but students with limited mathematical and computer programming literacies might find it difficult to do basic data analysis or customize data visualizations. This article examines the extent to which ChatGPT can make data analysis and visualization more accessible for students with limited technical proficiency. The results suggest that although the tool is poised to have a substantial impact in helping students create effective data visualizations, its efficacy as a data analysis tool is more limited.</description>
+      <dc:title>Using Generative AI to Facilitate Data Analysis and Visualization: A Case Study of Olympic Athletes</dc:title>
+      <dc:identifier>10.1177/10506519241239923</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2022-06-14T06:05:39Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Christian A. Vukasovich</dc:creator>
-      <dc:creator>Marko N. Kostic</dc:creator>
-      <prism:publicationName>Communicating During COVID-19 and Other Acute-Event Scenarios: A Practical Approach</prism:publicationName>
-      <prism:volume>36</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>524</prism:startingPage>
-      <prism:endingPage>534</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/10506519221105493</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519221105493?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
+      <dc:date>2024-04-04T07:06:07Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Emily Barrow DeJeu</dc:creator>
+      <prism:publicationName>Using Generative AI to Facilitate Data Analysis and Visualization: A Case Study of Olympic Athletes</prism:publicationName>
+      <prism:volume>38</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>225</prism:startingPage>
+      <prism:endingPage>241</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/10506519241239923</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241239923?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519221105497?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Book Review: Functional Approach to Professional Discourse Exploration in Linguistics by Elena N. Malyuga (Ed.)</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519221105497?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/36/4"&gt;Volume 36, Issue 4&lt;/a&gt;, Page 535-538, October 2022. &lt;br/&gt;</content:encoded>
-      <description>Journal of Business and Technical Communication, Volume 36, Issue 4, Page 535-538, October 2022. &lt;br/&gt;</description>
-      <dc:title>Book Review: Functional Approach to Professional Discourse Exploration in Linguistics by Elena N. Malyuga (Ed.)</dc:title>
-      <dc:identifier>10.1177/10506519221105497</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241239927?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Automating Research in Business and Technical Communication: Large Language Models as Qualitative Coders</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241239927?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/38/3"&gt;Volume 38, Issue 3&lt;/a&gt;, Page 242-265, July 2024. &lt;br/&gt;The emergence of large language models (LLMs) has disrupted approaches to writing in academic and professional contexts. While much interest has revolved around the ability of LLMs to generate coherent and generically responsible texts with minimal effort and the impact that this will have on writing careers and pedagogy, less attention has been paid to how LLMs can aid writing research. Building from previous research, this study explores the utility of AI text generators to facilitate the qualitative coding research of linguistic data. This study benchmarks five LLM prompting strategies to determine the viability of using LLMs as qualitative coding, not writing, assistants, demonstrating that LLMs can be an effective tool for classifying complex rhetorical expressions and can help business and technical communication researchers quickly produce and test their research designs, enabling them to return insights more quickly and with less initial overhead.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 38, Issue 3, Page 242-265, July 2024. &lt;br/&gt;The emergence of large language models (LLMs) has disrupted approaches to writing in academic and professional contexts. While much interest has revolved around the ability of LLMs to generate coherent and generically responsible texts with minimal effort and the impact that this will have on writing careers and pedagogy, less attention has been paid to how LLMs can aid writing research. Building from previous research, this study explores the utility of AI text generators to facilitate the qualitative coding research of linguistic data. This study benchmarks five LLM prompting strategies to determine the viability of using LLMs as qualitative coding, not writing, assistants, demonstrating that LLMs can be an effective tool for classifying complex rhetorical expressions and can help business and technical communication researchers quickly produce and test their research designs, enabling them to return insights more quickly and with less initial overhead.</description>
+      <dc:title>Automating Research in Business and Technical Communication: Large Language Models as Qualitative Coders</dc:title>
+      <dc:identifier>10.1177/10506519241239927</dc:identifier>
       <dc:source>Journal of Business and Technical Communication</dc:source>
-      <dc:date>2022-06-13T06:28:24Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
+      <dc:date>2024-04-09T03:02:31Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Ryan M. Omizo</dc:creator>
+      <prism:publicationName>Automating Research in Business and Technical Communication: Large Language Models as Qualitative Coders</prism:publicationName>
+      <prism:volume>38</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>242</prism:startingPage>
+      <prism:endingPage>265</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/10506519241239927</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241239927?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241239937?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Comparing Student and Writing Instructor Perceptions of Academic Dishonesty When Collaborators Are Artificial Intelligence or Human</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241239937?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/38/3"&gt;Volume 38, Issue 3&lt;/a&gt;, Page 266-288, July 2024. &lt;br/&gt;It remains unclear if perceptions of academic dishonesty concerning artificial intelligence writing technologies (AIWTs) present new challenges or if they reflect prior, non-AI concerns. To structure this problem, we used a randomized control survey experiment. We compared student (n = 603) and instructor (n = 312) attitudes toward dishonesty in collaborations involving humans versus AIWT in 10 writing-related scenarios. Results suggest similar perception patterns among students and instructors, with both populations expressing significant differences in perceived dishonesty between AI and human collaborators in some scenarios. This experiment structures the problem of AI writing and academic dishonesty for future research in this emerging field.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 38, Issue 3, Page 266-288, July 2024. &lt;br/&gt;It remains unclear if perceptions of academic dishonesty concerning artificial intelligence writing technologies (AIWTs) present new challenges or if they reflect prior, non-AI concerns. To structure this problem, we used a randomized control survey experiment. We compared student (n = 603) and instructor (n = 312) attitudes toward dishonesty in collaborations involving humans versus AIWT in 10 writing-related scenarios. Results suggest similar perception patterns among students and instructors, with both populations expressing significant differences in perceived dishonesty between AI and human collaborators in some scenarios. This experiment structures the problem of AI writing and academic dishonesty for future research in this emerging field.</description>
+      <dc:title>Comparing Student and Writing Instructor Perceptions of Academic Dishonesty When Collaborators Are Artificial Intelligence or Human</dc:title>
+      <dc:identifier>10.1177/10506519241239937</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2024-04-01T07:28:32Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>John R. Gallagher</dc:creator>
+      <dc:creator>Kyle Wagner</dc:creator>
+      <prism:publicationName>Comparing Student and Writing Instructor Perceptions of Academic Dishonesty When Collaborators Are Artificial Intelligence or Human</prism:publicationName>
+      <prism:volume>38</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>266</prism:startingPage>
+      <prism:endingPage>288</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/10506519241239937</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241239937?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241239950?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Preparing Future Technical Editors for an Artificial Intelligence-Enabled Workplace</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241239950?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/38/3"&gt;Volume 38, Issue 3&lt;/a&gt;, Page 289-302, July 2024. &lt;br/&gt;How should instructors adapt technical editing courses to account for generative artificial intelligence (AI)? This article addresses what generative AI means for technical editing pedagogy. While AI tools may be able to address rote editing tasks, expert editors are still needed to provide accessible, ethical, and justice-oriented edits. After reviewing impacts of generative AI on editing praxis, the author focuses on the microcredentials that she built into an editing course in order to address these impacts pedagogically. The goal was to enable students to understand AI, argue for their expertise, and edit from ethical and social justice perspectives.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 38, Issue 3, Page 289-302, July 2024. &lt;br/&gt;How should instructors adapt technical editing courses to account for generative artificial intelligence (AI)? This article addresses what generative AI means for technical editing pedagogy. While AI tools may be able to address rote editing tasks, expert editors are still needed to provide accessible, ethical, and justice-oriented edits. After reviewing impacts of generative AI on editing praxis, the author focuses on the microcredentials that she built into an editing course in order to address these impacts pedagogically. The goal was to enable students to understand AI, argue for their expertise, and edit from ethical and social justice perspectives.</description>
+      <dc:title>Preparing Future Technical Editors for an Artificial Intelligence-Enabled Workplace</dc:title>
+      <dc:identifier>10.1177/10506519241239950</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2024-03-25T05:04:27Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Jennifer C. Mallette</dc:creator>
+      <prism:publicationName>Preparing Future Technical Editors for an Artificial Intelligence-Enabled Workplace</prism:publicationName>
+      <prism:volume>38</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>289</prism:startingPage>
+      <prism:endingPage>302</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/10506519241239950</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241239950?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241239951?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Content Analysis, Construct Validity, and Artificial Intelligence: Implications for Technical and Professional Communication and Graduate Research Preparation</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241239951?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, &lt;a href="https://journals.sagepub.com/toc/jbtb/38/3"&gt;Volume 38, Issue 3&lt;/a&gt;, Page 303-315, July 2024. &lt;br/&gt;Artificial intelligence tools are being increasingly used to do content analysis in technical and professional communication (TPC). The authors consider some of the affordances and constraints of these tools and suggest that construct validity is an underdiscussed form of validity within TPC research that will become more important as artificial intelligence research tools become increasingly prevalent. But construct validity is an important idea for graduate programming on research methods regardless of the type of method, technique, or tool used—whether qualitative or computational. Thus, training in construct validity is important for strengthening graduate research preparation in TPC.</content:encoded>
+      <description>Journal of Business and Technical Communication, Volume 38, Issue 3, Page 303-315, July 2024. &lt;br/&gt;Artificial intelligence tools are being increasingly used to do content analysis in technical and professional communication (TPC). The authors consider some of the affordances and constraints of these tools and suggest that construct validity is an underdiscussed form of validity within TPC research that will become more important as artificial intelligence research tools become increasingly prevalent. But construct validity is an important idea for graduate programming on research methods regardless of the type of method, technique, or tool used—whether qualitative or computational. Thus, training in construct validity is important for strengthening graduate research preparation in TPC.</description>
+      <dc:title>Content Analysis, Construct Validity, and Artificial Intelligence: Implications for Technical and Professional Communication and Graduate Research Preparation</dc:title>
+      <dc:identifier>10.1177/10506519241239951</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2024-03-21T07:07:08Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Stuart Deets</dc:creator>
+      <dc:creator>Caitlin Baulch</dc:creator>
+      <dc:creator>Alison Obright</dc:creator>
+      <dc:creator>Dan Card</dc:creator>
+      <prism:publicationName>Content Analysis, Construct Validity, and Artificial Intelligence: Implications for Technical and Professional Communication and Graduate Research Preparation</prism:publicationName>
+      <prism:volume>38</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>303</prism:startingPage>
+      <prism:endingPage>315</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/10506519241239951</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241239951?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241258445?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The Construction of Interpersonal Meanings in Jiaqi Li's E-Commerce Live Streams: Integrating Verbal and Visual Semiotics</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241258445?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study conducts a multimodal discourse analysis of the live streaming of Jiaqi Li, a well-known Chinese streamer. Integrating systemic functional grammar and systemic visual grammar to explore the construction of interpersonal meanings in Li's live streams, the authors found that Li uses verbal semiotics to convey information and feelings and, more important, to create his different interactive roles as an authoritative opinion leader, a protector of consumers’ benefits, and a friend who shares his experiences and recommends products. This study offers insight into e-commerce discourse and communication, adding to the literature on live streaming in commerce and business communication.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study conducts a multimodal discourse analysis of the live streaming of Jiaqi Li, a well-known Chinese streamer. Integrating systemic functional grammar and systemic visual grammar to explore the construction of interpersonal meanings in Li's live streams, the authors found that Li uses verbal semiotics to convey information and feelings and, more important, to create his different interactive roles as an authoritative opinion leader, a protector of consumers’ benefits, and a friend who shares his experiences and recommends products. This study offers insight into e-commerce discourse and communication, adding to the literature on live streaming in commerce and business communication.</description>
+      <dc:title>The Construction of Interpersonal Meanings in Jiaqi Li's E-Commerce Live Streams: Integrating Verbal and Visual Semiotics</dc:title>
+      <dc:identifier>10.1177/10506519241258445</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2024-06-13T07:05:13Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
       <dc:creator>Huiyu Zhang</dc:creator>
-      <dc:creator>Yuanhong Wei</dc:creator>
-      <prism:publicationName>Book Review: Functional Approach to Professional Discourse Exploration in Linguistics by Elena N. Malyuga (Ed.)</prism:publicationName>
-      <prism:volume>36</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>535</prism:startingPage>
-      <prism:endingPage>538</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/10506519221105497</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519221105497?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
+      <dc:creator>Yining Hou</dc:creator>
+      <prism:publicationName>The Construction of Interpersonal Meanings in Jiaqi Li's E-Commerce Live Streams: Integrating Verbal and Visual Semiotics</prism:publicationName>
+      <prism:doi>10.1177/10506519241258445</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241258445?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241258468?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Which Communication Skills Do I Need? A Multimethod Study of Communication Needs in Construction Engineering</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241258468?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study investigates the communication skills expected of recent construction engineering graduates as portrayed in job ads and conveyed by employers. A content analysis of 100 job ads showed that teamwork, leadership, and interpersonal communication skills were the specific categories of communication skills listed most frequently. Subsequent interviews with 11 employers showed that although they considered the written communication skills of recent college graduates as sufficient, they found that many recent graduates had insufficient skills in assertiveness, email communication, relationship building, and audience adaptation, indicating that additional coursework or assignments in oral communication skills would benefit construction engineering majors.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study investigates the communication skills expected of recent construction engineering graduates as portrayed in job ads and conveyed by employers. A content analysis of 100 job ads showed that teamwork, leadership, and interpersonal communication skills were the specific categories of communication skills listed most frequently. Subsequent interviews with 11 employers showed that although they considered the written communication skills of recent college graduates as sufficient, they found that many recent graduates had insufficient skills in assertiveness, email communication, relationship building, and audience adaptation, indicating that additional coursework or assignments in oral communication skills would benefit construction engineering majors.</description>
+      <dc:title>Which Communication Skills Do I Need? A Multimethod Study of Communication Needs in Construction Engineering</dc:title>
+      <dc:identifier>10.1177/10506519241258468</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2024-06-10T05:11:21Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Tina A. Coffelt</dc:creator>
+      <dc:creator>Katherine Madson</dc:creator>
+      <dc:creator>Neha Raju</dc:creator>
+      <dc:creator>Jennifer S. Shane</dc:creator>
+      <prism:publicationName>Which Communication Skills Do I Need? A Multimethod Study of Communication Needs in Construction Engineering</prism:publicationName>
+      <prism:doi>10.1177/10506519241258468</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241258468?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241258456?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Envisioning User Agency During Development of a Website for Natural Hazard Communication</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241258456?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study describes the pathways by which prospective users of a website for natural hazard communication experienced agency as user-centered design (UCD) participants. Formative interviews with residents, community managers, and outreach professionals revealed two pathways for agency during the design process—by directly influencing design changes and by indirectly affecting developers’ understanding of user needs—and previewed users’ potential agency during real-world use. Findings reveal how agential opportunities were constrained by UCD structure and choices of the development team. The authors discuss how supporting user agency during UCD can improve design and support buy-in for humanistic methods in interdisciplinary research teams.</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;This study describes the pathways by which prospective users of a website for natural hazard communication experienced agency as user-centered design (UCD) participants. Formative interviews with residents, community managers, and outreach professionals revealed two pathways for agency during the design process—by directly influencing design changes and by indirectly affecting developers’ understanding of user needs—and previewed users’ potential agency during real-world use. Findings reveal how agential opportunities were constrained by UCD structure and choices of the development team. The authors discuss how supporting user agency during UCD can improve design and support buy-in for humanistic methods in interdisciplinary research teams.</description>
+      <dc:title>Envisioning User Agency During Development of a Website for Natural Hazard Communication</dc:title>
+      <dc:identifier>10.1177/10506519241258456</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2024-06-10T05:10:51Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Sonia H. Stephens</dc:creator>
+      <dc:creator>Amanda Altamirano</dc:creator>
+      <prism:publicationName>Envisioning User Agency During Development of a Website for Natural Hazard Communication</prism:publicationName>
+      <prism:doi>10.1177/10506519241258456</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241258456?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/10506519241258433?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Book Review: Keywords in Technical and Professional Communication by Yu, Han, &amp; Buehl, Jonathan</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/10506519241258433?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Business and Technical Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Book Review: Keywords in Technical and Professional Communication by Yu, Han, &amp; Buehl, Jonathan</dc:title>
+      <dc:identifier>10.1177/10506519241258433</dc:identifier>
+      <dc:source>Journal of Business and Technical Communication</dc:source>
+      <dc:date>2024-06-10T05:10:09Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Sydney C. Zimmerman</dc:creator>
+      <prism:publicationName>Book Review: Keywords in Technical and Professional Communication by Yu, Han, &amp; Buehl, Jonathan</prism:publicationName>
+      <prism:doi>10.1177/10506519241258433</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/10506519241258433?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
    </item>
 </rdf:RDF>
-<!-- cached:  1660936167-->
+<!-- cached:  1721920394-->

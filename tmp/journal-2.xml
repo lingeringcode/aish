@@ -3,269 +3,490 @@
          xmlns="http://purl.org/rss/1.0/"
          xmlns:cc="http://web.resource.org/cc/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
-         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
-         xmlns:dc="http://purl.org/dc/elements/1.1/">
-   <channel>
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel rdf:about="https://journals.sagepub.com/loi/jtwa?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>SAGE Publications Inc: Journal of Technical Writing and Communication: Table of Contents</title>
       <description>Table of Contents for Journal of Technical Writing and Communication. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://journals.sagepub.com/loi/jtwa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
       <dc:title>SAGE Publications Inc: Journal of Technical Writing and Communication: Table of Contents</dc:title>
       <dc:publisher>SAGE Publications Inc</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>Journal of Technical Writing and Communication</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211038548?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211041315?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211053303?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211072533?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221086523?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221112860?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221115141?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221104497?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221088349?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221084270?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
-            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221074946?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231169433?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231171851?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231179957?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231188649?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231191998?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
             <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816211045162?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816241262231?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816241262245?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816241260033?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816241262237?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816241260044?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816241260043?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816241260035?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816241260028?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816241232747?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816241230069?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231226249?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231225932?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231225666?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231216913?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231216911?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231210234?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816231210224?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/00472816221125192?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2022/jtwa_52_4/jtwa_52_4/20220815/jtwa_52_4.cover.png">
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2024/jtwa_54_3/jtwa_54_3/20240614/jtwa_54_3.cover.png">
       <title>Journal of Technical Writing and Communication</title>
-      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2022/jtwa_52_4/jtwa_52_4/20220815/jtwa_52_4.cover.png</url>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jtwa/2024/jtwa_54_3/jtwa_54_3/20240614/jtwa_54_3.cover.png</url>
       <link>https://journals.sagepub.com/loi/jtwa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
    </image>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211038548?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>The Specialist in Athenian Written Rhetoric During the Classical Period: A Reconsideration of Technical Rhetoric and Rhetorical Iconography</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211038548?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 367-385, October 2022. &lt;br/&gt;This essay argues that technical rhetoric in ancient Athens is neither well nor fully understood in its present historical characterization but rather is best realized as occupying a position on a spectrum of literate skills ranging from an art to a craft. The dismissive views of technical writing advanced by Plato and Aristotle should be reconsidered and specialized literate practices be recognized as an important feature of rhetoric in Athens’ classical period. A review of discursive and material (archaeological) evidence reveals that technical writing was evolving into a craft-skill in Athens as early as the archaic period and, by the classical period, would be regarded as a respected “rhetorical” profession of artistic expression. This essay urges readers to reconsider the restrictive characterization of rhetoric advanced by some historians of rhetoric and include the specialist craft-skills of writing as a manifestation of technical rhetoric that both illustrates, and more accurately represents, the range of classical rhetoric in ancient Athens.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 367-385, October 2022. &lt;br/&gt;This essay argues that technical rhetoric in ancient Athens is neither well nor fully understood in its present historical characterization but rather is best realized as occupying a position on a spectrum of literate skills ranging from an art to a craft. The dismissive views of technical writing advanced by Plato and Aristotle should be reconsidered and specialized literate practices be recognized as an important feature of rhetoric in Athens’ classical period. A review of discursive and material (archaeological) evidence reveals that technical writing was evolving into a craft-skill in Athens as early as the archaic period and, by the classical period, would be regarded as a respected “rhetorical” profession of artistic expression. This essay urges readers to reconsider the restrictive characterization of rhetoric advanced by some historians of rhetoric and include the specialist craft-skills of writing as a manifestation of technical rhetoric that both illustrates, and more accurately represents, the range of classical rhetoric in ancient Athens.</description>
-      <dc:title>The Specialist in Athenian Written Rhetoric During the Classical Period: A Reconsideration of Technical Rhetoric and Rhetorical Iconography</dc:title>
-      <dc:identifier>10.1177/00472816211038548</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231169433?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Advancing the Knowledge Base on Effective Presentation Slide Design: Three Pilot Studies</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231169433?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/54/3"&gt;Volume 54, Issue 3&lt;/a&gt;, Page 235-264, July 2024. &lt;br/&gt;The cognitive theory of multimedia learning (CTML) describes a set of empirically tested principles that technical and professional communication research largely acknowledges as important to the design of presentation slides. However, presenters often run into difficulties understanding how to apply CTML principles to contexts in which it has not been tested. We present three pilot studies that extend our knowledge of how to apply CTML principles. Pilot study one suggests that CTML principles can be effective for presenting advanced research to expert audiences. Pilot study two highlights the importance of user testing nonessential images added primarily for visual interest, specifically finding that visual organizer images such as Microsoft PowerPoint's SmartArt, can backfire by unintentionally indicating imprecise relationships while adding little in terms of visual interest. Pilot study three suggests that, when needing to present a long quotation, presenters should avoid verbatim reading and consider abridging or paraphrasing the quotation.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 54, Issue 3, Page 235-264, July 2024. &lt;br/&gt;The cognitive theory of multimedia learning (CTML) describes a set of empirically tested principles that technical and professional communication research largely acknowledges as important to the design of presentation slides. However, presenters often run into difficulties understanding how to apply CTML principles to contexts in which it has not been tested. We present three pilot studies that extend our knowledge of how to apply CTML principles. Pilot study one suggests that CTML principles can be effective for presenting advanced research to expert audiences. Pilot study two highlights the importance of user testing nonessential images added primarily for visual interest, specifically finding that visual organizer images such as Microsoft PowerPoint's SmartArt, can backfire by unintentionally indicating imprecise relationships while adding little in terms of visual interest. Pilot study three suggests that, when needing to present a long quotation, presenters should avoid verbatim reading and consider abridging or paraphrasing the quotation.</description>
+      <dc:title>Advancing the Knowledge Base on Effective Presentation Slide Design: Three Pilot Studies</dc:title>
+      <dc:identifier>10.1177/00472816231169433</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2021-08-31T01:47:35Z</dc:date>
-      <dc:rights>© The Author(s) 2021</dc:rights>
-      <dc:creator>Richard Leo Enos</dc:creator>
-      <prism:publicationName>The Specialist in Athenian Written Rhetoric During the Classical Period: A Reconsideration of Technical Rhetoric and Rhetorical Iconography</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>367</prism:startingPage>
-      <prism:endingPage>385</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816211038548</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211038548?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2021</prism:copyright>
+      <dc:date>2023-07-13T02:29:52Z</dc:date>
+      <dc:rights>© The Author(s) 2023</dc:rights>
+      <dc:creator>Joanna Wolfe</dc:creator>
+      <dc:creator>Nisha Shanmugaraj</dc:creator>
+      <dc:creator>Juliann Reineke</dc:creator>
+      <dc:creator>Laura Caton Peet</dc:creator>
+      <dc:creator>Craig P. Moreau</dc:creator>
+      <prism:publicationName>Advancing the Knowledge Base on Effective Presentation Slide Design: Three Pilot Studies</prism:publicationName>
+      <prism:volume>54</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>235</prism:startingPage>
+      <prism:endingPage>264</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816231169433</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231169433?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2023</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211041315?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Remote TPC Internships: Infrastructures for Success</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211041315?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 386-410, October 2022. &lt;br/&gt;Though the remote internship is certainly not a new phenomenon, the COVID-19 pandemic has accelerated the growth of this model for undergraduate experiential learning. As we consider this shift, we must evaluate how to best assist students completing remote internships. In this article, we argue that infrastructure offers a useful framework for understanding students’ internship experience and corresponding professionalization. We present two case studies of student remote internship experiences, analyzing areas of challenge and success through the infrastructural areas of writing projects, communication, and logistics. We offer recommendations for faculty working with remote student interns to promote positive learning experiences.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 386-410, October 2022. &lt;br/&gt;Though the remote internship is certainly not a new phenomenon, the COVID-19 pandemic has accelerated the growth of this model for undergraduate experiential learning. As we consider this shift, we must evaluate how to best assist students completing remote internships. In this article, we argue that infrastructure offers a useful framework for understanding students’ internship experience and corresponding professionalization. We present two case studies of student remote internship experiences, analyzing areas of challenge and success through the infrastructural areas of writing projects, communication, and logistics. We offer recommendations for faculty working with remote student interns to promote positive learning experiences.</description>
-      <dc:title>Remote TPC Internships: Infrastructures for Success</dc:title>
-      <dc:identifier>10.1177/00472816211041315</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231171851?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The Structure of Scientific Writing: An Empirical Analysis of Recent Research Articles in STEM</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231171851?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/54/3"&gt;Volume 54, Issue 3&lt;/a&gt;, Page 265-281, July 2024. &lt;br/&gt;While the IMRAD (Introduction, Methods, Results, and Discussion) format is common in scientific writing, it may not currently be as ubiquitous as often thought. We undertook a systematic, corpus-based study of primary section headings in research articles across a range of STEM disciplines to investigate adherence to the IMRAD structure in relation to type of study (computational, empirical, or theoretical) and field. We identified four categories of structure: IMRAD, IMRAD+ (IMRAD with additional sections and/or different order), Nested IMRAD (multi-part studies), and Non-IMRAD. Papers in biology mainly used an IMRAD format, while less than half in engineering or social sciences did so. While empirical papers tended to use IMRAD formats, most computational papers did not. Thus, our findings show that IMRAD is a common but not universal structure for contemporary scientific writing. Awareness of these differences should encourage teachers of scientific and technical writing and scholars of writing studies to pay closer attention to the actual structural forms used in different STEM disciplines and with different methodological types of research studies.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 54, Issue 3, Page 265-281, July 2024. &lt;br/&gt;While the IMRAD (Introduction, Methods, Results, and Discussion) format is common in scientific writing, it may not currently be as ubiquitous as often thought. We undertook a systematic, corpus-based study of primary section headings in research articles across a range of STEM disciplines to investigate adherence to the IMRAD structure in relation to type of study (computational, empirical, or theoretical) and field. We identified four categories of structure: IMRAD, IMRAD+ (IMRAD with additional sections and/or different order), Nested IMRAD (multi-part studies), and Non-IMRAD. Papers in biology mainly used an IMRAD format, while less than half in engineering or social sciences did so. While empirical papers tended to use IMRAD formats, most computational papers did not. Thus, our findings show that IMRAD is a common but not universal structure for contemporary scientific writing. Awareness of these differences should encourage teachers of scientific and technical writing and scholars of writing studies to pay closer attention to the actual structural forms used in different STEM disciplines and with different methodological types of research studies.</description>
+      <dc:title>The Structure of Scientific Writing: An Empirical Analysis of Recent Research Articles in STEM</dc:title>
+      <dc:identifier>10.1177/00472816231171851</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2021-10-04T01:20:19Z</dc:date>
-      <dc:rights>© The Author(s) 2021</dc:rights>
-      <dc:creator>Jennifer Bay</dc:creator>
-      <dc:creator>Gracemarie Mike Fillenwarth</dc:creator>
-      <dc:creator>Christine Masters-Wheeler</dc:creator>
-      <prism:publicationName>Remote TPC Internships: Infrastructures for Success</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>386</prism:startingPage>
-      <prism:endingPage>410</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816211041315</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211041315?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2021</prism:copyright>
+      <dc:date>2023-05-24T06:02:28Z</dc:date>
+      <dc:rights>© The Author(s) 2023</dc:rights>
+      <dc:creator>Cary Moskovitz</dc:creator>
+      <dc:creator>Brooke Harmon</dc:creator>
+      <dc:creator>Srishti Saha</dc:creator>
+      <prism:publicationName>The Structure of Scientific Writing: An Empirical Analysis of Recent Research Articles in STEM</prism:publicationName>
+      <prism:volume>54</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>265</prism:startingPage>
+      <prism:endingPage>281</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816231171851</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231171851?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2023</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211053303?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Communicating an Outbreak: The Visual Genres of Zika Virus Reports</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211053303?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 411-427, October 2022. &lt;br/&gt;This article examines visuals used in the reporting of the 2015-2016 Zika virus outbreak in order to explore the use of different image forms and genres in communicating health information to distinct audiences. By tracing an informational report through several publication types, the use of different image forms and rhetorical genres are observed, as is the robustness and flexibility of these categorizations.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 411-427, October 2022. &lt;br/&gt;This article examines visuals used in the reporting of the 2015-2016 Zika virus outbreak in order to explore the use of different image forms and genres in communicating health information to distinct audiences. By tracing an informational report through several publication types, the use of different image forms and rhetorical genres are observed, as is the robustness and flexibility of these categorizations.</description>
-      <dc:title>Communicating an Outbreak: The Visual Genres of Zika Virus Reports</dc:title>
-      <dc:identifier>10.1177/00472816211053303</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231179957?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>“Technical Editing and Women Scientists Were Made for Each Other”: Ethaline H. Cortelyou's Career Advice to Women in the Sciences</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231179957?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/54/3"&gt;Volume 54, Issue 3&lt;/a&gt;, Page 282-303, July 2024. &lt;br/&gt;Chemist Ethaline Cortelyou, a significant figure in the emerging profession of technical communication in the 1950s, became a national mentor to women in the sciences, first leading them into the practice of technical editing and then away from it. This article presents a case study of her awakening to the true nature and cost of the patriarchal workplace and her own complicity in actively supporting sexist assumptions and the status quo. During the Sputnik crisis, Cortelyou recognized and overcame her internalized sexism, revised her advice to young women in the sciences, and became a public advocate of workplace reform.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 54, Issue 3, Page 282-303, July 2024. &lt;br/&gt;Chemist Ethaline Cortelyou, a significant figure in the emerging profession of technical communication in the 1950s, became a national mentor to women in the sciences, first leading them into the practice of technical editing and then away from it. This article presents a case study of her awakening to the true nature and cost of the patriarchal workplace and her own complicity in actively supporting sexist assumptions and the status quo. During the Sputnik crisis, Cortelyou recognized and overcame her internalized sexism, revised her advice to young women in the sciences, and became a public advocate of workplace reform.</description>
+      <dc:title>“Technical Editing and Women Scientists Were Made for Each Other”: Ethaline H. Cortelyou's Career Advice to Women in the Sciences</dc:title>
+      <dc:identifier>10.1177/00472816231179957</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-02-08T04:55:54Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Shannon N. Fanning</dc:creator>
-      <prism:publicationName>Communicating an Outbreak: The Visual Genres of Zika Virus Reports</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>411</prism:startingPage>
-      <prism:endingPage>427</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816211053303</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211053303?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
+      <dc:date>2023-06-27T06:20:23Z</dc:date>
+      <dc:rights>© The Author(s) 2023</dc:rights>
+      <dc:creator>Edward A. Malone</dc:creator>
+      <prism:publicationName>“Technical Editing and Women Scientists Were Made for Each Other”: Ethaline H. Cortelyou's Career Advice to Women in the Sciences</prism:publicationName>
+      <prism:volume>54</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>282</prism:startingPage>
+      <prism:endingPage>303</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816231179957</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231179957?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2023</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211072533?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Extending Design Thinking, Content Strategy, and Artificial Intelligence into Technical Communication and User Experience Design Programs: Further Pedagogical Implications</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211072533?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 428-459, October 2022. &lt;br/&gt;This article follows up on the conversation about new streams of approaches in technical communication and user experience (UX) design, i.e., design thinking, content strategy, and artificial intelligence (AI), which afford implications for professional practice. By extending such implications to technical communication pedagogy, we aim to demonstrate the importance of paying attention to these streams in our programmatic development and provide strategies for doing so.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 428-459, October 2022. &lt;br/&gt;This article follows up on the conversation about new streams of approaches in technical communication and user experience (UX) design, i.e., design thinking, content strategy, and artificial intelligence (AI), which afford implications for professional practice. By extending such implications to technical communication pedagogy, we aim to demonstrate the importance of paying attention to these streams in our programmatic development and provide strategies for doing so.</description>
-      <dc:title>Extending Design Thinking, Content Strategy, and Artificial Intelligence into Technical Communication and User Experience Design Programs: Further Pedagogical Implications</dc:title>
-      <dc:identifier>10.1177/00472816211072533</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231188649?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>You Accepted What?: The Impact of Location, Education, and Negotiation on Technical Communication Graduates’ Salaries</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231188649?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/54/3"&gt;Volume 54, Issue 3&lt;/a&gt;, Page 304-323, July 2024. &lt;br/&gt;In the discipline of technical/professional writing and communication, one of the strongest recruiting tools we use is the potential earning power students will have once they obtain a degree and secure a job in the industry. This article is the result of two professors learning that one of their most advanced and dedicated students accepted, in her first job out of graduate school, a salary we thought was thousands below her earning potential. Our conversations around this student's situation led us to survey other alumni from our programs. What we have learned is that students often do not know what salaries they should expect, nor do they feel comfortable negotiating a salary offer. In addition, graduates’ location (urban vs. rural) and level of education (BA or BS degree vs. MA) impact their earning potential.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 54, Issue 3, Page 304-323, July 2024. &lt;br/&gt;In the discipline of technical/professional writing and communication, one of the strongest recruiting tools we use is the potential earning power students will have once they obtain a degree and secure a job in the industry. This article is the result of two professors learning that one of their most advanced and dedicated students accepted, in her first job out of graduate school, a salary we thought was thousands below her earning potential. Our conversations around this student's situation led us to survey other alumni from our programs. What we have learned is that students often do not know what salaries they should expect, nor do they feel comfortable negotiating a salary offer. In addition, graduates’ location (urban vs. rural) and level of education (BA or BS degree vs. MA) impact their earning potential.</description>
+      <dc:title>You Accepted What?: The Impact of Location, Education, and Negotiation on Technical Communication Graduates’ Salaries</dc:title>
+      <dc:identifier>10.1177/00472816231188649</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-01-12T12:03:24Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Jason Tham</dc:creator>
-      <dc:creator>Tharon Howard</dc:creator>
-      <dc:creator>Gustav Verhulsdonck</dc:creator>
-      <prism:publicationName>Extending Design Thinking, Content Strategy, and Artificial Intelligence into Technical Communication and User Experience Design Programs: Further Pedagogical Implications</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>428</prism:startingPage>
-      <prism:endingPage>459</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816211072533</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211072533?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
+      <dc:date>2023-07-17T04:19:40Z</dc:date>
+      <dc:rights>© The Author(s) 2023</dc:rights>
+      <dc:creator>Leslie Seawright</dc:creator>
+      <dc:creator>Rhonda Stanton</dc:creator>
+      <prism:publicationName>You Accepted What?: The Impact of Location, Education, and Negotiation on Technical Communication Graduates’ Salaries</prism:publicationName>
+      <prism:volume>54</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>304</prism:startingPage>
+      <prism:endingPage>323</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816231188649</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231188649?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2023</prism:copyright>
    </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221086523?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Defining the racial and ethnic “other”: Constructing an American identity through visualizing census data in the U.S. Statistical Atlases</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221086523?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 460-492, October 2022. &lt;br/&gt;This study analyzes the visualization of census data in the U.S. Statistical Atlases from 1874 to 1925. I examine how visual strategies were used to construct an American identity by contrasting the “native” population with the “other”—new immigrants and African Americans, which were visualized as undesirable counterparts. By defining the “other,” the Atlases created a pan ethnic identity of the “native white” population, established a racial hierarchy, and hardened the division between old and new immigrants. The study develops a rhetorical framework for understanding how data design is used to marginalize racially and ethnically minority groups.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 460-492, October 2022. &lt;br/&gt;This study analyzes the visualization of census data in the U.S. Statistical Atlases from 1874 to 1925. I examine how visual strategies were used to construct an American identity by contrasting the “native” population with the “other”—new immigrants and African Americans, which were visualized as undesirable counterparts. By defining the “other,” the Atlases created a pan ethnic identity of the “native white” population, established a racial hierarchy, and hardened the division between old and new immigrants. The study develops a rhetorical framework for understanding how data design is used to marginalize racially and ethnically minority groups.</description>
-      <dc:title>Defining the racial and ethnic “other”: Constructing an American identity through visualizing census data in the U.S. Statistical Atlases</dc:title>
-      <dc:identifier>10.1177/00472816221086523</dc:identifier>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231191998?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Toward TPC-UX: UX Topics in TPC Journals 2013–2022</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231191998?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/54/3"&gt;Volume 54, Issue 3&lt;/a&gt;, Page 324-356, July 2024. &lt;br/&gt;This article offers a content analysis of technical and professional communication articles related to user experience (TPC-UX) published between 2013 and 2022 in six TPC scholarly journals. This analysis reveals that TPC-UX primarily focuses on product and process topics and illustrates the terminological comingling of user experience and usability. Specific TPC-UX topics identified include theory, multimodality, health and medicine, localization, web design, mobile applications, accessibility, and content strategy. These topics suggest that TPC-UX's key affordances are its attunement to networked power dynamics, its theoretically rich treatment of multimodality, and its strategies for navigating contextual complexities.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 54, Issue 3, Page 324-356, July 2024. &lt;br/&gt;This article offers a content analysis of technical and professional communication articles related to user experience (TPC-UX) published between 2013 and 2022 in six TPC scholarly journals. This analysis reveals that TPC-UX primarily focuses on product and process topics and illustrates the terminological comingling of user experience and usability. Specific TPC-UX topics identified include theory, multimodality, health and medicine, localization, web design, mobile applications, accessibility, and content strategy. These topics suggest that TPC-UX's key affordances are its attunement to networked power dynamics, its theoretically rich treatment of multimodality, and its strategies for navigating contextual complexities.</description>
+      <dc:title>Toward TPC-UX: UX Topics in TPC Journals 2013–2022</dc:title>
+      <dc:identifier>10.1177/00472816231191998</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-03-31T05:58:14Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Li Li</dc:creator>
-      <prism:publicationName>Defining the racial and ethnic “other”: Constructing an American identity through visualizing census data in the U.S. Statistical Atlases</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>460</prism:startingPage>
-      <prism:endingPage>492</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816221086523</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221086523?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221112860?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Book Review: Equipping Technical Communicators for Social Justice Work: Theories, Methodologies, and Pedagogies by R. Walton &amp; G. Y. Agboka (Eds.)</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221112860?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/52/4"&gt;Volume 52, Issue 4&lt;/a&gt;, Page 493-497, October 2022. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Volume 52, Issue 4, Page 493-497, October 2022. &lt;br/&gt;</description>
-      <dc:title>Book Review: Equipping Technical Communicators for Social Justice Work: Theories, Methodologies, and Pedagogies by R. Walton &amp; G. Y. Agboka (Eds.)</dc:title>
-      <dc:identifier>10.1177/00472816221112860</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-07-07T06:54:35Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Rosanna M. Vail</dc:creator>
-      <prism:publicationName>Book Review: Equipping Technical Communicators for Social Justice Work: Theories, Methodologies, and Pedagogies by R. Walton &amp; G. Y. Agboka (Eds.)</prism:publicationName>
-      <prism:volume>52</prism:volume>
-      <prism:number>4</prism:number>
-      <prism:startingPage>493</prism:startingPage>
-      <prism:endingPage>497</prism:endingPage>
-      <prism:coverDate>2022-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2022-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1177/00472816221112860</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221112860?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221115141?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Examining Multimodal Community-Engaged Projects for Technical and Professional Communication: Motivation, Design, Technology, and Impact</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221115141?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This study examines the role of multimodality in facilitating service-learning goals. We report findings from qualitative interviews with 20 college instructors who have designed and facilitated multimodal community-engaged learning projects, identifying their motivations, goals, and the impact of these projects through reflections. Based on our qualitative analysis of these instructor responses, we discuss the technological and pedagogical implications of multimodal social advocacy projects in technical and professional writing courses.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This study examines the role of multimodality in facilitating service-learning goals. We report findings from qualitative interviews with 20 college instructors who have designed and facilitated multimodal community-engaged learning projects, identifying their motivations, goals, and the impact of these projects through reflections. Based on our qualitative analysis of these instructor responses, we discuss the technological and pedagogical implications of multimodal social advocacy projects in technical and professional writing courses.</description>
-      <dc:title>Examining Multimodal Community-Engaged Projects for Technical and Professional Communication: Motivation, Design, Technology, and Impact</dc:title>
-      <dc:identifier>10.1177/00472816221115141</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-07-22T06:46:15Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Jason Tham</dc:creator>
-      <dc:creator>Jialei Jiang</dc:creator>
-      <prism:publicationName>Examining Multimodal Community-Engaged Projects for Technical and Professional Communication: Motivation, Design, Technology, and Impact</prism:publicationName>
-      <prism:doi>10.1177/00472816221115141</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221115141?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221104497?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>You Shall Not Pass?  The Design of Age  Gates in an Emerging Cannabis Market</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221104497?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Age gates are becoming common on the websites of cannabis dispensaries, following design practices in other controversial industries. Yet, age gates can typically be bypassed through trial and error or basic arithmetic, raising questions over best practices. This study therefore characterized the age gates of dispensaries licensed in the Arizona adult use cannabis program, using a “digital mystery shopper” approach to examine the age gates’ location, appearance, and performance. After presenting the results, I outline possible best practices and next steps for technical and professional communicators.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Age gates are becoming common on the websites of cannabis dispensaries, following design practices in other controversial industries. Yet, age gates can typically be bypassed through trial and error or basic arithmetic, raising questions over best practices. This study therefore characterized the age gates of dispensaries licensed in the Arizona adult use cannabis program, using a “digital mystery shopper” approach to examine the age gates’ location, appearance, and performance. After presenting the results, I outline possible best practices and next steps for technical and professional communicators.</description>
-      <dc:title>You Shall Not Pass?  The Design of Age  Gates in an Emerging Cannabis Market</dc:title>
-      <dc:identifier>10.1177/00472816221104497</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-06-13T06:35:31Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Michael J. Madson</dc:creator>
-      <prism:publicationName>You Shall Not Pass?  The Design of Age  Gates in an Emerging Cannabis Market</prism:publicationName>
-      <prism:doi>10.1177/00472816221104497</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221104497?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221088349?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Collaborating Successfully with Community Partners and Clients in Online Service-Learning Classes</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221088349?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Teaching online students to collaborate effectively with community partners and to solve problems through service-learning projects are “on trend” topics for technical communication faculty. This article presents collaboration specifics as well as the author's Collaborative Communication Framework (CCF) to show the types of communication needed to work well with community partners/clients in service-learning. Tips for teaching, including using the CCF and service-learning, will be highlighted so faculty can make choices about how to meet curricular goals while addressing community partner/client needs. Resources for teaching will be offered. Successful student projects will show detailed examples of key ideas throughout the article.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Teaching online students to collaborate effectively with community partners and to solve problems through service-learning projects are “on trend” topics for technical communication faculty. This article presents collaboration specifics as well as the author's Collaborative Communication Framework (CCF) to show the types of communication needed to work well with community partners/clients in service-learning. Tips for teaching, including using the CCF and service-learning, will be highlighted so faculty can make choices about how to meet curricular goals while addressing community partner/client needs. Resources for teaching will be offered. Successful student projects will show detailed examples of key ideas throughout the article.</description>
-      <dc:title>Collaborating Successfully with Community Partners and Clients in Online Service-Learning Classes</dc:title>
-      <dc:identifier>10.1177/00472816221088349</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-03-29T07:56:25Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Rebecca J. Dumlao</dc:creator>
-      <prism:publicationName>Collaborating Successfully with Community Partners and Clients in Online Service-Learning Classes</prism:publicationName>
-      <prism:doi>10.1177/00472816221088349</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221088349?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221084270?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Tactical Technical Communication and Player-Created (DIY) Patch Notes: A Case Study</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221084270?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Relying on rhetorical analysis, this article explores the rhetoric and ethics of a particular type of designer- and player-created technical communication genre, video patch notes, to further explore how various technical communication genres structure the experience of play. By providing a case study of official video patch notes for the game Overwatch in combination with Youtube user dinoflask's satirical fan made videos, the article examines both developers’ communication practices and the ways in which players creatively negotiate and re-purpose these practices in order to illustrate how such tactical technical communication remixes sustain a subtle dialogue between players and developers. This dialogue in particular illuminates pain points between stakeholders (in this case, discrepancies between developer intent and player experience) in ways that could potentially offer a means of persuading particularly ideologically fixed audiences, highlighting how practitioners might use tactical technical communication with activist intent.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Relying on rhetorical analysis, this article explores the rhetoric and ethics of a particular type of designer- and player-created technical communication genre, video patch notes, to further explore how various technical communication genres structure the experience of play. By providing a case study of official video patch notes for the game Overwatch in combination with Youtube user dinoflask's satirical fan made videos, the article examines both developers’ communication practices and the ways in which players creatively negotiate and re-purpose these practices in order to illustrate how such tactical technical communication remixes sustain a subtle dialogue between players and developers. This dialogue in particular illuminates pain points between stakeholders (in this case, discrepancies between developer intent and player experience) in ways that could potentially offer a means of persuading particularly ideologically fixed audiences, highlighting how practitioners might use tactical technical communication with activist intent.</description>
-      <dc:title>Tactical Technical Communication and Player-Created (DIY) Patch Notes: A Case Study</dc:title>
-      <dc:identifier>10.1177/00472816221084270</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-03-11T02:34:47Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Elizabeth Caravella</dc:creator>
-      <dc:creator>Steve Holmes</dc:creator>
-      <prism:publicationName>Tactical Technical Communication and Player-Created (DIY) Patch Notes: A Case Study</prism:publicationName>
-      <prism:doi>10.1177/00472816221084270</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221084270?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
-   </item>
-   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221074946?ai=2b4&amp;mi=ehikzz&amp;af=R">
-      <title>Slow Civic Violence and the Removal of USPS Mail Sorting Machines During the 2020 Election</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221074946?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article combines historical research with demographic analysis and neoliberal/rhetorical critique to put forth the concept of slow civic violence—indirect injuries on civic process, particularly within marginalized communities. The author ties the United States Postal Service's (USPS) rationale for removing mail sorting machines during the 2020 election year to systemic moves that damage democratic participation. The author conducts an empirical analysis of where the USPS mail sorting machines were removed to show how neoliberal arguments in favor of cost cutting make voting by mail a more precarious and uncertain act primarily for those who reside in communities of color.</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article combines historical research with demographic analysis and neoliberal/rhetorical critique to put forth the concept of slow civic violence—indirect injuries on civic process, particularly within marginalized communities. The author ties the United States Postal Service's (USPS) rationale for removing mail sorting machines during the 2020 election year to systemic moves that damage democratic participation. The author conducts an empirical analysis of where the USPS mail sorting machines were removed to show how neoliberal arguments in favor of cost cutting make voting by mail a more precarious and uncertain act primarily for those who reside in communities of color.</description>
-      <dc:title>Slow Civic Violence and the Removal of USPS Mail Sorting Machines During the 2020 Election</dc:title>
-      <dc:identifier>10.1177/00472816221074946</dc:identifier>
-      <dc:source>Journal of Technical Writing and Communication</dc:source>
-      <dc:date>2022-02-15T04:44:47Z</dc:date>
-      <dc:rights>© The Author(s) 2022</dc:rights>
-      <dc:creator>Fernando Sánchez</dc:creator>
-      <prism:publicationName>Slow Civic Violence and the Removal of USPS Mail Sorting Machines During the 2020 Election</prism:publicationName>
-      <prism:doi>10.1177/00472816221074946</prism:doi>
-      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221074946?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
-      <prism:copyright>© The Author(s) 2022</prism:copyright>
+      <dc:date>2023-08-04T06:10:46Z</dc:date>
+      <dc:rights>© The Author(s) 2023</dc:rights>
+      <dc:creator>Paul Thompson Hunter</dc:creator>
+      <prism:publicationName>Toward TPC-UX: UX Topics in TPC Journals 2013–2022</prism:publicationName>
+      <prism:volume>54</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>324</prism:startingPage>
+      <prism:endingPage>356</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/00472816231191998</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231191998?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2023</prism:copyright>
    </item>
    <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816211045162?ai=2b4&amp;mi=ehikzz&amp;af=R">
       <title>Retraction</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/00472816211045162?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
-      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
-      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <content:encoded>Journal of Technical Writing and Communication, &lt;a href="https://journals.sagepub.com/toc/jtwa/54/3"&gt;Volume 54, Issue 3&lt;/a&gt;, Page NP1-NP1, July 2024. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Volume 54, Issue 3, Page NP1-NP1, July 2024. &lt;br/&gt;</description>
       <dc:title>Retraction</dc:title>
       <dc:identifier>10.1177/00472816211045162</dc:identifier>
       <dc:source>Journal of Technical Writing and Communication</dc:source>
       <dc:date>2021-09-13T01:56:22Z</dc:date>
       <dc:rights>© The Author(s) 2021</dc:rights>
       <prism:publicationName>Retraction</prism:publicationName>
+      <prism:volume>54</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:startingPage>NP1</prism:startingPage>
+      <prism:endingPage>NP1</prism:endingPage>
+      <prism:coverDate>2024-07-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2024-07-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1177/00472816211045162</prism:doi>
       <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816211045162?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
       <prism:copyright>© The Author(s) 2021</prism:copyright>
    </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816241262231?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Improving Proposal Writing by Looking to Information Operations</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816241262231?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article examines the subject of persuasion in technical and professional communications (TPC) with a specific focus on proposals in U.S. Government contracting. It demonstrates a fundamental disconnect between the intent of proposals, which is to persuade, and the rhetorical traditions and professional boundaries of technical writers. The analysis draws on the existing rhetorical- and genre-based TPC literature and borrows from theory in other disciplines—management, organizational theory, sociology, and psychology among others. To advance the scholarship on proposals, this analysis is framed within the overall context of a structural analogy to U.S. military Information Operations (IO). Through use of analogy, it is suggested that the IO community's approach to the concepts of “influence,” “narrative,” “target audience,” and “unity of effort” may offer useful insight for State and Federal contractors to consider in their efforts to write persuasive proposals. This analysis is then used to develop a research agenda for the study of proposals. Areas for future research include the science of persuasion and the use of narrative as it relates to proposals, improved rigor in the use of target audience research, and organizational constructs to improve collaborative writing in proposals.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article examines the subject of persuasion in technical and professional communications (TPC) with a specific focus on proposals in U.S. Government contracting. It demonstrates a fundamental disconnect between the intent of proposals, which is to persuade, and the rhetorical traditions and professional boundaries of technical writers. The analysis draws on the existing rhetorical- and genre-based TPC literature and borrows from theory in other disciplines—management, organizational theory, sociology, and psychology among others. To advance the scholarship on proposals, this analysis is framed within the overall context of a structural analogy to U.S. military Information Operations (IO). Through use of analogy, it is suggested that the IO community's approach to the concepts of “influence,” “narrative,” “target audience,” and “unity of effort” may offer useful insight for State and Federal contractors to consider in their efforts to write persuasive proposals. This analysis is then used to develop a research agenda for the study of proposals. Areas for future research include the science of persuasion and the use of narrative as it relates to proposals, improved rigor in the use of target audience research, and organizational constructs to improve collaborative writing in proposals.</description>
+      <dc:title>Improving Proposal Writing by Looking to Information Operations</dc:title>
+      <dc:identifier>10.1177/00472816241262231</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-07-23T08:54:14Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Seth J. Axelrod</dc:creator>
+      <prism:publicationName>Improving Proposal Writing by Looking to Information Operations</prism:publicationName>
+      <prism:doi>10.1177/00472816241262231</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816241262231?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816241262245?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Asking is Hard: Appeals Language in Kickstarter Crowdfunding Campaigns</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816241262245?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Asking for money is one of the core communicative functions of a crowdfunding campaign. This article uses a novel corpus analysis scoring technique to investigate appeals language in a corpus of 312,529 Kickstarter campaigns. Our results show distinctive use patterns involving the verbs need, raise, please, make, and hope. Conceptual patterns, such as inviting the reader to participate in the creation of a product, underlie specific formulations of successful and unsuccessful word patterns and sentences. We conclude with theoretical and practical outcomes to aid technical communicators in more effectively writing crowdfunding campaigns on Kickstarter.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Asking for money is one of the core communicative functions of a crowdfunding campaign. This article uses a novel corpus analysis scoring technique to investigate appeals language in a corpus of 312,529 Kickstarter campaigns. Our results show distinctive use patterns involving the verbs need, raise, please, make, and hope. Conceptual patterns, such as inviting the reader to participate in the creation of a product, underlie specific formulations of successful and unsuccessful word patterns and sentences. We conclude with theoretical and practical outcomes to aid technical communicators in more effectively writing crowdfunding campaigns on Kickstarter.</description>
+      <dc:title>Asking is Hard: Appeals Language in Kickstarter Crowdfunding Campaigns</dc:title>
+      <dc:identifier>10.1177/00472816241262245</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-07-23T08:53:15Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Stephen Carradini</dc:creator>
+      <dc:creator>Eric C. Nystrom</dc:creator>
+      <prism:publicationName>Asking is Hard: Appeals Language in Kickstarter Crowdfunding Campaigns</prism:publicationName>
+      <prism:doi>10.1177/00472816241262245</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816241262245?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816241260033?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Improving ChatGPT's Competency in Generating Effective Business Communication Messages: Integrating Rhetorical Genre Analysis into Prompting Techniques</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816241260033?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This study explores how prompting techniques, especially those integrated with rhetorical analysis results, may improve the effectiveness of artificial intelligence (AI)-generated business communication messages. I conducted an experiment to assess the effectiveness of these prompting techniques in the context of crafting a negative message generated with ChatGPT 3.5 (n = 85). A multiple regression was calculated to explore prompting techniques’ impact on the negative message grades and how each technique influences the message grade. The results (F(4, 80) = 31.84, p &amp;lt; .001), with an adjusted R2 = .595, indicate a positive relationship between prompting techniques and the effectiveness of AI-generated messages. This study also identified challenges related to students’ AI literacy. I conclude the study by recommending practical measures on how to incorporate AI into business and professional writing classrooms.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This study explores how prompting techniques, especially those integrated with rhetorical analysis results, may improve the effectiveness of artificial intelligence (AI)-generated business communication messages. I conducted an experiment to assess the effectiveness of these prompting techniques in the context of crafting a negative message generated with ChatGPT 3.5 (n = 85). A multiple regression was calculated to explore prompting techniques’ impact on the negative message grades and how each technique influences the message grade. The results (F(4, 80) = 31.84, p &lt; .001), with an adjusted R2 = .595, indicate a positive relationship between prompting techniques and the effectiveness of AI-generated messages. This study also identified challenges related to students’ AI literacy. I conclude the study by recommending practical measures on how to incorporate AI into business and professional writing classrooms.</description>
+      <dc:title>Improving ChatGPT's Competency in Generating Effective Business Communication Messages: Integrating Rhetorical Genre Analysis into Prompting Techniques</dc:title>
+      <dc:identifier>10.1177/00472816241260033</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-07-23T08:52:58Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Junhua Wang</dc:creator>
+      <prism:publicationName>Improving ChatGPT's Competency in Generating Effective Business Communication Messages: Integrating Rhetorical Genre Analysis into Prompting Techniques</prism:publicationName>
+      <prism:doi>10.1177/00472816241260033</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816241260033?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816241262237?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Risk Revisited: The Role of Technical Communication in Negotiating Barriers to Effective Health Risk Messaging</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816241262237?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Social media, the pandemic, and environmental hazards have all played a role in shifting the landscape of risk communication. This paper takes a retroactive risk approach to study how COVID-19 messaging was shaped in the first 2 years of the pandemic. Using a corpus of 764 news releases from five health departments, I combine corpus analysis with coding based on government capacities to show that health departments highlighted public health data (surveillance) and risk guidance (governance), while downplaying enforcement (coercion). This process of revisiting communication from an acute risk phase can help us recalibrate how public health roles are constituted through language to prepare for future events.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Social media, the pandemic, and environmental hazards have all played a role in shifting the landscape of risk communication. This paper takes a retroactive risk approach to study how COVID-19 messaging was shaped in the first 2 years of the pandemic. Using a corpus of 764 news releases from five health departments, I combine corpus analysis with coding based on government capacities to show that health departments highlighted public health data (surveillance) and risk guidance (governance), while downplaying enforcement (coercion). This process of revisiting communication from an acute risk phase can help us recalibrate how public health roles are constituted through language to prepare for future events.</description>
+      <dc:title>Risk Revisited: The Role of Technical Communication in Negotiating Barriers to Effective Health Risk Messaging</dc:title>
+      <dc:identifier>10.1177/00472816241262237</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-06-20T01:16:41Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Kathryn Lambrecht</dc:creator>
+      <prism:publicationName>Risk Revisited: The Role of Technical Communication in Negotiating Barriers to Effective Health Risk Messaging</prism:publicationName>
+      <prism:doi>10.1177/00472816241262237</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816241262237?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816241260044?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Role Play: Conversational Roles as a Framework for Reflexive Practice in AI-Assisted Qualitative Research</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816241260044?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Previous literature has shown that generative artificial intelligence (GAI) software, including large language model (LLM) chatbots, might contribute to qualitative research studies. However, there is still a need to examine the relationships between researchers, GAI technologies, data, and findings. To address this need, our team conducted a thematic analysis of our reflexive journals from an LLM chatbot-assisted research project. We identified four roles that researchers adopted: managers closely monitored the LLM's work, teachers instructed the LLM on theories and methods, colleagues openly discussed the data with the LLM, and advocates worked with the LLM to improve user experiences. Planning for and playing with multiple roles also helped to enrich the research process. This study underscores the potential for using conversational roles as a framework to support reflexivity when working with GAI technologies on qualitative research.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Previous literature has shown that generative artificial intelligence (GAI) software, including large language model (LLM) chatbots, might contribute to qualitative research studies. However, there is still a need to examine the relationships between researchers, GAI technologies, data, and findings. To address this need, our team conducted a thematic analysis of our reflexive journals from an LLM chatbot-assisted research project. We identified four roles that researchers adopted: managers closely monitored the LLM's work, teachers instructed the LLM on theories and methods, colleagues openly discussed the data with the LLM, and advocates worked with the LLM to improve user experiences. Planning for and playing with multiple roles also helped to enrich the research process. This study underscores the potential for using conversational roles as a framework to support reflexivity when working with GAI technologies on qualitative research.</description>
+      <dc:title>Role Play: Conversational Roles as a Framework for Reflexive Practice in AI-Assisted Qualitative Research</dc:title>
+      <dc:identifier>10.1177/00472816241260044</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-06-11T07:49:58Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Luke Thominet</dc:creator>
+      <dc:creator>Jacqueline Amorim</dc:creator>
+      <dc:creator>Kristine Acosta</dc:creator>
+      <dc:creator>Vanessa K. Sohan</dc:creator>
+      <prism:publicationName>Role Play: Conversational Roles as a Framework for Reflexive Practice in AI-Assisted Qualitative Research</prism:publicationName>
+      <prism:doi>10.1177/00472816241260044</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816241260044?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816241260043?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Generative AI in  Technical Communication: A Review of Research  from 2023 to 2024</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816241260043?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Since its release in late 2022, ChatGPT and subsequent generative artificial intelligence (GAI) tools have raised a wide variety of questions and concerns for the field of technical communication: How will these tools be incorporated into professional settings? How might we appropriately integrate these tools into our research and teaching? In this review, we examine research published in 2023–2024 addressing these questions (N = 28). Overall, we find preliminary evidence that GAI tools can positively impact student writing and assessment; they also have the potential to assist with some aspects of academic and medical research and writing. However, there are concerns about their reliability and the ethical conundrums raised when they are used inappropriately or when their outputs cannot be distinguished from humans. More research is needed for evidence-based teaching and research strategies as well as policies guiding ethical use. We offer suggestions for new research avenues and methods.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Since its release in late 2022, ChatGPT and subsequent generative artificial intelligence (GAI) tools have raised a wide variety of questions and concerns for the field of technical communication: How will these tools be incorporated into professional settings? How might we appropriately integrate these tools into our research and teaching? In this review, we examine research published in 2023–2024 addressing these questions (N = 28). Overall, we find preliminary evidence that GAI tools can positively impact student writing and assessment; they also have the potential to assist with some aspects of academic and medical research and writing. However, there are concerns about their reliability and the ethical conundrums raised when they are used inappropriately or when their outputs cannot be distinguished from humans. More research is needed for evidence-based teaching and research strategies as well as policies guiding ethical use. We offer suggestions for new research avenues and methods.</description>
+      <dc:title>Generative AI in  Technical Communication: A Review of Research  from 2023 to 2024</dc:title>
+      <dc:identifier>10.1177/00472816241260043</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-06-11T07:49:38Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Carol Reeves</dc:creator>
+      <dc:creator>J.J. Sylvia</dc:creator>
+      <prism:publicationName>Generative AI in  Technical Communication: A Review of Research  from 2023 to 2024</prism:publicationName>
+      <prism:doi>10.1177/00472816241260043</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816241260043?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816241260035?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Beyond the Robot Tropes: Embracing Nuance and Context in the Adoption of Generative AI</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816241260035?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This introductory article examines the evolving landscape of generative artificial intelligence (GAI) tools, contextualizing their impact through historical tropes of automation as both helper and threat. The authors argue that GAI tools are neither sentient helpers nor existential threats but complex systems that require careful integration into educational and research settings. The article underscores the importance of nuanced, evidence-based approaches, advocating for a balanced understanding of GAI's potential and limitations. It emphasizes ethical considerations and promotes reflective adoption over reactionary measures.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This introductory article examines the evolving landscape of generative artificial intelligence (GAI) tools, contextualizing their impact through historical tropes of automation as both helper and threat. The authors argue that GAI tools are neither sentient helpers nor existential threats but complex systems that require careful integration into educational and research settings. The article underscores the importance of nuanced, evidence-based approaches, advocating for a balanced understanding of GAI's potential and limitations. It emphasizes ethical considerations and promotes reflective adoption over reactionary measures.</description>
+      <dc:title>Beyond the Robot Tropes: Embracing Nuance and Context in the Adoption of Generative AI</dc:title>
+      <dc:identifier>10.1177/00472816241260035</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-06-10T08:15:13Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>J. J. Sylvia</dc:creator>
+      <dc:creator>Carol Reeves</dc:creator>
+      <prism:publicationName>Beyond the Robot Tropes: Embracing Nuance and Context in the Adoption of Generative AI</prism:publicationName>
+      <prism:doi>10.1177/00472816241260035</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816241260035?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816241260028?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Surveillance Work  in (and) Teaching  Technical Writing with AI</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816241260028?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;The use of generative artificial intelligence (GAI) large language models has increased in both professional and classroom technical writing settings. One common response to student use of GAI is to increase surveillance, incorporating plagiarism detection services or banning certain composing activities from the classroom. This paper argues such measures are harmful and instead proposes a “CARE” framework: critical, authorial, rhetorical, and educational—a nuanced approach emphasizing ethical and contextual AI use in technical writing classrooms. This framework aligns with plagiarism best practices, initially devised from when rhetoric and composition scholars considered the pedagogical implications of the Internet.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;The use of generative artificial intelligence (GAI) large language models has increased in both professional and classroom technical writing settings. One common response to student use of GAI is to increase surveillance, incorporating plagiarism detection services or banning certain composing activities from the classroom. This paper argues such measures are harmful and instead proposes a “CARE” framework: critical, authorial, rhetorical, and educational—a nuanced approach emphasizing ethical and contextual AI use in technical writing classrooms. This framework aligns with plagiarism best practices, initially devised from when rhetoric and composition scholars considered the pedagogical implications of the Internet.</description>
+      <dc:title>Surveillance Work  in (and) Teaching  Technical Writing with AI</dc:title>
+      <dc:identifier>10.1177/00472816241260028</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-06-10T05:14:12Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Ehren Helmut Pflugfelder</dc:creator>
+      <dc:creator>Joshua Reeves</dc:creator>
+      <prism:publicationName>Surveillance Work  in (and) Teaching  Technical Writing with AI</prism:publicationName>
+      <prism:doi>10.1177/00472816241260028</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816241260028?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816241232747?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>WITHDRAWAL – Administrative Duplicate Publication: Introduction to the Special Issue on Visual Communication and Visual Literacy (Part One)</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816241232747?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>WITHDRAWAL – Administrative Duplicate Publication: Introduction to the Special Issue on Visual Communication and Visual Literacy (Part One)</dc:title>
+      <dc:identifier>10.1177/00472816241232747</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-03-01T08:35:34Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <prism:publicationName>WITHDRAWAL – Administrative Duplicate Publication: Introduction to the Special Issue on Visual Communication and Visual Literacy (Part One)</prism:publicationName>
+      <prism:doi>10.1177/00472816241232747</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816241232747?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816241230069?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Perspectives on UX Practices for American Entrepreneurs: A Survey of User Engagement Approaches to Innovation</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816241230069?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article explores how entrepreneurs engage users in innovation in order to identify collaboration opportunities between entrepreneurship and technical and professional communication (TPC) scholars interested in user experience (UX). This article surveyed American entrepreneurs (N = 100) asking when and how they involve users in product development. The results suggest that most entrepreneurs do engage users to drive innovation and understand their markets, but do so largely through informal means. Our research suggests that UX can serve as a connection point for TPC scholars and entrepreneurs, especially if TPC emphasizes the role of UX in innovation and offers entrepreneurs efficient yet reliable user-research methodologies.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article explores how entrepreneurs engage users in innovation in order to identify collaboration opportunities between entrepreneurship and technical and professional communication (TPC) scholars interested in user experience (UX). This article surveyed American entrepreneurs (N = 100) asking when and how they involve users in product development. The results suggest that most entrepreneurs do engage users to drive innovation and understand their markets, but do so largely through informal means. Our research suggests that UX can serve as a connection point for TPC scholars and entrepreneurs, especially if TPC emphasizes the role of UX in innovation and offers entrepreneurs efficient yet reliable user-research methodologies.</description>
+      <dc:title>Perspectives on UX Practices for American Entrepreneurs: A Survey of User Engagement Approaches to Innovation</dc:title>
+      <dc:identifier>10.1177/00472816241230069</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-02-22T06:08:34Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Ryan Weber</dc:creator>
+      <dc:creator>John Spartz</dc:creator>
+      <prism:publicationName>Perspectives on UX Practices for American Entrepreneurs: A Survey of User Engagement Approaches to Innovation</prism:publicationName>
+      <prism:doi>10.1177/00472816241230069</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816241230069?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231226249?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Synthetic Genres: Expert Genres, Non-Specialist Audiences, and Misinformation in the Artificial Intelligence Age</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231226249?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Drawing on rhetorical genre studies, we explore research article abstracts created by generative artificial intelligence (AI). These synthetic genres—genre-ing activities shaped by the recursive nature of language learning models in AI-driven text generation—are of interest as they could influence informational quality, leading to various forms of disordered information such as misinformation. We conduct a two-part study generating abstracts about (a) genre scholarship and (b) polarized topics subject to misinformation. We conclude with considerations about this speculative domain of AI text generation and dis/misinformation spread and how genre approaches may be instructive in its identification.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Drawing on rhetorical genre studies, we explore research article abstracts created by generative artificial intelligence (AI). These synthetic genres—genre-ing activities shaped by the recursive nature of language learning models in AI-driven text generation—are of interest as they could influence informational quality, leading to various forms of disordered information such as misinformation. We conduct a two-part study generating abstracts about (a) genre scholarship and (b) polarized topics subject to misinformation. We conclude with considerations about this speculative domain of AI text generation and dis/misinformation spread and how genre approaches may be instructive in its identification.</description>
+      <dc:title>Synthetic Genres: Expert Genres, Non-Specialist Audiences, and Misinformation in the Artificial Intelligence Age</dc:title>
+      <dc:identifier>10.1177/00472816231226249</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-02-01T07:30:04Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Brad Mehlenbacher</dc:creator>
+      <dc:creator>
+Ana Patricia Balbon</dc:creator>
+      <dc:creator>Ashley Rose Mehlenbacher</dc:creator>
+      <prism:publicationName>Synthetic Genres: Expert Genres, Non-Specialist Audiences, and Misinformation in the Artificial Intelligence Age</prism:publicationName>
+      <prism:doi>10.1177/00472816231226249</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231226249?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231225932?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>A Comparative Rhetorical Analysis of Trump and Biden's Climate Change Speeches: Framing Strategies in Politics</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231225932?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article analyzes the speeches of two U.S. politicians—President Donald Trump and President Joe Biden—to present how they make their arguments about climate change using various frames. While frames are rhetorical acts, they are also a form of persuasion. In particular, the author demonstrates how Trump foregrounded negative frames with fear-inducing elements. He presented job losses and economic harm as consequences of joining the Paris Climate Accord, putting him on the defensive. In contrast, Biden utilized positive frames to strengthen his arguments and aligned more closely with the environmental justice framework. Inspired by the rhetoric of the framing strategies employed by these two speakers, the study suggests that technical communicators should focus on using language that constructs new frames to enhance the success of their argumentations.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This article analyzes the speeches of two U.S. politicians—President Donald Trump and President Joe Biden—to present how they make their arguments about climate change using various frames. While frames are rhetorical acts, they are also a form of persuasion. In particular, the author demonstrates how Trump foregrounded negative frames with fear-inducing elements. He presented job losses and economic harm as consequences of joining the Paris Climate Accord, putting him on the defensive. In contrast, Biden utilized positive frames to strengthen his arguments and aligned more closely with the environmental justice framework. Inspired by the rhetoric of the framing strategies employed by these two speakers, the study suggests that technical communicators should focus on using language that constructs new frames to enhance the success of their argumentations.</description>
+      <dc:title>A Comparative Rhetorical Analysis of Trump and Biden's Climate Change Speeches: Framing Strategies in Politics</dc:title>
+      <dc:identifier>10.1177/00472816231225932</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-01-18T06:45:01Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Shyam Pandey</dc:creator>
+      <prism:publicationName>A Comparative Rhetorical Analysis of Trump and Biden's Climate Change Speeches: Framing Strategies in Politics</prism:publicationName>
+      <prism:doi>10.1177/00472816231225932</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231225932?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231225666?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Responding to Negative Online Reviews on Chinese E-Commerce Platforms: Culture's Impact and A Comparison of Rhetorical Moves</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231225666?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;To examine the impact of cultural factors on business responses to negative online reviews, we first examined rhetorical moves in business responses to negative online reviews on Chinese B2C e-commerce platforms. Then, we conducted a comparative analysis of the rhetorical moves in this research and those identified in Wang’s research on rhetorical moves identified in business responses to negative online reviews on Amazon.com. Following the framework of social-cognitive system theory, we explained how cultural factors may shape businesses’ responses to negative online reviews and concluded the research by discussing the implications of the research in the context of cross-border e-commerce.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;To examine the impact of cultural factors on business responses to negative online reviews, we first examined rhetorical moves in business responses to negative online reviews on Chinese B2C e-commerce platforms. Then, we conducted a comparative analysis of the rhetorical moves in this research and those identified in Wang’s research on rhetorical moves identified in business responses to negative online reviews on Amazon.com. Following the framework of social-cognitive system theory, we explained how cultural factors may shape businesses’ responses to negative online reviews and concluded the research by discussing the implications of the research in the context of cross-border e-commerce.</description>
+      <dc:title>Responding to Negative Online Reviews on Chinese E-Commerce Platforms: Culture's Impact and A Comparison of Rhetorical Moves</dc:title>
+      <dc:identifier>10.1177/00472816231225666</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2024-01-18T03:54:10Z</dc:date>
+      <dc:rights>© The Author(s) 2024</dc:rights>
+      <dc:creator>Junhua Wang</dc:creator>
+      <dc:creator>Hua Wang</dc:creator>
+      <prism:publicationName>Responding to Negative Online Reviews on Chinese E-Commerce Platforms: Culture's Impact and A Comparison of Rhetorical Moves</prism:publicationName>
+      <prism:doi>10.1177/00472816231225666</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231225666?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2024</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231216913?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Birthing Genre: Conventions of Rhetorical Situation and Accessibility of Information in Midwifery Manuals</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231216913?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;We ask, “What genre conventions are shared in 18th- and 21st-century midwifery manuals?” The article responds to this question by situating manuals as cultural arbiters and defining genre in a cultural context. The article identifies parallels between 18th-century and 21st-century midwifery manuals that focus on the rhetorical situation (via front matter, including title pages and prefaces) and accessibility of information (via design, definitions, and step-by-step procedures). Midwifery practices have changed drastically in the modern era, but the underlying goals—safety and health for the birthing person and child—remain constant. Increased publication of manuals dedicated to midwifery in the 18th century suggests a heightened focus on practices leading to successful outcomes in childbirth that highlight the value of examining manuals as a genre reflecting humanistic elements in technical documents. We argue that midwifery manuals emphasize underlying ideologies in the production and reproduction of socio-cultural consciousness still present today.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;We ask, “What genre conventions are shared in 18th- and 21st-century midwifery manuals?” The article responds to this question by situating manuals as cultural arbiters and defining genre in a cultural context. The article identifies parallels between 18th-century and 21st-century midwifery manuals that focus on the rhetorical situation (via front matter, including title pages and prefaces) and accessibility of information (via design, definitions, and step-by-step procedures). Midwifery practices have changed drastically in the modern era, but the underlying goals—safety and health for the birthing person and child—remain constant. Increased publication of manuals dedicated to midwifery in the 18th century suggests a heightened focus on practices leading to successful outcomes in childbirth that highlight the value of examining manuals as a genre reflecting humanistic elements in technical documents. We argue that midwifery manuals emphasize underlying ideologies in the production and reproduction of socio-cultural consciousness still present today.</description>
+      <dc:title>Birthing Genre: Conventions of Rhetorical Situation and Accessibility of Information in Midwifery Manuals</dc:title>
+      <dc:identifier>10.1177/00472816231216913</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2023-12-22T01:11:11Z</dc:date>
+      <dc:rights>© The Author(s) 2023</dc:rights>
+      <dc:creator>Rebecca E. Burnett</dc:creator>
+      <dc:creator>Courtney A. Hoffman</dc:creator>
+      <prism:publicationName>Birthing Genre: Conventions of Rhetorical Situation and Accessibility of Information in Midwifery Manuals</prism:publicationName>
+      <prism:doi>10.1177/00472816231216913</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231216913?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2023</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231216911?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Expanding Communication Expectations: Examining Audience Understanding of Scripts Through Fold and Swap Strategies</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231216911?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This entry presents cognitive-based strategies, called folds and swaps, communication professionals can use to introduce new concepts to different groups. A novel extension of prototype theory and script theory from cognitive psychology and linguistics, these strategies can help create messages that add, or fold, new ideas, activities, or items into existing processes. Communication professionals can also use these strategies to develop messaging that shifts, or swaps, the location individuals associate with performing different activities. Through an application of folds and swap strategies, communication professionals can help audiences contextualize new approaches to everyday activities.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;This entry presents cognitive-based strategies, called folds and swaps, communication professionals can use to introduce new concepts to different groups. A novel extension of prototype theory and script theory from cognitive psychology and linguistics, these strategies can help create messages that add, or fold, new ideas, activities, or items into existing processes. Communication professionals can also use these strategies to develop messaging that shifts, or swaps, the location individuals associate with performing different activities. Through an application of folds and swap strategies, communication professionals can help audiences contextualize new approaches to everyday activities.</description>
+      <dc:title>Expanding Communication Expectations: Examining Audience Understanding of Scripts Through Fold and Swap Strategies</dc:title>
+      <dc:identifier>10.1177/00472816231216911</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2023-11-28T08:21:54Z</dc:date>
+      <dc:rights>© The Author(s) 2023</dc:rights>
+      <dc:creator>Kirk St.Amant</dc:creator>
+      <dc:creator>Walter Giordano</dc:creator>
+      <prism:publicationName>Expanding Communication Expectations: Examining Audience Understanding of Scripts Through Fold and Swap Strategies</prism:publicationName>
+      <prism:doi>10.1177/00472816231216911</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231216911?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2023</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231210234?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Trust the Process: A Scalable Model for UX Pedagogy</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231210234?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;While user experience (UX) and technical and professional communication (TPC) are intertwined, how UX is taught in TPC is highly variable. In this article, we report data from a study with TPC instructors who teach UX to identify patterns in approaches to teaching UX. We provide background on UX pedagogy, share methods including collecting data from a questionnaire and interviews and conducting qualitative analysis. The findings map teaching activities onto the design process and show patterns and commonalities. We conclude by proposing a process-based approach for teaching UX in TPC classes and programs to provide scaffolding and connections for students.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;While user experience (UX) and technical and professional communication (TPC) are intertwined, how UX is taught in TPC is highly variable. In this article, we report data from a study with TPC instructors who teach UX to identify patterns in approaches to teaching UX. We provide background on UX pedagogy, share methods including collecting data from a questionnaire and interviews and conducting qualitative analysis. The findings map teaching activities onto the design process and show patterns and commonalities. We conclude by proposing a process-based approach for teaching UX in TPC classes and programs to provide scaffolding and connections for students.</description>
+      <dc:title>Trust the Process: A Scalable Model for UX Pedagogy</dc:title>
+      <dc:identifier>10.1177/00472816231210234</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2023-11-07T07:49:23Z</dc:date>
+      <dc:rights>© The Author(s) 2023</dc:rights>
+      <dc:creator>Emma J. Rose</dc:creator>
+      <dc:creator>Heather N. Turner</dc:creator>
+      <prism:publicationName>Trust the Process: A Scalable Model for UX Pedagogy</prism:publicationName>
+      <prism:doi>10.1177/00472816231210234</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231210234?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2023</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816231210224?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Lessons from a “Scholar on Fire” for a World on Fire: A Framework to Position Technical and Professional Communication Scholars for Policy Impact</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816231210224?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Technical and Professional Communication (TPC) scholars and practitioners (TPCers) see a need to intervene in a range of complex problems. Yet scholars such as Leah Ceccarelli and Lauren Cagle have noted a gap between scholarly research findings and policy changes. To address this gap, I theorize a strategic grounding framework, consisting of multiple, linked tactics that over time enable TPCers to make a case to gain a seat at the table to shape policy. I theorize this framework through a case study of Stephen J. Pyne, founder of the subfield of Fire History, who influenced national and global fire management policy. I examine Pyne's professional papers, housed in the Stephen J. Pyne Papers Collection at the Arizona State University Archives. The framework offers TPCers a series of tactics that position TPCers as change makers as they place their expertise to shape policy that addresses complex problems.</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;Technical and Professional Communication (TPC) scholars and practitioners (TPCers) see a need to intervene in a range of complex problems. Yet scholars such as Leah Ceccarelli and Lauren Cagle have noted a gap between scholarly research findings and policy changes. To address this gap, I theorize a strategic grounding framework, consisting of multiple, linked tactics that over time enable TPCers to make a case to gain a seat at the table to shape policy. I theorize this framework through a case study of Stephen J. Pyne, founder of the subfield of Fire History, who influenced national and global fire management policy. I examine Pyne's professional papers, housed in the Stephen J. Pyne Papers Collection at the Arizona State University Archives. The framework offers TPCers a series of tactics that position TPCers as change makers as they place their expertise to shape policy that addresses complex problems.</description>
+      <dc:title>Lessons from a “Scholar on Fire” for a World on Fire: A Framework to Position Technical and Professional Communication Scholars for Policy Impact</dc:title>
+      <dc:identifier>10.1177/00472816231210224</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2023-10-31T07:12:58Z</dc:date>
+      <dc:rights>© The Author(s) 2023</dc:rights>
+      <dc:creator>Heidi Willers</dc:creator>
+      <prism:publicationName>Lessons from a “Scholar on Fire” for a World on Fire: A Framework to Position Technical and Professional Communication Scholars for Policy Impact</prism:publicationName>
+      <prism:doi>10.1177/00472816231210224</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816231210224?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2023</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/00472816221125192?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Introduction to the  Special Issue on Visual Communication and Visual Literacy (Part One)</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/00472816221125192?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Technical Writing and Communication, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Introduction to the  Special Issue on Visual Communication and Visual Literacy (Part One)</dc:title>
+      <dc:identifier>10.1177/00472816221125192</dc:identifier>
+      <dc:source>Journal of Technical Writing and Communication</dc:source>
+      <dc:date>2022-10-05T03:16:00Z</dc:date>
+      <dc:rights>© The Author(s) 2022</dc:rights>
+      <dc:creator>Lisa DeTora</dc:creator>
+      <dc:creator>Katrina Hinson</dc:creator>
+      <prism:publicationName>Introduction to the  Special Issue on Visual Communication and Visual Literacy (Part One)</prism:publicationName>
+      <prism:doi>10.1177/00472816221125192</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/00472816221125192?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2022</prism:copyright>
+   </item>
 </rdf:RDF>
-<!-- cached:  1660936167-->
+<!-- cached:  1721920394-->
